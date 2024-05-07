@@ -1,0 +1,35 @@
+services:
+    # database postgres warehouse
+    db_sales:
+        hostname: db_sales
+        container_name: db_sales_container
+        image: 'postgres:latest'
+        restart: on-failure
+        environment:
+            - POSTGRES_DB=db_sales
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=mypassword
+        ports:
+            - 5434:5432
+        networks:
+            - my_network
+
+    # visualization tools
+    metabase:
+        hostname: metabase
+        container_name: metabase_container
+        image: 'metabase/metabase:latest'
+        restart: on-failure
+        ports:
+            - 3000:3000
+        healthcheck:
+            test: curl --fail -I http://localhost:3000/api/health || exit 1
+            interval: "15s"
+            timeout: "5s"
+            retries: 5
+        networks:
+            - my_network
+
+networks:
+  my_network:
+    driver: bridge
