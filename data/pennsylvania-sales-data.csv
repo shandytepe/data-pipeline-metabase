@@ -1,0 +1,964 @@
+year,make,model,trim,transmission,state,odometer,color,interior,seller,selling_price
+2012,Lexus,ES 350,Base,UNKNOWN,Pennsylvania,26483.0,black,brown,meridian remarketing,23300.0
+2012,Honda,Civic,EX,automatic,Pennsylvania,29050.0,burgundy,tan,ahfc/honda lease trust/hvt  inc. eot,12700.0
+2013,Dodge,Dart,Limited,manual,Pennsylvania,10535.0,red,black,austintown chrysler dodge jeep inc,13900.0
+2013,Hyundai,Sonata,Limited,UNKNOWN,Pennsylvania,32960.0,silver,gray,hyundai motor finance,14500.0
+2013,Audi,S5,Prestige quattro,manual,Pennsylvania,39275.0,black,black,daniel thomas sales,39200.0
+2013,Lexus,RX 350,Base,UNKNOWN,Pennsylvania,43662.0,beige,beige,r hollenshead auto sales inc,32000.0
+2012,Honda,Accord,EX-L,automatic,Pennsylvania,40278.0,gray,gray,ahfc/honda lease trust/hvt  inc. eot,13000.0
+2007,Ford,Edge,SEL Plus,UNKNOWN,Pennsylvania,78896.0,silver,black,hillside honda,11400.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,34341.0,gray,gray,nissan-infiniti lt,15300.0
+2012,Volkswagen,Golf,2.5L PZEV,UNKNOWN,Pennsylvania,54623.0,gray,black,the hertz corporation,9300.0
+2012,Chevrolet,Avalanche,LT,UNKNOWN,Pennsylvania,33694.0,blue,black,tdaf remarketing,28800.0
+1999,Mercury,Cougar,V6,automatic,Pennsylvania,142028.0,red,gray,hertz remarketing,600.0
+2005,Lincoln,Town Car,Signature,automatic,Pennsylvania,67439.0,beige,tan,crossroad motors llc,8100.0
+2010,Hyundai,Santa Fe,GLS,UNKNOWN,Pennsylvania,86208.0,white,gray,alans autos,10000.0
+2012,Honda,Odyssey,EX-L,automatic,Pennsylvania,26338.0,silver,green,ahfc/honda lease trust/hvt  inc. eot,23400.0
+2014,Jeep,Grand Cherokee,Limited,UNKNOWN,Pennsylvania,28588.0,silver,black,enterprise veh exchange/rental,32000.0
+2008,Cadillac,DTS,Base,automatic,Pennsylvania,80918.0,black,beige,adcock brothers inc,9800.0
+2012,Land Rover,Range Rover Evoque,Pure Plus,automatic,Pennsylvania,14632.0,red,black,r hollenshead auto sales inc,38000.0
+2011,Hyundai,Tucson,GLS,UNKNOWN,Pennsylvania,30384.0,white,gray,charles & son auto sls inc,13600.0
+2014,Ford,F-150,XLT,automatic,Pennsylvania,9749.0,white,gray,usautoland inc,27750.0
+2012,Chrysler,Town and Country,Touring,automatic,Pennsylvania,36768.0,black,black,hann financial services,14600.0
+2005,Ford,F-350 Super Duty,Lariat,automatic,Pennsylvania,47744.0,gray,gray,bridgewater vehicle sls inc,24250.0
+2007,Pontiac,Grand Prix,GT,automatic,Pennsylvania,95607.0,black,black,joshua motor car co inc,5900.0
+2013,Ford,Edge,Limited,UNKNOWN,Pennsylvania,36287.0,white,black,ford motor credit company llc,20000.0
+2009,Infiniti,G37,x,UNKNOWN,Pennsylvania,46865.0,—,beige,r hollenshead auto sales inc,17000.0
+2014,Ford,Fusion,Titanium,automatic,Pennsylvania,17319.0,white,gray,ars/enterprise,20300.0
+2009,Chevrolet,Corvette,Base,manual,Pennsylvania,4863.0,red,black,kerbeck cadillac pontiac inc,36250.0
+2006,Mercedes-Benz,E-Class,E350 4MATIC,UNKNOWN,Pennsylvania,80609.0,red,beige,r hollenshead auto sales inc,9500.0
+2012,Ford,F-150,XLT,UNKNOWN,Pennsylvania,32396.0,black,gray,ford motor credit company llc,26600.0
+2014,Ford,Fusion,SE,UNKNOWN,Pennsylvania,33161.0,red,beige,avis budget group,13400.0
+2009,Honda,Accord,EX-L V-6,automatic,Pennsylvania,57594.0,gray,gray,congers auto sales inc,11900.0
+2012,Hyundai,Veracruz,Limited,UNKNOWN,Pennsylvania,55454.0,black,brown,hyundai motor finance,18800.0
+2013,Chevrolet,Silverado 1500,LT,automatic,Pennsylvania,26358.0,brown,black,gary miller chrysler jeep inc,30200.0
+2007,Mercedes-Benz,R-Class,R350,UNKNOWN,Pennsylvania,111997.0,silver,black,adcock brothers inc,9400.0
+2012,Jeep,Grand Cherokee,Laredo,UNKNOWN,Pennsylvania,45675.0,black,black,fiserv/usb dealer services northstar exchange,20800.0
+2003,Ford,Taurus,SEL Premium,automatic,Pennsylvania,88801.0,gray,beige,manheim philadelphia,1550.0
+2013,Ford,Fiesta,SE,automatic,Pennsylvania,22954.0,blue,black,fiserv/crescent ida,7200.0
+2013,Chevrolet,Equinox,LT,UNKNOWN,Pennsylvania,32518.0,gray,black,shores auto sales inc,18000.0
+2012,Honda,Accord,SE,automatic,Pennsylvania,16296.0,silver,black,ahfc/honda lease trust/hvt  inc. eot,14000.0
+2006,Dodge,Dakota,SLT,automatic,Pennsylvania,97345.0,yellow,gray,brookside motors inc,9700.0
+2001,Mercedes-Benz,M-Class,ML430,UNKNOWN,Pennsylvania,189820.0,black,black,criswell honda,1900.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,28517.0,—,black,nissan-infiniti lt,12600.0
+2012,Honda,Accord,EX,automatic,Pennsylvania,32194.0,black,tan,ahfc/honda lease trust/hvt  inc. eot,13600.0
+2007,Jeep,Wrangler,Unlimited Rubicon,automatic,Pennsylvania,93962.0,white,black,r hollenshead auto sales inc,19900.0
+2012,Volkswagen,Jetta,SE PZEV,UNKNOWN,Pennsylvania,39567.0,white,black,luxury fleet serv inc,11800.0
+2012,Acura,TSX,Base,UNKNOWN,Pennsylvania,16378.0,gray,black,ahfc/honda lease/trust/hvt  inc. eot acuras,17300.0
+2009,BMW,3 Series,335i,UNKNOWN,Pennsylvania,58609.0,blue,tan,alans autos,19000.0
+2012,Nissan,Rogue,S,UNKNOWN,Pennsylvania,32320.0,white,gray,nissan-infiniti lt,17200.0
+2012,Honda,Pilot,EX-L,automatic,Pennsylvania,29977.0,gray,gray,ahfc/honda lease trust/hvt  inc. eot,24200.0
+2014,Jeep,Patriot,Sport,UNKNOWN,Pennsylvania,39919.0,white,black,avis corporation,14000.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,19974.0,black,black,nissan-infiniti lt,11400.0
+2012,Kia,Optima,EX,UNKNOWN,Pennsylvania,33828.0,silver,gray,kia motors finance,15300.0
+2003,Ford,Taurus,SES,automatic,Pennsylvania,166941.0,gray,beige,credit acceptance corp/vrs/southfield,300.0
+2011,Ford,Taurus,SEL,automatic,Pennsylvania,82953.0,burgundy,beige,leasing associates inc,10900.0
+2012,Honda,Pilot,LX,automatic,Pennsylvania,40631.0,black,gray,best auto wholesale,19800.0
+2012,Jeep,Liberty,Sport,automatic,Pennsylvania,27552.0,gray,black,hann financial services,19500.0
+2011,Nissan,Rogue,S,UNKNOWN,Pennsylvania,36339.0,gray,blue,nissan-infiniti lt,13500.0
+2014,Chevrolet,Equinox,LT,automatic,Pennsylvania,68835.0,gray,black,ari,16800.0
+2013,Lexus,LX 570,Base,UNKNOWN,Pennsylvania,19916.0,white,beige,manheim imports,66000.0
+2012,Hyundai,Sonata,Limited PZEV,automatic,Pennsylvania,45018.0,blue,gray,allstate remarketing service inc,14400.0
+2014,Dodge,Grand Caravan,SXT,automatic,Pennsylvania,32686.0,gray,black,avis corporation,16800.0
+2011,Ford,Ranger,SPORT,UNKNOWN,Pennsylvania,14150.0,gray,black,tdaf remarketing,13800.0
+2012,Hyundai,Sonata,GLS,automatic,Pennsylvania,37096.0,black,gray,hyundai motor finance,11300.0
+2002,Saturn,S-Series,SC2,automatic,Pennsylvania,114863.0,silver,black,1 cochran of monroeville,1500.0
+2012,Jeep,Grand Cherokee,Overland,UNKNOWN,Pennsylvania,10086.0,gray,brown,safeway motor corp,28800.0
+2014,Dodge,Grand Caravan,SXT,automatic,Pennsylvania,16991.0,beige,black,enterprise holdings/gdp,16400.0
+2012,Cadillac,CTS Coupe,Base,UNKNOWN,Pennsylvania,36718.0,blue,black,gm financial leasing,21800.0
+2013,Ford,E-Series Van,E-250,automatic,Pennsylvania,16471.0,white,gray,u-haul,20900.0
+2011,Ford,F-150,STX,UNKNOWN,Pennsylvania,60762.0,red,gray,paul motor company,18500.0
+2014,Dodge,Durango,Limited,automatic,Pennsylvania,28322.0,gray,black,pv holding inc/gdp,31200.0
+2006,BMW,5 Series,530xi,UNKNOWN,Pennsylvania,108357.0,silver,black,low low miles llc,6400.0
+2012,Toyota,Highlander,Limited,UNKNOWN,Pennsylvania,23945.0,burgundy,gray,congers auto sales inc,28800.0
+2014,Chevrolet,Sonic,LT,manual,Pennsylvania,14671.0,red,black,gm financial,10400.0
+2012,Chevrolet,Malibu,LS,UNKNOWN,Pennsylvania,23567.0,black,gray,gm financial leasing,10600.0
+2000,Saturn,L-Series,LS1,automatic,Pennsylvania,181961.0,burgundy,beige,purple heart,400.0
+2005,Chevrolet,Malibu,LS,automatic,Pennsylvania,136782.0,black,tan,nick mayer lincoln mercury inc,1500.0
+2003,Dodge,Neon,SXT,automatic,Pennsylvania,140986.0,red,black,purple heart,300.0
+2009,Ford,Edge,SEL,UNKNOWN,Pennsylvania,65004.0,white,black,adcock brothers inc,14200.0
+2003,Jaguar,XJ-Series,XJ8,automatic,Pennsylvania,68240.0,blue,beige,purple heart,2700.0
+2007,Pontiac,Torrent,Base,automatic,Pennsylvania,195070.0,burgundy,black,wayne auto sales inc,2900.0
+2010,Ford,F-150,XLT,automatic,Pennsylvania,59994.0,red,beige,nil les auto sales inc,21200.0
+2013,Hyundai,Sonata,GLS,UNKNOWN,Pennsylvania,40149.0,white,beige,hyundai motor finance,11700.0
+2006,Kia,Sedona,EX,UNKNOWN,Pennsylvania,88145.0,beige,tan,mitchell associates,5000.0
+2008,BMW,X3,3.0si,UNKNOWN,Pennsylvania,54383.0,white,black,hillside honda,14700.0
+2013,GMC,Terrain,SLE-1,UNKNOWN,Pennsylvania,12339.0,silver,black,us bank,18800.0
+2012,Volkswagen,Tiguan,SEL 4Motion,UNKNOWN,Pennsylvania,56362.0,white,beige,vw credit,14900.0
+2014,Jeep,Wrangler,Unlimited Sport,UNKNOWN,Pennsylvania,12843.0,blue,black,enterprise veh exchange/rental,28200.0
+2013,Chrysler,200,Touring,automatic,Pennsylvania,11592.0,white,beige,chrysler group llc,11600.0
+2012,Honda,CR-V,LX,UNKNOWN,Pennsylvania,37170.0,gray,black,ahfc/honda lease trust/hvt  inc. eot,16400.0
+2013,Infiniti,G Sedan,G37x,UNKNOWN,Pennsylvania,20319.0,black,black,carplex holdings llc,22700.0
+2012,Jeep,Wrangler,Unlimited Sport,UNKNOWN,Pennsylvania,46717.0,—,black,r hollenshead auto sales inc,27250.0
+2005,Toyota,Camry,XLE,UNKNOWN,Pennsylvania,127758.0,red,beige,695 auto sales & service,5900.0
+2014,Cadillac,XTS,Luxury,automatic,Pennsylvania,27515.0,black,black,gm remarketing,31250.0
+2007,Cadillac,Escalade,Base,UNKNOWN,Pennsylvania,74935.0,white,black,bard whls,19800.0
+2011,Ford,Expedition,XLT,automatic,Pennsylvania,34184.0,burgundy,beige,ford-lincoln dealer program,27000.0
+2012,Honda,Civic,LX,automatic,Pennsylvania,17802.0,silver,gray,ahfc/honda lease trust/hvt  inc.,11200.0
+2011,Toyota,Prius,Three,automatic,Pennsylvania,56219.0,white,gray,i g burton & co inc,14100.0
+2003,Buick,LeSabre,Custom,automatic,Pennsylvania,107043.0,beige,tan,faulkner mazda,2400.0
+2014,Hyundai,Sonata,SE,UNKNOWN,Pennsylvania,1893.0,blue,gray,hyundai motor finance,16800.0
+2013,Mitsubishi,Lancer,SE,automatic,Pennsylvania,11917.0,white,black,mmca  inc,12200.0
+2012,Nissan,Sentra,2.0 SR,UNKNOWN,Pennsylvania,22742.0,white,gray,nissan-infiniti lt,9400.0
+2007,Chrysler,Town and Country,Touring,automatic,Pennsylvania,115860.0,red,gray,pauls autos inc/hanchick & lerch,4050.0
+2012,Subaru,Impreza,2.0i Limited PZEV,UNKNOWN,Pennsylvania,47423.0,gray,black,r hollenshead auto sales inc,15500.0
+2014,Nissan,Versa,1.6 SV,UNKNOWN,Pennsylvania,48764.0,gray,gray,the hertz corporation,8500.0
+2010,Mercedes-Benz,GL-Class,GL450 4MATIC,UNKNOWN,Pennsylvania,77681.0,silver,black,adcock brothers inc,24500.0
+2014,Jeep,Wrangler,Unlimited Rubicon,UNKNOWN,Pennsylvania,24402.0,silver,black,bmw of sterling,33800.0
+2011,GMC,Terrain,SLE-1,automatic,Pennsylvania,87747.0,blue,black,enterprise car sales,12400.0
+2012,Lincoln,MKZ,Base,UNKNOWN,Pennsylvania,31273.0,blue,beige,charles & son auto sls inc,15800.0
+2006,Mercury,Mariner,Premier,automatic,Pennsylvania,139968.0,green,gray,bobby rahal motorcar company,3000.0
+2014,Dodge,Grand Caravan,R/T,UNKNOWN,Pennsylvania,8656.0,black,black,enterprise holdings/gdp,19200.0
+2009,Toyota,RAV4,Limited,automatic,Pennsylvania,120694.0,blue,gray,lenders assistance corporation,8800.0
+2013,Kia,Optima,LX,UNKNOWN,Pennsylvania,62763.0,red,tan,dtg operations inc,11300.0
+2015,Mazda,Mazda6,i Sport,UNKNOWN,Pennsylvania,35742.0,red,tan,avis corporation,14900.0
+2010,Honda,Civic,LX,automatic,Pennsylvania,70136.0,black,gray,r hollenshead auto sales inc,7500.0
+2013,Chevrolet,Malibu,LT,UNKNOWN,Pennsylvania,25032.0,silver,black,gm financial leasing,14600.0
+2007,Nissan,Altima,2.5,automatic,Pennsylvania,117780.0,white,beige,carl h and ruth auto sales inc,5900.0
+2012,Volkswagen,Jetta,Base,UNKNOWN,Pennsylvania,19448.0,—,gray,vw credit,9700.0
+2013,Nissan,Sentra,SV,UNKNOWN,Pennsylvania,39279.0,black,black,avis corporation,10500.0
+2012,Nissan,Altima,2.5 S,automatic,Pennsylvania,44821.0,white,tan,nissan-infiniti lt,13000.0
+2011,Ford,Fusion,SEL,automatic,Pennsylvania,32673.0,black,—,kelemen carrs,11500.0
+2007,Honda,CR-V,EX-L,automatic,Pennsylvania,50177.0,white,gray,ford-lincoln dealer program,14500.0
+2012,Nissan,Maxima,3.5 S,UNKNOWN,Pennsylvania,45976.0,brown,beige,nissan-infiniti lt,14100.0
+2011,Mazda,CX-9,Grand Touring,UNKNOWN,Pennsylvania,53933.0,gray,black,jpmorgan chase bank n.a.,15800.0
+2008,Dodge,Ram Pickup 1500,SLT,UNKNOWN,Pennsylvania,55919.0,silver,gray,tdaf remarketing,15500.0
+2010,GMC,Sierra 1500,SLE,UNKNOWN,Pennsylvania,123865.0,black,black,phillipsburg easton vehicle,12800.0
+1995,Mercedes-Benz,E-Class,E320,automatic,Pennsylvania,48597.0,white,blue,r hollenshead auto sales inc,13600.0
+2012,Hyundai,Genesis,5,automatic,Pennsylvania,19065.0,gray,black,wheels of fortune auto  inc,19500.0
+2012,Ford,Edge,SEL,UNKNOWN,Pennsylvania,36622.0,white,gray,ford motor credit company llc,22100.0
+2005,Mercury,Mariner,Premier,automatic,Pennsylvania,151534.0,silver,black,spitzer toyota scion,2000.0
+2012,Acura,TL,Base,UNKNOWN,Pennsylvania,48516.0,black,black,ahfc/honda lease/trust/hvt  inc. eot acuras,16500.0
+2004,Nissan,Frontier,Standard,automatic,Pennsylvania,123544.0,black,gray,r hollenshead auto sales inc,3400.0
+2012,Honda,Civic,LX,automatic,Pennsylvania,45135.0,gray,beige,ahfc/honda lease trust/hvt  inc. eot,11400.0
+2007,BMW,X5,4.8i,UNKNOWN,Pennsylvania,87376.0,gray,black,superior automotive sales i,14300.0
+2013,Nissan,Altima,2.5,automatic,Pennsylvania,13672.0,white,black,nissan-infiniti lt,14800.0
+2014,Jeep,Grand Cherokee,Laredo,automatic,Pennsylvania,7551.0,white,black,hertz corporation/gdp,28300.0
+2013,Chevrolet,Cruze,1LT,UNKNOWN,Pennsylvania,32093.0,beige,black,gm financial,11200.0
+2013,Lexus,RX 350,Base,UNKNOWN,Pennsylvania,45574.0,black,brown,r hollenshead auto sales inc,28000.0
+2004,Toyota,Land Cruiser,Base,automatic,Pennsylvania,196418.0,—,tan,r hollenshead auto sales inc,12800.0
+2003,Mercedes-Benz,C-Class,C230,UNKNOWN,Pennsylvania,153898.0,gray,black,r hollenshead auto sales inc,2000.0
+2002,Chevrolet,Silverado 1500,LS,automatic,Pennsylvania,183130.0,gray,gray,faulkner buick gmc,3150.0
+2013,Toyota,FJ Cruiser,Base,automatic,Pennsylvania,31755.0,black,gray,peter stallone auto sales inc,27500.0
+2010,Volvo,XC90,3.2,automatic,Pennsylvania,127910.0,black,gray,benchmark auto sales nj llc,8700.0
+2012,Ford,Fusion,SE,automatic,Pennsylvania,22769.0,white,gray,ford motor credit company llc,11800.0
+2010,ford,f150,4x4 cr lariat,automatic,Pennsylvania,23079.0,red,tan,adcock brothers inc,29200.0
+2012,Nissan,Altima,2.5,UNKNOWN,Pennsylvania,15929.0,white,black,maritime motors of fairfield inc,13500.0
+2012,Honda,Accord,EX-L V-6,automatic,Pennsylvania,15206.0,silver,black,ahfc/honda lease trust/hvt  inc. eot,16900.0
+2009,Chevrolet,Traverse,LT1,UNKNOWN,Pennsylvania,111821.0,red,black,fiserv/security national automotive accept corp,6900.0
+2005,Ford,Focus,ZX4 SE,manual,Pennsylvania,63208.0,silver,gray,faulkner toyota,2650.0
+2012,Ford,Fusion,SE,automatic,Pennsylvania,26160.0,silver,black,ford motor credit company llc,12300.0
+2011,Cadillac,Escalade,Platinum Edition,UNKNOWN,Pennsylvania,65379.0,white,brown,rjk auto brokers llc,36700.0
+2012,Honda,Civic,LX,automatic,Pennsylvania,46449.0,gray,gray,ahfc/honda lease trust/hvt  inc.,9000.0
+2013,Chevrolet,Silverado 1500,Work Truck,automatic,Pennsylvania,32715.0,white,gray,peter stallone auto sales inc,11200.0
+2007,Lincoln,Navigator,Luxury,UNKNOWN,Pennsylvania,127964.0,—,beige,r hollenshead auto sales inc,11300.0
+2009,Honda,CR-V,EX-L,automatic,Pennsylvania,32248.0,silver,black,gnm auto sales inc,15900.0
+2014,Jeep,Patriot,Sport,automatic,Pennsylvania,10857.0,gray,black,pv holding inc/gdp,14100.0
+2007,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Pennsylvania,91432.0,black,black,nallys automotive,4100.0
+2013,Chevrolet,Malibu,LT,automatic,Pennsylvania,26144.0,silver,black,exceptional motorcars ltd,13000.0
+2010,Infiniti,QX56,Base,automatic,Pennsylvania,94038.0,black,black,lenny genzale auto sales,21000.0
+2014,Ford,E-Series Wagon,E-350 Super Duty XLT,automatic,Pennsylvania,33561.0,silver,gray,avis budget group,18500.0
+2008,Lincoln,MKX,Base,UNKNOWN,Pennsylvania,83682.0,white,black,car sense incorporated,11000.0
+2009,Honda,Accord,EX,automatic,Pennsylvania,38715.0,red,tan,ahfc/honda lease trust/hvt  inc.,8600.0
+2012,Land Rover,LR4,Base,UNKNOWN,Pennsylvania,42200.0,white,beige,adcock brothers inc,39000.0
+2012,Ford,Escape,Limited,automatic,Pennsylvania,31011.0,white,black,ford motor credit company llc,16300.0
+2010,Lexus,RX 350,Base,UNKNOWN,Pennsylvania,46295.0,black,beige,lindsay lexus of alexandria,19000.0
+2011,Honda,Odyssey,EX,automatic,Pennsylvania,67019.0,gray,gray,ahfc/honda lease trust/hvt  inc. eot,13900.0
+2013,Chevrolet,Cruze,LS,UNKNOWN,Pennsylvania,20714.0,white,black,gm financial leasing,11000.0
+2012,Mercedes-Benz,GL-Class,GL450 4MATIC,UNKNOWN,Pennsylvania,46106.0,black,black,allcar leasing,34600.0
+2009,Honda,Civic,EX-L,automatic,Pennsylvania,131133.0,beige,brown,preston honda,8300.0
+2014,Dodge,Journey,SXT,automatic,Pennsylvania,6997.0,silver,black,advantage opco llc,19600.0
+2007,Ford,F-150,FX4,UNKNOWN,Pennsylvania,82887.0,black,black,crossroad motors llc,16500.0
+2011,Lexus,RX 350,Base,UNKNOWN,Pennsylvania,47043.0,gold,tan,prestige lexus,22300.0
+2012,Nissan,Altima,2.5 S,automatic,Pennsylvania,37613.0,blue,black,nissan-infiniti lt,10000.0
+2012,Infiniti,G Sedan,G37x,UNKNOWN,Pennsylvania,40177.0,silver,black,nissan infiniti lt,19000.0
+2012,Honda,Accord,EX-L,automatic,Pennsylvania,57748.0,gray,black,robert ss auto sales inc,13500.0
+2014,Chrysler,Town and Country,Touring,UNKNOWN,Pennsylvania,24000.0,gray,black,enterprise holdings/gdp,19500.0
+2007,Nissan,Pathfinder,LE,automatic,Pennsylvania,91477.0,black,beige,r hollenshead auto sales inc,10900.0
+2014,Ford,F-150,SVT Raptor,automatic,Pennsylvania,2226.0,silver,black,rafferty subaru inc,50000.0
+2014,Ford,Escape,SE,UNKNOWN,Pennsylvania,43443.0,gray,gray,avis corporation,17000.0
+2013,Hyundai,Elantra,GLS,UNKNOWN,Pennsylvania,41734.0,white,tan,avis corporation,10700.0
+2013,Toyota,Sienna,LE 7-Passenger Mobility Auto Access,UNKNOWN,Pennsylvania,57822.0,silver,gray,the hertz corporation,17100.0
+2003,Chevrolet,Corvette,Z06,manual,Pennsylvania,57319.0,black,black,land rover sls & service of hoffman estates inc,18500.0
+2011,Nissan,Maxima,3.5 SV,UNKNOWN,Pennsylvania,30745.0,red,black,nissan-infiniti lt,14800.0
+2011,Lincoln,Navigator,L,UNKNOWN,Pennsylvania,129429.0,black,black,sports car leasing,19000.0
+2013,Volkswagen,Passat,SE PZEV,UNKNOWN,Pennsylvania,63755.0,red,black,the hertz corporation,11000.0
+2013,Audi,Q7,3.0T Premium Plus quattro,UNKNOWN,Pennsylvania,44574.0,gray,black,924 auto corp,35300.0
+2007,Dodge,Caliber,SXT,automatic,Pennsylvania,75124.0,white,gray,bergeys chrysler jeep dodge,5600.0
+2013,Scion,tC,Base,UNKNOWN,Pennsylvania,20689.0,red,black,world omni financial corporation,15400.0
+2012,Acura,TL,Base,automatic,Pennsylvania,29209.0,black,black,ahfc/honda lease/trust/hvt  inc. eot acuras,17500.0
+2015,Volkswagen,Passat,Wolfsburg Edition PZEV,UNKNOWN,Pennsylvania,26320.0,gray,black,enterprise-tra,12500.0
+2012,Nissan,Maxima,3.5 S,automatic,Pennsylvania,44299.0,gray,black,meridian remarketing,12500.0
+2012,Nissan,Versa,1.6 S,UNKNOWN,Pennsylvania,83591.0,white,gray,nissan motor acceptance corporation,5800.0
+2012,Acura,TSX,Base,UNKNOWN,Pennsylvania,45412.0,black,black,ahfc/honda lease/trust/hvt  inc. eot acuras,16500.0
+2013,Cadillac,ATS,Luxury,UNKNOWN,Pennsylvania,44960.0,beige,black,the hertz corporation,17500.0
+2012,Acura,MDX,Base,automatic,Pennsylvania,8995.0,white,beige,adcock brothers inc,30200.0
+2007,Porsche,Cayman,Base,manual,Pennsylvania,89406.0,silver,black,r hollenshead auto sales inc,14200.0
+2012,Acura,TSX,Base,UNKNOWN,Pennsylvania,43808.0,silver,gray,ahfc/honda lease/trust/hvt  inc. eot acuras,16500.0
+2012,Chevrolet,Express Cargo,2500,UNKNOWN,Pennsylvania,84671.0,white,gray,ge fleet services for itself/servicer,15600.0
+2014,Honda,Civic,LX,automatic,Pennsylvania,6051.0,black,gray,ahfc/honda lease trust/hvt  inc.,14800.0
+2004,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Pennsylvania,152388.0,silver,black,adcock brothers inc,5600.0
+2009,Jeep,Wrangler,Unlimited Sahara,manual,Pennsylvania,57165.0,silver,gray,big tree auto brokers,20000.0
+2010,Nissan,Sentra,2.0 SL,UNKNOWN,Pennsylvania,41825.0,blue,gray,nissan-infiniti lt,8100.0
+2002,Mercedes-Benz,S-Class,S500,UNKNOWN,Pennsylvania,115410.0,silver,black,r hollenshead auto sales inc,5100.0
+2012,BMW,6 Series,650i,automatic,Pennsylvania,12533.0,black,black,adcock brothers inc,52000.0
+2012,Hyundai,Sonata,SE,UNKNOWN,Pennsylvania,37662.0,blue,gray,hyundai motor finance,12100.0
+2011,Buick,Enclave,CXL1,UNKNOWN,Pennsylvania,46896.0,—,gray,r hollenshead auto sales inc,19500.0
+2012,Acura,MDX,Technology Package,automatic,Pennsylvania,35984.0,black,black,jim coleman cadillac infiniti,30250.0
+2013,BMW,3 Series,328i,manual,Pennsylvania,35707.0,silver,black,avis corporation,23600.0
+2013,Ford,Escape,SEL,UNKNOWN,Pennsylvania,45037.0,green,black,avis corporation,16200.0
+2013,Nissan,Altima,2.5,UNKNOWN,Pennsylvania,23145.0,gray,black,nissan-infiniti lt,12600.0
+2014,Chevrolet,Cruze,LTZ,UNKNOWN,Pennsylvania,27978.0,white,beige,gm remarketing,14000.0
+2012,Volkswagen,Passat,SE PZEV,UNKNOWN,Pennsylvania,36035.0,silver,black,vw credit,11000.0
+2013,Hyundai,Santa Fe,Sport,UNKNOWN,Pennsylvania,16434.0,white,gray,hyundai motor finance,23100.0
+2012,Honda,Odyssey,EX,automatic,Pennsylvania,38517.0,black,gray,r hollenshead auto sales inc,20800.0
+2012,Mazda,Mazda6,i Touring,UNKNOWN,Pennsylvania,49247.0,silver,black,citiwide auto leasing,8500.0
+2011,Nissan,Rogue,S,automatic,Pennsylvania,34768.0,silver,black,nissan-infiniti lt,13000.0
+2011,Ford,Taurus,SEL,UNKNOWN,Pennsylvania,79525.0,white,black,ford motor credit company llc,11800.0
+2012,Honda,Odyssey,EX-L,automatic,Pennsylvania,29448.0,black,gray,bay ridge honda suzuki kia,22200.0
+2009,Chevrolet,Silverado 1500,LT,automatic,Pennsylvania,119208.0,black,black,edmond chevrolet gmc buick,13800.0
+2009,Kia,Spectra,Spectra5 SX,automatic,Pennsylvania,40902.0,silver,black,washington area teachers federal credit union,7100.0
+2011,Mercedes-Benz,E-Class,E350 4MATIC,automatic,Pennsylvania,61900.0,—,tan,r hollenshead auto sales inc,22900.0
+2012,Lexus,RX 350,Base,UNKNOWN,Pennsylvania,17241.0,gray,black,sports car leasing,31750.0
+2013,Honda,CR-V,EX-L,automatic,Pennsylvania,32238.0,black,black,ahfc/honda lease trust/hvt  inc.,22200.0
+2012,Honda,Accord,LX,automatic,Pennsylvania,22072.0,brown,beige,ahfc/honda lease trust/hvt  inc. eot,11900.0
+2012,Ford,Explorer,Limited,UNKNOWN,Pennsylvania,38848.0,gray,black,scerbo auto leasing inc,27600.0
+2012,Honda,Civic,LX,automatic,Pennsylvania,46745.0,blue,gray,ahfc/honda lease trust/hvt  inc. eot,9700.0
+2015,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,5144.0,red,black,tdaf remarketing,14200.0
+2012,Ford,Fusion,S,UNKNOWN,Pennsylvania,48258.0,silver,tan,td auto finance,10200.0
+2009,Pontiac,G3,Base,automatic,Pennsylvania,65545.0,red,black,wheels of fortune auto  inc,4800.0
+2012,Chevrolet,Malibu,LS,UNKNOWN,Pennsylvania,14212.0,gold,brown,924 auto corp,12500.0
+2013,Nissan,Maxima,3.5 SV,UNKNOWN,Pennsylvania,49661.0,white,black,the hertz corporation,15800.0
+2008,Dodge,Charger,Base,automatic,Pennsylvania,114315.0,gray,black,td auto finance,6200.0
+2012,Honda,CR-V,EX-L,automatic,Pennsylvania,32225.0,gray,gray,honda north,22400.0
+2012,Honda,Accord,EX-L,automatic,Pennsylvania,33136.0,white,beige,ahfc/honda lease trust/hvt  inc. eot,14100.0
+2010,Toyota,Camry,Base,UNKNOWN,Pennsylvania,66113.0,silver,gray,us bank,7900.0
+2014,Mazda,CX-5,Touring,UNKNOWN,Pennsylvania,36853.0,gray,black,avis rent a car/barbush rentals,19200.0
+2002,Hyundai,Accent,GL,automatic,Pennsylvania,93812.0,white,gray,1 cochran of monroeville,1500.0
+2007,GMC,Yukon,SLE,automatic,Pennsylvania,191340.0,gray,black,congers auto sales inc,8200.0
+2014,Ford,Focus,SE,automatic,Pennsylvania,40413.0,red,black,ars/avis budget group,11900.0
+2013,Chevrolet,Malibu,LT,automatic,Pennsylvania,39022.0,black,black,exceptional motorcars ltd,13600.0
+2011,Honda,CR-V,EX-L,automatic,Pennsylvania,41739.0,silver,black,ahfc/honda lease trust/hvt  inc. eot,17700.0
+2011,Nissan,Maxima,3.5 SV,UNKNOWN,Pennsylvania,21875.0,white,beige,nissan-infiniti lt,16600.0
+2014,Honda,Pilot,LX,automatic,Pennsylvania,5397.0,black,gray,ahfc/honda lease trust/hvt  inc.,23100.0
+2011,Volkswagen,Tiguan,S 4Motion,UNKNOWN,Pennsylvania,63236.0,black,black,tsj auto brokers inc,15300.0
+2012,Toyota,RAV4,Base,automatic,Pennsylvania,26336.0,brown,beige,piazza acura of reading,17900.0
+2012,Nissan,Rogue,S,UNKNOWN,Pennsylvania,15392.0,off-white,gray,nissan-infiniti lt,15700.0
+2012,GMC,Acadia,SLE,UNKNOWN,Pennsylvania,59669.0,black,black,fiserv/usb dealer services northstar exchange,19600.0
+2014,Ford,F-150,XL,automatic,Pennsylvania,12506.0,white,gray,u-haul,17800.0
+2011,Toyota,Camry,Base,manual,Pennsylvania,49477.0,silver,gray,adcock brothers inc,10900.0
+2014,Ford,Focus,SE,UNKNOWN,Pennsylvania,39657.0,black,black,avis corporation,12000.0
+2013,Mercedes-Benz,GLK-Class,GLK350 4MATIC,automatic,Pennsylvania,34282.0,black,black,td auto finance,26300.0
+2011,Cadillac,DTS,Premium,automatic,Pennsylvania,67562.0,white,gray,gm financial,14000.0
+2012,Nissan,Rogue,SV,UNKNOWN,Pennsylvania,51155.0,blue,gray,nissan-infiniti lt,16000.0
+2013,BMW,X5,xDrive35i,UNKNOWN,Pennsylvania,39078.0,gray,black,avis corporation,31400.0
+2012,Cadillac,SRX,Luxury,UNKNOWN,Pennsylvania,24440.0,brown,gray,gm financial leasing,23400.0
+2013,Mercedes-Benz,C-Class,C300 Sport 4MATIC,UNKNOWN,Pennsylvania,17581.0,black,beige,mercedes-benz financial services,24500.0
+2013,Toyota,Avalon,XLE,UNKNOWN,Pennsylvania,56214.0,red,black,the hertz corporation,15500.0
+2005,Mazda,Mazda6,i Sport,UNKNOWN,Pennsylvania,169242.0,silver,black,criswell honda,1300.0
+2015,Kia,Soul,+,UNKNOWN,Pennsylvania,11208.0,white,black,general american rentals,13900.0
+2014,Ford,F-150,XL,automatic,Pennsylvania,4791.0,white,gray,u-haul,17200.0
+2012,Hyundai,Sonata,GLS,automatic,Pennsylvania,43605.0,black,black,hyundai motor finance,10200.0
+2012,Honda,Odyssey,EX,automatic,Pennsylvania,44702.0,black,gray,ahfc/honda lease trust/hvt  inc. eot,18000.0
+2012,Toyota,Venza,XLE,automatic,Pennsylvania,41337.0,gray,tan,peter stallone auto sales inc,20000.0
+2014,Mitsubishi,Lancer,ES,automatic,Pennsylvania,2863.0,blue,black,jpmorgan chase bank n.a.,11400.0
+2014,Ford,Focus,SE,automatic,Pennsylvania,17790.0,blue,black,avis budget group,12900.0
+2014,Dodge,Journey,SXT,UNKNOWN,Pennsylvania,10821.0,white,beige,pv holding inc/gdp,18700.0
+2013,Nissan,Altima,2.5,automatic,Pennsylvania,36437.0,brown,black,nissan-infiniti lt,12800.0
+2012,Ford,Escape,XLT,automatic,Pennsylvania,14491.0,gray,black,ford motor credit company llc,18600.0
+2012,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Pennsylvania,73005.0,black,gray,financial services remarketing (lease),33000.0
+2012,Jaguar,XJ,Base,UNKNOWN,Pennsylvania,43681.0,blue,black,jpmorgan chase bank n.a.,38250.0
+2007,Cadillac,SRX,V6,UNKNOWN,Pennsylvania,76437.0,silver,gray,charles & son auto sls inc,9200.0
+2013,Kia,Rio,LX,automatic,Pennsylvania,58693.0,silver,gray,dtg operations inc,7400.0
+2006,Ford,Explorer,Eddie Bauer,automatic,Pennsylvania,126934.0,blue,tan,faulkner toyota,6100.0
+2010,Mercedes-Benz,E-Class,E350 4MATIC,automatic,Pennsylvania,84595.0,black,beige,national credit union administration/asset mgmt,17400.0
+2012,Audi,S5,Premium Plus quattro,UNKNOWN,Pennsylvania,35202.0,white,brown,tsj auto brokers inc,30000.0
+2012,Ford,Fusion,S,automatic,Pennsylvania,77824.0,—,beige,lease plan usa,7800.0
+2011,Chevrolet,Malibu,LS,UNKNOWN,Pennsylvania,37262.0,beige,beige,fiserv/usb dealer services northstar exchange,7200.0
+2013,Toyota,Corolla,S,automatic,Pennsylvania,49540.0,gray,black,the hertz corporation,11600.0
+2012,Hyundai,Sonata,GLS,UNKNOWN,Pennsylvania,37875.0,blue,gray,alans autos,10500.0
+2013,Dodge,Avenger,SE,automatic,Pennsylvania,51923.0,gray,black,the hertz corporation,9400.0
+2014,Ford,Focus,SE,UNKNOWN,Pennsylvania,31980.0,white,beige,ars/enterprise rac,11400.0
+2014,Nissan,Frontier,SV,UNKNOWN,Pennsylvania,15414.0,silver,gray,parkway nissan lincoln mercury,21800.0
+2012,Mercedes-Benz,C-Class,C300 Luxury 4MATIC,UNKNOWN,Pennsylvania,38880.0,black,black,mercedes-benz financial services,22250.0
+2013,Mercedes-Benz,CLS-Class,CLS550 4MATIC,UNKNOWN,Pennsylvania,16357.0,—,black,mercedes-benz financial services,48000.0
+2014,Dodge,Grand Caravan,R/T,UNKNOWN,Pennsylvania,18867.0,white,black,enterprise holdings/gdp,18900.0
+2015,Ford,Explorer,Limited,UNKNOWN,Pennsylvania,13451.0,black,black,ars/enterprise rac,32700.0
+2010,GMC,Acadia,SLT-2,automatic,Pennsylvania,31080.0,gold,beige,tdaf remarketing,18400.0
+2012,Nissan,Altima,2.5 S,automatic,Pennsylvania,37237.0,gray,black,nissan-infiniti lt,9800.0
+2012,Nissan,Maxima,3.5 SV,UNKNOWN,Pennsylvania,38523.0,white,tan,nissan-infiniti lt,12600.0
+2012,BMW,X5,xDrive35i Premium,UNKNOWN,Pennsylvania,44091.0,gray,black,financial services remarketing (lease),37000.0
+2012,Porsche,Cayenne,S Hybrid,UNKNOWN,Pennsylvania,24754.0,white,black,bard whls,45250.0
+2012,Nissan,Rogue,SV,UNKNOWN,Pennsylvania,31395.0,gray,black,nissan-infiniti lt,14700.0
+2006,BMW,X3,3.0i,UNKNOWN,Pennsylvania,37099.0,silver,beige,bmw of manhattan inc,11700.0
+2014,Mercedes-Benz,E-Class,E250 Luxury BlueTEC 4MATIC,UNKNOWN,Pennsylvania,3977.0,silver,black,mercedes-benz usa,43400.0
+2009,Nissan,Pathfinder,SE,UNKNOWN,Pennsylvania,77147.0,white,beige,auto select inc,12900.0
+2013,Hyundai,Elantra,Limited,UNKNOWN,Pennsylvania,22965.0,white,tan,hyundai motor finance,14900.0
+2012,Honda,Civic,EX,automatic,Pennsylvania,13943.0,silver,gray,ahfc/honda lease trust/hvt  inc. eot,11700.0
+2011,Honda,Accord,EX-L,UNKNOWN,Pennsylvania,31112.0,black,black,ahfc/honda lease trust/hvt  inc. eot,14600.0
+2011,Hyundai,Santa Fe,SE,UNKNOWN,Pennsylvania,95672.0,black,black,j magnone auto group llc,10600.0
+2012,Hyundai,Genesis,3.8,UNKNOWN,Pennsylvania,37620.0,blue,tan,hyundai motor finance,19300.0
+2013,Chevrolet,Cruze,LS,UNKNOWN,Pennsylvania,1504.0,silver,gray,gm financial leasing,12400.0
+2010,Mercedes-Benz,Sprinter,2500 144 WB Cargo,automatic,Pennsylvania,13778.0,white,gray,mercedes-benz usa,19000.0
+2012,Volkswagen,Jetta,SE PZEV,manual,Pennsylvania,32202.0,gray,black,vw credit,8700.0
+2012,Infiniti,M,M37x,UNKNOWN,Pennsylvania,81178.0,gray,black,nissan infiniti lt,18300.0
+2013,Buick,Verano,Base,UNKNOWN,Pennsylvania,25622.0,brown,beige,gm financial leasing,13900.0
+2012,Chevrolet,Equinox,LS,UNKNOWN,Pennsylvania,53036.0,silver,black,westfall auto sales,12800.0
+2008,BMW,3 Series,328xi,UNKNOWN,Pennsylvania,116531.0,blue,beige,prestige lexus,7000.0
+2008,Ford,Expedition,Limited,UNKNOWN,Pennsylvania,64432.0,silver,black,mwm motors inc,18800.0
+2012,Nissan,Rogue,SV,UNKNOWN,Pennsylvania,26834.0,gray,black,nissan-infiniti lt,18800.0
+2008,Infiniti,G35,x,UNKNOWN,Pennsylvania,133378.0,silver,gray,jim coleman cadillac infiniti,9000.0
+2012,Honda,Accord,EX,UNKNOWN,Pennsylvania,22802.0,gray,—,ahfc/honda lease trust/hvt  inc. eot,14100.0
+2015,Kia,Soul,+,UNKNOWN,Pennsylvania,11780.0,brown,black,general american rentals,13900.0
+2012,Honda,Odyssey,EX-L,UNKNOWN,Pennsylvania,37914.0,white,beige,kentland car co inc,23800.0
+2012,Dodge,Charger,SE,UNKNOWN,Pennsylvania,75293.0,white,gray,td auto finance,11700.0
+2013,Kia,Optima,LX,UNKNOWN,Pennsylvania,52875.0,silver,gray,the hertz corporation,10700.0
+2013,Hyundai,Accent,GLS,UNKNOWN,Pennsylvania,29550.0,blue,beige,remarketing by ge/flagship credit acceptance,7500.0
+2012,Ford,Focus,SE,automatic,Pennsylvania,37380.0,silver,gray,westbury jeep chrysler dodge inc,9500.0
+2013,Honda,Pilot,EX-L,automatic,Pennsylvania,18980.0,black,gray,ray price honda mazda volvo,27600.0
+2006,Buick,Lucerne,CXS,automatic,Pennsylvania,100758.0,silver,black,adcock brothers inc,5000.0
+2014,Dodge,Journey,SXT,automatic,Pennsylvania,17400.0,gray,black,advantage opco llc,18200.0
+2013,Honda,Pilot,EX-L w/Rear Entertainment,automatic,Pennsylvania,24924.0,black,gray,royal coast auto inc,26300.0
+2012,Chrysler,Town and Country,Touring,automatic,Pennsylvania,16226.0,black,black,westbury jeep chrysler dodge inc,16250.0
+2010,Honda,Accord,EX-L V-6,automatic,Pennsylvania,144944.0,burgundy,tan,1 cochran of monroeville,8600.0
+2005,Honda,Accord,EX,automatic,Pennsylvania,151120.0,red,black,criswell honda,4000.0
+2009,Chevrolet,Corvette,Base,automatic,Pennsylvania,2967.0,white,black,r hollenshead auto sales inc,33200.0
+2011,Ford,Explorer,Limited,automatic,Pennsylvania,42177.0,burgundy,beige,twin willows ii inc,24000.0
+2013,Hyundai,Santa Fe,Sport,UNKNOWN,Pennsylvania,28630.0,gray,gray,hyundai motor finance,20900.0
+2012,Dodge,Grand Caravan,American Value Package,automatic,Pennsylvania,23813.0,red,black,joe ball pontiac gmc commercial trucks,13100.0
+2008,GMC,Acadia,SLT-1,UNKNOWN,Pennsylvania,65632.0,blue,tan,criswell honda,11900.0
+2011,Mazda,CX-7,i Sport,UNKNOWN,Pennsylvania,50906.0,—,beige,salerno duane infiniti llc,12200.0
+2012,Acura,TL,SH-AWD,UNKNOWN,Pennsylvania,38542.0,silver,black,ahfc/honda lease/trust/hvt  inc. eot acuras,21800.0
+2012,Acura,TL,SH-AWD w/Technology Package,UNKNOWN,Pennsylvania,63283.0,black,black,ahfc/honda lease trust/hvt  inc. eot,22200.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,35492.0,blue,gray,nissan-infiniti lt,10600.0
+2013,Honda,Civic,LX,automatic,Pennsylvania,12144.0,brown,black,ahfc/honda lease trust/hvt  inc.,13400.0
+2005,Ford,F-350 Super Duty,Lariat,automatic,Pennsylvania,102205.0,red,beige,tdaf remarketing,16100.0
+2013,Nissan,Sentra,FE+ SV,UNKNOWN,Pennsylvania,30680.0,gray,black,nissan-infiniti lt,10400.0
+2013,Toyota,Sienna,SE 8-Passenger,automatic,Pennsylvania,31458.0,white,black,cash money cars llc,24700.0
+2013,Chevrolet,Black Diamond Avalanche,LT,UNKNOWN,Pennsylvania,21316.0,black,beige,adcock brothers inc,36500.0
+2011,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Pennsylvania,40228.0,silver,black,bmw of manhattan inc,32500.0
+2012,Chrysler,Town and Country,Touring,UNKNOWN,Pennsylvania,21176.0,gray,black,hann financial services,13900.0
+2011,Volkswagen,Routan,SE,UNKNOWN,Pennsylvania,60557.0,—,gray,r hollenshead auto sales inc,13000.0
+2013,Lexus,ES 350,Base,UNKNOWN,Pennsylvania,60822.0,—,beige,r hollenshead auto sales inc,22000.0
+2012,Acura,TSX,Base,UNKNOWN,Pennsylvania,13559.0,black,black,ahfc/honda lease/trust/hvt  inc. eot acuras,17700.0
+2009,Hyundai,Tucson,SE,UNKNOWN,Pennsylvania,27733.0,blue,gray,alans autos,10800.0
+2013,Dodge,Grand Caravan,SXT,UNKNOWN,Pennsylvania,64329.0,white,black,dtg operations inc,12100.0
+2014,Nissan,Versa,1.6 SV,automatic,Pennsylvania,37740.0,gray,black,avis corporation,10500.0
+2014,Chevrolet,Sonic,LT,UNKNOWN,Pennsylvania,12936.0,white,gray,gm remarketing,10400.0
+2014,Lexus,LS 460,Base,UNKNOWN,Pennsylvania,6283.0,silver,black,sports car leasing,61900.0
+2014,Ford,Focus,SE,manual,Pennsylvania,6073.0,silver,gray,allegiance credit union,10500.0
+2010,Mitsubishi,Lancer Evolution,MR Touring,manual,Pennsylvania,61124.0,—,black,car sense incorporated,22300.0
+2011,Honda,Civic,LX-S,automatic,Pennsylvania,45724.0,black,black,ahfc/honda lease trust/hvt  inc.,10400.0
+2012,Chevrolet,Malibu,LT,automatic,Pennsylvania,61557.0,white,black,the hertz corporation,8300.0
+2006,Chevrolet,Equinox,LS,automatic,Pennsylvania,190930.0,black,gray,r hollenshead auto sales inc,2000.0
+2005,Mercury,Mountaineer,Convenience,automatic,Pennsylvania,157217.0,—,black,r hollenshead auto sales inc,2400.0
+2004,Chevrolet,Suburban,1500 LS,automatic,Pennsylvania,57980.0,green,tan,crossroad motors llc,12800.0
+2009,Mercedes-Benz,M-Class,ML350 4MATIC,automatic,Pennsylvania,68786.0,—,tan,r hollenshead auto sales inc,20000.0
+2012,Honda,Odyssey,EX-L,UNKNOWN,Pennsylvania,42542.0,black,—,luxury fleet serv inc,21900.0
+2014,Toyota,4Runner,SR5,automatic,Pennsylvania,10652.0,white,beige,gateway one lending & finance,29650.0
+2010,Acura,MDX,Base,UNKNOWN,Pennsylvania,44290.0,silver,black,royal coast auto inc,21700.0
+2013,Ford,F-150,XLT,automatic,Pennsylvania,10980.0,black,gray,canadian auto remarketing,26500.0
+2010,Honda,Accord,LX,automatic,Pennsylvania,52574.0,gold,beige,ahfc/honda lease trust/hvt  inc.,8300.0
+2013,Volkswagen,Passat,SE PZEV,UNKNOWN,Pennsylvania,34472.0,silver,black,avis corporation,13400.0
+2004,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Pennsylvania,104515.0,white,beige,hawthorne auto sales co,2700.0
+2014,Kia,Soul,Base,manual,Pennsylvania,5768.0,green,black,kia motors finance,12500.0
+2015,Volvo,V60,T5 Drive-E,UNKNOWN,Pennsylvania,25566.0,black,black,avis corporation,22600.0
+2012,Honda,Accord,LX-S,automatic,Pennsylvania,24855.0,gray,black,all state motor inc,14600.0
+2010,Ford,Transit Connect,Cargo Van XLT,UNKNOWN,Pennsylvania,79865.0,—,gray,ge fleet services for itself/servicer,6800.0
+2013,Ford,Escape,SEL,automatic,Pennsylvania,20531.0,black,black,ford motor credit company llc,18000.0
+2001,BMW,3 Series,330i,UNKNOWN,Pennsylvania,132228.0,silver,black,r hollenshead auto sales inc,3200.0
+2013,Chrysler,300,C,UNKNOWN,Pennsylvania,38633.0,silver,black,adcock brothers inc,19750.0
+2008,GMC,Acadia,SLT-2,automatic,Pennsylvania,121018.0,white,gray,crestwood motors inc,11500.0
+2014,Chevrolet,Tahoe,LTZ,automatic,Pennsylvania,33678.0,silver,gray,avis corporation,40900.0
+2012,Honda,Accord,EX,automatic,Pennsylvania,42644.0,gray,tan,ahfc/honda lease trust/hvt  inc. eot,10700.0
+2014,Nissan,Xterra,S,UNKNOWN,Pennsylvania,389.0,blue,gray,nissan north america inc.,20400.0
+2014,Infiniti,QX80,Base,UNKNOWN,Pennsylvania,10475.0,black,black,r hollenshead auto sales inc,57750.0
+2013,Nissan,Altima,2.5,UNKNOWN,Pennsylvania,23443.0,white,black,alans autos,12900.0
+2014,Dodge,Durango,Limited,automatic,Pennsylvania,16235.0,red,black,pv holding inc/gdp,30000.0
+2013,Chevrolet,Malibu,LTZ,UNKNOWN,Pennsylvania,23597.0,blue,black,gm financial leasing,16400.0
+2010,Toyota,Corolla,S,UNKNOWN,Pennsylvania,50074.0,white,tan,world omni financial corporation,10600.0
+2012,Hyundai,Elantra,Limited,UNKNOWN,Pennsylvania,48061.0,white,gray,hyundai motor finance,11600.0
+2014,Ford,Fiesta,Titanium,UNKNOWN,Pennsylvania,31498.0,blue,black,avis budget group,10800.0
+2014,Chrysler,Town and Country,Touring,automatic,Pennsylvania,19798.0,gray,black,enterprise holdings/gdp,19400.0
+2005,Pontiac,Grand Am,SE Fleet,automatic,Pennsylvania,130792.0,white,black,credit acceptance corp/vrs/southfield,900.0
+2008,Jaguar,XJ-Series,XJ8 L,automatic,Pennsylvania,75328.0,gray,gray,r hollenshead auto sales inc,15200.0
+2012,Chevrolet,Cruze,1LT,UNKNOWN,Pennsylvania,53773.0,white,gray,the hertz corporation,8900.0
+2014,Infiniti,Q50,Premium,UNKNOWN,Pennsylvania,15920.0,white,black,nissan infiniti lt,28400.0
+2010,Chrysler,300,Touring,automatic,Pennsylvania,24477.0,gold,gray,mercedes benz of wilmington,10000.0
+2008,Land Rover,Range Rover Sport,HSE,UNKNOWN,Pennsylvania,78466.0,black,black,manheim imports,20400.0
+2015,Mercedes-Benz,GLK-Class,GLK350 4MATIC,UNKNOWN,Pennsylvania,6157.0,—,black,mercedes-benz financial services,37000.0
+2012,Chevrolet,Malibu,LS,UNKNOWN,Pennsylvania,28322.0,black,gray,gm financial,11400.0
+2013,Hyundai,Elantra,GLS,UNKNOWN,Pennsylvania,42837.0,beige,tan,avis corporation,10700.0
+2010,Chevrolet,Equinox,LT2,automatic,Pennsylvania,102347.0,gray,brown,mascio motor car,10900.0
+2012,Hyundai,Sonata,Limited,UNKNOWN,Pennsylvania,52382.0,gray,beige,hyundai motor finance,14000.0
+2013,Cadillac,ATS,Luxury,UNKNOWN,Pennsylvania,32767.0,silver,black,the hertz corporation,18400.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Pennsylvania,100217.0,yellow,black,university of utah credit union,8600.0
+2012,Chevrolet,Malibu,LT,UNKNOWN,Pennsylvania,27717.0,black,black,gm financial leasing,12800.0
+2012,Hyundai,Elantra,Limited,UNKNOWN,Pennsylvania,13363.0,red,tan,hyundai motor finance,13700.0
+2012,Lincoln,MKX,Base,UNKNOWN,Pennsylvania,36456.0,red,black,ford motor credit company llc,23900.0
+2013,Honda,Accord,LX,automatic,Pennsylvania,34139.0,gray,black,ahfc/honda lease trust/hvt  inc.,15200.0
+2012,Ford,F-150,Lariat,automatic,Pennsylvania,45974.0,black,black,hyundai st constant,33800.0
+2014,Chevrolet,Equinox,LT,automatic,Pennsylvania,21595.0,black,black,enterprise veh exchange/rental,20900.0
+2012,Chevrolet,Cruze,LS,UNKNOWN,Pennsylvania,30867.0,white,black,gm financial leasing,9900.0
+2013,Volvo,XC60,3.2,UNKNOWN,Pennsylvania,15680.0,—,beige,manheim imports,26500.0
+2012,Nissan,Frontier,SV,UNKNOWN,Pennsylvania,22485.0,black,gray,nissan-infiniti lt,22200.0
+2006,Buick,Lucerne,CX,automatic,Pennsylvania,79814.0,gold,beige,credit acceptance corp/vrs/southfield,3100.0
+2012,Toyota,Sienna,XLE 8-Passenger,automatic,Pennsylvania,46607.0,gray,gray,adcock brothers inc,26500.0
+2011,Nissan,Rogue,S,automatic,Pennsylvania,40495.0,blue,gray,nissan-infiniti lt,13000.0
+2007,BMW,5 Series,530xi,UNKNOWN,Pennsylvania,65511.0,—,beige,r hollenshead auto sales inc,12100.0
+2013,Chrysler,200,Limited,UNKNOWN,Pennsylvania,23965.0,brown,beige,adcock brothers inc,21500.0
+2012,Mitsubishi,Lancer,Ralliart,UNKNOWN,Pennsylvania,36501.0,blue,black,mmca  inc,15000.0
+2014,Mercedes-Benz,E-Class,E350 Sport 4MATIC,UNKNOWN,Pennsylvania,7315.0,black,—,mercedes-benz financial services,45500.0
+2012,FIAT,500,Pop,automatic,Pennsylvania,40562.0,—,black,elite motors inc,7100.0
+2013,Chevrolet,Equinox,LT,UNKNOWN,Pennsylvania,57788.0,white,black,the hertz corporation,14800.0
+2012,Honda,Accord,EX-L,automatic,Pennsylvania,29152.0,black,black,ahfc/honda lease trust/hvt  inc. eot,13200.0
+2012,Honda,CR-V,EX-L,automatic,Pennsylvania,34714.0,gray,gray,ahfc/honda lease trust/hvt  inc.,20900.0
+2012,BMW,X5,xDrive35d,UNKNOWN,Pennsylvania,45426.0,blue,tan,bmw of sterling,30500.0
+2015,Mitsubishi,Outlander,GT,UNKNOWN,Pennsylvania,4038.0,black,beige,mitsubishi motors north america company cars,24300.0
+2009,Audi,A5,quattro,UNKNOWN,Pennsylvania,64035.0,gray,black,rjk auto brokers llc,20200.0
+2012,Nissan,Rogue,S,UNKNOWN,Pennsylvania,31603.0,silver,gray,nissan-infiniti lt,13800.0
+2013,Hyundai,Sonata,GLS,UNKNOWN,Pennsylvania,19527.0,black,gray,hyundai motor finance,12200.0
+2013,Honda,Accord,EX,automatic,Pennsylvania,18779.0,white,beige,ahfc/honda lease trust/hvt  inc. eot,17600.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,47859.0,gray,black,nissan-infiniti lt,10300.0
+2013,GMC,Sierra 2500HD,SLE,UNKNOWN,Pennsylvania,14483.0,white,black,scerbo auto leasing inc,29500.0
+2011,Nissan,Leaf,SL,automatic,Pennsylvania,45535.0,black,gray,bmw of towson,7000.0
+2000,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Pennsylvania,141872.0,blue,gray,hertz remarketing,1600.0
+2012,Honda,Accord,EX-L V-6,automatic,Pennsylvania,15982.0,black,tan,ahfc/honda lease trust/hvt  inc. eot,17100.0
+2013,Mercedes-Benz,E-Class,E350 Sport,UNKNOWN,Pennsylvania,39763.0,—,black,mercedes-benz/hertz wholesale advantage,26250.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,28246.0,gold,beige,nissan-infiniti lt,12700.0
+2007,Honda,Civic,EX,manual,Pennsylvania,104189.0,gray,gray,faulkner subaru,5000.0
+2000,Mitsubishi,Montero Sport,LS,automatic,Pennsylvania,138337.0,red,beige,pennsylvania auto credit,1000.0
+2012,Chevrolet,Traverse,LT,automatic,Pennsylvania,103930.0,silver,black,loehmann blasius chevrolet inc,11300.0
+2013,Chevrolet,Malibu,LS,UNKNOWN,Pennsylvania,18048.0,blue,gray,gm financial leasing,13800.0
+2011,Mazda,Mazda6,i Sport,UNKNOWN,Pennsylvania,34675.0,white,black,jpmorgan chase bank n.a.,11400.0
+2007,Acura,RDX,Base,UNKNOWN,Pennsylvania,63745.0,burgundy,beige,n & b motorworks inc,13700.0
+2014,Chevrolet,Cruze,2LT,UNKNOWN,Pennsylvania,8614.0,gray,black,gm remarketing,13600.0
+2013,GMC,Sierra 1500,Work Truck,automatic,Pennsylvania,12624.0,blue,black,peruzzi pontiac gmc truck inc,16700.0
+2012,Infiniti,G Sedan,G25x,UNKNOWN,Pennsylvania,39482.0,white,gray,nissan infiniti lt,18000.0
+2014,Ford,Expedition,XLT,automatic,Pennsylvania,22229.0,red,tan,avis budget group,31400.0
+2012,Acura,TSX,Base,automatic,Pennsylvania,37158.0,white,black,ahfc/honda lease/trust/hvt  inc. eot acuras,16000.0
+2007,Volvo,XC90,3.2,UNKNOWN,Pennsylvania,93761.0,silver,black,r hollenshead auto sales inc,8600.0
+2012,Cadillac,SRX,Luxury,UNKNOWN,Pennsylvania,19505.0,white,black,gm financial leasing,28400.0
+2012,Acura,TSX,Base,UNKNOWN,Pennsylvania,26426.0,black,black,ahfc/honda lease trust/hvt  inc. eot,15800.0
+2012,Lexus,ES 350,Base,automatic,Pennsylvania,94808.0,silver,gray,r hollenshead auto sales inc,16500.0
+2014,Ford,Taurus,Limited,UNKNOWN,Pennsylvania,34762.0,red,beige,avis budget group,17400.0
+2008,BMW,X5,3.0si,UNKNOWN,Pennsylvania,51063.0,—,beige,r hollenshead auto sales inc,19900.0
+2011,Kia,Sorento,Base,UNKNOWN,Pennsylvania,138151.0,black,black,alans autos,9800.0
+2014,Toyota,Camry,LE,UNKNOWN,Pennsylvania,13112.0,gray,gray,toyota motor sales usa inc/program,15300.0
+2014,Chevrolet,Cruze,2LT,automatic,Pennsylvania,27742.0,white,black,gm remarketing,13000.0
+2011,Lexus,IS 350,Base,UNKNOWN,Pennsylvania,24620.0,red,black,adcock brothers inc,25600.0
+2006,Mercedes-Benz,S-Class,S55 AMG,UNKNOWN,Pennsylvania,72747.0,black,black,alans autos,18250.0
+2008,Ford,Fusion,SE,automatic,Pennsylvania,51859.0,blue,black,towne ford lincoln mazda hyundai,6400.0
+2012,Mitsubishi,Lancer,Ralliart,automatic,Pennsylvania,33958.0,blue,black,1 cochran of monroeville,16800.0
+2006,BMW,6 Series,650i,automatic,Pennsylvania,89284.0,black,beige,crestwood motors inc,16400.0
+2006,Lexus,GS 300,Base,UNKNOWN,Pennsylvania,24565.0,black,beige,pohanka lexus,15300.0
+2011,Ford,Edge,Limited,UNKNOWN,Pennsylvania,59434.0,black,beige,adcock brothers inc,18600.0
+2010,Mercedes-Benz,C-Class,C300 Sport 4MATIC,UNKNOWN,Pennsylvania,37684.0,black,beige,bard whls,18600.0
+2011,Subaru,Legacy,2.5i Premium,UNKNOWN,Pennsylvania,30683.0,gray,black,jpmorgan chase bank n.a.,12200.0
+2002,BMW,X5,4.4i,automatic,Pennsylvania,196013.0,gray,gray,r hollenshead auto sales inc,3000.0
+2012,Chevrolet,Traverse,LS,automatic,Pennsylvania,62976.0,gray,black,lease plan usa,13400.0
+2006,Saturn,VUE,Base,automatic,Pennsylvania,134356.0,green,gray,kly international,3400.0
+2011,Nissan,Sentra,2.0 SR,UNKNOWN,Pennsylvania,75778.0,white,gray,nissan-infiniti lt,8000.0
+2012,Honda,Accord,SE,automatic,Pennsylvania,36412.0,black,black,ahfc/honda lease trust/hvt  inc. eot,11800.0
+2014,Jeep,Cherokee,Trailhawk,UNKNOWN,Pennsylvania,6609.0,gray,black,eastern auto trading inc,28800.0
+2012,Honda,Pilot,EX,UNKNOWN,Pennsylvania,35462.0,gray,gray,ahfc/honda lease trust/hvt  inc. eot,10800.0
+2013,Nissan,Altima,3.5 SL,UNKNOWN,Pennsylvania,23331.0,black,black,nissan-infiniti lt,18900.0
+2010,Chevrolet,Malibu,LT2,UNKNOWN,Pennsylvania,55366.0,blue,gray,melvin g rhoades auto sales llc,10300.0
+2013,Cadillac,ATS,Luxury,UNKNOWN,Pennsylvania,42620.0,silver,black,the hertz corporation,18400.0
+2013,Mercedes-Benz,C-Class,C350 4MATIC,UNKNOWN,Pennsylvania,17837.0,white,black,mercedes benz of pittsburgh,16000.0
+2013,Dodge,Dart,SXT,automatic,Pennsylvania,47805.0,white,gray,lancaster car company llc,10700.0
+2015,Honda,Pilot,Touring w/Navigation and Rear Entertainment,automatic,Pennsylvania,9023.0,black,black,ted britt ford lincoln,36600.0
+2013,Chevrolet,Black Diamond Avalanche,LTZ,automatic,Pennsylvania,9684.0,green,—,salerno duane infiniti llc,38500.0
+2010,Chevrolet,Impala,LS,automatic,Pennsylvania,30607.0,gray,black,smail acura,9000.0
+2013,Ford,Focus,SE,automatic,Pennsylvania,9578.0,blue,black,ford motor credit company llc,12200.0
+2011,Nissan,Rogue,S,UNKNOWN,Pennsylvania,68606.0,gray,—,luxury fleet serv inc,10600.0
+2012,Cadillac,SRX,Luxury,UNKNOWN,Pennsylvania,59210.0,gray,black,gm financial leasing,19400.0
+2008,Lexus,IS 250,Base,UNKNOWN,Pennsylvania,38824.0,black,beige,r hollenshead auto sales inc,17600.0
+2013,Ford,Explorer,Base,UNKNOWN,Pennsylvania,22028.0,white,beige,ford motor credit company llc,20700.0
+2012,Honda,Pilot,EX-L,automatic,Pennsylvania,26103.0,black,gray,adcock brothers inc,26300.0
+2004,Dodge,Ram Pickup 2500,SLT,automatic,Pennsylvania,67793.0,gray,black,brookside motors inc,23300.0
+2011,Chevrolet,Express Cargo,2500,UNKNOWN,Pennsylvania,45812.0,white,gray,front line motors inc,19100.0
+2013,Chevrolet,Tahoe,LT,UNKNOWN,Pennsylvania,7140.0,black,black,us bank,40200.0
+2014,Ford,Expedition,EL King Ranch,automatic,Pennsylvania,27988.0,black,beige,leaserite leasing and sales,31500.0
+2014,Jeep,Grand Cherokee,Limited,UNKNOWN,Pennsylvania,59021.0,black,black,hann financial services,26000.0
+2013,Mitsubishi,Outlander,SE,UNKNOWN,Pennsylvania,41737.0,blue,black,avis corporation,15100.0
+2011,Nissan,Rogue,SV,UNKNOWN,Pennsylvania,39331.0,purple,black,nissan-infiniti lt,15600.0
+2010,BMW,X6,xDrive50i,UNKNOWN,Pennsylvania,56771.0,gray,black,r hollenshead auto sales inc,27000.0
+2010,Jeep,Wrangler,Unlimited Rubicon,UNKNOWN,Pennsylvania,33322.0,orange,gray,tdaf remarketing,25600.0
+2009,Land Rover,Range Rover,Supercharged,UNKNOWN,Pennsylvania,78476.0,blue,black,adcock brothers inc,28000.0
+2014,Chevrolet,Tahoe,LTZ,UNKNOWN,Pennsylvania,30592.0,red,black,avis corporation,41200.0
+2002,Pontiac,Grand Prix,SE,automatic,Pennsylvania,133341.0,burgundy,gray,enterprise fleet management exchange  inc.,600.0
+2013,Nissan,Altima,2.5,UNKNOWN,Pennsylvania,20566.0,—,black,nissan-infiniti lt,12300.0
+2012,Hyundai,Sonata,GLS,UNKNOWN,Pennsylvania,29711.0,gray,gray,hyundai motor finance,12900.0
+2012,Ford,Escape,XLT,automatic,Pennsylvania,29956.0,gold,black,ford-lincoln dealer program,17900.0
+2013,Kia,Optima,EX,automatic,Pennsylvania,15934.0,gray,gray,exceptional motorcars ltd,16600.0
+2013,Ford,Escape,SE,UNKNOWN,Pennsylvania,16174.0,gray,gray,ford motor credit company llc,18900.0
+2008,Audi,R8,quattro,UNKNOWN,Pennsylvania,30249.0,silver,black,r hollenshead auto sales inc,72000.0
+2011,Ford,F-150,XLT,UNKNOWN,Pennsylvania,75137.0,black,gray,le circuit ford lincoln ltee,21750.0
+2012,Volvo,XC60,T6 R-Design,UNKNOWN,Pennsylvania,21505.0,gray,black,fiserv/usb dealer services northstar exchange,27800.0
+2013,Honda,Odyssey,LX,automatic,Pennsylvania,63584.0,brown,tan,the hertz corporation,16500.0
+2006,GMC,Envoy XL,SLE,automatic,Pennsylvania,134400.0,black,gray,bergeys chrysler jeep dodge,4000.0
+2008,Land Rover,Range Rover,HSE,UNKNOWN,Pennsylvania,53575.0,green,beige,sun motor cars inc,19400.0
+2011,Chevrolet,Malibu,LS,UNKNOWN,Pennsylvania,66911.0,gray,black,gm financial leasing,7800.0
+2012,Nissan,Rogue,SV,automatic,Pennsylvania,42500.0,silver,black,nissan-infiniti lt,14900.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Pennsylvania,75744.0,green,beige,executive auto sales,15000.0
+2012,Kia,Optima,EX,UNKNOWN,Pennsylvania,23736.0,white,gray,kia motors finance,15200.0
+2013,Mercedes-Benz,GLK-Class,GLK350 4MATIC,UNKNOWN,Pennsylvania,34767.0,white,beige,mercedes-benz finc wholesale advantage,28750.0
+2013,BMW,5 Series,535i xDrive,UNKNOWN,Pennsylvania,43164.0,black,black,financial services remarketing (lease),31750.0
+2013,Chevrolet,Cruze,LS,UNKNOWN,Pennsylvania,23392.0,black,gray,gm financial leasing,11100.0
+2012,Chevrolet,Impala,LT,UNKNOWN,Pennsylvania,45916.0,blue,black,william h porter inc,9000.0
+2013,Toyota,Tacoma,V6,automatic,Pennsylvania,60786.0,black,gray,peruzzi toyota,22200.0
+2012,Ford,Escape,Limited,automatic,Pennsylvania,37108.0,red,black,ford motor credit company llc,18000.0
+2004,Volvo,S60,T5,UNKNOWN,Pennsylvania,146390.0,black,black,adcock brothers inc,3200.0
+2009,Cadillac,XLR,Platinum,UNKNOWN,Pennsylvania,26470.0,black,black,r hollenshead auto sales inc,38000.0
+2008,Dodge,Caliber,SE,automatic,Pennsylvania,96414.0,red,black,enterprise car sales,2600.0
+2003,Audi,A4,1.8T quattro,manual,Pennsylvania,114257.0,silver,black,bobby rahal bmw of south hills,4000.0
+2011,Lexus,LX 570,Base,UNKNOWN,Pennsylvania,55860.0,black,beige,northtown lexus,47000.0
+2013,Hyundai,Elantra,GLS,UNKNOWN,Pennsylvania,12243.0,black,gray,hyundai motor finance,12800.0
+2012,Honda,Odyssey,LX,automatic,Pennsylvania,26649.0,gray,gray,ahfc/honda lease trust/hvt  inc. eot,13800.0
+2012,Mazda,Mazda3,i Sport,UNKNOWN,Pennsylvania,21281.0,black,black,remarketing by ge/fusion auto finance llc,9400.0
+2013,Hyundai,Sonata,GLS,UNKNOWN,Pennsylvania,39203.0,silver,gray,avis corporation,11800.0
+2009,GMC,Acadia,SLT-1,UNKNOWN,Pennsylvania,61488.0,silver,black,wayne auto sales inc,17200.0
+2014,Mitsubishi,Lancer Evolution,GSR,manual,Pennsylvania,44966.0,silver,black,mmca  inc,24800.0
+2004,Buick,Rendezvous,CX,automatic,Pennsylvania,114211.0,gray,gray,695 auto sales & service,4700.0
+2012,Honda,Accord,LX,automatic,Pennsylvania,11753.0,silver,black,ahfc/honda lease trust/hvt  inc. eot,13700.0
+2014,Ford,E-Series Wagon,E-350 Super Duty XLT,UNKNOWN,Pennsylvania,29830.0,silver,gray,mick motors llc,27250.0
+2013,Toyota,Venza,Limited,UNKNOWN,Pennsylvania,33811.0,red,beige,sports car leasing,26300.0
+2013,Nissan,Altima,2.5,UNKNOWN,Pennsylvania,54424.0,white,black,dtg operations inc,11100.0
+2006,Mercedes-Benz,SLK-Class,SLK280,UNKNOWN,Pennsylvania,59489.0,black,red,adcock brothers inc,13200.0
+2007,Mercury,Mountaineer,Premier,automatic,Pennsylvania,92456.0,black,beige,r hollenshead auto sales inc,7000.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,39384.0,blue,black,nissan-infiniti lt,10400.0
+2012,Honda,Odyssey,EX-L,automatic,Pennsylvania,62248.0,black,gray,r hollenshead auto sales inc,18500.0
+2012,Chevrolet,Malibu,LS,UNKNOWN,Pennsylvania,38436.0,white,brown,gm financial leasing,10400.0
+2002,GMC,Envoy,SLT,automatic,Pennsylvania,173962.0,black,black,purple heart,800.0
+2011,Nissan,Maxima,3.5 SV,UNKNOWN,Pennsylvania,42186.0,purple,black,nissan-infiniti lt,16600.0
+2013,Hyundai,Genesis,3.8,UNKNOWN,Pennsylvania,9799.0,gray,black,r hollenshead auto sales inc,19000.0
+2005,Ford,Mustang,Deluxe,automatic,Pennsylvania,58597.0,silver,gray,dodge of paramus inc,6200.0
+2011,Mercedes-Benz,E-Class,E550 4MATIC,UNKNOWN,Pennsylvania,33028.0,blue,brown,adcock brothers inc,31000.0
+2013,Ford,C-Max Energi,SEL,UNKNOWN,Pennsylvania,33863.0,—,beige,ge fleet services for itself/servicer,13600.0
+2009,Cadillac,Escalade,Base,UNKNOWN,Pennsylvania,42894.0,black,black,r hollenshead auto sales inc,33250.0
+2009,Hyundai,Santa Fe,Limited,UNKNOWN,Pennsylvania,79880.0,blue,tan,fairfield toyota,13600.0
+2013,Chevrolet,Malibu,LS,UNKNOWN,Pennsylvania,4176.0,gray,gray,gm financial leasing,13800.0
+2012,Honda,Civic,EX,automatic,Pennsylvania,34048.0,gray,gray,rite cars inc,12200.0
+2012,Honda,Civic,EX,automatic,Pennsylvania,21054.0,black,gray,bay ridge honda suzuki kia,13000.0
+2013,Mercedes-Benz,C-Class,C300 Sport 4MATIC,UNKNOWN,Pennsylvania,30802.0,white,gray,mercedes-benz financial services,23500.0
+2012,Honda,Accord,SE,automatic,Pennsylvania,31141.0,black,black,ahfc/honda lease trust/hvt  inc. eot,12700.0
+2014,Ford,F-150,XLT,UNKNOWN,Pennsylvania,80.0,blue,tan,tdaf remarketing,26000.0
+2011,Lexus,GX 460,Base,UNKNOWN,Pennsylvania,69300.0,beige,tan,american resources financial llc,27750.0
+2014,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,35785.0,white,black,avis rent a car/barbush rentals,13700.0
+2013,Ford,Escape,SEL,automatic,Pennsylvania,31476.0,—,black,lease plan usa,19700.0
+2012,Mazda,Mazda6,i Touring,UNKNOWN,Pennsylvania,52085.0,silver,black,citiwide auto leasing,7900.0
+2011,Mazda,Mazda3,s Sport,UNKNOWN,Pennsylvania,38543.0,black,black,jpmorgan chase bank n.a.,9300.0
+2012,Infiniti,G Sedan,G37x,UNKNOWN,Pennsylvania,23003.0,blue,black,nissan infiniti lt,18800.0
+2011,Nissan,Rogue,SV,automatic,Pennsylvania,29082.0,—,black,nissan-infiniti lt,14800.0
+2014,Chrysler,Town and Country,Touring,automatic,Pennsylvania,23869.0,gold,black,hertz corporation/gdp,17800.0
+2012,Chevrolet,Tahoe,LT,UNKNOWN,Pennsylvania,36898.0,white,black,the hertz corporation,29750.0
+2011,Ford,F-150,XLT,automatic,Pennsylvania,23594.0,blue,gray,ford motor credit company llc,23400.0
+2014,Chrysler,Town and Country,Touring,UNKNOWN,Pennsylvania,29213.0,black,black,pv holding inc/gdp,20000.0
+2009,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Pennsylvania,93366.0,white,tan,progressive ford inc,19100.0
+2003,BMW,3 Series,325i,UNKNOWN,Pennsylvania,82375.0,gray,black,r hollenshead auto sales inc,4600.0
+2010,Ford,Escape,XLT,automatic,Pennsylvania,75378.0,black,black,ari,9700.0
+2009,Ford,F-150,XLT,automatic,Pennsylvania,40140.0,blue,gray,tdaf remarketing,21200.0
+2005,BMW,X3,3.0i,UNKNOWN,Pennsylvania,80953.0,gray,black,alans autos,7700.0
+2012,Mercedes-Benz,C-Class,C300 Luxury 4MATIC,UNKNOWN,Pennsylvania,39338.0,—,black,mercedes-benz financial services,20000.0
+2013,Nissan,Altima,2.5,automatic,Pennsylvania,10805.0,black,black,hann financial services,14000.0
+2013,Buick,Enclave,Premium Group,UNKNOWN,Pennsylvania,25032.0,black,black,autodome ltd,30600.0
+2012,Nissan,Rogue,S,UNKNOWN,Pennsylvania,44976.0,gray,gray,nissan-infiniti lt,18700.0
+2006,Chevrolet,Silverado 2500HD,LS,automatic,Pennsylvania,93140.0,silver,gray,parkway nissan lincoln mercury,11000.0
+2007,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Pennsylvania,143467.0,beige,beige,r hollenshead auto sales inc,4000.0
+2011,Mazda,Mazda3,s Sport,manual,Pennsylvania,37039.0,black,black,jpmorgan chase bank n.a.,10800.0
+2003,Cadillac,DeVille,Base,automatic,Pennsylvania,121042.0,beige,gray,jpmorgan chase bank n.a.,1200.0
+2012,Ford,F-150,Lariat,UNKNOWN,Pennsylvania,58389.0,white,tan,ford motor credit company llc,27900.0
+2013,Nissan,Altima,2.5,automatic,Pennsylvania,28933.0,red,black,nissan-infiniti lt,14200.0
+2008,Kia,Sorento,LX,UNKNOWN,Pennsylvania,63988.0,gray,gray,safeway motor corp,6600.0
+2014,Chrysler,Town and Country,Touring,automatic,Pennsylvania,29376.0,white,black,vigor leasing,18300.0
+2015,Mercedes-Benz,S-Class,S550 4MATIC,UNKNOWN,Pennsylvania,885.0,black,gray,mercedes-benz usa,87000.0
+2014,Dodge,Grand Caravan,R/T,UNKNOWN,Pennsylvania,12595.0,blue,black,enterprise holdings/gdp,19500.0
+2013,Honda,Civic,LX,automatic,Pennsylvania,31215.0,silver,black,avis corporation,12900.0
+2012,Chevrolet,Malibu,LT,UNKNOWN,Pennsylvania,43806.0,beige,tan,adcock brothers inc,10000.0
+2013,Mercedes-Benz,C-Class,C300 Sport 4MATIC,UNKNOWN,Pennsylvania,26744.0,—,black,mercedes-benz financial services,22500.0
+2008,Toyota,Avalon,Limited,UNKNOWN,Pennsylvania,91303.0,silver,gray,raceway cars,10500.0
+2014,Chevrolet,Cruze,1LT,UNKNOWN,Pennsylvania,19379.0,white,gray,gm remarketing,12500.0
+2013,Toyota,Highlander,Plus,automatic,Pennsylvania,14205.0,white,gray,toyota of york,26700.0
+2012,Chevrolet,Cruze,LS,UNKNOWN,Pennsylvania,36168.0,blue,black,gm financial leasing,9000.0
+2014,Ram,1500,Laramie,automatic,Pennsylvania,14698.0,black,black,general american rentals,34200.0
+2006,Dodge,Ram Pickup 2500,SLT,automatic,Pennsylvania,50577.0,black,gray,tdaf remarketing,16200.0
+2012,Kia,Optima,Hybrid,UNKNOWN,Pennsylvania,17720.0,white,beige,kia motors finance,14000.0
+2010,Nissan,Titan,LE,automatic,Pennsylvania,96078.0,blue,tan,tdaf remarketing,18600.0
+2011,Mazda,CX-7,s Touring,automatic,Pennsylvania,80268.0,gray,black,remarketing by ge/manheim pennsylvania,12700.0
+2007,Ford,F-150,Lariat,automatic,Pennsylvania,86845.0,white,tan,nil les auto sales inc,15300.0
+2010,Chevrolet,Tahoe,LS,automatic,Pennsylvania,89682.0,gray,black,congers auto sales inc,17100.0
+2014,Toyota,Camry,SE,UNKNOWN,Pennsylvania,17992.0,gray,black,toyota motor sales usa inc/program,16100.0
+2011,Nissan,Murano,SL,automatic,Pennsylvania,56688.0,black,black,nissan-infiniti lt,18400.0
+2010,Dodge,Charger,RT Fleet,automatic,Pennsylvania,51089.0,red,black,altoona honda,18000.0
+2014,Chevrolet,Cruze,LS,UNKNOWN,Pennsylvania,5312.0,black,black,gm financial,12800.0
+2012,Infiniti,QX,QX56,UNKNOWN,Pennsylvania,67089.0,white,black,adcock brothers inc,40500.0
+2006,Mercedes-Benz,M-Class,ML350,UNKNOWN,Pennsylvania,100059.0,black,gray,m and t bank,9200.0
+2006,Nissan,Murano,SL,automatic,Pennsylvania,125218.0,white,beige,kly international,5500.0
+2014,Chevrolet,Cruze,1LT,UNKNOWN,Pennsylvania,12755.0,black,red,hawthorne auto sales co,12300.0
+2012,Lincoln,MKZ,Base,UNKNOWN,Pennsylvania,11276.0,off-white,black,ford motor credit company llc,16500.0
+2013,Honda,CR-V,EX-L,UNKNOWN,Pennsylvania,31172.0,white,black,ahfc/honda lease trust/hvt  inc.,19700.0
+2013,Toyota,RAV4,XLE,UNKNOWN,Pennsylvania,25807.0,blue,beige,toyota financial services,20200.0
+2012,Cadillac,SRX,Luxury,UNKNOWN,Pennsylvania,29553.0,black,black,gm financial leasing,25600.0
+2008,Ford,Edge,Limited,UNKNOWN,Pennsylvania,66312.0,—,tan,r hollenshead auto sales inc,13300.0
+2012,Kia,Optima,EX,UNKNOWN,Pennsylvania,43659.0,burgundy,tan,kia motors finance,14200.0
+2004,Lexus,RX 330,Base,automatic,Pennsylvania,178836.0,black,gray,pohanka lexus,7700.0
+2010,Toyota,RAV4,Base,automatic,Pennsylvania,78280.0,silver,gray,nawi leasing inc,10500.0
+2012,Honda,Accord,LX-P,automatic,Pennsylvania,38783.0,silver,black,ahfc/honda lease trust/hvt  inc. eot,12900.0
+2013,Chrysler,200,LX,automatic,Pennsylvania,36394.0,blue,black,mascio motor car,10300.0
+2014,Kia,Optima,LX,UNKNOWN,Pennsylvania,36793.0,silver,gray,checker leasing dba avis rac,13800.0
+2003,Dodge,Durango,SLT,automatic,Pennsylvania,76393.0,silver,—,jim johnsons sons fine cars inc,5100.0
+2013,Toyota,Camry,LE,UNKNOWN,Pennsylvania,33115.0,gray,gray,avis corporation,13700.0
+2014,Volkswagen,Jetta,SE PZEV,automatic,Pennsylvania,38399.0,black,black,avis corporation,12100.0
+2015,Ford,Fusion,SE,automatic,Pennsylvania,15928.0,silver,black,ars/enterprise rac,18700.0
+2006,BMW,5 Series,525xi,UNKNOWN,Pennsylvania,129981.0,blue,tan,faulkner buick gmc,5800.0
+2012,Audi,A6,3.0T Premium quattro,UNKNOWN,Pennsylvania,40445.0,—,black,vw credit,28000.0
+2013,Nissan,Versa,1.6 S Plus,UNKNOWN,Pennsylvania,41807.0,blue,black,citiwide auto leasing,7800.0
+2012,Hyundai,Sonata Hybrid,Base,automatic,Pennsylvania,48580.0,white,black,daniel thomas sales,12900.0
+2014,Ram,1500,SLT,UNKNOWN,Pennsylvania,28273.0,white,gray,tdaf remarketing,24500.0
+2010,Toyota,Prius,III,automatic,Pennsylvania,64780.0,gray,gray,cheltenham motors inc,10500.0
+2012,Cadillac,CTS Coupe,Base,UNKNOWN,Pennsylvania,35521.0,black,black,fiserv/usb dealer services northstar exchange,20400.0
+2011,Cadillac,STS,V6 Luxury,UNKNOWN,Pennsylvania,51106.0,black,black,adcock brothers inc,16500.0
+2014,Ford,F-150,XL,automatic,Pennsylvania,8011.0,white,gray,u-haul,19000.0
+2010,Mercedes-Benz,S-Class,S550 4MATIC,automatic,Pennsylvania,45311.0,white,tan,randy ford inc,35000.0
+2012,Ford,F-150,XLT,UNKNOWN,Pennsylvania,50131.0,white,gray,tdaf remarketing,25700.0
+2015,Kia,Sorento,LX,UNKNOWN,Pennsylvania,15380.0,gray,gray,enterprise veh exchange/rental,20200.0
+2010,GMC,Acadia,SLT-2,UNKNOWN,Pennsylvania,113337.0,burgundy,beige,jones dealerships inc,13100.0
+2011,Toyota,Camry,XLE,UNKNOWN,Pennsylvania,51699.0,black,gray,acme autos international,13700.0
+2013,Volkswagen,Jetta,SE PZEV,UNKNOWN,Pennsylvania,36238.0,red,black,avis corporation,11400.0
+2012,Honda,Accord,EX,UNKNOWN,Pennsylvania,34559.0,blue,—,luxury fleet serv inc,13700.0
+2005,Honda,Accord,EX V-6,automatic,Pennsylvania,159452.0,—,gray,r hollenshead auto sales inc,4500.0
+2011,Mercedes-Benz,M-Class,ML350 4MATIC,UNKNOWN,Pennsylvania,47988.0,black,gray,mercedes-benz financial services,24000.0
+2012,Volkswagen,Jetta,S,UNKNOWN,Pennsylvania,29575.0,black,black,vw credit,7300.0
+2013,Mazda,Mazda3,i SV,UNKNOWN,Pennsylvania,37645.0,silver,black,smith haven mazda,12200.0
+2011,Subaru,Legacy,2.5i Limited,UNKNOWN,Pennsylvania,41089.0,blue,beige,jpmorgan chase bank n.a.,17000.0
+2006,Mercury,Milan,Base,automatic,Pennsylvania,144353.0,black,black,gateway of quakertown,1600.0
+2011,Nissan,Murano,SV,automatic,Pennsylvania,37945.0,gray,black,nissan-infiniti lt,17000.0
+2013,Ford,Fiesta,SE,automatic,Pennsylvania,15944.0,black,black,ford motor credit company llc,10500.0
+2011,Nissan,Rogue,S,UNKNOWN,Pennsylvania,31347.0,red,black,nissan-infiniti lt,13200.0
+2013,Ford,Fusion,SE,automatic,Pennsylvania,44462.0,silver,black,ford motor credit company llc,14700.0
+2014,Dodge,Grand Caravan,SXT,UNKNOWN,Pennsylvania,28663.0,burgundy,black,hertz corporation/gdp,15200.0
+2012,Ford,Edge,SE,automatic,Pennsylvania,42858.0,blue,black,ford motor credit company llc,14500.0
+1994,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Pennsylvania,161804.0,green,beige,purple heart,725.0
+2011,Infiniti,G Sedan,G25,UNKNOWN,Pennsylvania,39102.0,silver,black,adcock brothers inc,16000.0
+2012,Honda,Accord,SE,automatic,Pennsylvania,30502.0,white,beige,ahfc/honda lease trust/hvt  inc. eot,13700.0
+2012,Jeep,Grand Cherokee,Laredo,UNKNOWN,Pennsylvania,36510.0,white,black,smith haven chrysler jeep dodge,24200.0
+2008,Porsche,Cayenne,S,automatic,Pennsylvania,75118.0,black,black,bobby rahal bmw of south hills,20900.0
+2008,Buick,Lucerne,CXL,automatic,Pennsylvania,60070.0,blue,beige,capa wholesale cars inc,7800.0
+2014,Dodge,Grand Caravan,SXT,automatic,Pennsylvania,29381.0,red,black,pv holding inc/gdp,15600.0
+2014,Dodge,Grand Caravan,R/T,automatic,Pennsylvania,13245.0,red,black,enterprise holdings/gdp,19900.0
+2001,Cadillac,DeVille,Base,automatic,Pennsylvania,91886.0,white,tan,1 cochran of monroeville,2300.0
+2012,Nissan,Altima,2.5 S,automatic,Pennsylvania,38879.0,—,black,nissan-infiniti lt,13800.0
+2012,Acura,TL,Technology Package,UNKNOWN,Pennsylvania,58286.0,gray,black,ahfc/honda lease/trust/hvt  inc. eot acuras,18100.0
+2001,Dodge,Intrepid,ES,automatic,Pennsylvania,96405.0,red,black,h kulp inc,1200.0
+2012,Honda,Odyssey,LX,automatic,Pennsylvania,36128.0,gray,gray,ahfc/honda lease trust/hvt  inc. eot,12200.0
+2013,Dodge,Journey,SXT,UNKNOWN,Pennsylvania,57238.0,gray,black,the hertz corporation,12200.0
+2001,Volkswagen,Passat,GLX V6 4Motion,UNKNOWN,Pennsylvania,123715.0,blue,beige,nawi leasing inc,2100.0
+2013,Ram,3500,Tradesman,manual,Pennsylvania,32278.0,black,gray,r hollenshead auto sales inc,36000.0
+2013,Nissan,Pathfinder,SV,automatic,Pennsylvania,14886.0,beige,black,nissan motor acceptance corporation,21600.0
+2008,GMC,Acadia,SLT-1,automatic,Pennsylvania,75126.0,silver,black,robert ss auto sales inc,13500.0
+2005,BMW,X5,3.0i,UNKNOWN,Pennsylvania,130625.0,silver,black,r hollenshead auto sales inc,6400.0
+2008,Infiniti,QX56,Base,UNKNOWN,Pennsylvania,123103.0,white,tan,jim coleman cadillac infiniti,15200.0
+2011,Ford,F-250 Super Duty,XLT,UNKNOWN,Pennsylvania,44646.0,gold,gray,big tree auto brokers,23600.0
+2014,Chevrolet,Traverse,LT,UNKNOWN,Pennsylvania,14541.0,gray,black,enterprise veh exchange/rental,25000.0
+2011,Ford,F-150,XLT,automatic,Pennsylvania,46276.0,red,gray,hertrich family,27000.0
+2007,Chevrolet,Impala,LT,automatic,Pennsylvania,121195.0,silver,gray,us bank,1000.0
+2011,Subaru,Legacy,2.5i Premium,UNKNOWN,Pennsylvania,22822.0,blue,tan,jpmorgan chase bank n.a.,14100.0
+2012,Honda,Accord,LX,automatic,Pennsylvania,36103.0,brown,beige,ahfc/honda lease trust/hvt  inc. eot,12700.0
+2012,Honda,Odyssey,EX,UNKNOWN,Pennsylvania,45538.0,gold,tan,best auto wholesale,19250.0
+2007,Ford,F-150,XLT,automatic,Pennsylvania,35982.0,silver,gray,adcock brothers inc,16600.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,27965.0,white,black,nissan-infiniti lt,11700.0
+2014,Jeep,Patriot,Latitude,UNKNOWN,Pennsylvania,15710.0,blue,black,hertz corporation/gdp,16500.0
+2013,Hyundai,Sonata,GLS,UNKNOWN,Pennsylvania,10626.0,black,tan,hyundai motor finance,12500.0
+2011,Ford,F-150,XLT,automatic,Pennsylvania,35787.0,gray,gray,ford motor credit company llc,22500.0
+2014,Chevrolet,Impala Limited,LT Fleet,automatic,Pennsylvania,17027.0,black,black,gm remarketing,12700.0
+2012,Toyota,4Runner,SR5,automatic,Pennsylvania,86448.0,white,beige,lease plan usa,23200.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Pennsylvania,130543.0,silver,black,faulkner nissan inc,3600.0
+2008,Toyota,RAV4,Limited,automatic,Pennsylvania,100476.0,green,beige,r hollenshead auto sales inc,9200.0
+2011,BMW,3 Series,328i xDrive,UNKNOWN,Pennsylvania,34961.0,black,brown,r hollenshead auto sales inc,19100.0
+2003,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Pennsylvania,124089.0,black,black,r hollenshead auto sales inc,4300.0
+2012,Ford,Fusion,SEL,automatic,Pennsylvania,37375.0,—,black,wheels exchange llc,11800.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,51350.0,gray,black,nissan-infiniti lt,10500.0
+2010,Toyota,Highlander,Limited,UNKNOWN,Pennsylvania,51609.0,silver,gray,jim coleman toyota inc,22250.0
+2006,Ford,Fusion,SEL,automatic,Pennsylvania,107458.0,red,black,jpmorgan chase bank n.a.,3300.0
+2012,Acura,TL,Advance Package,automatic,Pennsylvania,40186.0,black,black,best auto wholesale,22000.0
+2012,Chevrolet,Silverado 1500,LT,UNKNOWN,Pennsylvania,105220.0,white,gray,wantz chevrolet inc,17200.0
+2006,Toyota,Camry,SE,UNKNOWN,Pennsylvania,77956.0,silver,gray,nawi leasing inc,6400.0
+2007,Lexus,LS 460,Base,automatic,Pennsylvania,111416.0,gray,tan,tdaf remarketing,13800.0
+2013,Mazda,Mazda3,i Sport,UNKNOWN,Pennsylvania,55572.0,black,black,dtg operations inc,9650.0
+2007,Chevrolet,Silverado 1500 Classic,LS,automatic,Pennsylvania,108013.0,white,gray,autocelli inc,12800.0
+2008,GMC,Acadia,SLE-1,automatic,Pennsylvania,107994.0,beige,gray,mcmahon leasing/mcmahon motors,11300.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,34283.0,white,beige,nissan-infiniti lt,11100.0
+2009,Volvo,S80,3.2,UNKNOWN,Pennsylvania,49298.0,blue,beige,carriage traders,12600.0
+2012,Volkswagen,Jetta SportWagen,S PZEV,UNKNOWN,Pennsylvania,40556.0,gray,black,vw credit,10500.0
+2013,Nissan,Sentra,SR,UNKNOWN,Pennsylvania,39355.0,black,black,nissan-infiniti lt,13300.0
+2012,Honda,Accord,SE,automatic,Pennsylvania,26639.0,silver,black,ahfc/honda lease trust/hvt  inc. eot,14600.0
+2010,Infiniti,QX56,Base,automatic,Pennsylvania,54819.0,white,beige,r hollenshead auto sales inc,29700.0
+2012,Ram,1500,SLT,UNKNOWN,Pennsylvania,19417.0,black,beige,fusion auto finance llc,24800.0
+2013,Nissan,Frontier,S,UNKNOWN,Pennsylvania,17820.0,white,gray,merchants automotive group,13000.0
+2012,Honda,Crosstour,EX-L,automatic,Pennsylvania,33215.0,green,beige,ahfc/honda lease trust/hvt  inc. eot,18900.0
+2013,Ford,Fusion,SE,UNKNOWN,Pennsylvania,14350.0,red,tan,ford motor credit company llc,13800.0
+2012,Acura,TSX,Base,automatic,Pennsylvania,51973.0,silver,black,ahfc/honda lease trust/hvt  inc acuras,14000.0
+2012,Cadillac,SRX,Luxury,UNKNOWN,Pennsylvania,28334.0,brown,beige,gm financial leasing,24400.0
+2013,Hyundai,Elantra,GLS,UNKNOWN,Pennsylvania,46739.0,red,beige,the hertz corporation,9500.0
+2014,Ram,1500,Laramie,automatic,Pennsylvania,14224.0,white,black,general american rentals,34700.0
+2011,Ford,Escape,XLT,UNKNOWN,Pennsylvania,117009.0,black,black,t l c auto sales inc,8200.0
+2014,Chevrolet,Cruze,LTZ,UNKNOWN,Pennsylvania,12369.0,white,black,gm remarketing,15400.0
+2014,Nissan,Rogue Select,S,automatic,Pennsylvania,4430.0,blue,gray,nissan north america inc.,15300.0
+2001,Chevrolet,Blazer,LS,automatic,Pennsylvania,138777.0,blue,black,purple heart,325.0
+2012,Lexus,ES 350,Base,UNKNOWN,Pennsylvania,18629.0,—,brown,r hollenshead auto sales inc,24200.0
+2013,Ford,Edge,SEL,UNKNOWN,Pennsylvania,24288.0,off-white,black,ford motor credit company llc,20800.0
+2013,Buick,Verano,Base,UNKNOWN,Pennsylvania,19648.0,black,beige,gm financial leasing,13000.0
+2014,Toyota,Camry,SE,UNKNOWN,Pennsylvania,9782.0,black,black,toyota motor sales usa inc/program,16600.0
+2015,Dodge,Grand Caravan,R/T,automatic,Pennsylvania,9868.0,beige,black,general american rentals,22900.0
+2013,Nissan,Rogue,S,automatic,Pennsylvania,14946.0,red,black,parkway nissan lincoln mercury,16600.0
+2012,Chevrolet,Malibu,LS,UNKNOWN,Pennsylvania,20026.0,black,gray,gm financial leasing,11800.0
+2012,Subaru,Legacy,2.5i Premium,manual,Pennsylvania,31913.0,blue,black,jpmorgan chase bank n.a.,14600.0
+2011,Honda,CR-V,SE,automatic,Pennsylvania,95433.0,gray,black,ahfc/honda lease trust/hvt  inc.,9200.0
+2014,Lincoln,MKZ,Base,automatic,Pennsylvania,33309.0,black,brown,avis budget group,21700.0
+2013,Chevrolet,Malibu,LT,UNKNOWN,Pennsylvania,15088.0,black,black,gm financial,12400.0
+2011,Mazda,Mazda3,s Sport,UNKNOWN,Pennsylvania,36856.0,white,black,jpmorgan chase bank n.a.,12200.0
+2010,Jeep,Wrangler,Rubicon,UNKNOWN,Pennsylvania,59976.0,black,gray,york mitsubishi,22250.0
+2012,Volkswagen,Passat,SE PZEV,UNKNOWN,Pennsylvania,27107.0,gray,black,vw credit,11900.0
+2012,Nissan,Rogue,S,UNKNOWN,Pennsylvania,37233.0,black,gray,nissan-infiniti lt,15100.0
+2012,Jaguar,XJ,XJL Supercharged,automatic,Pennsylvania,18357.0,white,beige,cadillac of mahwah llc,51000.0
+2013,Mitsubishi,Outlander Sport,ES,UNKNOWN,Pennsylvania,38010.0,gray,black,mmca  inc,13300.0
+2011,Kia,Sportage,LX,UNKNOWN,Pennsylvania,38772.0,blue,black,ken pollock nissan llc,12000.0
+2014,Ford,Escape,SE,automatic,Pennsylvania,31307.0,black,gray,ars/avis budget group,18900.0
+2012,Lexus,CT 200h,Premium,automatic,Pennsylvania,33594.0,black,black,lexus financial services,17600.0
+2009,Nissan,370Z,Touring,manual,Pennsylvania,16496.0,blue,black,sterimark motors inc,22300.0
+2014,Chevrolet,Cruze,LTZ,UNKNOWN,Pennsylvania,20150.0,white,black,gm remarketing,15000.0
+2014,Mazda,Mazda5,Sport,UNKNOWN,Pennsylvania,33697.0,white,tan,avis corporation,12500.0
+2012,Nissan,Armada,SV,automatic,Pennsylvania,22690.0,black,black,nissan-infiniti lt,35500.0
+2003,Honda,Accord,EX,automatic,Pennsylvania,147717.0,blue,gray,peoples credit company inc,3200.0
+2013,Volkswagen,Jetta,SE PZEV,UNKNOWN,Pennsylvania,20397.0,white,black,vw credit,12600.0
+2013,Nissan,Altima,2.5,UNKNOWN,Pennsylvania,50898.0,gray,black,dtg operations inc,10700.0
+2012,Honda,Civic,LX,automatic,Pennsylvania,26161.0,black,gray,ahfc/honda lease trust/hvt  inc. eot,10300.0
+2012,Jeep,Grand Cherokee,Laredo,UNKNOWN,Pennsylvania,51261.0,black,black,fiserv/usb dealer services northstar exchange,22700.0
+2014,Dodge,Grand Caravan,SXT,automatic,Pennsylvania,26634.0,silver,black,hertz corporation/gdp,17400.0
+2014,Chevrolet,Cruze,LTZ,automatic,Pennsylvania,22727.0,white,black,gm remarketing,14600.0
+2013,Chevrolet,Corvette,Grand Sport,automatic,Pennsylvania,1122.0,red,tan,kerbeck cadillac pontiac inc,45000.0
+2011,Nissan,Rogue,SV,automatic,Pennsylvania,38998.0,blue,gray,nissan-infiniti lt,15200.0
+2008,Toyota,FJ Cruiser,Base,manual,Pennsylvania,94037.0,silver,black,big tree auto brokers,15000.0
+2012,Jeep,Liberty,Sport,automatic,Pennsylvania,64489.0,red,black,ge fleet services for itself/servicer,14100.0
+2014,Kia,Sorento,LX,automatic,Pennsylvania,7537.0,burgundy,tan,joshua motor car co inc,18300.0
+2014,Ford,Focus,SE,UNKNOWN,Pennsylvania,33260.0,black,black,ford motor credit company,10500.0
+2012,Honda,Civic,EX,automatic,Pennsylvania,45706.0,black,gray,ahfc/honda lease trust/hvt  inc. eot,11700.0
+2013,BMW,X5,xDrive35i,UNKNOWN,Pennsylvania,38419.0,black,black,avis corporation,35600.0
+2008,GMC,Acadia,SLT-1,UNKNOWN,Pennsylvania,99845.0,red,black,r hollenshead auto sales inc,13600.0
+2011,Hyundai,Genesis Coupe,2.0T R-Spec,automatic,Pennsylvania,28873.0,gray,black,car sense inc,12000.0
+2012,Ford,Taurus,SEL,automatic,Pennsylvania,39838.0,—,black,ge fleet services for itself/servicer,13600.0
+2011,Nissan,Murano,SL,UNKNOWN,Pennsylvania,38381.0,white,beige,nissan-infiniti lt,21400.0
+2012,Nissan,Rogue,SV,automatic,Pennsylvania,43477.0,black,gray,nissan-infiniti lt,15000.0
+2011,Nissan,Maxima,3.5 SV,UNKNOWN,Pennsylvania,33588.0,white,beige,nissan-infiniti lt,21100.0
+2012,Infiniti,QX,QX56,automatic,Pennsylvania,56173.0,black,black,great neck nissan llc,39000.0
+2013,Ford,Edge,SEL,automatic,Pennsylvania,67477.0,—,black,wheels exchange llc,16300.0
+2014,Chrysler,Town and Country,Touring,automatic,Pennsylvania,13016.0,gold,beige,enterprise holdings/gdp,19700.0
+2006,Acura,TL,Base,UNKNOWN,Pennsylvania,79292.0,gray,gray,autocelli inc,9200.0
+2005,Toyota,4Runner,SR5,automatic,Pennsylvania,176181.0,silver,—,community auto sales inc,6300.0
+2012,Jeep,Wrangler,Sport,UNKNOWN,Pennsylvania,40308.0,green,black,r hollenshead auto sales inc,25000.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,31009.0,white,gray,nissan-infiniti lt,12600.0
+2010,Chevrolet,Equinox,LTZ,UNKNOWN,Pennsylvania,95595.0,gray,black,bob johnson 390 chevrolet inc,12000.0
+2013,Infiniti,G Sedan,G37x,UNKNOWN,Pennsylvania,19688.0,black,black,nissan infiniti lt,21800.0
+2012,Mercedes-Benz,C-Class,C63 AMG,UNKNOWN,Pennsylvania,20828.0,gray,black,adcock brothers inc,46700.0
+2013,Dodge,Avenger,SXT,UNKNOWN,Pennsylvania,53658.0,gray,black,the hertz corporation,8900.0
+2013,Chrysler,300,Base,automatic,Pennsylvania,41134.0,black,black,daniel thomas sales,17300.0
+2012,Honda,Odyssey,EX-L,UNKNOWN,Pennsylvania,32426.0,gray,gray,ahfc/honda lease trust/hvt  inc. eot,21900.0
+2010,Mercedes-Benz,GL-Class,GL450 4MATIC,automatic,Pennsylvania,44077.0,green,beige,adcock brothers inc,29000.0
+2014,Ford,Fusion,SE,automatic,Pennsylvania,3700.0,silver,beige,lease plan usa,14300.0
+2013,Nissan,Altima,2.5,UNKNOWN,Pennsylvania,23503.0,—,black,nissan-infiniti lt,13000.0
+2013,Toyota,Sienna,Limited 7-Passenger,UNKNOWN,Pennsylvania,20311.0,white,beige,adcock brothers inc,31400.0
+2013,Mazda,CX-5,Touring,UNKNOWN,Pennsylvania,7713.0,blue,black,peter stallone auto sales inc,20000.0
+2012,Acura,TL,Technology Package,UNKNOWN,Pennsylvania,23375.0,black,black,ahfc/honda lease trust/hvt  inc. eot,19200.0
+2007,Kia,Spectra,LX,manual,Pennsylvania,110650.0,blue,gray,1 cochran of monroeville,2750.0
+2014,Ford,E-Series Van,E-250,UNKNOWN,Pennsylvania,7718.0,white,gray,u-haul,20500.0
+2009,Volkswagen,Eos,Komfort,UNKNOWN,Pennsylvania,97781.0,black,gray,charles & son auto sls inc,7000.0
+2012,Honda,Accord,LX,automatic,Pennsylvania,28937.0,white,beige,ahfc/honda lease trust/hvt  inc. eot,13100.0
+2012,Acura,TSX,Base,automatic,Pennsylvania,46078.0,gray,gray,ahfc/honda lease/trust/hvt  inc. eot acuras,15300.0
+2013,Chevrolet,Traverse,LS,automatic,Pennsylvania,54879.0,gray,gray,lease plan usa,16300.0
+2012,Kia,Optima,Hybrid,UNKNOWN,Pennsylvania,29795.0,white,beige,kia motors finance,13900.0
+2014,Dodge,Grand Caravan,R/T,automatic,Pennsylvania,13550.0,gold,black,enterprise holdings/gdp,19000.0
+2012,Toyota,Tundra,Tundra,UNKNOWN,Pennsylvania,64002.0,white,gray,adcock brothers inc,28000.0
+2014,Chrysler,200,LX,automatic,Pennsylvania,39070.0,beige,black,enterprise veh exchange/rental,10700.0
+2013,Nissan,Murano,SV,UNKNOWN,Pennsylvania,58420.0,blue,beige,the hertz corporation,14500.0
+2012,Acura,TSX,Base,UNKNOWN,Pennsylvania,10477.0,black,black,ahfc/honda lease/trust/hvt  inc. eot acuras,17700.0
+2012,Volkswagen,Jetta,SE PZEV,UNKNOWN,Pennsylvania,33345.0,black,black,elite motors inc,10400.0
+2012,Ford,Focus,SE,automatic,Pennsylvania,25581.0,white,gray,remarketing by ge/manheim pennsylvania,9200.0
+2007,Toyota,FJ Cruiser,Base,automatic,Pennsylvania,89372.0,burgundy,black,alans autos,15000.0
+2013,Nissan,Altima,2.5,UNKNOWN,Pennsylvania,14989.0,gray,beige,nissan-infiniti lt,13000.0
+2009,Jeep,Liberty,Sport,UNKNOWN,Pennsylvania,103857.0,black,black,safeway motor corp,8900.0
+2012,Hyundai,Accent,GLS,UNKNOWN,Pennsylvania,38681.0,silver,gray,hyundai motor finance,7500.0
+2014,Ford,Fusion,SE,UNKNOWN,Pennsylvania,26212.0,red,black,avis budget group,11900.0
+2013,Ford,F-150,XLT,UNKNOWN,Pennsylvania,23001.0,black,gray,nil les auto sales inc,26100.0
+2009,Chevrolet,Impala,LT,automatic,Pennsylvania,95701.0,white,brown,jpmorgan chase bank n.a.,4700.0
+2007,Mercedes-Benz,GL-Class,GL450,automatic,Pennsylvania,99303.0,white,beige,auto select inc,15300.0
+2008,Lexus,LS 460,Base,UNKNOWN,Pennsylvania,56405.0,black,black,r hollenshead auto sales inc,25700.0
+2013,Dodge,Avenger,SE,automatic,Pennsylvania,51360.0,gray,black,dtg operations inc,9500.0
+2009,Maserati,GranTurismo,S,UNKNOWN,Pennsylvania,7959.0,black,red,r hollenshead auto sales inc,66500.0
+2013,Toyota,RAV4,Limited,automatic,Pennsylvania,19070.0,green,black,austintown chrysler dodge jeep inc,22900.0
+2014,Nissan,Versa Note,1.6 SV,UNKNOWN,Pennsylvania,20636.0,silver,black,avis rent a car/barbush rentals,10500.0
+2012,Cadillac,SRX,Performance,UNKNOWN,Pennsylvania,42322.0,red,beige,924 auto corp,26800.0
+2011,Hyundai,Veracruz,GLS,UNKNOWN,Pennsylvania,27274.0,white,gray,hyundai motor finance,17100.0
+2012,Mitsubishi,Lancer,SE,automatic,Pennsylvania,15794.0,black,black,mmca  inc,13600.0
+2012,Mazda,Mazda6,i Sport,UNKNOWN,Pennsylvania,16433.0,green,black,jpmorgan chase bank n.a.,9100.0
+2014,Nissan,Versa Note,1.6 SV,UNKNOWN,Pennsylvania,21969.0,—,black,nissan-infiniti lt,10200.0
+2013,Chevrolet,Equinox,LT,UNKNOWN,Pennsylvania,32648.0,black,black,enterprise veh exchange/rental,19300.0
+2008,smart,fortwo,pure,automatic,Pennsylvania,70100.0,black,tan,lancaster car company llc,3700.0
+2012,Nissan,Maxima,3.5 SV,UNKNOWN,Pennsylvania,21034.0,gray,black,nissan-infiniti lt,17700.0
+2012,GMC,Terrain,SLE-2,UNKNOWN,Pennsylvania,27514.0,gray,gray,gm financial leasing,16000.0
+2012,Acura,TSX,Base,UNKNOWN,Pennsylvania,33225.0,black,black,ahfc/honda lease/trust/hvt  inc. eot acuras,15100.0
+2012,Honda,Accord,LX,automatic,Pennsylvania,30537.0,red,beige,ahfc/honda lease trust/hvt  inc. eot,12500.0
+2011,Chrysler,300,Base,UNKNOWN,Pennsylvania,38278.0,blue,gray,fiserv/usb dealer services northstar exchange,17400.0
+2011,Lincoln,Town Car,Signature Limited,automatic,Pennsylvania,97661.0,black,black,criswell isuzu trucks,11000.0
+2010,Honda,Element,EX,automatic,Pennsylvania,56924.0,gray,gray,adcock brothers inc,16250.0
+2013,Ford,Explorer,XLT,automatic,Pennsylvania,14296.0,red,beige,ford motor credit company llc,28500.0
+2011,Ford,Escape,XLT,automatic,Pennsylvania,97003.0,—,beige,ge fleet services for itself/servicer,9300.0
+2014,Chrysler,Town and Country,Touring,automatic,Pennsylvania,17342.0,blue,black,enterprise holdings/gdp,19300.0
+2012,Honda,Accord,EX-L V-6,automatic,Pennsylvania,79488.0,black,black,ahfc/honda lease trust/hvt  inc. eot,11700.0
+2003,Cadillac,CTS,Base,automatic,Pennsylvania,75981.0,black,black,r hollenshead auto sales inc,4800.0
+2001,Toyota,Camry Solara,SE,automatic,Pennsylvania,101345.0,black,beige,champion mazda,3900.0
+2003,Honda,Pilot,EX,automatic,Pennsylvania,158683.0,gray,gray,criswell honda,3050.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Pennsylvania,197228.0,blue,brown,bobby rahal motorcar company,9000.0
+2014,Ford,F-150,XLT,automatic,Pennsylvania,23761.0,blue,gray,ars/enterprise,27400.0
+2012,BMW,5 Series,535i xDrive,UNKNOWN,Pennsylvania,61665.0,black,black,meridian remarketing,28000.0
+2007,Chevrolet,Malibu,LS,UNKNOWN,Pennsylvania,29166.0,gold,gray,ken pollock nissan llc,6300.0
+2012,Honda,Pilot,EX,automatic,Pennsylvania,25163.0,white,gray,ahfc/honda lease trust/hvt  inc. eot,20400.0
+2013,Hyundai,Elantra,GLS,UNKNOWN,Pennsylvania,27953.0,silver,gray,euro motorcars inc,10600.0
+2005,Nissan,Maxima,3.5 SL,UNKNOWN,Pennsylvania,81072.0,blue,gray,sun motor cars inc,4600.0
+2012,Honda,Accord,LX,automatic,Pennsylvania,30880.0,gray,gray,ahfc/honda lease trust/hvt  inc. eot,11600.0
+2008,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Pennsylvania,122336.0,white,gray,lease plan usa,4200.0
+2007,Chevrolet,Tahoe,LT,automatic,Pennsylvania,101883.0,red,beige,1 cochran of monroeville,16300.0
+2008,Mercedes-Benz,GL-Class,GL450,UNKNOWN,Pennsylvania,89612.0,silver,black,adcock brothers inc,18500.0
+2011,Jeep,Liberty,Sport,automatic,Pennsylvania,24936.0,black,gray,hann financial services,13800.0
+2011,Mitsubishi,Lancer,ES,automatic,Pennsylvania,37092.0,gray,black,mmca  inc,10200.0
+2004,Audi,A4,1.8T,UNKNOWN,Pennsylvania,106522.0,—,gray,r hollenshead auto sales inc,4800.0
+2006,Lincoln,Zephyr,Base,automatic,Pennsylvania,68902.0,silver,gray,car sense incorporated,8800.0
+2007,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Pennsylvania,100762.0,black,black,adcock brothers inc,11400.0
+2010,Acura,TSX,Base,UNKNOWN,Pennsylvania,27122.0,gray,black,ahfc/honda lease/trust/hvt  inc. eot acuras,14800.0
+2013,Mercedes-Benz,GL-Class,GL450 4MATIC,UNKNOWN,Pennsylvania,39884.0,blue,black,mercedes-benz/hertz wholesale advantage,40750.0
+2005,Jeep,Liberty,Limited,UNKNOWN,Pennsylvania,116970.0,beige,beige,bergeys chrysler jeep dodge,4250.0
+2010,Lincoln,MKT,Base,automatic,Pennsylvania,105448.0,black,black,benchmark auto sales nj llc,9600.0
+2012,Ford,Escape,Limited,automatic,Pennsylvania,35619.0,blue,black,ford motor credit company llc,17200.0
+2012,Nissan,Maxima,3.5 SV,UNKNOWN,Pennsylvania,37629.0,white,tan,nissan-infiniti lt,17000.0
+2003,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Pennsylvania,57781.0,gray,beige,reedman toll auto world,15100.0
+2012,Acura,TL,Base,UNKNOWN,Pennsylvania,26882.0,silver,black,ahfc/honda lease/trust/hvt  inc. eot acuras,18500.0
+2014,Jeep,Compass,Sport,UNKNOWN,Pennsylvania,18668.0,black,black,enterprise veh exchange/rental,16300.0
+2005,Chevrolet,Cobalt,LS,automatic,Pennsylvania,90537.0,blue,gray,enterprise car sales,3600.0
+2012,Honda,Accord,EX,automatic,Pennsylvania,28886.0,black,black,ahfc/honda lease trust/hvt  inc. eot,12200.0
+2004,Cadillac,Escalade EXT,Base,automatic,Pennsylvania,99753.0,white,tan,troy spencer and sons inc,10900.0
+2011,Jeep,Liberty,Sport,automatic,Pennsylvania,22065.0,red,black,fred martin motor co,15400.0
+2010,Honda,Civic,LX,automatic,Pennsylvania,47881.0,blue,gray,ahfc/honda lease trust/hvt  inc.,8800.0
+1998,Nissan,Pathfinder,LE,UNKNOWN,Pennsylvania,150514.0,burgundy,gray,hertz remarketing,1000.0
+2004,UNKNOWN,UNKNOWN,UNKNOWN,manual,Pennsylvania,130313.0,silver,gray,faulkner mazda,3400.0
+2013,Audi,A4,2.0T Premium quattro,UNKNOWN,Pennsylvania,37362.0,red,black,avis corporation,20400.0
+2012,Honda,CR-V,EX-L,UNKNOWN,Pennsylvania,30158.0,gray,gray,ahfc/honda lease trust/hvt  inc. eot,16800.0
+2013,Ford,Fusion,SE,UNKNOWN,Pennsylvania,35647.0,black,black,ford motor credit company llc,12900.0
+2014,Toyota,Camry,LE,UNKNOWN,Pennsylvania,36729.0,black,beige,avis corporation,14400.0
+2001,Ford,Taurus,SES,automatic,Pennsylvania,166088.0,beige,tan,deals on wheels,650.0
+2012,Toyota,Highlander,SE,UNKNOWN,Pennsylvania,41401.0,black,gray,bay ridge honda suzuki kia,21200.0
+2012,Chevrolet,Sonic,LS,automatic,Pennsylvania,59481.0,black,gray,fiserv/crescent ida,5900.0
+2013,Chevrolet,Equinox,LT,automatic,Pennsylvania,61095.0,white,black,the hertz corporation,15300.0
+2014,Ford,F-150,XLT,automatic,Pennsylvania,18716.0,silver,gray,ars/enterprise,27300.0
+2011,Chevrolet,Silverado 1500,LT,automatic,Pennsylvania,142165.0,blue,black,ari,14300.0
+2004,Mercedes-Benz,E-Class,E500 4MATIC,UNKNOWN,Pennsylvania,129539.0,gray,gray,r hollenshead auto sales inc,5000.0
+2012,Nissan,Maxima,3.5 SV,UNKNOWN,Pennsylvania,25268.0,burgundy,black,nissan-infiniti lt,17700.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,24704.0,blue,tan,nissan-infiniti lt,13700.0
+2014,Ford,Fiesta,SE,UNKNOWN,Pennsylvania,24531.0,gray,black,ars/enterprise rac,10400.0
+2013,Hyundai,Accent,GLS,automatic,Pennsylvania,33646.0,silver,gray,tdaf remarketing,8600.0
+2012,Honda,Odyssey,EX-L,automatic,Pennsylvania,15953.0,gray,gray,superior automotive sales i,24500.0
+2012,Acura,TL,Advance Package,UNKNOWN,Pennsylvania,30995.0,white,beige,ahfc/honda lease/trust/hvt  inc. eot acuras,22300.0
+2013,Kia,Soul,+,UNKNOWN,Pennsylvania,51020.0,green,black,the hertz corporation,10000.0
+2014,Ford,F-150,XL,UNKNOWN,Pennsylvania,11074.0,white,gray,u-haul,17700.0
+2011,Ford,Escape,XLT,automatic,Pennsylvania,46679.0,gray,beige,j & k auto gallery inc,11000.0
+2012,Audi,A4,2.0T Avant Premium quattro,UNKNOWN,Pennsylvania,19882.0,—,black,vw credit,22300.0
+2015,Hyundai,Veloster,Turbo,UNKNOWN,Pennsylvania,744.0,red,black,r hollenshead auto sales inc,18400.0
+2010,Chevrolet,Impala,LT,automatic,Pennsylvania,112579.0,red,beige,enterprise car sales,6000.0
+2012,Hyundai,Sonata,GLS,UNKNOWN,Pennsylvania,40403.0,white,beige,hyundai motor finance,9900.0
+2014,Chrysler,Town and Country,Touring,automatic,Pennsylvania,19303.0,silver,black,hertz corporation/gdp,19700.0
+2014,Jeep,Compass,Sport,automatic,Pennsylvania,15179.0,black,black,pv holding inc/gdp,14200.0
+2014,Ford,Explorer,Limited,UNKNOWN,Pennsylvania,36355.0,red,gray,ars/avis budget group,24800.0
+2014,Jeep,Patriot,Sport,automatic,Pennsylvania,14672.0,silver,black,hertz/tra,9300.0
+2013,Volkswagen,Jetta,SE PZEV,manual,Pennsylvania,38871.0,white,tan,vw credit,8900.0
+2012,Hyundai,Sonata,GLS,manual,Pennsylvania,31930.0,white,beige,hyundai motor finance,11100.0
+2012,Honda,Accord,SE,automatic,Pennsylvania,26163.0,white,beige,ahfc/honda lease trust/hvt  inc. eot,14200.0
+2007,Chevrolet,Tahoe,LT,automatic,Pennsylvania,106610.0,gray,black,r hollenshead auto sales inc,16750.0
+2009,Mercedes-Benz,E-Class,E350 4MATIC,automatic,Pennsylvania,94745.0,black,beige,r hollenshead auto sales inc,13000.0
+2014,Dodge,Grand Caravan,R/T,UNKNOWN,Pennsylvania,13932.0,gray,black,enterprise holdings/gdp,19800.0
+2001,Chrysler,Sebring,LXi,automatic,Pennsylvania,90202.0,silver,black,purple heart,1100.0
+2005,Jeep,Liberty,Limited,UNKNOWN,Pennsylvania,82036.0,black,gray,westbury jeep chrysler dodge inc,5800.0
+2009,Chevrolet,Tahoe,LTZ,UNKNOWN,Pennsylvania,64088.0,black,black,peter stallone auto sales inc,27500.0
+2006,Cadillac,SRX,V6,automatic,Pennsylvania,81952.0,black,gray,sign and drive auto group,4200.0
+2007,Honda,Accord,Special Edition,automatic,Pennsylvania,143758.0,white,beige,ahfc/honda lease trust/hvt  inc.,4200.0
+2005,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Pennsylvania,117785.0,black,beige,crossroad motors llc,11700.0
+2012,Ram,1500,Laramie Longhorn Edition,UNKNOWN,Pennsylvania,99388.0,black,—,healey ford lincoln mercury llc,23500.0
+2006,Porsche,Cayenne,S,automatic,Pennsylvania,126226.0,blue,gray,credit acceptance corp/vrs/southfield,7200.0
+2014,Chevrolet,Traverse,LS,UNKNOWN,Pennsylvania,14129.0,gray,gray,gm financial,20000.0
+2005,Nissan,Altima,3.5 SL,automatic,Pennsylvania,133730.0,gray,gray,grand prix suzuki,2450.0
+2004,Porsche,Cayenne,S,UNKNOWN,Pennsylvania,31536.0,gray,gray,terryville chevrolet llc,13000.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Pennsylvania,44323.0,gray,black,nissan-infiniti lt,17300.0
+2009,Honda,Civic,Hybrid,automatic,Pennsylvania,62015.0,blue,gray,apple honda isuzu chrysler plymouth,8200.0
+2005,Dodge,Dakota,ST,automatic,Pennsylvania,98656.0,white,gray,car expo us inc,2200.0
+2010,Dodge,Charger,SXT Fleet,automatic,Pennsylvania,79597.0,black,black,jim coleman honda,9500.0
+2014,Audi,A6,TDI Premium Plus quattro,UNKNOWN,Pennsylvania,8522.0,gray,black,r hollenshead auto sales inc,43500.0
+1999,Mercedes-Benz,E-Class,E320 4MATIC,UNKNOWN,Pennsylvania,99061.0,silver,black,r hollenshead auto sales inc,2600.0
+2009,Ford,F-150,FX4,automatic,Pennsylvania,88993.0,gray,black,tdaf remarketing,17600.0
+2006,Dodge,Charger,RT,automatic,Pennsylvania,91082.0,black,gray,exceptional motorcars ltd,9100.0
+2012,Toyota,Highlander,Limited,UNKNOWN,Pennsylvania,48689.0,gray,gray,don whites timonium chrysler jeep dodge,28250.0
+2012,Subaru,Impreza,2.0i Limited PZEV,UNKNOWN,Pennsylvania,6961.0,blue,black,jpmorgan chase bank n.a.,15800.0
+2015,Kia,Soul,+,UNKNOWN,Pennsylvania,9136.0,red,black,avis rent a car/barbush rentals,14100.0
+2014,Ram,2500,SLT,UNKNOWN,Pennsylvania,34340.0,white,gray,tdaf remarketing,33200.0
+2010,Dodge,Journey,SE,automatic,Pennsylvania,43208.0,blue,black,pohanka lexus,9300.0
+2012,Subaru,Outback,2.5i Limited PZEV,automatic,Pennsylvania,68590.0,black,gray,wheels exchange llc,17500.0
+2007,Dodge,Ram Pickup 1500,SLT,UNKNOWN,Pennsylvania,83155.0,silver,gray,mike watchers used cars,19000.0
+2012,Volkswagen,Jetta,S,UNKNOWN,Pennsylvania,23573.0,—,black,vw credit,9100.0
+2013,Lincoln,MKX,Base,automatic,Pennsylvania,25436.0,black,beige,ford-lincoln dealer program,29800.0
+2014,Honda,Odyssey,LX,automatic,Pennsylvania,10478.0,silver,gray,ahfc/honda lease trust/hvt  inc.,16300.0
+2013,Toyota,Prius,Two,automatic,Pennsylvania,28724.0,black,black,r hollenshead auto sales inc,18500.0
+2003,Subaru,Legacy,L,automatic,Pennsylvania,139856.0,green,black,r hollenshead auto sales inc,2500.0
+2014,Subaru,Forester,2.5i Premium PZEV,automatic,Pennsylvania,24926.0,gray,black,worldwide auto wholesalers inc,21300.0
+2006,Ford,F-150,XLT,automatic,Pennsylvania,100850.0,green,gray,west herr auto exchange inc,8200.0
+2012,BMW,X5,xDrive35i Premium,UNKNOWN,Pennsylvania,33230.0,black,beige,financial services remarketing (lease),39000.0
+2012,Chevrolet,Cruze,LS,UNKNOWN,Pennsylvania,60992.0,beige,black,gm financial,7800.0
+2011,Infiniti,QX56,Base,UNKNOWN,Pennsylvania,33380.0,black,black,tsj auto brokers inc,41500.0
+2011,Chevrolet,Camaro,1LT,automatic,Pennsylvania,38078.0,orange,black,r hollenshead auto sales inc,19600.0
+2012,Honda,Civic,LX,automatic,Pennsylvania,16737.0,silver,gray,ahfc/honda lease trust/hvt  inc. eot,10900.0
+2014,Chevrolet,Cruze,2LT,automatic,Pennsylvania,26108.0,black,black,exceptional motorcars ltd,13300.0
+2012,Hyundai,Elantra,Limited,UNKNOWN,Pennsylvania,36601.0,red,beige,hyundai motor finance,11000.0
+2011,BMW,3 Series,328i xDrive,UNKNOWN,Pennsylvania,43701.0,red,gray,financial services remarketing (lease),16100.0
+2011,Ford,F-150,XLT,automatic,Pennsylvania,38939.0,black,gray,ford motor credit company llc,21700.0
+2012,Ford,Escape,XLT,automatic,Pennsylvania,34033.0,black,black,ford motor credit company llc,14100.0
+2011,Hyundai,Equus,Ultimate,UNKNOWN,Pennsylvania,52893.0,black,beige,hyundai motor finance,25100.0
+2010,Ford,Expedition,King Ranch,automatic,Pennsylvania,80499.0,red,beige,towne ford lincoln mazda hyundai,18300.0
+2012,Nissan,Rogue,S,automatic,Pennsylvania,27709.0,silver,black,nissan-infiniti lt,15400.0
+2013,Ford,Fiesta,S,manual,Pennsylvania,57290.0,white,tan,ford motor credit company llc,6700.0
+2012,Honda,Accord,SE,automatic,Pennsylvania,24545.0,black,black,ahfc/honda lease trust/hvt  inc. eot,14400.0
+2013,Toyota,Camry,SE,UNKNOWN,Pennsylvania,9524.0,gray,black,toyota financial services,17000.0
+2013,Nissan,Versa,1.6 S Plus,UNKNOWN,Pennsylvania,47403.0,silver,black,porter nissan buick,9100.0
+2013,Nissan,Altima,2.5,UNKNOWN,Pennsylvania,54942.0,silver,black,dtg operations inc,10600.0
+2012,Nissan,Murano,S,automatic,Pennsylvania,41249.0,gray,beige,nissan-infiniti lt,15300.0
+2012,Ford,Fusion,SEL,automatic,Pennsylvania,62166.0,blue,black,dtg operations inc,9600.0
+2007,MINI,Cooper,Base,UNKNOWN,Pennsylvania,23980.0,yellow,black,r hollenshead auto sales inc,11400.0
+2012,Volvo,S60,T5,UNKNOWN,Pennsylvania,65843.0,black,beige,r hollenshead auto sales inc,13400.0
+2012,Jeep,Grand Cherokee,Laredo,UNKNOWN,Pennsylvania,40940.0,white,beige,fiserv/usb dealer services northstar exchange,23400.0
+2011,Nissan,Altima,2.5,automatic,Pennsylvania,45011.0,white,black,nissan-infiniti lt,11290.0
+2009,Buick,Enclave,CXL,automatic,Pennsylvania,74532.0,burgundy,black,car sense inc,13800.0
+2008,Volvo,XC90,3.2 Special Edition,automatic,Pennsylvania,106557.0,white,tan,manheim imports,8900.0
+1998,Lincoln,Continental,Base,automatic,Pennsylvania,200501.0,blue,gray,nick mayer lincoln mercury inc,300.0
+2013,Volkswagen,Jetta,SE PZEV,UNKNOWN,Pennsylvania,39988.0,gold,black,avis corporation,11200.0
+2007,Mercedes-Benz,E-Class,E350,UNKNOWN,Pennsylvania,99968.0,gray,black,bard whls,7200.0
+2012,Honda,Accord,SE,automatic,Pennsylvania,22985.0,black,black,ahfc/honda lease trust/hvt  inc. eot,12500.0
+2012,Honda,Civic,LX,automatic,Pennsylvania,26976.0,gray,tan,ahfc/honda lease trust/hvt  inc. eot,10700.0
+2008,Honda,Accord,LX-S,automatic,Pennsylvania,57975.0,gray,black,honda north,8700.0
+2014,Chevrolet,Tahoe,LTZ,automatic,Pennsylvania,33189.0,black,black,avis corporation,41000.0
+2013,Chevrolet,Sonic,LT,automatic,Pennsylvania,31878.0,blue,black,gm financial,7700.0
+2012,Audi,A7,Premium quattro,UNKNOWN,Pennsylvania,41497.0,silver,black,carriage traders,39500.0
+2010,Kia,Forte,SX,manual,Pennsylvania,70442.0,orange,black,fred martin motor co,6500.0
+2012,Ford,Flex,Limited,UNKNOWN,Pennsylvania,76941.0,white,gray,ford motor credit company llc,19400.0
+2004,Dodge,Sprinter Cargo,2500 140 WB,automatic,Pennsylvania,102754.0,—,gray,r hollenshead auto sales inc,7500.0
+2008,Honda,Civic,EX-L,automatic,Pennsylvania,70772.0,blue,gray,r hollenshead auto sales inc,9200.0
+2012,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Pennsylvania,58153.0,black,black,dollar thrifty auto group/faao,8100.0
+2012,Chrysler,Town and Country,Touring,automatic,Pennsylvania,36137.0,black,black,hann financial services,12800.0
+2001,Buick,LeSabre,Custom,automatic,Pennsylvania,88998.0,white,beige,levittown ford llc,1350.0
+2007,Ford,Escape,XLT,UNKNOWN,Pennsylvania,124331.0,blue,gray,enterprise car sales,4600.0
+2004,Lincoln,Navigator,Luxury,UNKNOWN,Pennsylvania,84253.0,white,gray,car sense incorporated,7600.0
+2012,Nissan,Rogue,S,UNKNOWN,Pennsylvania,18016.0,black,black,nissan-infiniti lt,19300.0

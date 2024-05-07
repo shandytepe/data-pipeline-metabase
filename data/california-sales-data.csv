@@ -1,0 +1,1345 @@
+year,make,model,trim,transmission,state,odometer,color,interior,seller,selling_price
+2012,Ford,Fusion,SEL,automatic,California,58776.0,white,gray,the hertz corporation,11200.0
+2011,BMW,3 Series,328i,automatic,California,21096.0,white,—,financial services remarketing (lease),24500.0
+2009,Chrysler,Town and Country,LX,automatic,California,95305.0,white,gray,v/m auto broker,5700.0
+2012,Mercedes-Benz,M-Class,ML350 4MATIC,automatic,California,49014.0,—,gray,mercedes-benz financial services,32250.0
+1998,Honda,Accord,EX,automatic,California,287017.0,white,beige,aaero sweet corporation,1150.0
+2003,Jeep,Liberty,Sport,automatic,California,123954.0,green,beige,trade in solutions irvine,3600.0
+2013,Nissan,Altima,2.5,automatic,California,47587.0,red,black,jpmorgan chase bank n.a.,12500.0
+2010,Volkswagen,Jetta,Limited Edition PZEV,automatic,California,111028.0,—,black,vw credit,4500.0
+2005,MINI,Cooper,Base,automatic,California,126850.0,blue,—,e/e auto wholesale,3600.0
+2013,BMW,6 Series Gran Coupe,640i,automatic,California,33756.0,white,—,financial services remarketing (lease),49700.0
+2013,Ford,Escape,SE,automatic,California,64958.0,white,gray,the hertz corporation,13500.0
+2011,Toyota,Sienna,XLE 8-Passenger,automatic,California,88751.0,white,beige,the motor car group inc,20000.0
+2006,Suzuki,Forenza,Base,automatic,California,117675.0,gold,gray,aaero sweet corporation,1500.0
+2012,Audi,A4,2.0T Premium quattro,automatic,California,12454.0,silver,black,high bid trading co inc,22750.0
+2001,Mercedes-Benz,CL-Class,CL500,automatic,California,94336.0,black,black,autobahn motors,7500.0
+2012,Mercedes-Benz,CLS-Class,CLS63 AMG,automatic,California,12535.0,black,black,mercedes-benz usa,54000.0
+2000,honda,odyssey,ex,automatic,California,139702.0,white,gray,acura of concord,2450.0
+2011,Ford,Fiesta,SE,automatic,California,69821.0,white,beige,james family auto sales,6800.0
+2013,Ford,Fiesta,SE,automatic,California,42286.0,silver,black,ford motor credit company llc pd,9200.0
+2004,Lexus,LS 430,Base,automatic,California,132052.0,silver,gray,i auto sales inc,9600.0
+2012,Jeep,Liberty,Sport,automatic,California,44163.0,white,black,dtg operations inc,14500.0
+2013,Ford,Focus,SE,automatic,California,32780.0,black,black,avis corporation,11400.0
+2005,Toyota,Avalon,Limited,automatic,California,90199.0,silver,black,m and m auto sales,8300.0
+2004,Audi,A4,3.0 quattro,automatic,California,111965.0,gray,black,lobel financial corp,3300.0
+2007,Chrysler,300,Touring,automatic,California,26659.0,silver,gray,gosch hyundai,11400.0
+2012,Ford,Fusion,SEL,automatic,California,60820.0,white,gray,ge fleet services for itself/servicer,11250.0
+2006,Toyota,Camry,LE,automatic,California,144915.0,white,tan,enterprise car sales/orange,4800.0
+2013,Audi,A6,2.0T Premium Plus quattro,automatic,California,23247.0,white,brown,volkswagen credit inc/sc,30500.0
+2014,Kia,Rio,LX,automatic,California,25944.0,black,gray,enterprise vehicle exchange / tra / rental / tulsa,7500.0
+2013,Nissan,Altima,2.5,UNKNOWN,California,30929.0,gray,black,avis corporation,12500.0
+2013,Ford,Focus,SE,automatic,California,54719.0,white,black,the hertz corporation,9600.0
+2011,Hyundai,Sonata,GLS,automatic,California,55604.0,gold,beige,hyundai buybacks,8400.0
+2011,Nissan,Leaf,SV,automatic,California,30257.0,—,beige,nissan-infiniti lt,7250.0
+2012,Mercedes-Benz,E-Class,E350 Luxury,automatic,California,12459.0,—,off-white,mercedes-benz financial services,29000.0
+2010,Toyota,Corolla,S,automatic,California,69397.0,gray,black,infiniti of montclair,10100.0
+2006,Hyundai,Tucson,Limited,automatic,California,125888.0,black,tan,a-l financial corporation,600.0
+2013,Dodge,Grand Caravan,SXT,automatic,California,66330.0,gold,black,dtg operations inc,11000.0
+2012,Lexus,IS 250,Base,automatic,California,33664.0,silver,gray,lexus financial services,19500.0
+2003,Lincoln,LS,Premium,automatic,California,95782.0,white,beige,lobel financial corp,2000.0
+2012,Kia,Optima,Hybrid,automatic,California,34874.0,gray,black,kia motors finance,13700.0
+2013,Nissan,Leaf,SV,automatic,California,13457.0,—,black,nissan motor acceptance corporation,11500.0
+2014,Ford,Escape,Titanium,automatic,California,34204.0,black,beige,ford motor credit company,20400.0
+2013,Kia,Rio,SX,automatic,California,604.0,blue,black,kia motors america  inc,14000.0
+2009,Nissan,Quest,3.5 SL,automatic,California,66321.0,blue,gray,santander consumer,8000.0
+1991,BMW,8 Series,850i,automatic,California,106148.0,white,gray,rover of orange,6750.0
+2013,Infiniti,G Coupe,G37 Sport,automatic,California,26460.0,gray,black,nissan infiniti lt,25000.0
+2012,Honda,Accord,LX,automatic,California,35151.0,gray,gray,ahfc/honda lease trust/hvt  inc.,11400.0
+2014,Nissan,Sentra,SV,automatic,California,18350.0,blue,black,enterprise vehicle exchange / tra / rental / tulsa,9800.0
+2004,Nissan,Murano,SL,automatic,California,193537.0,silver,gray,time finance co,3100.0
+2006,Buick,LaCrosse,CXS,automatic,California,107861.0,silver,black,arrowhead auto group inc,6500.0
+2009,Chevrolet,HHR,LS,automatic,California,89819.0,black,black,credit acceptance corp/vrs/southfield,4800.0
+2014,Mercedes-Benz,CLA-Class,CLA250,automatic,California,14392.0,white,black,high bid trading co inc,25000.0
+2005,Volvo,S40,2.4i,automatic,California,121174.0,silver,gray,desert fleet lease,3600.0
+2012,Hyundai,Sonata,GLS,automatic,California,42665.0,blue,gray,hyundai motor america/co car,11600.0
+2011,Mercedes-Benz,C-Class,C300 Sport,automatic,California,37854.0,white,gray,mercedes-benz financial services,19500.0
+2013,Chevrolet,Impala,LT Fleet,automatic,California,44478.0,black,black,enterprise vehicle exchange/orange,10700.0
+2013,Hyundai,Elantra,GLS,automatic,California,33282.0,red,tan,avis corporation,11600.0
+2013,Nissan,Leaf,SV,automatic,California,19541.0,red,gray,nissan-infiniti lt,8400.0
+2011,Ford,Escape,XLT,UNKNOWN,California,80849.0,white,gray,ge fleet services for itself/servicer,11100.0
+2015,Audi,A3,1.8 TFSI Premium,automatic,California,13196.0,black,gray,enterprise vehicle exchange / tra / rental / tulsa,17200.0
+2005,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,82277.0,gold,beige,skyhigh remarketing inc,16300.0
+2011,Mazda,Mazda2,Touring,automatic,California,12528.0,silver,black,aaero sweet company,9300.0
+2002,Mercedes-Benz,C-Class,C320,automatic,California,93229.0,black,black,volkswagen santa monica,3100.0
+2008,Scion,tC,Base,automatic,California,77833.0,burgundy,black,skyhigh remarketing inc,8250.0
+2007,Nissan,Sentra,2,automatic,California,76329.0,blue,gray,california auto exchange,6700.0
+2012,Mercedes-Benz,C-Class,C250 Sport,automatic,California,30563.0,—,black,mercedes-benz financial services,21500.0
+2015,Nissan,Altima,2.5 S,automatic,California,12978.0,red,black,enterprise veh exchange/rental,16600.0
+2005,chrysler,pacifica,awd v6 touring,manual,California,57890.0,black,black,felix chevrolet & cadillac,1200.0
+2006,Mercedes-Benz,R-Class,R350,automatic,California,74773.0,black,black,american road leasing inc,9000.0
+2008,BMW,3 Series,335i,UNKNOWN,California,105788.0,white,—,champion chrysler jeep dodge,10000.0
+2013,Kia,Sportage,LX,automatic,California,40331.0,gray,gray,avis rac/san leandro,15200.0
+1993,Honda,Accord,EX,automatic,California,168792.0,white,blue,north county hyundai,1200.0
+2009,BMW,X5,xDrive48i,automatic,California,47403.0,white,black,onemain rem/m&m auto traders,25500.0
+2012,Ford,Fiesta,SE,automatic,California,54292.0,gray,black,ford motor credit company llc pd,8900.0
+2013,Toyota,Corolla,S Special Edition,automatic,California,54251.0,blue,gray,fox rent a car,10500.0
+2013,Nissan,Altima,2.5,automatic,California,8154.0,black,black,nissan motor acceptance corporation,18250.0
+2014,Chrysler,200,LX,automatic,California,22220.0,white,black,enterprise vehicle exchange / tra / rental / tulsa,2200.0
+2013,Ford,Focus,SE,automatic,California,25285.0,gray,gray,gm financial,10000.0
+2012,Chevrolet,Volt,Base,automatic,California,35412.0,black,black,fiserv/usb dealer services northstar exchange,17300.0
+2009,BMW,3 Series,328i,automatic,California,94866.0,white,brown,prestige auto,12000.0
+2013,Ford,C-Max Hybrid,SEL,automatic,California,26529.0,green,beige,mercedes benz of temecula,15000.0
+2014,Volkswagen,Passat,SE PZEV,automatic,California,5524.0,white,black,vw credit,17250.0
+2006,Mitsubishi,Lancer Evolution,IX,manual,California,99237.0,red,black,clear view systems,12500.0
+2013,Chevrolet,Suburban,LTZ 1500,automatic,California,63529.0,white,black,dtg operations inc,12800.0
+2013,Chevrolet,Equinox,LTZ,automatic,California,62169.0,silver,black,the hertz corporation,16500.0
+2006,Bentley,Continental Flying Spur,Base,automatic,California,42929.0,blue,tan,high bid trading co inc,55000.0
+2006,Chrysler,300,Touring,automatic,California,132171.0,gray,beige,m l sim,5000.0
+2006,Ford,F-150,XLT,automatic,California,159366.0,white,gray,remarketing by ge/finance & thrift company,7400.0
+2008,BMW,5 Series,528i,automatic,California,136039.0,gray,black,bmw of murrieta,8600.0
+2005,Volkswagen,New Beetle,GL,automatic,California,74952.0,red,black,the car exchange,2900.0
+2013,Honda,Civic,Si,manual,California,21012.0,blue,black,ahfc/honda lease trust/hvt  inc. eot,19900.0
+2009,Ford,Flex,SEL,automatic,California,122577.0,blue,black,first investors servicing corp,7700.0
+2011,Hyundai,Genesis,3.8,automatic,California,75817.0,silver,black,tustin hyundai,12350.0
+2012,mitsubishi,galant,fe,automatic,California,69457.0,black,black,dtg operations inc,7500.0
+2011,Toyota,Camry,SE,automatic,California,92494.0,white,black,santander consumer,9500.0
+2012,Audi,A4,2.0T Premium,automatic,California,22641.0,black,black,rusnak pasadena jaguar sterling pasadena,22500.0
+2007,Saturn,Outlook,XE,automatic,California,80404.0,white,gray,clear view systems,7000.0
+2013,Infiniti,QX,QX56,automatic,California,56241.0,gray,—,the hertz corporation,37001.0
+2012,Honda,CR-V,EX-L,automatic,California,44065.0,white,brown,ahfc/honda lease trust/hvt  inc. eot,20700.0
+2013,Mercedes-Benz,C-Class,C250 Sport,automatic,California,14147.0,white,black,mercedes-benz financial services,22500.0
+2012,Audi,A3,2.0T Premium,automatic,California,42617.0,black,black,skyhigh remarketing inc,16000.0
+2012,BMW,5 Series,535i,automatic,California,60878.0,black,black,financial services remarketing (lease),24900.0
+2009,Lincoln,MKX,Base,automatic,California,101263.0,black,beige,walters auto sales/service inc,11700.0
+2006,Toyota,Corolla,S,manual,California,141589.0,blue,black,800 loan mart,2700.0
+2012,Infiniti,G Sedan,G37 Journey,automatic,California,17598.0,gray,black,nissan infiniti lt,20500.0
+2012,Ford,Fiesta,SE,automatic,California,21315.0,black,black,elite auto sales/leasing,8300.0
+2013,Nissan,Sentra,FE+ S,automatic,California,39218.0,gray,black,nissan dealer blend/ross nissan of el monte,13000.0
+2013,Dodge,Challenger,SXT,automatic,California,31802.0,white,black,enterprise vehicle exchange / tra / rental / tulsa,13600.0
+2008,Saturn,Outlook,XR,automatic,California,102481.0,red,beige,honda of pasadena,9500.0
+1999,Toyota,Land Cruiser,Base,automatic,California,186491.0,green,—,lexus of marin,7000.0
+2011,BMW,5 Series,535i,automatic,California,47803.0,gray,—,financial services remarketing (lease),26000.0
+2002,Toyota,Highlander,Base,automatic,California,168232.0,white,gray,three way chevrolet co,9000.0
+2012,Nissan,Altima,2.5 S,automatic,California,62646.0,silver,black,the hertz corporation,11250.0
+2005,Mitsubishi,Outlander,LS,automatic,California,130483.0,white,black,foreman financial  inc,2400.0
+2013,Mercedes-Benz,GLK-Class,GLK350,automatic,California,19870.0,black,—,mercedes-benz financial services,29250.0
+2009,Saturn,Aura,XE,automatic,California,78925.0,blue,gray,nvp remarketing,5000.0
+2010,ford,e350,club wagon xlt,automatic,California,90184.0,white,gray,vpsi  inc,12500.0
+2012,MINI,Cooper,Base,automatic,California,10529.0,white,—,bmw mini financial services,14500.0
+2014,Kia,Cadenza,Premium,automatic,California,18928.0,blue,beige,kia motors finance,20500.0
+2012,Ford,Edge,SEL,automatic,California,45631.0,black,black,ford motor credit company llc pd,20000.0
+2010,Scion,tC,Base,manual,California,70484.0,black,black,co car toyota motor sales,7500.0
+2014,Chrysler,Town and Country,Touring,automatic,California,40213.0,gray,black,enterprise vehicle exchange/orange,18100.0
+2012,Ford,E-Series Van,E-150,UNKNOWN,California,51918.0,white,gray,ge fleet services for itself/servicer,15500.0
+2002,Chevrolet,Monte Carlo,SS,automatic,California,179428.0,white,beige,sammy's enterprise & sales,850.0
+2013,Chevrolet,Equinox,LTZ,automatic,California,51507.0,white,black,the hertz corporation,16100.0
+2009,Ford,Ranger,SPORT,automatic,California,106431.0,blue,black,premium auto wholesale,9000.0
+2013,BMW,3 Series,328i,automatic,California,31816.0,white,black,avis corporation,24750.0
+2011,Chevrolet,Silverado 1500,Work Truck,automatic,California,103025.0,white,black,aaero sweet company,11500.0
+2004,Isuzu,Rodeo,S,automatic,California,92018.0,red,beige,california auto wholesale,6000.0
+2011,Toyota,Camry,LE,automatic,California,44118.0,gold,beige,century dealer services corp,12750.0
+2011,Honda,CR-V,EX-L,automatic,California,32915.0,gray,black,ahfc/honda lease trust/hvt  inc. eot,15500.0
+2013,Chevrolet,Malibu,LT,automatic,California,57604.0,silver,black,fox rent a car,12000.0
+2014,Hyundai,Veloster,Base,automatic,California,11000.0,yellow,black,hyundai motor america/co car,17000.0
+2013,Nissan,Altima,2.5,UNKNOWN,California,22439.0,beige,gray,nissan-infiniti lt,14000.0
+1997,Mercury,Grand Marquis,LS,automatic,California,92044.0,blue,blue,prados auto sales/auction,1800.0
+2005,BMW,6 Series,645Ci,automatic,California,69777.0,gray,beige,audi north scottsdale,15300.0
+2012,BMW,3 Series,335i,automatic,California,37543.0,gray,—,financial services remarketing (lease),27250.0
+2010,Ford,Transit Connect,Cargo Van XLT,automatic,California,106402.0,white,gray,ge fleet services for itself/servicer,8750.0
+2007,ford,expeditn,el 4x2 xlt,automatic,California,132786.0,white,brown,santander consumer,6600.0
+2007,Nissan,Altima Hybrid,Base,automatic,California,85494.0,black,gray,onemain rem/delta dealer,8300.0
+2004,Kia,Sedona,EX,UNKNOWN,California,119146.0,blue,gray,credit acceptance corp/vrs/southfield,1300.0
+2011,Nissan,Rogue,S,automatic,California,27507.0,black,black,nissan-infiniti lt,13250.0
+2014,Toyota,Yaris,LE,automatic,California,35206.0,silver,black,enterprise vehicle exchange / tra / rental / tulsa,8700.0
+2005,nissan,350z,UNKNOWN,automatic,California,87861.0,black,—,auto depot,6000.0
+2001,Honda,Accord,EX,manual,California,170962.0,black,—,apexcars net,1200.0
+2011,Volkswagen,Jetta,Base,manual,California,41567.0,gray,black,vw credit,6250.0
+2011,BMW,3 Series,328i,automatic,California,25219.0,gray,gray,financial services remarketing (lease),21500.0
+2014,Ford,Fusion,Titanium,automatic,California,18865.0,black,black,ford motor credit company,20400.0
+2000,Buick,Regal,GS,automatic,California,77369.0,silver,gray,aaero sweet company,1900.0
+2013,Infiniti,G Sedan,G37 Journey,manual,California,23622.0,gray,black,nissan infiniti lt,25000.0
+2012,Mercedes-Benz,C-Class,C250 Sport,automatic,California,41265.0,—,black,mercedes-benz financial services,20000.0
+2000,BMW,M,Base,manual,California,166346.0,blue,blue,high bid trading co inc,5500.0
+2013,Nissan,Altima,2.5 S,automatic,California,39426.0,white,black,avis corporation,13800.0
+2008,Scion,tC,Base,automatic,California,61767.0,silver,black,newport acceptance corp,6000.0
+2012,smart,fortwo,passion coupe,automatic,California,10973.0,black,black,mercedes-benz financial services,6250.0
+2013,Nissan,Sentra,SR,automatic,California,24802.0,gray,black,visalia ford,12500.0
+2010,Nissan,Titan,SE,automatic,California,79986.0,red,black,tdaf remarketing,12750.0
+2013,Ford,Escape,Titanium,automatic,California,83203.0,black,black,m/r motors inc,15500.0
+2011,BMW,3 Series,328i,automatic,California,61088.0,gray,black,financial services remarketing (lease),15300.0
+2014,Infiniti,Q50,Base,UNKNOWN,California,26430.0,blue,black,gm financial,24500.0
+2003,HUMMER,H2,Base,automatic,California,92653.0,gold,tan,remarketing by ge/chase lease remarketing co,13100.0
+2013,Nissan,Altima,2.5,automatic,California,24185.0,black,black,california republic bank,12900.0
+2012,Honda,Accord,LX-P,automatic,California,35616.0,silver,black,reliance motors llc,13900.0
+2013,Ford,Edge,SEL,automatic,California,20566.0,white,beige,ford motor credit company llc pd,24100.0
+2004,Jeep,Grand Cherokee,Laredo,automatic,California,124649.0,gray,gray,hertz remarketing,5000.0
+2007,Honda,Civic,EX,automatic,California,113339.0,white,tan,sky touch imports inc,8100.0
+2012,Mercedes-Benz,C-Class,C250 Sport,automatic,California,18702.0,—,gray,mercedes-benz financial services,18000.0
+2003,Toyota,Camry,LE,automatic,California,168975.0,silver,—,south county fiat at mission viejo,4300.0
+2002,Mitsubishi,Montero,Limited,automatic,California,129631.0,red,beige,volkswagen of murrieta,1800.0
+2011,Infiniti,G Sedan,G37 Journey,automatic,California,29232.0,black,black,california rent-a-car & leasing,19500.0
+2002,Toyota,Highlander,Base,automatic,California,163663.0,silver,silver,car trackers,7250.0
+2013,Mitsubishi,Outlander Sport,LE,automatic,California,36035.0,red,black,avis rac/san leandro,16000.0
+2005,Chrysler,Crossfire,Limited,manual,California,61504.0,red,black,trade in solutions irvine,6300.0
+2008,Ford,F-350 Super Duty,XLT,automatic,California,66348.0,black,black,titlemax/upland ca1,23000.0
+1997,Chrysler,Sebring,JXi,automatic,California,109371.0,black,gray,enterprise car sales/orange,500.0
+2012,BMW,5 Series,535i,automatic,California,23519.0,black,black,financial services remarketing (lease),35500.0
+2003,Lincoln,Navigator,Ultimate,automatic,California,127521.0,black,black,s/s auto wholesale,3800.0
+2014,Subaru,Outback,2.5i Premium PZEV,automatic,California,19697.0,red,black,subaru of america,22300.0
+2010,BMW,3 Series,328i,automatic,California,91609.0,blue,beige,century dealer services corp,12200.0
+2011,Chevrolet,Malibu,LS Fleet,automatic,California,75918.0,silver,gray,challenge financial services,8700.0
+2011,Chevrolet,Tahoe,LT,automatic,California,76822.0,black,beige,wheels exchange llc,22000.0
+2010,Acura,MDX,Base,automatic,California,48176.0,gray,beige,desert european motorcars,21750.0
+2007,Jeep,Wrangler,Unlimited Sahara,automatic,California,88348.0,burgundy,gray,gulliver,15750.0
+2012,Chevrolet,Silverado 1500,LT,automatic,California,50779.0,white,black,remarketing by ge/manheim utah,18000.0
+2013,Ford,Explorer,XLT,automatic,California,55932.0,white,black,the hertz corporation,22400.0
+2005,Pontiac,GTO,Base,manual,California,143586.0,black,red,yucca valley chrysler plymouth dodge inc,6900.0
+2013,Nissan,Altima,2.5,automatic,California,34267.0,red,black,avis corporation,12300.0
+2014,Nissan,Versa Note,1.6 SV,automatic,California,15568.0,silver,—,enterprise vehicle exchange / tra / rental / tulsa,6900.0
+2012,MINI,Cooper,Base,automatic,California,18731.0,blue,—,bmw mini financial services,13500.0
+2012,Hyundai,Sonata,GLS,automatic,California,15240.0,silver,gray,hyundai motor finance,13400.0
+2008,Ford,F-150,XLT,automatic,California,101726.0,red,gray,skyhigh remarketing inc,9250.0
+2009,Nissan,Versa,1.8 SL,UNKNOWN,California,32574.0,blue,black,premier motors inc,6000.0
+2011,Jeep,Compass,Base,automatic,California,102852.0,gray,black,enterprise veh exchange/rental,7900.0
+2004,Honda,Civic,Value Package,automatic,California,207439.0,green,tan,westlake financial services,2000.0
+2008,Toyota,Yaris,Base,automatic,California,112787.0,gray,black,santander consumer,6100.0
+2013,Volkswagen,Tiguan,S,automatic,California,47765.0,white,black,avis rac/san leandro,14200.0
+2013,Mercedes-Benz,E-Class,E350 Sport,automatic,California,25341.0,—,black,mercedes-benz financial services,31250.0
+2011,Mercedes-Benz,C-Class,C63 AMG,automatic,California,47736.0,black,black,mercedes-benz usa,28000.0
+2014,Mazda,Mazda6,i Touring,automatic,California,10110.0,white,tan,mazda motors of america inc.,19250.0
+2010,Acura,TSX,Base,automatic,California,67259.0,gray,beige,wells fargo dealer services,15200.0
+2013,Hyundai,Elantra,GLS,automatic,California,22049.0,gray,gray,high bid trading co inc,11500.0
+2000,Cadillac,DeVille,Base,automatic,California,73879.0,off-white,beige,toyota santa monica,2100.0
+2006,Pontiac,GTO,Base,manual,California,45667.0,black,burgundy,sierra auto investment co,16100.0
+2006,Ford,F-150,XL,manual,California,96608.0,blue,gray,worthington ford,4900.0
+2014,Nissan,Altima,2.5 S,UNKNOWN,California,5019.0,black,black,nissan motor acceptance corporation,14750.0
+2007,Acura,TL,Type-S,automatic,California,116882.0,silver,black,b & j car company,10300.0
+2007,Lincoln,Mark LT,Base,UNKNOWN,California,104991.0,off-white,beige,bmw of riverside,15500.0
+2014,Honda,Civic,EX-L,automatic,California,13890.0,black,black,american honda motor company,18600.0
+1998,Ford,F-150,XL,automatic,California,233205.0,white,gray,jimmie johnson kearny mesa chevrolet,600.0
+2003,BMW,7 Series,760Li,automatic,California,139243.0,gray,gray,santander consumer,4500.0
+2010,Ford,Edge,SE,automatic,California,69435.0,silver,blue,credit acceptance corp/vrs/southfield,11000.0
+2013,Hyundai,Genesis,3.8,automatic,California,39606.0,white,beige,high bid trading co inc,19500.0
+2004,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,113051.0,off-white,tan,800 loan mart,2100.0
+2010,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,39632.0,white,gray,wheels exchange llc,16750.0
+2006,Dodge,Grand Caravan,SXT,automatic,California,90257.0,silver,gray,reliance motors llc,5100.0
+2012,Toyota,Camry,LE,automatic,California,62653.0,blue,gray,dtg operations inc,11500.0
+1997,Toyota,Avalon,XL,UNKNOWN,California,158570.0,gold,beige,billion dodge chrysler jeep,650.0
+2012,MINI,Cooper,Base,automatic,California,20775.0,red,—,bmw mini financial services,14000.0
+2005,Audi,A4,1.8T quattro,automatic,California,117852.0,black,black,car guy tz,3400.0
+2013,Chrysler,200,Touring,automatic,California,35531.0,gray,black,enterprise vehicle exchange / tra / rental / tulsa,9200.0
+2004,Ford,Econoline Cargo,E-250,UNKNOWN,California,147117.0,white,gray,clear view systems,3000.0
+2014,Toyota,Camry,SE,automatic,California,9087.0,silver,black,onemain rem/m&m auto traders,17700.0
+2003,Chevrolet,Silverado 2500HD,Base,automatic,California,78665.0,white,gray,clear view systems,4600.0
+2013,Chevrolet,Equinox,LT,automatic,California,27754.0,black,black,m/r motors inc,17400.0
+2013,Ford,Taurus,Limited,automatic,California,34456.0,black,black,enterprise vehicle exchange / tra / rental / tulsa,6100.0
+2012,Chevrolet,Impala,LT Fleet,automatic,California,64212.0,gold,beige,dtg operations inc,7900.0
+2012,Chevrolet,Cruze,2LT,automatic,California,68058.0,gold,black,the hertz corporation,8900.0
+2014,Ford,Focus ST,Base,manual,California,7085.0,blue,black,ford motor credit company llc,20500.0
+2013,Hyundai,Elantra,GLS,automatic,California,37374.0,gray,gray,high bid trading co inc,12000.0
+2007,BMW,6 Series,650i,automatic,California,80443.0,black,black,high bid trading co inc,17750.0
+2013,Chevrolet,Camaro,SS,automatic,California,38429.0,gray,gray,avis corporation,23750.0
+2011,Dodge,Journey,Mainstreet,automatic,California,67585.0,gold,beige,wells fargo dealer services,7300.0
+2012,Chrysler,200,LX,automatic,California,56523.0,black,gray,dtg operations inc,9100.0
+2010,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,71838.0,brown,black,the car exchange,9100.0
+2013,Ford,Taurus,SEL,automatic,California,27754.0,silver,black,ge fleet services for itself/servicer,14500.0
+2008,Chevrolet,Avalanche,LT,UNKNOWN,California,82098.0,gray,black,aaero sweet company,16000.0
+2012,Hyundai,Genesis Coupe,2.0T,manual,California,65836.0,silver,black,onemain rem/m&m auto traders,12000.0
+2002,Ford,Ranger,XLT,automatic,California,185990.0,white,beige,sierra auto investment co,2550.0
+2012,Ford,Fiesta,SES,automatic,California,49241.0,red,black,dtg operations inc,8900.0
+2012,BMW,X5,xDrive35d,automatic,California,48402.0,UNKNOWN,UNKNOWN,financial services remarketing/rail cars,33750.0
+2000,Chevrolet,Malibu,LS,automatic,California,146057.0,white,beige,inland chevrolet,850.0
+2002,Chevrolet,Impala,LS,automatic,California,127687.0,silver,gray,lincoln financial services,2300.0
+2014,Honda,Civic,LX,automatic,California,17284.0,—,tan,midway hfc fleet,9000.0
+2012,Honda,Civic,EX-L,automatic,California,29606.0,gray,gray,barber honda,14750.0
+2011,Chevrolet,HHR,LT,automatic,California,68016.0,blue,black,cal west motors,6250.0
+2012,Nissan,Leaf,SL,automatic,California,15724.0,silver,beige,nissan-infiniti lt,12000.0
+2012,Ford,Fusion,SE,automatic,California,84993.0,—,gray,lease plan usa,9700.0
+2014,Volkswagen,Passat,S PZEV,automatic,California,35291.0,gray,black,avis rac/san leandro,14800.0
+2011,Infiniti,G Sedan,G25,automatic,California,38975.0,black,black,nissan infiniti lt,17000.0
+1994,Honda,Accord,LX,automatic,California,167182.0,white,beige,clear view systems,900.0
+2012,Ford,Fusion,SEL,automatic,California,69165.0,gray,black,the hertz corporation,8400.0
+2013,Chrysler,200,Touring,automatic,California,38682.0,gray,black,avis corporation,11000.0
+2013,FIAT,500,Pop,automatic,California,44261.0,gray,gray,enterprise veh exchange/rental,8500.0
+2013,Dodge,Grand Caravan,SXT,automatic,California,60991.0,blue,black,dtg operations inc,11200.0
+2006,Ford,F-150,XL,automatic,California,137555.0,white,gray,wheels exchange llc,3000.0
+2012,BMW,3 Series,328i,automatic,California,44121.0,white,black,financial services remarketing (lease),25000.0
+2010,Dodge,Grand Caravan,SE,automatic,California,79104.0,gray,black,ge capital fleet services,8200.0
+2012,Hyundai,Sonata,GLS,automatic,California,33100.0,blue,gray,hyundai motor finance,12500.0
+2014,Nissan,Sentra,S,UNKNOWN,California,7681.0,black,black,nissan motor acceptance corporation,13750.0
+2002,BMW,3 Series,325i,automatic,California,150272.0,silver,black,s & s auto wholesale,2700.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,California,17543.0,gray,beige,nissan infiniti lt,21500.0
+2006,Volkswagen,New Beetle,2.5 PZEV,automatic,California,81826.0,yellow,gray,nvp remarketing,5500.0
+2008,Toyota,RAV4,Limited,automatic,California,72437.0,white,gray,reliance motors llc,13800.0
+2013,Nissan,Altima,2.5,automatic,California,51679.0,silver,black,dtg operations inc,11500.0
+2009,Dodge,Challenger,SRT8,automatic,California,93093.0,black,black,high bid trading co inc,21750.0
+2013,Mercedes-Benz,C-Class,C250 Sport,automatic,California,9279.0,black,—,mercedes-benz financial services,24000.0
+2014,Ford,Fusion,SE,automatic,California,15387.0,black,black,enterprise vehicle exchange / tra / rental / tulsa,13200.0
+2007,Mercedes-Benz,CLK-Class,CLK350,automatic,California,114104.0,silver,silver,san diego sports cars,7300.0
+2012,Dodge,Grand Caravan,SXT,automatic,California,36386.0,white,black,wheels exchange llc,13800.0
+2015,BMW,4 Series,428i SULEV,automatic,California,2811.0,white,black,financial services remarketing (lease),35500.0
+2012,Land Rover,Range Rover Sport,Supercharged,automatic,California,45797.0,gray,black,jpmorgan chase bank n.a.,48500.0
+2010,Mercedes-Benz,S-Class,S550,automatic,California,43992.0,black,beige,skyhigh remarketing inc,26750.0
+2008,HUMMER,H3,Base,automatic,California,105359.0,white,black,onemain rem/casey's car inc,12000.0
+2008,Hyundai,Elantra,GLS,automatic,California,98123.0,black,gray,tdaf remarketing,4100.0
+2001,Ford,Taurus,SES,automatic,California,112544.0,black,black,camelback finance co,800.0
+2008,Chevrolet,Impala,LS,automatic,California,130211.0,white,gray,carvant financial llc,3900.0
+2011,BMW,5 Series Gran Turismo,535i xDrive,automatic,California,46995.0,black,black,financial services remarketing/rail cars,26500.0
+2008,BMW,X5,4.8i,automatic,California,91918.0,gray,gray,allen cadillac gmc,15800.0
+2013,Chevrolet,Equinox,LT,automatic,California,24138.0,white,black,wheels exchange llc,19200.0
+2013,Mazda,CX-9,Touring,automatic,California,44289.0,gray,black,avis rac/san leandro,20000.0
+2013,Hyundai,Elantra,GLS,automatic,California,14288.0,silver,gray,hyundai motor finance,12100.0
+2008,Nissan,Armada,LE,automatic,California,96738.0,black,black,wells fargo dealer services,12200.0
+2010,Honda,Civic,DX-VP,automatic,California,94501.0,gray,gray,a l financial corporation,5000.0
+2012,BMW,5 Series,528i,automatic,California,29266.0,gray,—,financial services remarketing (lease),30000.0
+2010,Kia,Sportage,LX,automatic,California,82831.0,silver,black,guard auto sales,8400.0
+2014,Hyundai,Sonata,GLS,automatic,California,13948.0,blue,gray,hyundai motor america,14500.0
+2008,Mercedes-Benz,S-Class,S550,automatic,California,53829.0,black,black,volvo of orange county,27500.0
+2011,Nissan,Leaf,SL,automatic,California,31841.0,—,beige,nissan-infiniti lt,10100.0
+2007,Ford,Focus,ZX4 SE,automatic,California,163879.0,white,gray,800 loan mart,1950.0
+2011,BMW,3 Series,328i xDrive,automatic,California,27477.0,white,beige,financial services remarketing/rail cars,21500.0
+2013,Mercedes-Benz,E-Class,E350 Sport BlueTEC,automatic,California,14592.0,—,gray,mercedes-benz usa,31000.0
+2013,Ford,Focus,SE,automatic,California,41543.0,gray,black,avis rac/san leandro,10000.0
+2012,Hyundai,Genesis,3.8,automatic,California,59505.0,black,beige,the hertz corporation,14000.0
+2004,Ford,Excursion,Limited,UNKNOWN,California,102063.0,gold,beige,aaero sweet company,15500.0
+2012,Honda,Civic,LX,automatic,California,21036.0,gray,gray,myrddin fleet services,11300.0
+2012,Toyota,Tundra,Tundra,automatic,California,45514.0,white,gray,toyota financial services,21400.0
+2014,Toyota,Tacoma,PreRunner V6,automatic,California,18976.0,gray,gray,bmw alphera/alphera financial services,21250.0
+2010,BMW,7 Series,750Li,automatic,California,64010.0,beige,beige,caseys cars inc,28500.0
+2014,Kia,Soul,Base,manual,California,4695.0,green,black,valley kia,11500.0
+2013,Chevrolet,Silverado 1500,LS,automatic,California,26355.0,blue,black,tdaf remarketing,17500.0
+2008,Mercedes-Benz,CLK-Class,CLK350,automatic,California,77773.0,black,black,walters auto sales/service inc,13000.0
+2013,BMW,7 Series,750Li,automatic,California,19926.0,white,tan,financial services remarketing (lease),58000.0
+2012,MINI,Cooper,S,automatic,California,20620.0,white,—,bmw mini financial services,16500.0
+2003,Pontiac,Grand Am,GT,automatic,California,158869.0,red,gray,martin chevrolet,900.0
+2009,Chevrolet,Silverado 2500HD,Work Truck,automatic,California,38822.0,white,gray,enterprise fleet management exchange  inc.,20000.0
+2008,BMW,3 Series,335i,automatic,California,87122.0,black,black,san diego sports cars,13250.0
+2012,Nissan,Altima,2.5 S,automatic,California,55045.0,gray,black,nissan-infiniti lt,11000.0
+2013,Chevrolet,Malibu,LT,automatic,California,59907.0,silver,black,the hertz corporation,10700.0
+2012,BMW,M3,Base,automatic,California,28223.0,black,black,financial services remarketing (lease),29500.0
+2012,Lexus,LS 460,Base,automatic,California,40800.0,black,black,lexus financial services,38400.0
+2004,Acura,TL,3.2,automatic,California,71864.0,silver,gray,motor city lexus of bakersfield,10800.0
+2013,Chevrolet,Impala,LTZ,automatic,California,43343.0,—,black,enterprise veh exchange/rental,12000.0
+2003,Chevrolet,Astro,Base,UNKNOWN,California,123336.0,white,gray,800 loan mart,1500.0
+2014,Subaru,Impreza,2.0i Premium PZEV,manual,California,15222.0,white,black,subaru of america,16400.0
+2013,Ford,Escape,SE,automatic,California,16804.0,white,gray,ford motor credit company llc pd,19600.0
+2012,Chevrolet,Equinox,LS,automatic,California,66082.0,silver,black,b & j car company,13000.0
+2005,Infiniti,G35,Base,automatic,California,131007.0,gray,black,zinc auto finance,6600.0
+2010,Hyundai,Elantra,Blue,manual,California,70878.0,gray,gray,onemain rem/m&m auto traders,7000.0
+1998,Volvo,S70,Base,automatic,California,178677.0,white,brown,skyhigh remarketing inc,350.0
+2012,Chevrolet,Volt,Base,automatic,California,35486.0,silver,black,fiserv/usb dealer services northstar exchange,15000.0
+2012,Infiniti,G Sedan,G37x,automatic,California,31154.0,brown,black,nissan infiniti lt,18500.0
+2001,Lexus,LS 430,Base,automatic,California,274891.0,black,black,onemain rem/fmt enterprises inc,4600.0
+2014,Dodge,Journey,SXT,automatic,California,30487.0,orange,black,the motor car group inc,17500.0
+2006,Toyota,Corolla,CE,UNKNOWN,California,183761.0,white,gray,ge fleet services for itself/servicer,2700.0
+2009,Honda,Odyssey,EX-L,automatic,California,101290.0,blue,gray,pro cars,10600.0
+2009,Mitsubishi,Galant,ES,automatic,California,109931.0,off-white,gray,remarketing by ge/xpress rent a car,3500.0
+2003,Mercedes-Benz,E-Class,E320,automatic,California,119300.0,silver,black,mercedes benz of laguna niguel,4800.0
+2014,BMW,3 Series,328d,automatic,California,12200.0,black,beige,high bid trading co inc,30000.0
+2014,Honda,Civic,LX,automatic,California,8953.0,gray,gray,hertz/tra,8500.0
+2007,Pontiac,G6,Base,automatic,California,148924.0,silver,gray,palm springs nissan,2400.0
+2007,Toyota,Yaris,Base,automatic,California,123802.0,blue,gray,repo remarketing/schools first fcu,1300.0
+2014,Ford,Focus,SE,automatic,California,18917.0,gray,black,crb auto finance,12500.0
+2013,Mercedes-Benz,E-Class,E350 Sport,automatic,California,23008.0,white,black,mercedes-benz financial services,32500.0
+2011,Infiniti,FX,FX35,automatic,California,48901.0,brown,black,nissan infiniti lt,28250.0
+2014,Volkswagen,Passat,Wolfsburg Edition PZEV,automatic,California,31044.0,black,black,avis corporation,14700.0
+2012,Ford,Transit Connect,Cargo Van XLT,automatic,California,70018.0,—,gray,wheels exchange llc,11000.0
+2003,Mercedes-Benz,S-Class,S430,automatic,California,108954.0,silver,—,high bid trading co inc,5400.0
+2014,Nissan,Quest,SV,UNKNOWN,California,31466.0,silver,tan,avis corporation,20000.0
+2012,BMW,6 Series,650i,automatic,California,26704.0,silver,tan,financial services remarketing (lease),49250.0
+2012,Infiniti,G Sedan,G37 Journey,automatic,California,34925.0,gray,black,nissan infiniti lt,17750.0
+2005,Honda,Accord,LX,automatic,California,139610.0,gray,gray,infiniti of montclair,5200.0
+2013,Chrysler,Town and Country,Limited,automatic,California,42755.0,white,black,bmw alphera/alphera financial services,20250.0
+2003,Honda,Odyssey,EX-L,automatic,California,133226.0,blue,gray,credit acceptance corp/vrs/southfield,2900.0
+2014,Volkswagen,Jetta,SE PZEV,automatic,California,1216.0,—,black,wheels exchange llc,15100.0
+2010,Nissan,Titan,SE,automatic,California,77027.0,gray,black,top star lsg,15000.0
+2001,Lincoln,LS,Base,automatic,California,110711.0,gold,tan,skyhigh remarketing inc,2100.0
+2007,Chevrolet,Impala,LS,automatic,California,29728.0,—,gray,northwestern chrys/j/d/ge,8200.0
+2005,GMC,Yukon,Fleet,automatic,California,107925.0,white,gray,stadium nissan,7600.0
+2013,Dodge,Avenger,SE,automatic,California,33785.0,blue,beige,santander consumer,9000.0
+2002,Ford,Explorer,XLS,automatic,California,161709.0,white,gray,bmw of monrovia,1600.0
+2004,Ford,Explorer,XLT,automatic,California,108386.0,silver,gray,the car exchange,4200.0
+2004,Lexus,LS 430,Base,automatic,California,190870.0,black,tan,lucky imports,6500.0
+2014,Infiniti,Q50,Premium,automatic,California,15073.0,gray,black,nissan infiniti lt,28000.0
+2011,Mercedes-Benz,E-Class,E350,automatic,California,51059.0,red,—,mercedes-benz financial services,27000.0
+2012,Infiniti,M,M37,automatic,California,16457.0,gray,black,nissan infiniti lt,28000.0
+2013,Chevrolet,Captiva Sport,LS Fleet,automatic,California,37722.0,blue,black,the hertz corporation,11700.0
+2008,Pontiac,G6,Value Leader,automatic,California,98149.0,black,black,800 loan mart,2000.0
+1991,Mercedes-Benz,500-Class,500SL,automatic,California,175568.0,silver,gray,bob baker jeep,1300.0
+2009,Mercedes-Benz,GL-Class,GL450,automatic,California,97136.0,black,black,hoehn motors inc,20000.0
+2012,Volkswagen,Passat,SE PZEV,automatic,California,36824.0,white,black,mercedes benz of laguna niguel,13100.0
+2012,BMW,3 Series,328i,automatic,California,36617.0,black,black,financial services remarketing (lease),23500.0
+2011,Honda,Civic,LX,automatic,California,81429.0,black,gray,wells fargo dealer services,6900.0
+2011,Lexus,RX 350,Base,automatic,California,34544.0,black,beige,richard j bartlett jr enterprises,24000.0
+2008,Mercedes-Benz,C-Class,C300 Sport,automatic,California,71109.0,white,black,high bid trading co inc,15600.0
+2014,Honda,Civic,EX,automatic,California,2804.0,blue,gray,ahfc/honda lease trust/hvt  inc.,17000.0
+2005,Mercedes-Benz,C-Class,C240 Luxury,automatic,California,105735.0,white,black,auto remarketing resources,3400.0
+2012,Ford,Fusion,SEL,automatic,California,29694.0,—,beige,lease plan usa,12400.0
+2001,Chevrolet,Suburban,1500,automatic,California,183927.0,gray,tan,800 loan mart,1300.0
+2005,Ford,Freestar,SEL,automatic,California,261786.0,gray,gray,ge fleet services for itself/servicer,1100.0
+2012,BMW,5 Series,535i,automatic,California,53487.0,gray,black,financial services remarketing (lease),31250.0
+2012,Toyota,Corolla,LE,automatic,California,57628.0,silver,gray,the hertz corporation,11100.0
+2013,Ford,Focus,SE,automatic,California,28652.0,silver,—,hertz/tra,3000.0
+2013,Mercedes-Benz,E-Class,E350 Sport,automatic,California,13759.0,black,black,mercedes-benz financial services,36000.0
+2012,BMW,3 Series,328i,automatic,California,30238.0,white,black,financial services remarketing (lease),24250.0
+2008,Lexus,LS 460,Base,automatic,California,97755.0,gray,beige,newport lexus,16100.0
+2014,Ford,F-350 Super Duty,XLT,automatic,California,18444.0,white,gray,enterprise vehicle exchange / tra / rental / tulsa,28100.0
+2006,Infiniti,G35,Base,automatic,California,67537.0,black,black,bob baker jeep,12750.0
+2014,Ford,Mustang,V6,automatic,California,39160.0,red,gray,avis corporation,17400.0
+2010,Honda,CR-V,EX-L,automatic,California,47337.0,gray,black,remarketing by ge/chase lease remarketing co,16000.0
+2012,Ford,Fusion,SE,automatic,California,33513.0,red,gray,ford motor credit company llc pd,12300.0
+2010,BMW,X6,xDrive35i,automatic,California,40104.0,gold,black,mckenna audi/mckenna bmw,32300.0
+2012,Kia,Optima,Hybrid,automatic,California,26375.0,white,gray,kearny pearson kia,15400.0
+2008,Chrysler,PT Cruiser,Base,automatic,California,103376.0,silver,gray,acura of riverside,3200.0
+2013,Chevrolet,Sonic,LT,automatic,California,51624.0,white,black,the hertz corporation,8100.0
+2013,Ford,C-Max Hybrid,SEL,automatic,California,72547.0,white,black,the hertz corporation,10900.0
+2007,GMC,Yukon,SLE,automatic,California,86548.0,gray,gray,puente hills mitsubishi,15000.0
+2011,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,25110.0,white,black,towbin motorcars,40250.0
+2008,Infiniti,G37,Base,automatic,California,93981.0,gray,black,aaero sweet corporation,15500.0
+2003,Acura,RSX,Base,automatic,California,106065.0,beige,tan,high bid trading co inc,6400.0
+2013,Honda,Civic,LX,automatic,California,33402.0,blue,gray,ahfc/honda lease trust/hvt  inc.,14000.0
+2011,Honda,Odyssey,EX-L,automatic,California,51844.0,gray,gray,onemain rem/m&m auto traders,20800.0
+2010,Volkswagen,Jetta,TDI,automatic,California,93028.0,gray,black,turlock auto source incorporated,10100.0
+2012,Volkswagen,GTI,PZEV,automatic,California,81792.0,—,black,vw credit,13250.0
+2013,Hyundai,Veloster,Turbo,UNKNOWN,California,12359.0,black,black,donlen corporation,14000.0
+2009,BMW,3 Series,335i,automatic,California,81113.0,black,black,financial services remarketing (lease),13700.0
+2012,Nissan,Altima,2.5 S,automatic,California,24895.0,white,gray,nissan-infiniti lt,12500.0
+2012,BMW,3 Series,328i,automatic,California,33355.0,gray,black,financial services remarketing (lease),27500.0
+2011,Infiniti,G Sedan,G37 Journey,automatic,California,33734.0,blue,black,nissan infiniti lt,20250.0
+2012,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,43039.0,white,black,meridian remarketing,41750.0
+2004,Chevrolet,Monte Carlo,LS,automatic,California,111316.0,silver,gray,bmw of monrovia,1300.0
+2006,Ford,F-150,FX4,UNKNOWN,California,106131.0,gray,gray,santander consumer,13600.0
+2012,Volkswagen,Jetta,SE PZEV,automatic,California,22038.0,black,black,power drive inc,12000.0
+2002,Jeep,Wrangler,Sport,automatic,California,144991.0,yellow,black,southwest business corporation,6300.0
+2004,honda,pilot,awd,automatic,California,179612.0,gray,gray,bob baker jeep,3700.0
+2012,Infiniti,G Sedan,G37 Journey,automatic,California,13601.0,blue,black,nissan infiniti lt,23750.0
+2012,GMC,Acadia,Denali,automatic,California,86942.0,black,black,bill wright toyota,22000.0
+2014,Scion,tC,Base,manual,California,16142.0,silver,black,toyota financial services,17000.0
+2012,Mercedes-Benz,SLK-Class,SLK350,automatic,California,45828.0,gray,gray,mercedes-benz financial services,29500.0
+2011,Ford,Focus,SE,automatic,California,62388.0,red,black,m l sim,8100.0
+2011,Ford,Focus,SE,automatic,California,134570.0,silver,black,nextgear capital,4200.0
+2010,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,California,79688.0,white,gray,vpsi  inc,7800.0
+2013,Honda,Civic,LX PZEV,automatic,California,23370.0,brown,black,high bid trading co inc,13250.0
+2006,Chevrolet,Impala,LT,automatic,California,94615.0,gray,gray,titlemax/san diego ca2,2700.0
+2014,Honda,Accord,EX-L,automatic,California,18116.0,gray,black,american honda motor company,21100.0
+2014,Toyota,Corolla,LE,automatic,California,20340.0,black,tan,midway hfc fleet/ars,13600.0
+1998,Jaguar,XJ-Series,XJ8L,automatic,California,93783.0,red,—,brad benson motorsports,1000.0
+2012,Chevrolet,Cruze,Eco,automatic,California,32450.0,red,black,jimmie johnson kearny mesa chevrolet,11500.0
+2004,Acura,TSX,Base,automatic,California,189560.0,white,beige,mercedes benz of laguna niguel,5600.0
+2002,Volkswagen,Jetta,GLS 1.8T,automatic,California,105803.0,silver,black,audi beverly hills,1150.0
+2015,Jeep,Wrangler,Unlimited Rubicon Hard Rock,automatic,California,12906.0,red,black,prestige autos,35750.0
+2013,Mazda,Mazda5,Touring,automatic,California,48302.0,white,gray,avis rac/san leandro,13400.0
+1998,Buick,Century,Custom,automatic,California,128295.0,white,gray,lexus of stevens creek,450.0
+2004,Nissan,Titan,SE,automatic,California,138222.0,gray,gray,california auto finance,5200.0
+2012,Hyundai,Accent,GLS,automatic,California,56763.0,blue,tan,hidalgo motors,8000.0
+2004,Chevrolet,Suburban,1500 LS,automatic,California,158645.0,gray,—,boardwalk volkswagen  boardwalk lotus,4300.0
+2003,Nissan,Altima,2.5 SL,automatic,California,82364.0,green,gray,mazda of orange,2500.0
+2005,Audi,A4,2.0T Avant quattro,manual,California,156881.0,beige,beige,san diego sports cars,3925.0
+2012,MINI,Cooper,Base,manual,California,20951.0,white,black,bmw mini financial services,12250.0
+2009,Jaguar,XF,Supercharged,automatic,California,80058.0,black,beige,rusnak pasadena jaguar sterling pasadena,15750.0
+2014,Honda,CR-V,EX-L,automatic,California,2252.0,black,black,american honda motor company,26250.0
+2012,Ford,Mustang,V6,manual,California,33958.0,gray,black,ford motor credit company llc pd,13900.0
+2009,Land Rover,Range Rover Sport,HSE,automatic,California,88058.0,white,beige,hoehn motors inc,22500.0
+2012,Honda,Crosstour,EX,automatic,California,35424.0,white,beige,ahfc/honda lease trust/hvt  inc. eot,14300.0
+1995,Toyota,Camry,LE,automatic,California,241105.0,green,beige,jimmie johnson kearny mesa chevrolet,500.0
+2008,Chevrolet,Malibu Classic,LS Fleet,automatic,California,92218.0,white,gray,clear view systems,3600.0
+2003,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,111188.0,black,beige,century dealer services corp,6600.0
+2013,Chevrolet,Impala,LT Fleet,automatic,California,40641.0,gray,gray,enterprise veh exchange/rental,12000.0
+2008,Scion,tC,Base,automatic,California,82553.0,gray,black,ideal transportation,8300.0
+2004,Acura,RL,3.5,automatic,California,71904.0,gold,gray,jpmorgan chase bank n.a.,5500.0
+2013,Kia,Sorento,LX,automatic,California,48050.0,silver,gray,kia motors america  inc -lemon law buybacks,12750.0
+2014,Infiniti,Q50,Hybrid Sport,automatic,California,1466.0,black,black,nissan north america inc.,37000.0
+2008,Kia,Sorento,LX,automatic,California,102127.0,gray,gray,auto remarketing resources,6700.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,California,24689.0,blue,black,nissan infiniti lt,19000.0
+2013,Nissan,Sentra,SR,automatic,California,14015.0,silver,black,nissan motor acceptance corporation,12750.0
+2014,Hyundai,Elantra,SE,automatic,California,11095.0,silver,gray,hyundai motor america,13200.0
+2005,Chrysler,PT Cruiser,Touring,automatic,California,112773.0,gold,black,quality acceptance,1900.0
+2011,Jaguar,XF,Base,automatic,California,38814.0,black,black,jpmorgan chase bank n.a.,26000.0
+2009,Chevrolet,Aveo,LS,automatic,California,98428.0,silver,black,valley kia,4400.0
+2007,Audi,A4,2.0T,automatic,California,125304.0,silver,black,santander consumer,3600.0
+2003,Honda,CR-V,EX,automatic,California,104073.0,red,brown,honda of el cerrito,6600.0
+2001,Chevrolet,Silverado 1500,LS,automatic,California,278362.0,gold,gray,s/s auto wholesale,1800.0
+2013,Nissan,Versa,1.6 S Plus,manual,California,33175.0,silver,black,nissan north america inc.,7250.0
+2013,Volkswagen,Passat,TDI SE,automatic,California,30738.0,black,black,wheels exchange llc,18100.0
+2014,Dodge,Charger,SE,automatic,California,27193.0,gray,gray,california motorsports,20000.0
+2010,Honda,Pilot,Touring,automatic,California,69877.0,blue,gray,aaero sweet company,21750.0
+2012,Honda,Civic,Hybrid,automatic,California,15752.0,black,gray,ahfc/honda lease trust/hvt  inc. eot,15000.0
+2013,Mercedes-Benz,C-Class,C250 Sport,automatic,California,22658.0,black,black,mercedes-benz financial services,22750.0
+1998,Volvo,S70,GLT,automatic,California,171170.0,silver,black,charitable auto resource,300.0
+2012,Ram,1500,ST,automatic,California,92236.0,blue,black,ge fleet services for itself/servicer,13000.0
+2011,Subaru,Impreza,WRX Premium,manual,California,39047.0,gray,black,mercedes benz of laguna niguel,22750.0
+2002,Lexus,GS 430,Base,automatic,California,137803.0,silver,beige,high bid trading co inc,5300.0
+2013,Kia,Forte,EX,automatic,California,34366.0,black,gray,exeter finance corp,8500.0
+2006,Ford,Expedition,XLT,automatic,California,89789.0,white,gray,91 automotive west,9100.0
+2015,Hyundai,Sonata,SE,automatic,California,14072.0,black,—,enterprise vehicle exchange / tra / rental / tulsa,6600.0
+2012,Ford,Fiesta,SES,automatic,California,40585.0,gray,beige,ford motor credit company llc pd,8900.0
+2013,Kia,Rio,LX,automatic,California,40687.0,black,beige,g & a investments inc/avis systems,9500.0
+2014,Ford,Fusion,SE,automatic,California,2569.0,white,black,donlen corporation,17900.0
+2007,Mercedes-Benz,E-Class,E63 AMG,automatic,California,58699.0,blue,black,walters auto sales/service inc,21250.0
+2006,Mercedes-Benz,S-Class,S430,automatic,California,180014.0,gray,black,hoehn motors inc,3500.0
+2011,Toyota,Prius,Three,automatic,California,48823.0,blue,gray,northwestern chrys/j/d/ge,13700.0
+2009,Dodge,Grand Caravan,SE,automatic,California,101683.0,silver,black,santander consumer,5400.0
+2012,Volkswagen,Jetta,TDI,automatic,California,69622.0,red,beige,volkswagen of murrieta,12250.0
+2014,Ford,Fusion,SE,automatic,California,33010.0,—,black,lease plan usa,14200.0
+2006,Volkswagen,Jetta,2.5 PZEV,automatic,California,100109.0,white,tan,nextgear capital,3400.0
+1999,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,192535.0,white,gray,david wilsons ford of orange,1700.0
+2011,Toyota,Camry,XLE,automatic,California,76408.0,green,beige,ideal motors,11600.0
+2008,Ford,Escape Hybrid,Base,automatic,California,123211.0,black,beige,donlen corporation,6400.0
+2012,Ford,Fusion,SE,automatic,California,61134.0,white,gray,the hertz corporation,10200.0
+2012,Volkswagen,Jetta,SE PZEV,automatic,California,30450.0,white,beige,vw credit,12250.0
+2013,Infiniti,M,M37,automatic,California,8286.0,gray,black,nissan north america inc.,32000.0
+2006,Volvo,XC90,2.5T,automatic,California,99318.0,gray,beige,newport lexus,6600.0
+2012,Ford,Edge,SEL,automatic,California,43557.0,silver,black,ford motor credit company llc pd,18000.0
+2004,Volvo,XC90,T6,automatic,California,98241.0,red,tan,nvp remarketing,6100.0
+2011,Kia,Soul,Base,manual,California,41696.0,silver,black,tycon enterprises,8000.0
+2000,toyota,sienna,le,automatic,California,277302.0,white,beige,crown toyota,1500.0
+2011,Honda,Accord,LX,automatic,California,54276.0,silver,black,ahfc/honda lease trust/hvt  inc.,13100.0
+2013,smart,fortwo,electric drive coupe,automatic,California,22.0,black,black,mercedes-benz usa,9000.0
+2002,Chevrolet,Tahoe,LS,automatic,California,183711.0,black,beige,premier chry jeep dge ram of w covina,1600.0
+2014,Chevrolet,Impala,LT,automatic,California,12167.0,white,black,enterprise vehicle exchange / tra / rental / tulsa,14000.0
+2013,Chevrolet,Captiva Sport,LT Fleet,automatic,California,41628.0,silver,black,enterprise vehicle exchange/orange,12000.0
+2010,Mazda,Mazda6,i Grand Touring,automatic,California,57388.0,black,black,remarketing by ge/manheim southern california,6000.0
+2013,Nissan,Rogue,S,UNKNOWN,California,22317.0,—,gray,nissan motor acceptance corporation,13500.0
+2014,Hyundai,Elantra,SE,automatic,California,24849.0,red,gray,enterprise vehicle exchange / tra / rental / tulsa,11600.0
+2012,Chevrolet,Equinox,LT,automatic,California,79123.0,silver,gray,wheels exchange llc,13000.0
+2014,Jeep,Grand Cherokee,Limited,automatic,California,31474.0,silver,black,avis rac/san leandro,28300.0
+2005,Honda,Civic,EX,automatic,California,78727.0,blue,gray,kearny pearson kia,5500.0
+2006,Mazda,MPV,LX,automatic,California,152557.0,silver,gray,tycon enterprises,1700.0
+2010,Mazda,Mazdaspeed3,Sport,manual,California,59637.0,gray,black,bmw of murrieta,14500.0
+2012,MINI,Cooper Countryman,S ALL4,automatic,California,29050.0,blue,—,bmw mini financial services,20250.0
+2004,Jeep,Wrangler,X,manual,California,91930.0,yellow,gray,walters auto sales/service inc,12100.0
+2013,Nissan,Altima,2.5,UNKNOWN,California,19604.0,white,black,nissan-infiniti lt,14000.0
+2014,Volkswagen,CC,R-Line PZEV,automatic,California,5599.0,gray,black,vw credit,23000.0
+2008,Chevrolet,Impala,LS,automatic,California,164250.0,silver,gray,time finance co,3200.0
+2013,Lexus,GS 350,Base,automatic,California,21440.0,silver,black,lexus financial services,29200.0
+2007,Nissan,Maxima,3.5 SE,automatic,California,109700.0,black,gray,wells fargo dealer services,3700.0
+2012,Jeep,Grand Cherokee,Laredo,automatic,California,92610.0,silver,beige,jpmorgan chase bank n.a.,14500.0
+2004,Nissan,Sentra,1.8,automatic,California,146243.0,white,beige,bmw of murrieta,2100.0
+2014,Nissan,Versa Note,1.6 SV,UNKNOWN,California,949.0,—,black,nissan motor acceptance corporation,11750.0
+2008,Ford,Econoline Cargo,E-250,UNKNOWN,California,311618.0,white,gray,santander consumer,4400.0
+2013,Honda,Accord,LX-S,manual,California,21312.0,black,gray,san diego sports cars,15300.0
+2013,Mazda,CX-9,Touring,automatic,California,42207.0,gray,black,avis rac/san leandro,19800.0
+2011,Subaru,Outback,2.5i Premium,automatic,California,52776.0,white,gray,ge fleet services for itself/servicer,13500.0
+2009,Land Rover,Range Rover Sport,Supercharged,automatic,California,67769.0,gray,black,onemain rem/m&m auto traders,24000.0
+2005,Volkswagen,New Beetle,Dark Flint Edition,automatic,California,235280.0,off-white,black,aaero sweet company,2000.0
+2007,Lexus,IS 250,Base,manual,California,84703.0,red,beige,s w corporation,10350.0
+2014,Honda,Civic,LX,automatic,California,4031.0,black,black,ahfc/honda lease trust/hvt  inc.,14700.0
+2001,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,56544.0,gold,brown,top 10 motors inc,1000.0
+2013,Chevrolet,Suburban,LTZ 1500,automatic,California,61185.0,gold,black,the hertz corporation,29750.0
+2014,Honda,Civic,LX,automatic,California,18379.0,burgundy,beige,ahfc/honda lease trust/hvt  inc.,15200.0
+2001,Oldsmobile,Aurora,3.5,automatic,California,120275.0,white,gray,jb motor cars,1700.0
+2014,Mazda,Mazda6,i Sport,automatic,California,11906.0,red,beige,mazda motors of america inc.,17500.0
+2012,Ford,Fusion,SEL,automatic,California,54949.0,blue,black,dtg operations inc,11500.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,California,19368.0,white,black,nissan infiniti lt,23000.0
+2006,GMC,Sierra 1500,SLT,automatic,California,127004.0,gray,gray,aaero sweet company,8500.0
+2014,Lexus,LX 570,Base,automatic,California,9869.0,white,black,ubs wholesale,79750.0
+2012,BMW,5 Series,528i,automatic,California,52102.0,gray,gray,financial services remarketing (lease),25000.0
+2013,Lexus,ES 350,Base,automatic,California,20738.0,blue,gray,manheim san francisco bay,24000.0
+2014,Audi,A8,L 3.0T quattro,automatic,California,33316.0,black,black,skyhigh remarketing inc,51000.0
+2004,Lincoln,Navigator,Luxury,UNKNOWN,California,195801.0,gray,gray,billion dodge chrysler jeep,3800.0
+2009,Ford,F-150,XLT,automatic,California,107128.0,white,tan,wheels exchange llc,13500.0
+1999,Nissan,Maxima,SE,manual,California,198128.0,white,gray,hertz remarketing,550.0
+2012,Honda,CR-V,EX,automatic,California,32923.0,blue,gray,ahfc/honda lease trust/hvt  inc. eot,18200.0
+2012,Kia,Optima,EX,automatic,California,34702.0,silver,gray,kia motors finance,14100.0
+2012,Honda,Odyssey,EX-L,automatic,California,18010.0,black,gray,mr m auto group,20000.0
+2012,Lexus,HS 250h,Base,automatic,California,24330.0,red,black,toyota motor sales/lexus,23250.0
+2013,Nissan,Sentra,S,automatic,California,29258.0,white,beige,santander consumer,10500.0
+2004,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,96469.0,blue,gray,remarketing by ge/manheim riverside,14000.0
+2011,BMW,3 Series,328i,automatic,California,30260.0,white,beige,financial services remarketing (lease),19700.0
+2009,Ford,Focus,SEL,automatic,California,63818.0,blue,gray,remarketing by ge/drivetime,5500.0
+2000,Ford,Focus,LX,manual,California,140357.0,red,gray,diamond auto sales llc,600.0
+2007,Honda,Odyssey,EX-L,automatic,California,105379.0,blue,gray,aaero sweet company,10100.0
+2008,HUMMER,H3,Alpha,automatic,California,87898.0,silver,black,dutton motor co,15800.0
+2005,Ford,F-150,XLT,automatic,California,150419.0,white,gray,hemborg ford,4800.0
+2013,Honda,Pilot,EX-L,UNKNOWN,California,23821.0,black,gray,premium auto wholesale,28500.0
+2005,Porsche,Cayenne,Turbo,automatic,California,121752.0,silver,black,walters auto sales/service inc,12500.0
+2006,Honda,Odyssey,EX,automatic,California,151776.0,blue,gray,honda world,5000.0
+2012,Ford,Mustang,V6,automatic,California,61959.0,black,black,dtg operations inc,11900.0
+2012,MINI,Cooper,Base,automatic,California,25709.0,blue,black,bmw mini financial services,14000.0
+2012,Nissan,Altima,2.5 S,automatic,California,40572.0,silver,black,enterprise vehicle exchange/orange,12000.0
+2013,Volkswagen,Passat,SE PZEV,automatic,California,39359.0,black,black,avis corporation,13000.0
+2012,Ford,F-150,FX2,automatic,California,45094.0,black,gray,tdaf remarketing,24000.0
+2005,GMC,Yukon XL,1500 SLE,automatic,California,109602.0,blue,gray,springleaf financial services/evansville,4900.0
+2012,Porsche,Panamera,Base,automatic,California,36010.0,black,tan,porsche financial services,52250.0
+2010,Mazda,Mazda6,i Sport,automatic,California,56939.0,silver,black,a l financial corporation,8800.0
+2009,Mitsubishi,Eclipse,GT,automatic,California,89312.0,silver,black,remarketing by ge/manheim san diego,8000.0
+2004,GMC,Yukon,SLE,automatic,California,152722.0,white,beige,united auto credit/irvine,3600.0
+2011,Ford,Escape,Limited,automatic,California,76077.0,gold,black,california auto wholesale,14000.0
+2013,Mercedes-Benz,E-Class,E350 Sport,automatic,California,17462.0,—,off-white,mercedes-benz financial services,29000.0
+2013,Nissan,Altima,2.5,automatic,California,38551.0,silver,black,avis corporation,13500.0
+2011,Subaru,Legacy,3.6R Limited,automatic,California,74781.0,blue,beige,california auto wholesale,14500.0
+2005,Honda,Accord,LX,automatic,California,113205.0,gray,gray,honda world,3500.0
+2012,Audi,A4,2.0T Premium,automatic,California,22229.0,white,black,vw credit,19250.0
+2012,Acura,TSX,Base,automatic,California,27593.0,silver,black,ahfc/honda lease trust/hvt  inc. eot,18300.0
+2007,Ford,Ranger,XL,UNKNOWN,California,123693.0,white,gray,northwestern chrys/j/d/ge,4000.0
+2014,Kia,Optima,LX,automatic,California,17574.0,red,beige,kia motors america  inc,15900.0
+2000,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,160357.0,white,gray,aaero sweet company,1250.0
+2013,Chevrolet,Impala,LTZ,automatic,California,57774.0,gray,black,the hertz corporation,10000.0
+2013,Mercedes-Benz,S-Class,S550,automatic,California,22346.0,black,brown,mercedes-benz financial services,50000.0
+2013,Chevrolet,Impala,LS Fleet,automatic,California,59598.0,red,black,the hertz corporation,9200.0
+2008,Cadillac,CTS,Base,automatic,California,120655.0,white,beige,billotti auto sales,12000.0
+2002,Honda,Odyssey,LX,automatic,California,195535.0,gray,gray,s/s auto wholesale,2100.0
+2001,Acura,TL,3.2,automatic,California,185693.0,green,—,action auction llc,1950.0
+2011,Land Rover,Range Rover Sport,HSE,automatic,California,26263.0,white,tan,jpmorgan chase bank n.a.,38000.0
+2002,BMW,X5,4.4i,automatic,California,100969.0,silver,—,honda of hayward,4300.0
+2006,Honda,Accord,EX,automatic,California,75469.0,black,beige,rvr,9600.0
+2011,Nissan,Leaf,SL,automatic,California,17871.0,white,gray,nissan-infiniti lt,7500.0
+2006,Nissan,Altima,3.5 SL,automatic,California,76740.0,black,black,m l sim,5700.0
+2012,Nissan,Maxima,3.5 S,automatic,California,17262.0,silver,black,nissan-infiniti lt,17000.0
+2010,Hyundai,Accent,Blue,manual,California,52373.0,white,gray,lincoln financial services,3600.0
+2013,Ford,Fiesta,SE,automatic,California,42615.0,gray,beige,ford motor credit company llc pd,8800.0
+2014,Ford,Mustang,V6,automatic,California,35045.0,silver,black,skyhigh remarketing inc,17250.0
+2013,Hyundai,Sonata,GLS,automatic,California,36805.0,blue,gray,avis rac/san leandro,12500.0
+2006,Ford,Explorer,XLS,automatic,California,131524.0,black,beige,premium auto wholesale,2800.0
+2013,Honda,Civic,LX,automatic,California,18458.0,black,black,ahfc/honda lease trust/hvt  inc.,14800.0
+2006,Kia,Spectra,EX,manual,California,98589.0,silver,—,savarani motors,2300.0
+2012,Infiniti,G Sedan,G37 Journey,automatic,California,30871.0,white,gray,nissan infiniti lt,21000.0
+2014,Honda,Civic,LX,automatic,California,8961.0,blue,beige,ahfc/honda lease trust/hvt  inc.,14300.0
+2014,Dodge,Grand Caravan,SXT,automatic,California,31810.0,gold,black,hertz corporation/gdp,16000.0
+2006,BMW,3 Series,325i,automatic,California,95291.0,gray,black,high bid trading co inc,7250.0
+2004,Dodge,Ram Pickup 1500,SLT,automatic,California,214856.0,gold,brown,california fleet inc,4400.0
+2010,Chevrolet,Traverse,LT1,automatic,California,97283.0,blue,black,western fcu,10900.0
+2014,Volkswagen,Jetta,S,automatic,California,5517.0,—,black,vw credit,12500.0
+2014,Ford,F-150,STX,automatic,California,14714.0,silver,gray,remarketing by ge/golden 1 credit union,23250.0
+2010,Chevrolet,Malibu,LT1,automatic,California,101858.0,silver,black,onemain rem/m&m auto traders,6700.0
+2012,Infiniti,G Sedan,G37 Journey,automatic,California,16320.0,black,black,nissan infiniti lt,22500.0
+2012,BMW,1 Series,128i,automatic,California,23005.0,white,gray,financial services remarketing,20100.0
+2012,Hyundai,Accent,GS,automatic,California,33419.0,red,gray,hyundai motor finance,10100.0
+2009,Toyota,Camry,Base,automatic,California,76627.0,blue,gray,toyota scion of downtown la,8900.0
+1999,Volkswagen,New Beetle,GLS,automatic,California,134736.0,silver,—,auto trade center,1800.0
+2010,BMW,3 Series,328i,automatic,California,80370.0,black,black,auto depot,12500.0
+2010,Volkswagen,Jetta,Wolfsburg Edition PZEV,automatic,California,76813.0,white,black,skyhigh remarketing inc,9750.0
+2003,Infiniti,I35,Base,automatic,California,50806.0,white,tan,elad motors,6700.0
+2007,Dodge,Grand Caravan,SE,automatic,California,154138.0,gray,gray,jpmorgan chase bank n.a.,700.0
+2012,BMW,Z4,sDrive28i,automatic,California,9094.0,black,—,financial services remarketing (lease),31000.0
+2012,MINI,Cooper,Base,UNKNOWN,California,37887.0,white,black,financial services remarketing/rail cars,11500.0
+2003,BMW,7 Series,745Li,automatic,California,211603.0,white,tan,jim enterprises auto sales inc,2900.0
+2012,Ford,Edge,Limited,automatic,California,24247.0,white,black,ford motor credit company llc pd,23200.0
+2006,Porsche,Boxster,Base,manual,California,99181.0,gray,gray,desert european motorcars,12000.0
+2003,BMW,3 Series,325i,automatic,California,88370.0,blue,beige,tdaf remarketing,4200.0
+2013,BMW,3 Series,335i,automatic,California,24854.0,white,black,financial services remarketing (lease),32750.0
+2007,Acura,TL,Type-S,automatic,California,85549.0,black,black,skyhigh remarketing inc,13800.0
+2014,Mercedes-Benz,S-Class,S550,automatic,California,9838.0,—,gray,mercedes-benz finc wholesale advantage,86000.0
+2012,Nissan,Altima,2.5 S,automatic,California,20105.0,white,black,nissan-infiniti lt,13000.0
+2012,Mercedes-Benz,C-Class,C350 Sport,automatic,California,25497.0,black,black,mercedes-benz financial services,25000.0
+2011,Infiniti,G Coupe,G37,automatic,California,41207.0,gray,black,nissan infiniti lt,21750.0
+2012,BMW,3 Series,335i,automatic,California,35834.0,blue,tan,financial services remarketing (lease),30500.0
+2003,Mercedes-Benz,SL-Class,SL500,automatic,California,79114.0,silver,black,mercedes-benz finc wholesale advantage,9250.0
+2004,Infiniti,FX35,Base,automatic,California,69831.0,white,beige,onemain rem/casey's car inc,8300.0
+2008,Honda,Ridgeline,RTS,automatic,California,46068.0,black,gray,honda of santa maria,14500.0
+2001,Mercedes-Benz,C-Class,C320,automatic,California,122193.0,blue,—,autobahn motors,3100.0
+2012,Audi,A4,2.0T Premium quattro,automatic,California,20772.0,black,black,hoehn motors inc,22500.0
+2014,Nissan,Maxima,3.5 S,automatic,California,23827.0,silver,black,enterprise vehicle exchange / tra / rental / tulsa,13500.0
+2013,Hyundai,Accent,GLS,automatic,California,40348.0,red,gray,enterprise veh exchange/rental,10300.0
+2005,Volvo,V50,T5,automatic,California,112534.0,red,gray,aaero sweet company,4900.0
+2012,BMW,5 Series Gran Turismo,550i xDrive,automatic,California,42748.0,black,black,financial services remarketing (lease),34000.0
+2012,Cadillac,CTS,Premium,automatic,California,93346.0,—,beige,crown auto sales/leasing,17500.0
+2008,GMC,Yukon XL,SLE 1500,automatic,California,95447.0,red,gray,aaero sweet corporation,17000.0
+2012,BMW,5 Series,528i,automatic,California,26151.0,white,gray,financial services remarketing (lease),28250.0
+2004,Volkswagen,Passat,GLX,UNKNOWN,California,165657.0,silver,gray,cosmopolitan finance,1000.0
+2002,Chevrolet,Silverado 1500,Base,automatic,California,194104.0,white,black,auto depot,3200.0
+2005,Chevrolet,Colorado,Z85,automatic,California,205255.0,white,gray,lease plan usa,1950.0
+2001,Volkswagen,Passat,GLS V6,automatic,California,107651.0,silver,gray,low gos used cars,2600.0
+2014,Honda,Accord,Sport,automatic,California,12105.0,white,black,neighbors fcu,16750.0
+2014,Hyundai,Accent,GLS,automatic,California,29425.0,white,beige,enterprise vehicle exchange / tra / rental / tulsa,9500.0
+2008,Chevrolet,Tahoe,LT,automatic,California,169166.0,white,beige,premium auto wholesale,12100.0
+2005,BMW,X5,3.0i,automatic,California,146942.0,white,beige,veros credit,4800.0
+2013,Chrysler,200,LX,automatic,California,48283.0,black,black,california auto finance,9900.0
+2013,Nissan,Leaf,SL,automatic,California,16479.0,white,black,nissan-infiniti lt,12750.0
+2012,Nissan,Altima,2.5 S,automatic,California,34719.0,black,black,nissan-infiniti lt,15250.0
+2011,Audi,Q5,2.0T Premium quattro,automatic,California,49202.0,white,black,high bid trading co inc,24000.0
+2004,Toyota,Tundra,SR5,automatic,California,88266.0,gold,beige,onemain rem/m&m auto traders,10000.0
+2014,Chevrolet,Cruze,2LT,automatic,California,34044.0,gray,black,avis rac/san leandro,13400.0
+2013,Nissan,Sentra,SR,UNKNOWN,California,39974.0,gray,black,santander consumer,11200.0
+2007,Toyota,4Runner,Limited,automatic,California,144982.0,black,beige,premium auto wholesale,10600.0
+2010,Mercedes-Benz,C-Class,C300 Sport,automatic,California,33488.0,gray,black,calstar motors inc,17000.0
+2014,Ram,1500,SLT,automatic,California,19523.0,red,gray,enterprise vehicle exchange/orange,20700.0
+2003,Ford,Escape,XLT Popular,automatic,California,216743.0,silver,gray,guard auto sales,1900.0
+2012,Volkswagen,Jetta SportWagen,TDI,automatic,California,67077.0,white,black,toyota santa monica,14250.0
+2014,Ford,Escape,S,automatic,California,1762.0,white,black,ge fleet services for itself/servicer,8000.0
+2014,Chrysler,Town and Country,Touring,automatic,California,17537.0,beige,black,enterprise holdings/gdp,19400.0
+2004,Ford,Expedition,XLT,automatic,California,57116.0,black,gray,california auto exchange,7900.0
+2003,Chevrolet,Astro,Base,automatic,California,124496.0,blue,gray,lancaster honda,2000.0
+2013,Honda,Civic,Hybrid PZEV,automatic,California,16053.0,black,tan,ahfc/honda lease trust/hvt  inc.,17400.0
+2013,Mercedes-Benz,S-Class,S550,UNKNOWN,California,16426.0,black,black,mercedes-benz financial services,54250.0
+2005,Ford,Explorer,XLS,automatic,California,168592.0,white,tan,alliance motor cars,2600.0
+2008,Lexus,IS F,Base,automatic,California,43379.0,black,black,trade in solutions irvine,33750.0
+2008,Chevrolet,Colorado,Work Truck,automatic,California,149904.0,white,gray,lease plan usa,3100.0
+2011,Kia,Soul,!,automatic,California,107878.0,gray,gray,consolidated asset recovery systems  inc.,6600.0
+2013,Dodge,Avenger,SE,automatic,California,53141.0,red,black,avis rac/san leandro,10500.0
+2013,Ford,Focus,SE,automatic,California,18303.0,black,black,ford motor credit company llc pd,11400.0
+2005,Volkswagen,Jetta,GLS,automatic,California,85409.0,blue,silver,volkswagen santa monica,4400.0
+2006,BMW,7 Series,750Li,automatic,California,94776.0,white,gray,mini of san diego,10900.0
+2013,Nissan,Altima,2.5 S,automatic,California,40129.0,silver,black,avis corporation,13200.0
+2013,Kia,Soul,+,automatic,California,39476.0,black,black,dollar thrifty damage liquidation,6000.0
+2013,Ford,Escape,SEL,automatic,California,19127.0,white,beige,ford motor credit company llc pd,19500.0
+2011,Ford,Fusion,SEL,automatic,California,59145.0,red,black,tdaf remarketing,8500.0
+2014,Honda,Odyssey,EX-L,automatic,California,12312.0,white,beige,ahfc/honda lease trust/hvt  inc.,29250.0
+2012,Nissan,Altima,2.5 S,automatic,California,21950.0,white,beige,nissan-infiniti lt,15250.0
+2012,Honda,Crosstour,EX,automatic,California,10999.0,black,black,ahfc/honda lease trust/hvt  inc. eot,18600.0
+2008,Toyota,Tundra,SR5,automatic,California,99648.0,blue,brown,towbin dodge,15800.0
+2013,Porsche,Panamera,Base,automatic,California,12705.0,black,black,eurocar,58500.0
+2010,Chevrolet,Camaro,2SS,manual,California,66539.0,black,black,91 automotive west,20100.0
+2013,Kia,Soul,+,automatic,California,66817.0,gray,black,the hertz corporation,9901.0
+2005,Dodge,Magnum,RT,automatic,California,88479.0,red,—,a/d bank repos,6700.0
+2007,mercedes,c230wz,UNKNOWN,automatic,California,73978.0,silver,gray,santander consumer,7200.0
+1999,porsche,911,cpe carrera 2,manual,California,146102.0,black,black,mercedes benz of laguna niguel,7500.0
+2013,Nissan,Versa,1.6 S Plus,automatic,California,37790.0,silver,black,enterprise veh exchange/rental,10600.0
+2012,Kia,Sorento,LX,automatic,California,13582.0,silver,black,kia motors finance,16200.0
+2012,Ford,F-150,FX2,automatic,California,26653.0,black,black,ford motor credit company llc pd,29900.0
+2012,Volkswagen,Jetta,SE PZEV,UNKNOWN,California,39331.0,blue,gray,premium auto wholesale,11300.0
+2011,Ford,Edge,SEL,automatic,California,41461.0,silver,black,ford motor credit company llc pd,18700.0
+2007,Ford,Edge,SEL,automatic,California,79753.0,red,beige,palm springs ford-lincoln-mercury,9100.0
+2012,Ford,Edge,SE,automatic,California,24942.0,silver,black,ford motor credit company llc pd,16300.0
+2009,Mazda,Mazda3,s Touring,UNKNOWN,California,152405.0,UNKNOWN,UNKNOWN,stevens creek auto imports,3900.0
+2014,Chrysler,200,LX,automatic,California,33359.0,blue,black,enterprise vehicle exchange / tra / rental / tulsa,2900.0
+2011,BMW,3 Series,328i,automatic,California,13613.0,silver,gray,financial services remarketing,10100.0
+2008,Honda,Odyssey,EX-L,automatic,California,228125.0,silver,gray,orange county auto buyers llc,5800.0
+2013,Toyota,Prius,Two,automatic,California,39995.0,silver,gray,avis corporation,14300.0
+2011,Mercedes-Benz,GLK-Class,GLK350,automatic,California,58659.0,white,beige,high bid trading co inc,20250.0
+2006,BMW,3 Series,325i,automatic,California,55590.0,black,black,autonet trading,11500.0
+2013,Mercedes-Benz,S-Class,S550,automatic,California,22459.0,gray,black,fmgj inc,50000.0
+2013,Nissan,Cube,1.8 SL,automatic,California,26737.0,white,black,bank of america,11800.0
+2012,Toyota,Camry,LE,automatic,California,62913.0,black,gray,the hertz corporation,12500.0
+2011,Land Rover,Range Rover Sport,Supercharged,automatic,California,38020.0,white,beige,billion dodge chrysler jeep,36500.0
+2011,Toyota,Highlander Hybrid,Base,automatic,California,62171.0,black,gray,wheels exchange llc,25000.0
+2007,Nissan,Altima,2.5,automatic,California,85078.0,black,gray,palm springs nissan,6900.0
+2004,BMW,5 Series,545i,manual,California,113287.0,gray,gray,east bay bmw,7800.0
+2005,Chevrolet,Silverado 1500,LS,automatic,California,110996.0,black,gray,buyers auto sales,8000.0
+2007,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,119440.0,black,black,consolidated asset recovery systems  inc.,17000.0
+2012,Mercedes-Benz,C-Class,C250 Sport,automatic,California,28923.0,—,gray,mercedes-benz financial services,22250.0
+2010,Kia,Soul,!,UNKNOWN,California,51920.0,black,black,ecars,10100.0
+2014,Ford,Focus,SE,automatic,California,16990.0,silver,—,enterprise vehicle exchange / tra / rental / tulsa,7800.0
+2004,Volvo,S80,T6,UNKNOWN,California,77992.0,gray,gray,valley kia,4100.0
+2014,Hyundai,Santa Fe Sport,Sport 2.0T,automatic,California,20055.0,black,black,donlen corporation,23000.0
+2012,BMW,7 Series,740i,automatic,California,39985.0,gray,gray,financial services remarketing (lease),34750.0
+2003,Honda,Element,EX,automatic,California,199950.0,gray,gray,mckenna motors cerritos inc,4100.0
+2001,Ford,Focus,ZTS,UNKNOWN,California,148575.0,gold,beige,quality acceptance,1100.0
+2013,Dodge,Charger,SE,automatic,California,25148.0,gray,black,ontario auto sales,20000.0
+2013,Mercedes-Benz,GLK-Class,GLK350 4MATIC,automatic,California,45538.0,white,black,the hertz corporation,26800.0
+2014,BMW,6 Series,650i,automatic,California,10736.0,black,black,the hertz corporation,65000.0
+2011,Honda,Civic,LX,automatic,California,65415.0,silver,gray,ahfc/honda lease trust/hvt  inc.,10800.0
+2012,BMW,3 Series,328i,automatic,California,29234.0,brown,—,financial services remarketing (lease),19250.0
+2011,Cadillac,CTS Coupe,Performance,automatic,California,45882.0,off-white,beige,fiserv/usb dealer services northstar exchange,23500.0
+2007,Chevrolet,Tahoe,LT,automatic,California,145412.0,beige,beige,lobel financial corp,12000.0
+2013,Infiniti,G Sedan,G37x,automatic,California,60792.0,black,beige,the hertz corporation,17500.0
+2000,Ford,Explorer,Eddie Bauer,automatic,California,140411.0,blue,tan,acura of concord,1850.0
+2006,Toyota,Corolla,XRS,manual,California,99773.0,black,black,m l sim,5200.0
+1997,Toyota,Camry,LE,UNKNOWN,California,195770.0,beige,gray,aaero sweet corporation,1600.0
+2011,BMW,3 Series,328i,automatic,California,43402.0,gray,black,daimler daiichi corp,18000.0
+2012,Ford,Edge,SEL,automatic,California,32175.0,red,black,ford motor credit company llc pd,21900.0
+2011,BMW,5 Series,535i xDrive,automatic,California,26352.0,blue,—,financial services remarketing/rail cars,28000.0
+2014,Ford,F-150,STX,automatic,California,28072.0,black,beige,avis rac/san leandro,23500.0
+2005,Mazda,Mazda3,SP23 Special Edition,automatic,California,104764.0,black,brown,jimmie johnson kearny mesa chevrolet,2400.0
+2013,Chevrolet,Camaro,LT,automatic,California,40109.0,silver,black,avis corporation,18500.0
+2013,Ford,Explorer,XLT,automatic,California,49860.0,white,black,the hertz corporation,22800.0
+2011,Honda,Insight,EX,automatic,California,89342.0,gray,gray,westlake financial services,8900.0
+2007,Ford,Focus,ZX4 SE,UNKNOWN,California,97862.0,silver,gray,gosch hyundai,3700.0
+2008,Honda,Pilot,Value Package,automatic,California,121509.0,white,brown,san diego sports cars,9250.0
+2012,Ford,Edge,Limited,automatic,California,32487.0,blue,beige,ford motor credit company llc pd,19900.0
+2010,Honda,Civic,EX,automatic,California,36273.0,white,beige,rvr,12700.0
+2012,Audi,S5,3.0T Premium Plus quattro,automatic,California,38770.0,black,black,vw credit,27700.0
+2013,Subaru,Impreza WRX,Premium,manual,California,17192.0,purple,black,chapman performance autos llc,23750.0
+2007,Honda,Odyssey,Touring,automatic,California,112289.0,silver,black,remarketing by ge/manheim southern california,9250.0
+2007,BMW,Z4 M,Base,manual,California,63779.0,black,black,sterling bmw,25750.0
+2011,Nissan,Pathfinder,S,automatic,California,5692.0,gray,tan,nissan motor acceptance corporation,18500.0
+2014,BMW,X3,xDrive28i,automatic,California,30832.0,white,black,avis corporation,30000.0
+2005,Hyundai,Sonata,LX,automatic,California,121475.0,silver,black,valley kia,2600.0
+2008,MINI,Cooper,S,automatic,California,75917.0,black,black,autonet trading,8800.0
+2005,Kia,Spectra,Spectra5,automatic,California,75527.0,white,gray,santander consumer,2800.0
+2014,Chevrolet,Camaro,LT,automatic,California,32446.0,white,black,avis corporation,21000.0
+2014,Ram,1500,SLT,automatic,California,24986.0,black,gray,enterprise vehicle exchange/orange,26000.0
+2014,Dodge,Grand Caravan,SXT,automatic,California,19878.0,white,black,hertz corporation/gdp,16500.0
+2014,Infiniti,QX60,Base,automatic,California,5641.0,black,tan,nissan north america inc.,43000.0
+2008,Chevrolet,Cobalt,LS,automatic,California,85178.0,blue,gray,chaser inc,4500.0
+1994,Nissan,Maxima,GXE,UNKNOWN,California,263072.0,white,gray,charitable auto resource,450.0
+2008,Cadillac,Escalade,Base,automatic,California,47316.0,white,black,aaero sweet company,30500.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,California,47497.0,black,black,cerritos infiniti inc,16000.0
+2014,Kia,Sedona,EX,automatic,California,3093.0,black,beige,kia motors america  inc,24250.0
+2013,Toyota,RAV4,LE,automatic,California,36964.0,black,black,avis rac/san leandro,20200.0
+2013,Nissan,Altima,2.5,automatic,California,29330.0,black,black,nissan-infiniti lt,14500.0
+2014,Subaru,Outback,2.5i Limited PZEV,automatic,California,18775.0,blue,black,subaru of america,25000.0
+2003,Chevrolet,Tahoe,LS,automatic,California,236983.0,black,silver,tustin nissan,1650.0
+2014,Nissan,Sentra,FE+ S,automatic,California,30051.0,blue,black,avis corporation,10700.0
+2013,Chevrolet,Malibu,LS,automatic,California,17782.0,black,gray,tradewinds remarketing,11000.0
+2014,Hyundai,Accent,GLS,automatic,California,5606.0,red,gray,hyundai motor america,12100.0
+2013,Chevrolet,Malibu,LT,automatic,California,63291.0,white,black,the hertz corporation,11400.0
+2013,Infiniti,M,M37,automatic,California,9036.0,silver,black,nissan north america inc.,34000.0
+2012,Hyundai,Accent,GS,automatic,California,35772.0,gray,black,hyundai motor finance,9300.0
+2012,Infiniti,G Sedan,G37 Journey,manual,California,13629.0,white,black,nissan infiniti lt,25250.0
+2011,Infiniti,G Sedan,G25,automatic,California,32044.0,white,beige,nissan infiniti lt,15000.0
+2010,Saab,9-5,Aero,automatic,California,38031.0,silver,beige,caseys cars inc,17750.0
+2014,Nissan,Altima,2.5 S,automatic,California,34049.0,red,beige,avis rac/san leandro,13400.0
+2007,Volkswagen,Jetta,2.5 PZEV,automatic,California,103271.0,black,black,logistics leasing,3950.0
+2013,Honda,Odyssey,EX-L,automatic,California,17617.0,silver,gray,ge fleet services for itself/servicer,23000.0
+2009,GMC,Sierra 1500,SLE,automatic,California,139494.0,white,gray,remarketing by ge/penske truck lsg fleet sales,10500.0
+2011,Nissan,Leaf,SL,automatic,California,22769.0,black,—,onemain rem/manheim san francisco bay,11000.0
+1994,Honda,Accord,LX,manual,California,195054.0,green,gray,charitable auto resource,500.0
+2012,Honda,Civic,EX,automatic,California,59595.0,gray,gray,ahfc/honda lease trust/hvt  inc.,11100.0
+2014,Toyota,RAV4,XLE,automatic,California,16583.0,silver,gray,sixt rent a car llc,22500.0
+2009,Mitsubishi,Lancer,GTS,manual,California,39042.0,black,black,exeter finance corp,10500.0
+2008,Volkswagen,Passat,Komfort,automatic,California,58991.0,black,beige,premium auto wholesale,8000.0
+2007,Audi,A4,2.0T,automatic,California,123974.0,black,black,cars in town inc,3700.0
+2005,Saturn,Relay,3,automatic,California,135405.0,blue,gray,aaero sweet company,2400.0
+2013,Nissan,Altima,2.5,UNKNOWN,California,22591.0,—,black,nissan-infiniti lt,8500.0
+2006,Honda,Element,EX-P,automatic,California,113770.0,black,gray,power drive inc,9100.0
+2013,MINI,Cooper,S,manual,California,13375.0,blue,—,bmw mini financial services,20500.0
+1998,Honda,Accord,LX V6,automatic,California,186517.0,green,tan,aaero sweet company,1150.0
+1999,Chevrolet,Silverado 1500,Base,automatic,California,280619.0,gold,brown,aaero sweet company,2600.0
+2006,GMC,Envoy,Denali,automatic,California,60584.0,black,black,century dealer services corp,9500.0
+2013,Infiniti,G Sedan,G37x,automatic,California,26823.0,gray,black,nissan infiniti lt,23000.0
+2013,Dodge,Dart,SXT,manual,California,19034.0,white,black,chrysler capital,12000.0
+2012,Ferrari,California,Base,automatic,California,19435.0,red,beige,enterprise vehicle exchange / tra / rental / tulsa,113000.0
+2012,Lexus,IS 250,Base,automatic,California,33997.0,brown,beige,lexus financial services,23500.0
+2014,Kia,Sorento,EX,automatic,California,586.0,white,beige,kia motors america  inc,25800.0
+2012,Honda,Civic,LX,automatic,California,99045.0,black,gray,ahfc/honda lease trust/hvt  inc.,8000.0
+2013,Ford,Focus,SE,automatic,California,37081.0,white,black,avis rac/san leandro,11100.0
+2012,Nissan,Altima,2.5 S,automatic,California,42238.0,black,black,nissan-infiniti lt,9750.0
+2006,Cadillac,SRX,V6,automatic,California,157141.0,black,black,honda cars of corona,3700.0
+2007,Toyota,Camry,SE V6,automatic,California,144453.0,silver,gray,honda of pasadena,7000.0
+2004,Lexus,RX 330,Base,automatic,California,151819.0,white,beige,car trackers,15500.0
+2007,Ford,Focus,ZX4 SE,automatic,California,70175.0,black,gray,a-team auto sales llc,3850.0
+2014,Nissan,Altima,2.5 S,automatic,California,37228.0,red,—,avis rac/san leandro,14700.0
+2013,Infiniti,FX,FX37,automatic,California,46622.0,white,black,the hertz corporation,25100.0
+2013,Nissan,Altima,2.5,automatic,California,17414.0,—,gray,nissan-infiniti lt,14750.0
+2014,Subaru,XV Crosstrek,Premium,automatic,California,15415.0,gray,black,subaru of america,20600.0
+2013,Hyundai,Elantra,GLS,automatic,California,48471.0,blue,beige,the hertz corporation,10900.0
+2011,Nissan,Titan,S,automatic,California,48331.0,silver,beige,nissan motor acceptance corporation,15500.0
+2013,Volvo,S60,T5,automatic,California,14579.0,black,black,volvo car financial service/world omni,18000.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,California,18480.0,white,gray,nissan infiniti lt,23750.0
+2012,Toyota,Prius c,Two,automatic,California,37613.0,black,gray,california rent-a-car & leasing,12000.0
+2003,Honda,CR-V,LX,UNKNOWN,California,181242.0,blue,black,credit acceptance corp/vrs/southfield,3900.0
+2004,Chevrolet,Aveo,Base,manual,California,101069.0,white,gray,capitol mitsubishi,2400.0
+2010,MINI,Cooper,S,automatic,California,56437.0,white,black,carson honda,8300.0
+2012,Chrysler,200,LX,automatic,California,62718.0,white,black,dtg operations inc,8400.0
+2007,BMW,X5,4.8i,automatic,California,92878.0,silver,black,coast sports cars inc,16250.0
+2013,Volkswagen,Jetta,SE PZEV,automatic,California,39756.0,black,black,avis corporation,11600.0
+2011,Audi,Q5,2.0T Premium quattro,automatic,California,22591.0,black,black,high bid trading co inc,25000.0
+2011,Land Rover,Range Rover Sport,HSE,automatic,California,34227.0,white,beige,remarketing by ge/manheim riverside,36000.0
+2012,MINI,Cooper,Base,automatic,California,12519.0,—,black,bmw mini financial services,14500.0
+2012,Kia,Forte,EX,automatic,California,50344.0,gray,gray,santander consumer,9900.0
+2005,Ford,Taurus,SE,automatic,California,129699.0,red,gray,aaero sweet company,850.0
+2013,Hyundai,Elantra,GLS,automatic,California,35963.0,black,gray,hyundai motor finance,11500.0
+2014,Nissan,Sentra,SR,UNKNOWN,California,6296.0,—,black,nissan motor acceptance corporation,14250.0
+2007,Chevrolet,Silverado 1500,Work Truck,automatic,California,110346.0,white,black,tdaf remarketing,12800.0
+2013,Lexus,ES 300h,Base,automatic,California,67060.0,white,black,newport lexus,26750.0
+2009,Chevrolet,Malibu,LS,automatic,California,145811.0,green,gray,felix chevrolet & cadillac,4900.0
+2011,Mercedes-Benz,GL-Class,GL550 4MATIC,automatic,California,56442.0,black,beige,elad motors,39500.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,California,15070.0,white,gray,nissan infiniti lt,19750.0
+2012,Volkswagen,Jetta,SE PZEV,automatic,California,61410.0,red,black,the hertz corporation,9900.0
+2006,Jeep,Grand Cherokee,Laredo,automatic,California,113141.0,white,gray,time finance co,6800.0
+2014,Ford,Focus,SE,automatic,California,16577.0,white,black,ford motor credit company,12300.0
+2013,Volkswagen,Passat,Wolfsburg Edition PZEV,automatic,California,55477.0,burgundy,black,the hertz corporation,10400.0
+2010,Lexus,RX 450h,Base,automatic,California,56977.0,blue,beige,century dealer services corp,27000.0
+2012,Chevrolet,Colorado,Work Truck,automatic,California,24567.0,silver,black,lease plan usa,5800.0
+2013,Kia,Soul,+,automatic,California,59021.0,green,black,dtg operations inc,8900.0
+2013,Mercedes-Benz,GLK-Class,GLK350,automatic,California,16719.0,white,black,mercedes-benz finc wholesale advantage,31250.0
+2012,Land Rover,LR4,Base,automatic,California,35656.0,black,black,high bid trading co inc,37250.0
+2014,Kia,Cadenza,Premium,automatic,California,27491.0,—,beige,kia motors america  inc,20500.0
+2013,Nissan,Rogue,SV,automatic,California,22640.0,silver,tan,gm financial,15100.0
+2012,Toyota,Tundra,Tundra,automatic,California,53651.0,white,black,aaero sweet corporation,21750.0
+2013,Chevrolet,Cruze,LTZ,automatic,California,34175.0,silver,black,avis corporation,13400.0
+2004,Acura,TL,3.2,automatic,California,152843.0,gray,gray,first credit finance,2800.0
+2013,Nissan,Altima,2.5,automatic,California,30719.0,silver,black,avis corporation,12500.0
+2014,Nissan,Sentra,SR,UNKNOWN,California,15782.0,blue,gray,nissan motor acceptance corporation,13250.0
+2012,Hyundai,Elantra,GLS,automatic,California,43487.0,silver,gray,hyundai motor finance,10500.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,California,23365.0,gray,black,nissan infiniti lt,24250.0
+2013,Volkswagen,Passat,SE PZEV,automatic,California,32147.0,—,beige,vw credit,11500.0
+2012,GMC,Canyon,SLE-2,automatic,California,84006.0,white,gray,corona auto wholesale inc,14200.0
+2010,Ford,Fusion Hybrid,Base,automatic,California,90889.0,black,black,enterprise veh exchange/rental,11100.0
+2012,Jaguar,XJ,Base,automatic,California,28972.0,red,beige,jpmorgan chase bank n.a.,41000.0
+2013,Ford,Fusion,SE,automatic,California,71864.0,burgundy,beige,ge fleet services for itself/servicer,11000.0
+2012,BMW,3 Series,328i,automatic,California,37407.0,black,—,financial services remarketing (lease),26000.0
+2005,Jaguar,XK-Series,XK8,automatic,California,44678.0,beige,tan,h n s auto sales inc,16000.0
+2007,Chevrolet,Suburban,1500 LS,automatic,California,80462.0,blue,beige,reliance motors llc,16800.0
+2014,Nissan,Sentra,SV,automatic,California,2294.0,—,black,nissan motor acceptance corporation,13750.0
+2012,Hyundai,Sonata,GLS,automatic,California,24878.0,black,gray,hyundai motor finance,12700.0
+2014,Mercedes-Benz,C-Class,C250 Sport,automatic,California,9754.0,white,black,mercedes-benz usa,23750.0
+2008,Chrysler,PT Cruiser,Base,automatic,California,128224.0,white,gray,lobel financial corp,2300.0
+2004,Ford,Focus,SE,automatic,California,80140.0,gray,gray,ideal transportation,2700.0
+2013,Nissan,Altima,2.5,automatic,California,6633.0,white,tan,nissan-infiniti lt,16000.0
+2001,Saturn,L-Series,L200,automatic,California,1.0,black,tan,south coast subaru,700.0
+2012,Chevrolet,Volt,Base,automatic,California,52186.0,green,black,fiserv/usb dealer services northstar exchange,14400.0
+2012,Honda,Accord,LX,automatic,California,42972.0,gray,gray,ahfc/honda lease trust/hvt  inc.,11800.0
+2006,Infiniti,G35,Base,UNKNOWN,California,123342.0,—,tan,santander consumer,4000.0
+2008,Dodge,Grand Caravan,SE,automatic,California,110313.0,white,black,northwestern chrys/j/d/ge,5400.0
+2008,Dodge,Ram Pickup 1500,ST,manual,California,54520.0,gray,gray,palm springs nissan,7100.0
+2012,Nissan,370Z,Base,automatic,California,43243.0,gray,black,i auto sales inc,19000.0
+2014,Dodge,Dart,SE,automatic,California,5299.0,gray,black,chrysler capital,11400.0
+2014,Kia,Soul,+,automatic,California,13074.0,brown,black,kia motors america  inc,15600.0
+1995,Toyota,Corolla,DX,automatic,California,202612.0,gold,gray,crown toyota,550.0
+2012,BMW,3 Series,328i,automatic,California,27067.0,blue,—,financial services remarketing (lease),27500.0
+2006,Chevrolet,Silverado 1500,LS2,automatic,California,113395.0,white,black,california auto exchange,11600.0
+2004,Cadillac,CTS,Base,automatic,California,118824.0,blue,gray,wells fargo dealer services,3200.0
+2012,Nissan,Altima,2.5 S,automatic,California,21324.0,—,gray,nissan-infiniti lt,12500.0
+2013,Honda,CR-V,EX-L,automatic,California,24211.0,blue,gray,high bid trading co inc,21750.0
+2006,Honda,Element,LX,UNKNOWN,California,81267.0,silver,gray,volkswagen of murrieta,6500.0
+2013,Chevrolet,Suburban,LTZ 1500,UNKNOWN,California,68985.0,black,black,aaero sweet company,31250.0
+2003,Volkswagen,New Beetle,GLS,automatic,California,64910.0,gray,gray,the hertz corporation,1500.0
+2012,Mercedes-Benz,CLS-Class,CLS550,automatic,California,65878.0,black,gray,mercedes-benz financial services,33000.0
+2009,Lincoln,MKX,Base,automatic,California,113017.0,gray,black,reliance motors llc,11100.0
+2013,Nissan,Maxima,3.5 SV,automatic,California,54080.0,off-white,black,dtg operations inc,12800.0
+2011,BMW,X5,xDrive35i,automatic,California,70758.0,gray,black,high bid trading co inc,22750.0
+2005,Chevrolet,Silverado 2500HD,LT,automatic,California,143110.0,white,beige,aaero sweet company,18000.0
+2013,Toyota,Avalon,XLE,automatic,California,30646.0,beige,black,enterprise vehicle exchange / tra / rental / tulsa,17400.0
+2013,Dodge,Grand Caravan,SE,automatic,California,73875.0,blue,black,ge fleet services for itself/servicer,10250.0
+2012,BMW,3 Series,328i,automatic,California,38766.0,gray,black,financial services remarketing (lease),28000.0
+2013,BMW,3 Series,328i,automatic,California,27313.0,black,black,financial services remarketing (lease),27500.0
+2007,Toyota,Camry,SE V6,automatic,California,139815.0,silver,gray,aaero sweet company,6900.0
+2013,Ford,Fusion,SE,automatic,California,20789.0,blue,black,ecars,15100.0
+2006,Lexus,GS 300,Base,automatic,California,111052.0,black,beige,crb auto finance,11100.0
+2014,Hyundai,Elantra GT,Base,automatic,California,20346.0,silver,black,enterprise vehicle exchange / tra / rental / tulsa,5200.0
+2013,Ford,Edge,SEL,automatic,California,42063.0,white,black,ford motor credit company llc pd,21400.0
+2014,Subaru,Outback,2.5i Premium PZEV,automatic,California,23304.0,white,beige,subaru of america,22900.0
+2014,Mercedes-Benz,C-Class,C250,automatic,California,2898.0,white,black,mercedes-benz usa,28000.0
+2008,Infiniti,G37,Journey,automatic,California,123222.0,white,black,m l sim,11100.0
+2003,Infiniti,G35,Base,automatic,California,104014.0,beige,black,mas financial services,3700.0
+2014,GMC,Acadia,SLT-1,automatic,California,30504.0,white,gray,premium auto wholesale,25000.0
+2008,Pontiac,G5,Base,automatic,California,84732.0,silver,black,wagner cadillac,1800.0
+2002,Ford,Econoline Cargo,E-150,automatic,California,136634.0,white,gray,aaero sweet company,3500.0
+2012,Acura,TSX Sport Wagon,Base,automatic,California,90273.0,gray,black,remarketing by ge/larry h miller-fleet lease,15000.0
+2013,Volvo,XC60,3.2,automatic,California,18831.0,black,beige,gulliver,22000.0
+2012,Audi,A4,2.0T Premium quattro,automatic,California,34005.0,—,black,vw credit,23250.0
+2013,Ford,Focus,SE,automatic,California,47865.0,red,black,the hertz corporation,9900.0
+2006,Dodge,Charger,RT,automatic,California,141440.0,blue,gray,bmw of murrieta,8000.0
+2008,Honda,Accord,EX-L V-6,UNKNOWN,California,89194.0,burgundy,beige,ahfc/honda lease trust/hvt  inc.,8700.0
+2009,Chevrolet,Aveo,Aveo5 LS,automatic,California,59275.0,gray,gray,s w corporation,4900.0
+2011,Ford,F-250 Super Duty,XL,UNKNOWN,California,69780.0,red,gray,donlen corporation,19600.0
+2013,Nissan,Leaf,SL,automatic,California,23140.0,white,black,nissan-infiniti lt,14000.0
+2013,Ford,Fusion Hybrid,SE,automatic,California,37746.0,blue,tan,avis corporation,17500.0
+2012,Nissan,Altima,2.5 S,automatic,California,24300.0,blue,gray,nissan-infiniti lt,13000.0
+2015,Nissan,Altima,2.5 S,automatic,California,1284.0,black,black,jpmorgan chase bank n.a.,17600.0
+2012,BMW,3 Series,335i,automatic,California,23008.0,black,black,financial services remarketing (lease),27000.0
+2005,Nissan,Frontier,Nismo,automatic,California,161116.0,gray,gray,trade in solutions,8300.0
+2013,Ford,Focus,SE,automatic,California,28057.0,black,black,ford motor credit company llc pd,12100.0
+2011,Nissan,Altima,2.5,automatic,California,40830.0,blue,gray,nissan-infiniti lt,11000.0
+2013,Dodge,Challenger,SXT,UNKNOWN,California,35036.0,black,black,enterprise veh exchange/rental,17900.0
+2012,Infiniti,G Coupe,G37,automatic,California,23024.0,gray,black,nissan infiniti lt,23500.0
+2010,MINI,Cooper Clubman,Base,automatic,California,53193.0,white,gray,american road leasing inc,10500.0
+2013,Mercedes-Benz,S-Class,S550,automatic,California,27971.0,white,black,high bid trading co inc,57500.0
+2012,Toyota,Tacoma,PreRunner V6,automatic,California,43976.0,silver,black,toyota financial services,19300.0
+2009,Acura,TL,Base,automatic,California,106992.0,black,beige,j star fiat & maserati of anaheim hills,12500.0
+2009,Mazda,Mazda3,i Sport,manual,California,117984.0,black,black,lobel financial corp,3800.0
+2004,Lincoln,Navigator,Luxury,UNKNOWN,California,104458.0,black,tan,veros credit,7000.0
+2013,Ford,Explorer,Limited,automatic,California,17887.0,white,beige,ford motor credit company llc pd,32000.0
+2004,Mitsubishi,Endeavor,Limited,automatic,California,138629.0,white,gray,south county lexus at mission viejo,3200.0
+2009,BMW,7 Series,750Li,automatic,California,63409.0,white,beige,mercedes benz of laguna niguel,27500.0
+2011,Toyota,Venza,Base,automatic,California,95601.0,white,beige,premium auto wholesale,15500.0
+2014,Infiniti,Q50,Premium,automatic,California,18904.0,black,gray,nissan infiniti lt,25500.0
+2011,BMW,3 Series,328i,automatic,California,30673.0,black,black,financial services remarketing (lease),21000.0
+2011,Honda,Accord,SE,automatic,California,71717.0,silver,black,exeter finance corp,12000.0
+2006,Toyota,Corolla,CE,automatic,California,180771.0,gray,gray,phillips auto brokerage,3000.0
+2014,Chevrolet,Suburban,LT 1500,automatic,California,43822.0,black,black,enterprise veh exchange/rental,33200.0
+2010,Honda,Civic,LX,automatic,California,98847.0,red,beige,bank of america,9400.0
+2009,BMW,3 Series,328i,automatic,California,103366.0,burgundy,tan,premium auto wholesale,9300.0
+2007,Ford,F-150,Lariat,automatic,California,102840.0,red,—,lotus auto sales,6000.0
+2007,Porsche,911,Turbo,manual,California,36169.0,black,black,rusnak westlake porsche,64500.0
+2008,GMC,Sierra 1500,SLE1,automatic,California,137243.0,blue,black,acura of riverside,14000.0
+2011,Mercedes-Benz,C-Class,C300 Sport,automatic,California,33106.0,white,black,gossler motors,19750.0
+2006,Ford,Focus,ZX4 SES,automatic,California,122501.0,gray,gray,premium auto wholesale,3300.0
+2013,Toyota,Camry,L,automatic,California,61185.0,red,black,fox rent a car,13000.0
+2007,GMC,Acadia,SLT-2,automatic,California,87324.0,blue,black,reliance motors llc,13000.0
+2012,Kia,Sorento,LX,automatic,California,36391.0,silver,gray,kia motors finance,15500.0
+2013,Hyundai,Genesis Coupe,3.8 Track,automatic,California,16341.0,white,black,donlen corporation,23500.0
+2013,Dodge,Journey,SXT,automatic,California,20490.0,black,black,high bid trading co inc,15000.0
+2003,Saturn,L-Series,L200,automatic,California,165593.0,silver,black,bmw of monrovia,800.0
+2011,Nissan,Versa,1.8 S,automatic,California,79452.0,white,black,santander consumer,5400.0
+2015,Kia,Sorento,LX,automatic,California,13883.0,purple,black,kia motors america  inc,20500.0
+2005,BMW,5 Series,525i,automatic,California,131778.0,silver,gray,bmw of murrieta,6700.0
+2013,Mercedes-Benz,S-Class,S550,automatic,California,37783.0,—,black,mercedes-benz financial services,48500.0
+2012,Volkswagen,Jetta,TDI,automatic,California,55026.0,gray,black,vw credit,11500.0
+2011,Nissan,Leaf,SL,automatic,California,25624.0,—,tan,nissan-infiniti lt,10500.0
+2011,Scion,xB,Base,automatic,California,88939.0,silver,gray,skyhigh remarketing inc,7800.0
+2008,Audi,A4,2.0T,automatic,California,48465.0,black,beige,paradise automotive group inc,12000.0
+2002,Jaguar,X-Type,2.5,automatic,California,130364.0,silver,black,james family auto sales,900.0
+2007,Audi,A4,2.0T,automatic,California,61678.0,white,beige,high bid trading co inc,9200.0
+2005,Lincoln,Navigator,Ultimate,automatic,California,136243.0,gold,beige,billion dodge chrysler jeep,6100.0
+2014,Hyundai,Sonata,GLS,automatic,California,11919.0,silver,gray,hyundai motor america,14500.0
+2013,Ford,Edge,SEL,automatic,California,8387.0,black,black,ford motor credit company llc pd,23600.0
+2013,Nissan,370Z,Base,manual,California,32681.0,gray,black,high bid trading co inc,23000.0
+2007,Nissan,Titan,XE,automatic,California,116107.0,green,green,veros credit,6700.0
+2005,Honda,Civic,Value Package,automatic,California,98651.0,white,beige,purple heart services inc,3700.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,95855.0,black,beige,hornburg jaguar santa monica,17100.0
+2013,Hyundai,Elantra,GLS,automatic,California,17238.0,black,gray,hyundai motor finance,11900.0
+2014,Chevrolet,Cruze,2LT,automatic,California,36024.0,red,beige,avis corporation,12500.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,116896.0,blue,black,quality acceptance,2700.0
+2012,Ford,F-150,Lariat,automatic,California,72133.0,white,beige,skyhigh remarketing inc,25500.0
+2014,Chevrolet,Silverado 1500,LT,automatic,California,20149.0,white,black,enterprise vehicle exchange/orange,26500.0
+2005,Volvo,XC90,2.5T,automatic,California,111201.0,white,beige,national auto clearing house,6300.0
+2007,Ford,Explorer,XLT,automatic,California,106370.0,black,gray,tustin community bank,5100.0
+2013,Ford,Edge,Limited,automatic,California,39043.0,—,gray,ars/avis budget group,22600.0
+2005,Ford,Escape,XLS,UNKNOWN,California,124009.0,red,black,veros credit,3200.0
+2015,Nissan,Altima,2.5 S,automatic,California,4314.0,black,black,enterprise vehicle exchange / tra / rental / tulsa,11500.0
+2003,Ford,Expedition,XLT Popular,automatic,California,160342.0,green,beige,arrowhead auto group inc,2450.0
+2013,Nissan,Altima,2.5,automatic,California,9526.0,—,black,nissan motor acceptance corporation,19500.0
+2012,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,65673.0,white,gray,dtg operations inc,8200.0
+2007,Chevrolet,Impala,LT,automatic,California,88308.0,red,gray,800 loan mart,2200.0
+2004,Ford,Focus,ZX5,automatic,California,130096.0,silver,—,california fleet inc,2200.0
+2012,Honda,Civic,LX,automatic,California,16312.0,silver,gray,ahfc/honda lease trust/hvt  inc.,12200.0
+2012,Honda,Accord,SE,automatic,California,24700.0,silver,black,ahfc/honda lease trust/hvt  inc. eot,15700.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,California,43615.0,white,black,nissan infiniti lt,19750.0
+2011,BMW,5 Series,535i,automatic,California,26214.0,blue,gray,financial services remarketing (lease),27400.0
+2012,Honda,Civic,Natural Gas,automatic,California,38377.0,silver,gray,high bid trading co inc,15750.0
+2013,Dodge,Grand Caravan,SXT,automatic,California,62465.0,red,black,dtg operations inc,11000.0
+2012,Mercedes-Benz,M-Class,ML350 4MATIC,automatic,California,32819.0,black,black,mercedes-benz finc wholesale advantage,39000.0
+2008,Chevrolet,Silverado 1500,Work Truck,automatic,California,87671.0,black,black,aaero sweet company,20500.0
+2007,Chrysler,300,Base,automatic,California,69560.0,blue,gray,buyers auto sales,5800.0
+2014,Audi,Q7,TDI Premium Plus quattro,automatic,California,14810.0,black,black,downtown l a motors,46000.0
+2004,Nissan,Pathfinder,SE,automatic,California,129021.0,green,black,capital fleet,3500.0
+1999,Mercedes-Benz,CLK-Class,CLK320,automatic,California,262813.0,black,gray,guard auto sales,800.0
+2012,MINI,Cooper,Base,automatic,California,18498.0,blue,—,bmw mini financial services,14250.0
+2013,Kia,Sorento,LX,automatic,California,51868.0,gold,beige,remarketing by ge/flagship credit acceptance,13300.0
+2014,Subaru,Outback,2.5i Premium PZEV,automatic,California,14936.0,silver,beige,subaru of america,22500.0
+2012,BMW,3 Series,335i,automatic,California,28352.0,black,black,financial services remarketing (lease),30300.0
+2013,BMW,6 Series,650i,automatic,California,39781.0,black,black,financial services remarketing (lease),47000.0
+2005,Honda,Odyssey,EX-L,UNKNOWN,California,170641.0,silver,gray,clear view systems,4900.0
+2012,Hyundai,Sonata,Limited,automatic,California,34370.0,white,beige,hyundai motor finance,17000.0
+2007,Hyundai,Sonata,GLS,UNKNOWN,California,131106.0,blue,gray,quality acceptance,900.0
+2011,BMW,3 Series,335i,automatic,California,74319.0,black,black,unique automotive ltd,19500.0
+2007,Nissan,Maxima,3.5 SL,automatic,California,80152.0,gold,tan,onemain rem/m&m auto traders,6500.0
+2012,Toyota,Prius Plug-in,Base,automatic,California,81937.0,gray,gray,toyota financial services,12500.0
+2006,Mercedes-Benz,CLK-Class,CLK500,automatic,California,1.0,black,black,quality acceptance,3500.0
+2014,Ford,Mustang,V6,automatic,California,60807.0,silver,black,dtg operations inc,13000.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,71546.0,black,black,remarketing by ge/manheim riverside,16250.0
+2014,Kia,Forte,LX,automatic,California,27412.0,black,black,kia motors finance,10000.0
+2012,Dodge,Journey,SXT,automatic,California,64270.0,white,black,aaero sweet corporation,12600.0
+2005,Dodge,Magnum,RT,automatic,California,166192.0,green,gray,newport acceptance corp,1200.0
+2003,Chevrolet,Astro,Base,automatic,California,140341.0,white,gray,advance,1600.0
+2002,Toyota,Camry,LE,automatic,California,224753.0,gold,tan,kearny pearson kia,2400.0
+2002,BMW,5 Series,530i,automatic,California,152222.0,blue,beige,donate for charity,2350.0
+2011,Chevrolet,Traverse,LT2,automatic,California,25336.0,silver,gray,remarketing by ge/manheim riverside,17000.0
+2002,Ford,Windstar,LX Standard,automatic,California,113445.0,white,gray,low gos used cars,1600.0
+2012,Chrysler,200,S,automatic,California,36467.0,gray,black,gm financial,13000.0
+2014,Chrysler,Town and Country,Touring,automatic,California,34671.0,red,black,avis corporation,18100.0
+2002,Toyota,Camry,SE V6,automatic,California,190668.0,green,gray,lithia hyundai of fresno,1600.0
+2014,Ford,Focus,SE,automatic,California,15292.0,black,black,ford motor credit company llc,11600.0
+2013,Hyundai,Elantra,Limited,automatic,California,38497.0,silver,gray,skyhigh remarketing inc,10600.0
+2013,Nissan,Altima,2.5,automatic,California,22590.0,—,black,nissan-infiniti lt,14250.0
+2014,Mazda,Mazda6,i Touring,automatic,California,10684.0,gray,beige,mazda motors of america inc.,18250.0
+2008,Honda,Civic,Si,manual,California,78832.0,black,black,ecars,11600.0
+2014,Chevrolet,Express Cargo,2500,automatic,California,36959.0,white,gray,enterprise veh exchange/rental,17400.0
+2002,Nissan,Pathfinder,SE,automatic,California,153244.0,silver,black,r & r auto group inc,2200.0
+2014,Toyota,Camry,SE,automatic,California,15675.0,blue,black,toyota motor sales usa inc/program,17100.0
+2013,Nissan,Leaf,S,automatic,California,11342.0,—,black,nissan-infiniti lt,12000.0
+2006,BMW,3 Series,325i,automatic,California,115370.0,blue,beige,time finance co,6000.0
+2009,Volkswagen,Tiguan,SE,automatic,California,68000.0,black,black,remarketing by ge/xpress rent a car,10250.0
+2014,Volvo,S60,T5,automatic,California,6507.0,silver,brown,volvo na company cars/world omni,22500.0
+2004,BMW,3 Series,330xi,automatic,California,152169.0,blue,silver,veros credit,700.0
+2010,Honda,Civic,LX,automatic,California,148739.0,silver,gray,wells fargo dealer services,7400.0
+2012,Lexus,IS 250,Base,automatic,California,28584.0,white,black,lexus financial services,24500.0
+2013,Nissan,Altima,2.5,automatic,California,59050.0,silver,—,the hertz corporation,12100.0
+2007,Suzuki,Forenza,Base,automatic,California,72605.0,blue,gray,remarketing by ge/schools first fcu,2200.0
+2003,Honda,Accord,EX V-6,automatic,California,181110.0,silver,black,first credit finance,3500.0
+2008,Mercedes-Benz,C-Class,C350 Sport,automatic,California,89385.0,gray,black,tidewater motor credit,12900.0
+2001,BMW,3 Series,330xi,manual,California,120317.0,blue,gray,trade in solutions irvine,3800.0
+2014,Ford,Mustang,V6,manual,California,8300.0,white,black,tradewinds remarketing,13500.0
+2005,BMW,X5,4.4i,automatic,California,120507.0,black,gray,santander consumer,4300.0
+2012,Audi,A4,2.0T Premium,automatic,California,19168.0,black,beige,vci/audi of downtown la,19250.0
+2010,Audi,A3,2.0T PZEV Premium,automatic,California,49367.0,black,black,the auto gallery,16500.0
+2001,Audi,allroad quattro,Base,automatic,California,114672.0,gray,black,bob baker volkswagen subaru,2600.0
+2013,Audi,allroad,Prestige quattro,automatic,California,39725.0,black,black,fratelli investment group,27700.0
+2014,Honda,Civic,LX,automatic,California,10997.0,black,black,ahfc/honda lease trust/hvt  inc.,14900.0
+2011,Infiniti,G Convertible,G37,automatic,California,30544.0,gray,black,nissan infiniti lt,25500.0
+2012,Ford,Edge,Limited,automatic,California,40432.0,white,beige,ford motor credit company llc pd,20700.0
+2012,Nissan,Altima,2.5 S,automatic,California,33279.0,—,black,nissan-infiniti lt,13000.0
+2006,Ford,Fusion,S,automatic,California,102291.0,red,gray,aaero sweet company,3900.0
+2013,Acura,ILX,Premium Package,automatic,California,30996.0,silver,black,reliance motors llc,20000.0
+2009,Ford,F-150,XL,automatic,California,64994.0,white,beige,billion dodge chrysler jeep,9500.0
+2012,Infiniti,G Sedan,G37 Journey,automatic,California,47531.0,black,black,nissan infiniti lt,18750.0
+2014,Jeep,Compass,Sport,automatic,California,18335.0,white,black,enterprise vehicle exchange / tra / rental / tulsa,7800.0
+2003,Nissan,Altima,3.5 SE,automatic,California,153643.0,black,gray,quality acceptance,900.0
+2013,Dodge,Avenger,SXT,automatic,California,56814.0,white,black,the hertz corporation,9600.0
+2003,Honda,Odyssey,EX-L,automatic,California,243019.0,gray,gray,ideal transportation,2000.0
+2002,Lexus,LS 430,Base,automatic,California,201077.0,green,beige,lexus of stevens creek,6300.0
+2013,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,21.0,white,gray,high bid trading co inc,25000.0
+2011,Chevrolet,Suburban,LTZ 1500,automatic,California,33395.0,black,black,symbolic motor cars,35000.0
+2011,Honda,Accord,EX-L,automatic,California,32927.0,gray,black,ahfc/honda lease trust/hvt  inc.,12600.0
+2006,Honda,Odyssey,EX-L,automatic,California,155417.0,gray,gray,bob baker toyota of lemon grove,5750.0
+2007,Pontiac,G6,Base,automatic,California,148472.0,gray,black,veros credit,2200.0
+2012,Infiniti,G Sedan,G25,automatic,California,35614.0,gray,black,nissan infiniti lt,17500.0
+2013,Hyundai,Elantra,GLS,automatic,California,44951.0,gray,gray,enterprise vehicle exchange/orange,11300.0
+2012,Chevrolet,Volt,Base,automatic,California,59907.0,silver,black,ge fleet services for itself/servicer,12000.0
+2013,Dodge,Grand Caravan,SXT,automatic,California,67019.0,blue,black,dtg operations inc,11000.0
+2012,BMW,3 Series,328i,automatic,California,26841.0,black,black,financial services remarketing (lease),28500.0
+2014,Chevrolet,Cruze,2LT,automatic,California,35172.0,black,black,avis corporation,13300.0
+2007,MINI,Cooper,Base,automatic,California,63458.0,off-white,gray,american road leasing inc,7000.0
+2007,Audi,A4,2.0T quattro,automatic,California,107240.0,white,tan,surf city nissan,6600.0
+2014,Chrysler,Town and Country,Touring,automatic,California,27457.0,white,black,hertz corporation/gdp,18800.0
+2009,MINI,Cooper,S,manual,California,109800.0,gray,black,redline remarketing,5700.0
+2014,Volkswagen,Passat,TDI SEL Premium,automatic,California,13721.0,gray,black,vw credit,19000.0
+1999,Cadillac,Catera,Base,automatic,California,62994.0,—,black,fiesta ford lincoln mercury,1900.0
+2008,ford,e350,club wagon xlt,UNKNOWN,California,109789.0,white,gray,tradewinds remarketing,8000.0
+2013,Lexus,RX 450h,Base,automatic,California,47721.0,red,black,lexus financial services,33100.0
+2012,Scion,tC,Base,automatic,California,46572.0,black,black,toyota financial services,9000.0
+2007,Ford,Explorer,XLT,automatic,California,103623.0,blue,beige,honda cars of corona,6200.0
+2011,BMW,3 Series,328i,automatic,California,11667.0,black,red,mckenna audi/mckenna bmw,22100.0
+2010,Volkswagen,Jetta,TDI,manual,California,115538.0,blue,black,meridian remarketing,7500.0
+2003,Ford,Explorer,XLT,automatic,California,297887.0,beige,gray,lexus of san diego,1900.0
+2014,Nissan,Pathfinder,Platinum,UNKNOWN,California,4502.0,white,black,nissan north america inc.,33750.0
+2011,Chevrolet,Silverado 1500,LT,automatic,California,34546.0,black,black,aaero sweet company,24750.0
+2006,Ford,Expedition,Eddie Bauer,automatic,California,111205.0,brown,gray,remarketing by ge/finance & thrift company,7500.0
+2012,Ford,F-150,XLT,automatic,California,27465.0,black,gray,ford motor credit company llc pd,28800.0
+2013,Chevrolet,Impala,LT Fleet,automatic,California,51315.0,silver,black,the hertz corporation,9700.0
+2009,Chevrolet,Aveo,LS,automatic,California,87572.0,silver,black,jpmorgan chase bank n.a.,2500.0
+2005,Jeep,Wrangler,X,manual,California,59368.0,silver,gray,bob baker jeep,7900.0
+2008,Saturn,Outlook,XR,automatic,California,50774.0,brown,beige,skyhigh remarketing inc,12250.0
+2008,BMW,7 Series,750Li,automatic,California,91094.0,black,black,audi north scottsdale,14000.0
+2000,Honda,Accord,SE,automatic,California,214442.0,red,tan,california auto finance,1450.0
+2012,Chevrolet,Express Cargo,1500,automatic,California,27509.0,white,gray,california fleet inc,16250.0
+1995,Nissan,Maxima,SE,automatic,California,204593.0,gold,—,east bay bmw,800.0
+2014,Nissan,Versa Note,1.6 SV,automatic,California,6986.0,blue,black,nissan north america inc.,12000.0
+2014,Chevrolet,Silverado 1500,LT,automatic,California,23271.0,white,black,enterprise vehicle exchange/orange,24900.0
+2013,Porsche,911,Carrera S,manual,California,18734.0,blue,blue,porsche financial services,80250.0
+2011,Ford,Taurus,SEL,automatic,California,94445.0,black,black,consolidated asset recovery systems  inc.,8500.0
+2012,Infiniti,G Sedan,G25,automatic,California,37983.0,white,beige,nissan infiniti lt,19000.0
+2012,MINI,Cooper Clubman,S,manual,California,40217.0,blue,—,bmw mini financial services,12750.0
+2007,Honda,Element,LX,automatic,California,132949.0,blue,gray,united auto credit/irvine,6700.0
+2012,Toyota,Camry,SE,automatic,California,57423.0,white,black,sun community fcu,13600.0
+2010,Acura,TSX,Base,automatic,California,78395.0,white,beige,ahfc/honda lease trust/hvt  inc.,14400.0
+2013,Volkswagen,Jetta,SE PZEV,automatic,California,40724.0,gray,black,avis corporation,11600.0
+2013,Infiniti,G Coupe,G37 Sport,automatic,California,15918.0,white,black,nissan infiniti lt,23750.0
+2013,Nissan,Pathfinder,SL,automatic,California,26368.0,white,black,nissan north america inc.,23750.0
+2013,Chevrolet,Camaro,LT,automatic,California,38231.0,blue,black,fox rent a car tra,13900.0
+2006,Chevrolet,Equinox,LT,automatic,California,87681.0,gray,gray,ideal transportation,6300.0
+2011,Chrysler,300,Base,automatic,California,58650.0,white,black,a & a auto sales,16900.0
+2013,BMW,3 Series,320i,automatic,California,25315.0,white,black,r & r auto group inc,23250.0
+2012,BMW,3 Series,328i,automatic,California,46314.0,white,—,financial services remarketing (lease),22000.0
+2007,Volkswagen,Passat,2.0T,automatic,California,88520.0,silver,gray,advanced fleet services,5000.0
+2012,Ford,Focus,S,automatic,California,85808.0,gray,black,wells fargo dealer services,6800.0
+2012,Ford,Fusion,S,automatic,California,71745.0,white,gray,lease plan usa,9000.0
+2014,Nissan,Altima,2.5 S,automatic,California,4950.0,gray,black,nissan-infiniti lt,15750.0
+2011,Toyota,Tacoma,Base,manual,California,35403.0,white,gray,j & e auto sales,13800.0
+2012,Nissan,Armada,SL,automatic,California,30816.0,black,black,reliance motors llc,27500.0
+2013,Honda,Civic,LX PZEV,automatic,California,25453.0,silver,gray,phillips auto brokerage,14000.0
+2011,Hyundai,Elantra,GLS,automatic,California,48226.0,white,beige,gm financial,9200.0
+2004,mercedes,c240s,UNKNOWN,automatic,California,133653.0,black,beige,century dealer services corp,3500.0
+2012,Volkswagen,Passat,S PZEV,automatic,California,86602.0,black,black,mckenna motors cerritos inc,8000.0
+2006,Volvo,V50,2.4i,automatic,California,86725.0,silver,black,daimler daiichi corp,5200.0
+2012,Honda,Civic,LX,automatic,California,25810.0,—,beige,ahfc/honda lease trust/hvt  inc.,7800.0
+2011,Mercedes-Benz,GL-Class,GL450 4MATIC,automatic,California,64106.0,black,black,skyhigh remarketing inc,26500.0
+2010,Hyundai,Elantra,GLS,automatic,California,62086.0,blue,gray,yucca valley ford center,5600.0
+2010,Toyota,Corolla,LE,automatic,California,92142.0,gray,gray,high bid trading co inc,8400.0
+2004,Nissan,Maxima,3.5 SL,automatic,California,100544.0,burgundy,gray,trade in solutions,4500.0
+2013,Nissan,Altima,2.5,automatic,California,42448.0,black,black,avis rac/san leandro,13500.0
+2007,Chevrolet,Tahoe,LT,automatic,California,86021.0,white,black,century dealer services corp,16250.0
+2011,Volvo,S40,T5,automatic,California,53788.0,—,gray,mike albert fleet solutions,12300.0
+2009,BMW,5 Series,535i,automatic,California,66678.0,gray,black,prestige auto wholesale inc,16900.0
+2004,Volkswagen,Passat,GLX,automatic,California,177832.0,gray,—,apexcars net,1700.0
+2004,Toyota,4Runner,SR5,automatic,California,155953.0,silver,gray,garys auto sales inc,6500.0
+2009,Ford,Focus,SE,automatic,California,79041.0,silver,black,bob baker jeep,6500.0
+2014,Kia,Forte,LX,automatic,California,37174.0,red,gray,avis rac/san leandro,11600.0
+2004,Jeep,Wrangler,Sport,automatic,California,44885.0,—,gray,apexcars net,14500.0
+2012,Nissan,Altima,2.5 S,automatic,California,17270.0,silver,black,nissan-infiniti lt,13000.0
+2006,BMW,3 Series,325i,automatic,California,73881.0,gray,—,financial services remarketing (lease),8500.0
+2012,BMW,5 Series,528i,automatic,California,22034.0,gray,black,financial services remarketing (lease),32500.0
+2003,Mazda,MPV,LX,automatic,California,135195.0,silver,gray,california fleet inc,2400.0
+2013,Infiniti,G Coupe,G37 Sport,automatic,California,34357.0,black,gray,nissan infiniti lt,22500.0
+2006,Scion,xB,Base,automatic,California,60372.0,purple,black,pacific auto center,4600.0
+2013,Ford,Taurus,SE,automatic,California,34331.0,black,beige,enterprise vehicle exchange/orange,13200.0
+2008,Mitsubishi,Lancer,GTS,automatic,California,136467.0,black,black,phillips auto brokerage,5700.0
+2013,Volkswagen,Passat,TDI SEL Premium,automatic,California,42978.0,black,beige,wheels exchange llc,17000.0
+2013,Nissan,Altima,2.5,UNKNOWN,California,35471.0,black,black,nissan motor acceptance corporation,12500.0
+2003,Ford,Expedition,XLT Popular,UNKNOWN,California,133710.0,silver,gray,lobel financial corp,2000.0
+2011,BMW,3 Series,328i,automatic,California,28310.0,gray,—,financial services remarketing (lease),20500.0
+2013,Mercedes-Benz,S-Class,S550,automatic,California,13060.0,—,black,mercedes-benz financial services,50250.0
+2012,mitsubishi,galant,fe,automatic,California,59977.0,white,black,the hertz corporation,8700.0
+2006,Honda,Accord,EX,automatic,California,182921.0,gray,gray,scott robinson chrysler jeep dodge ram,4900.0
+2013,Chevrolet,Malibu,LT,automatic,California,56373.0,silver,black,fox rent a car,12900.0
+2014,Subaru,Legacy,2.5i Premium PZEV,automatic,California,11299.0,white,beige,subaru of america,18100.0
+2012,BMW,5 Series,528i,automatic,California,37486.0,black,black,financial services remarketing (lease),28500.0
+2013,Ford,Explorer,Limited,automatic,California,45818.0,red,beige,ars/avis budget group,27200.0
+2012,BMW,M3,Base,manual,California,78626.0,UNKNOWN,UNKNOWN,financial services remarketing (lease),32500.0
+2011,Infiniti,G Sedan,G37 Journey,automatic,California,66309.0,black,black,nissan infiniti lt,17500.0
+2008,Nissan,Versa,1.8 SL,automatic,California,166920.0,white,black,repo remarketing/pacific marine credit union,3400.0
+2006,Chrysler,300,C,automatic,California,79858.0,black,silver,dutton motor co,8900.0
+2009,Audi,A4,2.0T,automatic,California,65003.0,silver,gray,mckenna audi/mckenna bmw,11750.0
+2014,Ford,Explorer,Limited,automatic,California,38385.0,black,black,ars/avis budget group,27700.0
+2011,Infiniti,QX56,Base,automatic,California,40474.0,purple,beige,cerritos infiniti inc,38000.0
+2002,Saturn,S-Series,SL2,UNKNOWN,California,119789.0,white,—,scott robinson honda,850.0
+2006,Dodge,Magnum,RT,automatic,California,121490.0,silver,—,nice car,6300.0
+2007,Pontiac,Solstice,Base,automatic,California,79946.0,blue,black,bob baker jeep,5500.0
+2012,Ford,Escape,XLT,automatic,California,27345.0,black,black,ford motor credit company llc pd,15500.0
+2007,Audi,A3,2.0T,automatic,California,154730.0,black,black,trade in solutions irvine,5350.0
+2008,Lexus,ES 350,Base,automatic,California,93972.0,gray,gray,skyhigh remarketing inc,12000.0
+2013,Chevrolet,Camaro,SS,automatic,California,50649.0,orange,orange,mckenna volkswagen,24000.0
+2012,Hyundai,Sonata Hybrid,Base,automatic,California,50052.0,silver,gray,hyundai motor finance,12800.0
+2009,Ford,Econoline Wagon,E-350 Super Duty XL,automatic,California,74425.0,white,gray,american finance & association corp,12250.0
+2014,Dodge,Grand Caravan,SXT,automatic,California,20814.0,red,black,enterprise holdings/gdp,21000.0
+2015,Dodge,Dart,SXT,automatic,California,8888.0,white,black,enterprise vehicle exchange / tra / rental / tulsa,10200.0
+2004,Saturn,L300,3,automatic,California,175085.0,black,black,jpmorgan chase bank n.a.,500.0
+2005,Subaru,Impreza,WRX,manual,California,133029.0,black,black,high bid trading co inc,7800.0
+2010,Chevrolet,Malibu,LT2,automatic,California,88966.0,gray,black,tdaf remarketing,7000.0
+2014,Chevrolet,Spark,1LT,automatic,California,43370.0,blue,black,enterprise veh exchange/rental,8800.0
+2014,Chevrolet,Suburban,LT 1500,automatic,California,26738.0,silver,black,enterprise vehicle exchange / tra / rental / tulsa,29000.0
+2012,Toyota,Camry,LE,automatic,California,54050.0,gray,gray,dtg operations inc,11500.0
+2005,Porsche,Boxster,S,manual,California,57304.0,silver,black,clear view systems,10800.0
+2008,Ford,Fusion,SE,automatic,California,103837.0,blue,black,jimmie johnson kearny mesa chevrolet,4700.0
+2011,Infiniti,FX,FX35,automatic,California,24123.0,gray,black,nissan infiniti lt,32750.0
+2003,Toyota,Sequoia,SR5,automatic,California,171170.0,gray,gray,ideal transportation,3800.0
+2013,GMC,Terrain,Denali,automatic,California,36116.0,white,black,mercedes benz of temecula,25500.0
+2008,Ford,Fusion,SE,automatic,California,121590.0,gray,gray,western fcu,2200.0
+2009,Ford,Taurus,SE,automatic,California,125983.0,black,beige,kal motors,2300.0
+2006,Lexus,IS 350,Base,automatic,California,178030.0,gray,gray,volkswagen of murrieta,7600.0
+2013,Jaguar,XF,Base,automatic,California,6891.0,blue,gray,jaguar north america llc,26000.0
+2008,Honda,Civic,Si,manual,California,98965.0,gray,—,champion chrysler jeep dodge,8500.0
+2007,BMW,3 Series,328i,automatic,California,51748.0,black,black,land rover newport beach,12500.0
+2008,Acura,TSX,Base,automatic,California,198756.0,white,black,springleaf financial services/evansville,4400.0
+2013,BMW,3 Series,328i xDrive,automatic,California,15345.0,—,black,financial services remarketing (lease),25000.0
+2015,Volvo,XC60,T5 Premier,automatic,California,18371.0,white,beige,volvo na rep/world omni,31500.0
+2010,Toyota,Prius,IV,automatic,California,57487.0,gray,gray,wells fargo dealer services,15500.0
+2011,Infiniti,G Coupe,G37,automatic,California,28446.0,black,black,nissan infiniti lt,21750.0
+1996,BMW,Z3,1.9,automatic,California,157128.0,black,black,aaero sweet company,2550.0
+2008,Mercedes-Benz,G-Class,G500,automatic,California,64051.0,silver,black,scottsdale sports car group,48000.0
+2011,Porsche,Cayenne,Turbo,automatic,California,45944.0,white,tan,daimler daiichi corp,53250.0
+2010,Chrysler,Town and Country,Touring,automatic,California,158265.0,silver,gray,enterprise veh exchange/rental,4300.0
+2007,Honda,Civic,Hybrid,automatic,California,188080.0,white,beige,hoehn honda,3300.0
+2007,Volkswagen,Eos,2.0T,automatic,California,70663.0,white,gray,arrowhead auto group inc,7300.0
+2014,Chrysler,Town and Country,Touring,automatic,California,39489.0,blue,black,enterprise vehicle exchange / tra / rental / tulsa,12000.0
+2012,Jeep,Grand Cherokee,Laredo,automatic,California,37311.0,white,gray,clear view systems,20750.0
+2008,Land Rover,Range Rover,Supercharged,automatic,California,84226.0,white,beige,motor city lexus of bakersfield,23250.0
+2010,Ford,Ranger,XLT,UNKNOWN,California,43750.0,white,gray,california auto exchange,10000.0
+2003,Ford,Expedition,XLT Popular,automatic,California,115241.0,black,gray,guard auto sales,4600.0
+2006,Dodge,Charger,RT,automatic,California,70856.0,orange,black,tradewinds remarketing,9400.0
+2003,Honda,Accord,LX,automatic,California,119366.0,gold,beige,remarketing by ge/nextgear capital,5600.0
+2013,Dodge,Avenger,SXT,automatic,California,61539.0,silver,black,the hertz corporation,8400.0
+2009,Dodge,Journey,SXT,automatic,California,67137.0,black,black,exeter finance corp,9100.0
+2001,Land Rover,Discovery Series II,SE,automatic,California,172118.0,black,beige,800 loan mart,300.0
+2014,BMW,M6 Gran Coupe,Base,automatic,California,16078.0,red,—,financial services remarketing (lease),87000.0
+2013,Honda,Accord,EX-L,automatic,California,14999.0,silver,—,cnc motors inc,19250.0
+2010,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,65755.78395415473,white,black,enterprise fm exchange/tra/lease,2200.0
+1999,BMW,3 Series,323i,manual,California,211810.0,silver,gray,david wilsons ford of orange,1200.0
+2003,Mercedes-Benz,CLK-Class,CLK430,automatic,California,53172.0,gray,gray,high bid trading co inc,8500.0
+1998,Toyota,Avalon,XLS,UNKNOWN,California,111549.0,green,beige,aaero sweet company,2300.0
+2013,Nissan,Altima,2.5,automatic,California,24675.0,—,black,nissan-infiniti lt,14250.0
+2013,Ford,Edge,Limited,UNKNOWN,California,38172.0,white,gray,ars/avis budget group,23100.0
+2014,Infiniti,Q50,Premium,automatic,California,21120.0,gray,black,nissan infiniti lt,27000.0
+2013,Jeep,Wrangler,Unlimited Rubicon,automatic,California,25404.0,silver,black,us bank,37000.0
+2000,Ford,Excursion,Limited,automatic,California,102681.0,black,gray,mercedes benz of san diego,5000.0
+2013,Ford,Escape,S,automatic,California,69219.0,silver,black,ge fleet services for itself/servicer,13200.0
+2014,Ford,Mustang,V6,automatic,California,57915.0,red,black,the hertz corporation,13400.0
+2001,Buick,LeSabre,Custom,automatic,California,76471.0,gray,beige,san diego sports cars,3800.0
+2011,BMW,3 Series,328i xDrive,automatic,California,36100.0,black,gray,financial services remarketing/rail cars,19500.0
+2011,Infiniti,G Convertible,G37,automatic,California,48805.0,black,black,nissan infiniti lt,24250.0
+2011,Ford,Taurus,SE,automatic,California,75442.0,gray,beige,fleet masters,10300.0
+2011,Ford,Fiesta,SE,automatic,California,80587.0,black,black,ford motor credit company llc,5600.0
+2012,Acura,TSX,Base,automatic,California,32625.0,burgundy,beige,audi west covina,17600.0
+2013,Nissan,Leaf,SV,automatic,California,23899.0,—,black,nissan-infiniti lt,12000.0
+2003,Toyota,Corolla,CE,automatic,California,184029.0,beige,beige,first credit finance,2600.0
+2006,Suzuki,Forenza,Base,automatic,California,123439.0,red,gray,california fleet inc,2000.0
+2012,Chevrolet,Volt,Base,automatic,California,35860.0,black,beige,fiserv/usb dealer services northstar exchange,14500.0
+2009,Toyota,RAV4,Limited,automatic,California,70013.0,blue,gray,toyota financial services,10800.0
+2009,Chevrolet,Malibu,LS,automatic,California,98490.0,gray,gray,wells fargo dealer services,8200.0
+2011,Infiniti,G Sedan,G37 Journey,automatic,California,94470.0,blue,black,nissan infiniti lt,13500.0
+2008,BMW,X5,3.0si,automatic,California,82999.0,white,black,ubs wholesale,19000.0
+2004,Saturn,VUE,Base,automatic,California,93789.0,silver,gray,nextgear capital,1200.0
+2008,Honda,Accord,EX-L V-6,automatic,California,76120.0,gray,gray,aaero sweet company,12500.0
+2003,Mazda,Tribute,ES-V6,automatic,California,170615.0,silver,—,apexcars net,2200.0
+2005,Toyota,Highlander,V6,automatic,California,97314.0,black,beige,capital fleet,7700.0
+2013,Cadillac,CTS,Performance,automatic,California,47129.0,blue,black,the hertz corporation,19500.0
+2007,Honda,Accord,EX-L,manual,California,88912.0,gray,black,premium auto wholesale,7000.0
+2000,BMW,3 Series,328i,automatic,California,97362.0,black,black,buyers auto sales,3300.0
+2014,Hyundai,Tucson,SE,automatic,California,16591.0,gray,black,premium auto wholesale,18000.0
+2014,Ford,Taurus,Limited,automatic,California,31913.0,gray,black,enterprise rent a car/ars,18200.0
+2006,Mercedes-Benz,M-Class,ML500,automatic,California,116588.0,black,black,pch pre owned,8600.0
+2014,Nissan,Versa,1.6 SV,automatic,California,13343.0,blue,—,nissan motor acceptance corporation,10750.0
+2006,Ford,F-150,XLT,automatic,California,170516.0,red,gray,veros credit,2000.0
+2013,Audi,A5,2.0T Premium Plus quattro,automatic,California,45182.0,white,black,vci/audi of downtown la,30000.0
+2014,Ford,Fusion,SE,automatic,California,28532.0,white,black,enterprise vehicle exchange / tra / rental / tulsa,13700.0
+2005,Ford,Taurus,SE,automatic,California,123295.0,gray,gray,quality acceptance,1400.0
+2012,Hyundai,Genesis,4.6,automatic,California,28067.0,red,tan,hyundai motor finance,19800.0
+2013,Infiniti,G Coupe,G37 Sport,automatic,California,28587.0,white,black,nissan infiniti lt,23250.0
+2013,Chrysler,200,Touring,automatic,California,39117.0,silver,black,the motor car group inc,10600.0
+2014,Chevrolet,Corvette Stingray,Z51,UNKNOWN,California,4781.0,silver,black,billion dodge chrysler jeep,55000.0
+2013,Hyundai,Elantra,GLS,automatic,California,39429.0,white,tan,enterprise vehicle exchange/orange,10750.0
+2008,Mazda,Mazda5,Touring,automatic,California,69250.0,gray,gray,corona auto wholesale inc,6500.0
+2013,Jeep,Compass,Latitude,automatic,California,27870.0,black,black,sun community fcu,12400.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,California,17717.0,black,black,nissan infiniti lt,21750.0
+2006,Maserati,Quattroporte,Base,automatic,California,20515.0,black,black,ferrari & maserati of san diego,25000.0
+2007,Mercedes-Benz,GL-Class,GL450,automatic,California,98744.0,white,beige,prestige auto wholesale inc,16750.0
+2012,Mercedes-Benz,C-Class,C250 Sport,automatic,California,28485.0,silver,gray,mercedes-benz financial services,21250.0
+2012,BMW,5 Series,528i,automatic,California,24506.0,blue,—,financial services remarketing (lease),33000.0
+2013,Nissan,Altima,2.5,UNKNOWN,California,59681.0,black,black,nissan motor acceptance corporation,12250.0
+2004,GMC,Sierra 1500,SLE,automatic,California,150110.0,red,gray,clear view systems,6100.0
+2015,Volvo,S60,T5 Drive-E,automatic,California,15810.0,black,black,volvo na rep/world omni,21600.0
+2005,Mercedes-Benz,C-Class,C240 Luxury,automatic,California,160310.0,white,beige,lobel financial corp,3500.0
+2013,Honda,Insight,LX,automatic,California,16773.0,black,black,ahfc/honda lease trust/hvt  inc.,13100.0
+2005,Volkswagen,Jetta,GL PZEV,automatic,California,104967.0,gray,black,ideal transportation,3100.0
+2002,Honda,Civic,EX,automatic,California,144723.0,blue,gray,ideal transportation,3300.0
+2013,Porsche,911,Carrera S,automatic,California,29672.0,black,black,porsche financial services,77000.0
+2012,Kia,Optima,EX,automatic,California,38425.0,silver,beige,mckenna audi/mckenna bmw,13800.0
+2012,ford,e350,wagon v8 xlt,UNKNOWN,California,67443.0,white,gray,vpsi  inc,14300.0
+2014,Nissan,Versa,1.6 SV,automatic,California,33159.0,gray,black,enterprise vehicle exchange / tra / rental / tulsa,2800.0
+2012,Toyota,Corolla,LE,automatic,California,20139.0,gray,gray,toyota financial services,11700.0
+2005,MINI,Cooper,Base,automatic,California,177294.0,silver,black,nationwide motor vehicles,3000.0
+2007,Pontiac,Solstice,Base,manual,California,46811.0,gray,black,walters auto sales/service inc,7700.0
+2014,Nissan,Altima,2.5 S,UNKNOWN,California,22401.0,black,black,enterprise vehicle exchange / tra / rental / tulsa,13000.0
+1996,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,102890.0,red,black,carzone,4700.0
+2005,Ford,Expedition,XLT,UNKNOWN,California,99390.0,beige,tan,united auto credit/irvine,2800.0
+2014,Volkswagen,Passat,SE PZEV,automatic,California,23836.0,—,black,vw credit,15500.0
+2012,Honda,Accord,LX-S,automatic,California,36864.0,gray,black,auto city sales/leasing,13000.0
+2011,BMW,3 Series,328i xDrive,automatic,California,30251.0,white,beige,financial services remarketing/rail cars,18500.0
+2012,Ford,Focus,SE,automatic,California,29497.0,gray,black,ford motor credit company llc pd,12000.0
+2013,Nissan,Sentra,SR,automatic,California,42284.0,black,black,consumer portfolio services,11200.0
+2012,BMW,5 Series,535i,automatic,California,40144.0,gray,gray,financial services remarketing (lease),32000.0
+2012,Nissan,Maxima,3.5 S,automatic,California,48852.0,gray,black,the hertz corporation,15100.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,automatic,California,97036.0,silver,gray,clear view systems,10750.0
+2012,Honda,Civic,LX,automatic,California,44061.0,blue,gray,ahfc/honda lease trust/hvt  inc. eot,9700.0
+2007,Volkswagen,Jetta,Wolfsburg Edition,manual,California,104384.0,black,black,bob baker volkswagen subaru,3700.0
+2006,Mercedes-Benz,CLS-Class,CLS500,automatic,California,87472.0,white,tan,high bid trading co inc,17400.0
+2013,Infiniti,QX,QX56,automatic,California,54985.0,gray,—,the hertz corporation,37250.0
+2011,Acura,TL,SH-AWD,automatic,California,55957.0,black,black,clear view systems,21250.0
+2014,Chevrolet,Sonic,LT,automatic,California,26060.0,white,black,enterprise vehicle exchange / tra / rental / tulsa,6600.0
+2012,Audi,A3,2.0 TDI Premium,automatic,California,52843.0,red,tan,wheels exchange llc,21000.0
+2005,Volkswagen,Jetta,GLI 1.8T,automatic,California,119872.0,black,black,california imports inc,3200.0
+2012,BMW,5 Series,535i,automatic,California,39902.0,black,black,financial services remarketing (lease),27500.0
+2003,Ford,Ranger,Tremor,UNKNOWN,California,111516.0,black,black,honda of pasadena,3500.0
+2014,Nissan,Sentra,FE+ SV,automatic,California,23500.0,gray,black,hertz damaged liquidation,9250.0
+2012,Infiniti,G Convertible,G37,automatic,California,29148.0,—,gray,nissan infiniti lt,27250.0
+2014,Nissan,Altima,2.5 S,automatic,California,19622.0,brown,black,nissan motor acceptance corporation,17500.0
+2013,Toyota,Sienna,LE 7-Passenger,automatic,California,29793.0,black,orange,toyota financial services,22750.0
+2012,Ford,Fusion,SE,automatic,California,62752.0,white,gray,dtg operations inc,9800.0
+2013,Hyundai,Accent,GLS,automatic,California,48817.0,red,tan,gm financial,8800.0
+2013,Ford,Escape,SEL,automatic,California,16887.0,red,beige,ford motor credit company llc pd,20400.0
+2011,Nissan,Leaf,SL,automatic,California,17144.0,black,beige,nissan-infiniti lt,6750.0
+2015,Chevrolet,Traverse,LT,automatic,California,13684.0,silver,black,unknown inventory,18900.0
+2013,Toyota,Prius,Two,automatic,California,33493.0,gray,gray,avis rac/san leandro,16700.0
+2013,Infiniti,G Sedan,G37x,automatic,California,50774.0,black,gray,the hertz corporation,19000.0
+2012,Audi,S5,3.0T Premium Plus quattro,automatic,California,10482.0,white,black,volkswagen credit inc/sc,41000.0
+2015,Chrysler,Town and Country,Touring,automatic,California,7085.0,white,black,enterprise vehicle exchange / tra / rental / tulsa,12700.0
+2014,Ford,Mustang,V6,automatic,California,61565.0,blue,black,dtg operations inc,11500.0
+2012,Dodge,Challenger,R/T,UNKNOWN,California,16967.0,white,black,aaero sweet company,22750.0
+2006,Jeep,Commander,Base,automatic,California,96133.0,white,gray,gosch ford,9900.0
+2004,Dodge,Ram Pickup 1500,SLT,automatic,California,151996.0,white,black,clear view systems,4700.0
+2014,Nissan,Altima,2.5 S,automatic,California,9126.0,white,black,nissan north america inc.,16000.0
+2008,Dodge,Caliber,SXT,automatic,California,96028.0,white,black,lobel financial corp,3000.0
+2011,Infiniti,QX56,Base,automatic,California,34187.0,black,black,nissan infiniti lt,35750.0
+2011,Lexus,RX 450h,Base,automatic,California,36258.0,gold,beige,fiserv/usb dealer services northstar exchange,27250.0
+2014,Jeep,Grand Cherokee,Limited,automatic,California,29502.0,white,black,enterprise fm exchange/lease,31800.0
+2004,Chevrolet,S-10,LS,automatic,California,99422.0,silver,black,jimmie johnson kearny mesa chevrolet,6500.0
+2014,Kia,Soul,+,automatic,California,23929.0,white,black,kia motors america  inc,14600.0
+2006,GMC,Yukon XL,Denali,automatic,California,170364.0,black,beige,executive enterprises auto wholesale inc,6600.0
+2006,Chevrolet,TrailBlazer,LS,automatic,California,108198.0,gray,gray,american auto finance,3000.0
+2012,Honda,Accord,SE,automatic,California,24917.0,black,black,ahfc/honda lease trust/hvt  inc. eot,14700.0
+2014,Ford,Focus,SE,automatic,California,20227.0,silver,black,enterprise vehicle exchange / tra / rental / tulsa,8400.0
+2013,Volkswagen,CC,R-Line PZEV,automatic,California,30480.0,gray,black,avis corporation,17200.0
+2013,Ford,C-Max Hybrid,SE,automatic,California,14192.0,silver,beige,ford motor credit company llc pd,14600.0
+1999,ford,expedition,4x2 ed bauer,automatic,California,186283.0,black,brown,del valle auto sales,750.0
+2008,Saturn,VUE,XR,automatic,California,70582.0,black,gray,nvp remarketing,8300.0
+1999,BMW,3 Series,328i,automatic,California,229698.0,white,beige,aaero sweet company,1450.0
+2013,Ford,F-150,FX4,UNKNOWN,California,14298.0,black,gray,ford motor credit company llc pd,36000.0
+2013,Toyota,Corolla,LE,automatic,California,33709.0,black,gray,santander consumer,13100.0
+2005,Dodge,Magnum,RT,automatic,California,82568.0,black,gray,palm springs nissan,5000.0
+2008,Honda,Civic,Si,manual,California,92797.0,silver,black,auto remarketing resources,11500.0
+2013,Ford,Escape,SE,automatic,California,34521.0,—,beige,wheels exchange llc,14300.0
+2004,BMW,3 Series,325i,UNKNOWN,California,137936.0,silver,gray,santander consumer,2900.0
+2005,Dodge,Sprinter Cargo,2500 High Roof 140 WB,automatic,California,179168.0,white,gray,lease plan usa,6000.0
+2005,Chevrolet,Suburban,1500 LS,automatic,California,130989.0,white,gray,american auto finance,7400.0
+2013,Ford,Fusion,Titanium,automatic,California,41813.0,gray,black,ford motor credit company llc pd,17300.0
+2009,Toyota,Corolla,LE,automatic,California,48463.0,gold,beige,gossler motors,9750.0
+2001,Ford,F-150,Lariat,automatic,California,217487.0,black,black,california fleet inc,7400.0
+2013,Ford,Fusion,SE,automatic,California,27593.0,gray,black,enterprise rent a car/ars,15100.0
+2013,Nissan,Altima,2.5,automatic,California,57802.0,black,black,nissan motor acceptance corporation,12000.0
+2007,Dodge,Charger,Base,automatic,California,110477.0,blue,silver,high bid trading co inc,6500.0
+2011,Mercedes-Benz,M-Class,ML350,automatic,California,46768.0,black,gray,mercedes-benz financial services,25000.0
+2014,Toyota,RAV4,Limited,automatic,California,11445.0,gold,black,stanford car co,25700.0
+2006,MINI,Cooper,S,manual,California,125567.0,off-white,black,american road leasing inc,4500.0
+2006,Chrysler,300,C,automatic,California,62693.0,gray,white,corona auto wholesale inc,11500.0
+2014,Subaru,Outback,2.5i Limited PZEV,automatic,California,23805.0,blue,beige,subaru of america,26000.0
+2012,Ford,Fusion,SEL,automatic,California,40625.0,gray,black,lease plan usa,11500.0
+2011,BMW,5 Series,535i,automatic,California,46350.0,brown,—,financial services remarketing (lease),25750.0
+2013,Mercedes-Benz,S-Class,S550,automatic,California,784.0,black,black,us bank,67000.0
+2007,Pontiac,G6,Base,automatic,California,103753.0,white,black,ecars,4000.0
+2009,GMC,Sierra 1500,SLE,UNKNOWN,California,91250.0,white,beige,remarketing by ge/penske truck lsg fleet sales,12900.0
+2005,Chrysler,300,Touring,automatic,California,102714.0,black,gray,billion dodge chrysler jeep,6900.0
+2013,Nissan,Altima,2.5,automatic,California,32809.0,silver,black,avis corporation,12500.0

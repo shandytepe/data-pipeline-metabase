@@ -1,0 +1,1493 @@
+year,make,model,trim,transmission,state,odometer,color,interior,seller,selling_price
+2014,Chevrolet,Impala Limited,LT Fleet,automatic,Florida,21507.0,white,black,gm remarketing,13800.0
+2011,Toyota,Corolla,LE,automatic,Florida,23634.0,black,beige,world omni financial corporation,11400.0
+2007,Saturn,Aura,XE,automatic,Florida,140350.0,silver,gray,autonation chevrolet west colonial,3300.0
+2015,Chrysler,200,C,automatic,Florida,2789.0,white,beige,american fleet leasing,15200.0
+2012,Honda,Accord,SE,automatic,Florida,28053.0,white,beige,jackson lease inc,14700.0
+2005,Buick,LaCrosse,CXS,automatic,Florida,147787.0,black,black,innovate loan servicing corp,1800.0
+2011,Mitsubishi,Outlander Sport,ES,automatic,Florida,90435.0,gray,black,primeritus remarketing/crescent bank & trust,7100.0
+2013,Chevrolet,Black Diamond Avalanche,LS,automatic,Florida,38055.0,black,black,onesource/kendall toyota,25100.0
+2007,Audi,A3,2.0T,manual,Florida,60173.0,white,tan,harbor nissan,10000.0
+2014,Chevrolet,Impala,LS Fleet,automatic,Florida,22985.0,gold,gray,gm remarketing,19400.0
+2011,Mazda,CX-9,Touring,automatic,Florida,81010.0,silver,black,dab auto world & leasing,11900.0
+2014,Toyota,Corolla,LE Plus,automatic,Florida,19321.0,blue,gray,world omni financial corporation,14000.0
+2008,Dodge,Charger,Base,automatic,Florida,103861.0,black,gray,autonation chrysler dodge jeep ram pembroke pine,4500.0
+2013,Hyundai,Sonata,GLS,automatic,Florida,63344.0,black,beige,hyundai motor finance,9600.0
+2001,Toyota,Corolla,S,automatic,Florida,148224.0,blue,black,extreme auto group  llc,2500.0
+2013,Ford,Focus,SE,automatic,Florida,54554.0,black,black,the hertz corporation,9100.0
+2013,Hyundai,Elantra,Limited,automatic,Florida,42454.0,silver,gray,santander consumer,10700.0
+2012,Nissan,Altima,2.5,automatic,Florida,10753.0,blue,black,nissan-infiniti lt,15000.0
+2014,Ford,E-Series Wagon,E-350 Super Duty XLT,automatic,Florida,38548.0,white,silver,avis budget group,18100.0
+2011,Chevrolet,Express Cargo,2500,automatic,Florida,139131.0,white,gray,lease plan usa,11900.0
+2007,Pontiac,Solstice,GXP,automatic,Florida,33776.0,red,black,germain toyota of naples/germain scion of naples,13900.0
+2000,Ford,Focus,SE,automatic,Florida,76723.0,red,gray,remarkable auto brokers inc,1050.0
+2015,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Florida,11459.0,black,black,land rover palm beach,70200.0
+2008,Dodge,Ram Pickup 1500,SLT,UNKNOWN,Florida,77917.0,silver,gray,first investors servicing corp,8000.0
+2001,Honda,Civic,LX,automatic,Florida,132207.0,beige,—,westlake financial services,2500.0
+2014,Dodge,Grand Caravan,SXT,automatic,Florida,29462.0,black,black,pv holding inc/gdp,15400.0
+2009,Hyundai,Santa Fe,Limited,automatic,Florida,41928.0,green,tan,red hoagland hyundai inc,13600.0
+2015,GMC,Terrain,SLE-2,automatic,Florida,10694.0,blue,black,florida auto financial group,22200.0
+2012,Lexus,ES 350,Base,automatic,Florida,26345.0,silver,black,jm lexus,20400.0
+1996,Chevrolet,Blazer,LS,automatic,Florida,197236.0,silver,black,autonation chevrolet airport,600.0
+2013,Jeep,Wrangler,Unlimited Sport,automatic,Florida,34394.0,red,black,ez rent a car inc,24000.0
+2005,Hyundai,Tucson,GL,automatic,Florida,125062.0,silver,gray,courtesy hyundai,4100.0
+2011,Nissan,Maxima,3.5 SV,automatic,Florida,45226.0,silver,black,nissan-infiniti lt,17000.0
+2014,Nissan,Maxima,3.5 SV,automatic,Florida,23222.0,white,black,courtney leasing inc,18200.0
+2004,chrysler,pacifica,fwd,automatic,Florida,159735.0,blue,gray,automatch usa,1800.0
+2015,Chevrolet,Cruze,LTZ,automatic,Florida,7845.0,black,black,gm remarketing,17500.0
+2010,Ford,Edge,SE,automatic,Florida,70002.0,silver,beige,navy federal credit union,9400.0
+2002,Dodge,Grand Caravan,eX,automatic,Florida,106736.0,gold,tan,zimmerman auto brokers inc,1700.0
+2012,Chevrolet,Camaro,LS,manual,Florida,31194.0,white,black,santander consumer,15000.0
+2005,Nissan,Murano,SL,automatic,Florida,233891.0,white,beige,dab auto world & leasing,4100.0
+2005,Nissan,Altima,2.5 S,automatic,Florida,113000.0,gray,—,germain toyota of naples/germain scion of naples,2000.0
+2013,Honda,CR-V,EX,automatic,Florida,23181.0,gray,gray,rick case honda,19300.0
+2012,Lexus,RX 350,Base,automatic,Florida,20526.0,black,beige,lexus financial services,28000.0
+2003,Ford,F-250 Super Duty,XLT,automatic,Florida,215417.0,red,gray,d&a fine cars,8000.0
+2006,Volkswagen,New Beetle,2.5,automatic,Florida,77672.0,silver,black,autonation nissan pembroke pines,3200.0
+2012,Ford,Fusion,SE,automatic,Florida,99505.0,—,gray,northwestern chrys/j/d/ge,8000.0
+2009,Pontiac,Vibe,Base,automatic,Florida,143342.0,black,—,courtesy nissan of tampa,4500.0
+2014,Nissan,Versa Note,1.6 SV,automatic,Florida,39679.0,blue,gray,enterprise veh exchange/rental,9900.0
+2014,Chevrolet,Impala,LS Fleet,automatic,Florida,24069.0,silver,gray,gm remarketing,15400.0
+2011,Toyota,Highlander,SE,automatic,Florida,156657.0,burgundy,black,auto sails inc,20000.0
+2010,Toyota,Corolla,LE,automatic,Florida,34236.0,gray,gray,world omni financial corporation,9200.0
+2011,Chevrolet,Aveo,1LT,automatic,Florida,48191.0,white,gray,remarketing by ge/your deal automotive inc,6800.0
+2006,Chrysler,Town and Country,Limited,automatic,Florida,120993.0,red,gray,grieco nissan,2300.0
+2011,Audi,Q7,3.0T Premium quattro,automatic,Florida,45318.0,black,black,sawgrass infiniti,30750.0
+2010,Honda,Accord,LX-P,automatic,Florida,35802.0,silver,gray,westlake financial services,11500.0
+2013,Chevrolet,Malibu,LT,automatic,Florida,40534.0,silver,black,enterprise veh exchange/rental,13000.0
+2014,Volvo,XC90,3.2,automatic,Florida,20483.0,silver,black,royal rent a car,28900.0
+2012,Hyundai,Tucson,GLS,UNKNOWN,Florida,18148.0,black,gray,autonation ford sanford,17600.0
+2015,Toyota,Corolla,S,automatic,Florida,2454.0,purple,black,onesource/hendrick toy scion of n charleston,16900.0
+2010,Chevrolet,Equinox,LS,automatic,Florida,99011.0,silver,black,westfall auto sales,9800.0
+2008,Ford,Taurus,SEL,automatic,Florida,85418.0,burgundy,gray,santander consumer,5600.0
+2011,Ford,F-150,Lariat,UNKNOWN,Florida,74530.0,beige,tan,remarketing by ge/manheim pensacola,21500.0
+2006,Chevrolet,Equinox,LT,automatic,Florida,96478.0,black,beige,santander consumer,5700.0
+2005,Volkswagen,New Beetle,GLS,automatic,Florida,83010.0,gray,red,westlake financial services,2900.0
+2003,Ford,Crown Victoria,LX,automatic,Florida,86141.0,white,gray,regional acceptance corporation / greenville,3700.0
+2011,Toyota,RAV4,Base,automatic,Florida,37336.0,black,gray,world omni financial corporation,14100.0
+2008,Chrysler,Town and Country,LX,automatic,Florida,162161.0,blue,gray,platinum auto finance llc,2900.0
+2012,Chevrolet,Impala,LT Fleet,automatic,Florida,72237.0,silver,—,nicholas financial inc/clearwater,8100.0
+2006,Ford,Fusion,SEL,automatic,Florida,73790.0,red,tan,d&a fine cars,4900.0
+2008,Mercedes-Benz,C-Class,C300 Sport,automatic,Florida,53946.0,black,black,ferco motors corp,14400.0
+2014,Ford,Focus,SE,automatic,Florida,90807.0,black,gray,wheels exchange llc,9300.0
+2007,Infiniti,G35,Base,automatic,Florida,105309.0,gray,gray,lauderdale infiniti,8250.0
+2015,Chevrolet,Corvette,Stingray Z51,automatic,Florida,3819.0,black,black,gm remarketing,56200.0
+2011,Dodge,Grand Caravan,Express,automatic,Florida,76614.0,white,beige,mike albert fleet solutions,8500.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,37374.0,white,black,nissan-infiniti lt,14000.0
+2008,Pontiac,Solstice,Base,automatic,Florida,80573.0,silver,gray,gateway one lending & finance,5500.0
+2011,Ford,F-150,Platinum,automatic,Florida,84507.0,brown,brown,brandon ford,25500.0
+2010,Ford,F-150,XLT,automatic,Florida,23499.0,—,gray,ford-lincoln dealer program,24400.0
+1998,Pontiac,Grand Prix,GT,automatic,Florida,134852.0,black,brown,hertz remarketing,300.0
+2013,Toyota,Prius,Two,automatic,Florida,40497.0,black,gray,enterprise veh exchange/rental,15300.0
+2010,Mercedes-Benz,S-Class,S550,automatic,Florida,49508.0,black,brown,mercedes-benz financial services,34800.0
+2011,Chevrolet,Silverado 1500,LS,automatic,Florida,36416.0,white,black,cire leasing,19300.0
+2014,Toyota,Corolla,LE,automatic,Florida,26454.0,black,black,enterprise vehicle exchange / tra / rental / tulsa,9000.0
+2009,Dodge,Grand Caravan,SE,automatic,Florida,72871.0,green,gray,autonation toyota scion weston,3600.0
+2005,Kia,Sorento,LX,automatic,Florida,189910.0,blue,gray,mid atlantic finance/clearwater,2300.0
+2004,Toyota,Corolla,LE,automatic,Florida,68385.0,white,gray,braman motorcars,5200.0
+2011,BMW,1 Series,128i,automatic,Florida,44644.0,gold,beige,braman motorcars,14500.0
+2014,FIAT,500L,Easy,UNKNOWN,Florida,25550.0,green,gray,pv holidng inc/non pgm,12000.0
+2011,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Florida,11423.0,black,tan,world omni financial corporation,12300.0
+2011,Nissan,Maxima,3.5 SV,automatic,Florida,34894.0,blue,black,nissan-infiniti lt,16400.0
+2014,Toyota,Tundra,SR,automatic,Florida,3917.0,white,gray,world omni financial corporation,25800.0
+2013,Nissan,Rogue,S,automatic,Florida,16201.0,silver,black,nissan motor acceptance corporation,14200.0
+2014,Ford,Taurus,Limited,automatic,Florida,20615.0,—,tan,avis budget group,19800.0
+1997,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Florida,205604.0,gold,tan,wayne akers ford inc,500.0
+2009,Infiniti,FX35,Base,automatic,Florida,76031.0,gray,black,santander consumer,14900.0
+2011,Toyota,Corolla,LE,automatic,Florida,51512.0,gray,gray,world omni financial corporation,9900.0
+2009,Cadillac,CTS,Base,automatic,Florida,38729.0,black,black,d&a fine cars,13800.0
+2012,Ford,E-Series Van,E-250,automatic,Florida,57097.0,white,gray,tdaf remarketing,16700.0
+2012,Toyota,Camry,LE,automatic,Florida,52527.0,red,beige,world omni financial corporation,11600.0
+2013,Chevrolet,Cruze,1LT,automatic,Florida,42581.0,white,black,enterprise veh exchange/rental,11400.0
+2013,Chevrolet,Spark,2LT,automatic,Florida,56085.0,silver,tan,the hertz corporation,7800.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,38380.0,blue,black,nissan-infiniti lt,12200.0
+2012,Chrysler,200,Touring,automatic,Florida,43676.0,silver,black,sullivan auto group llc,10500.0
+2003,Nissan,Altima,2.5 SL,automatic,Florida,140844.0,red,beige,courtesy nissan of tampa,500.0
+2011,Honda,CR-V,EX-L,automatic,Florida,48591.0,silver,—,gen x motors,15500.0
+2013,Hyundai,Sonata,GLS,automatic,Florida,22516.0,silver,gray,merchants leasing,12800.0
+2010,Honda,Civic,LX,automatic,Florida,110931.0,red,beige,hyundai of new port richey,6800.0
+2013,Volkswagen,Passat,SE PZEV,automatic,Florida,30961.0,—,black,vw credit,11800.0
+2012,Ford,Focus,SE,automatic,Florida,55195.0,—,black,wheels exchange llc,8200.0
+2013,Chevrolet,Cruze,LTZ,UNKNOWN,Florida,40059.0,brown,black,avis corporation,12800.0
+2014,Kia,Sorento,LX,UNKNOWN,Florida,32759.0,silver,black,southeastern car & truck rental,15200.0
+2004,Nissan,Quest,3.5 S,automatic,Florida,181823.0,silver,gray,nextgear capital,1700.0
+2004,Ford,F-150,Lariat,automatic,Florida,149965.0,beige,tan,lorenzo bomnin chevrolet,4500.0
+2014,Chevrolet,Suburban,LTZ 1500,UNKNOWN,Florida,33880.0,gold,black,avis corporation,38400.0
+2012,Ford,Expedition,Limited,automatic,Florida,34750.0,white,black,ford motor credit company llc,32400.0
+2007,BMW,7 Series,750Li,automatic,Florida,82931.0,black,gold,grow financial fcu,13500.0
+2004,Nissan,Maxima,3.5 SL,automatic,Florida,129968.0,silver,black,branford motor 1,3000.0
+2009,Ford,Fusion,SEL,automatic,Florida,84172.0,green,beige,capital one auto finance,7100.0
+2013,Mercedes-Benz,S-Class,S550,automatic,Florida,21014.0,black,black,mercedes-benz financial services,51500.0
+2012,Honda,CR-V,EX,automatic,Florida,69368.0,silver,gray,elder ford of tampa,15900.0
+2001,Volvo,S60,2.4T,automatic,Florida,188209.0,silver,gray,mercedes benz of tampa,800.0
+2014,Ford,Fusion,SE,automatic,Florida,31929.0,gray,tan,remarketing by ge/sixrentals corp,13000.0
+2014,Chevrolet,Traverse,LT,automatic,Florida,20474.0,blue,gray,gm remarketing,24000.0
+2012,BMW,5 Series,535i,automatic,Florida,43902.0,gray,black,braman motors,31400.0
+2012,Lexus,ES 350,Base,automatic,Florida,29077.0,black,black,lexus of north miami,20800.0
+2011,Infiniti,G Sedan,G37 Journey,automatic,Florida,35936.0,black,gray,nissan infiniti lt,20200.0
+2013,Mercedes-Benz,C-Class,C250 Sport,automatic,Florida,13038.0,black,black,mercedes-benz financial services,23500.0
+2010,GMC,Terrain,SLE-2,automatic,Florida,111869.0,black,black,schumacher auto group inc,8600.0
+2003,Toyota,Camry,LE,automatic,Florida,242143.0,gray,gray,elder ford of tampa,2800.0
+2014,Chevrolet,Captiva Sport,LS Fleet,automatic,Florida,24390.0,white,black,gm remarketing,14000.0
+2010,Toyota,Corolla,LE,automatic,Florida,66971.0,silver,gray,xtreme auto wholesalers inc,8500.0
+2014,Dodge,Charger,SE,automatic,Florida,23339.0,gray,black,hertz corporation/gdp,15600.0
+2011,Honda,CR-V,EX,automatic,Florida,44451.0,brown,black,remarketing by ge/west financial acceptance,14400.0
+2011,Nissan,Maxima,3.5 SV,automatic,Florida,17082.0,red,black,nissan-infiniti lt,16600.0
+2002,Ford,Focus,SE,automatic,Florida,142228.0,gold,beige,autonation toyota winter park,800.0
+2014,Chrysler,Town and Country,Touring,automatic,Florida,29657.0,blue,black,pv holding inc/gdp,18200.0
+2013,Ford,Taurus,SE,automatic,Florida,101146.0,black,tan,wheels exchange llc,10000.0
+2005,Nissan,Altima,2.5 S,automatic,Florida,170501.0,white,gray,courtesy kia of brandon,1900.0
+2012,Dodge,Charger,R/T,automatic,Florida,50104.0,gray,black,cire leasing,20500.0
+2008,Nissan,Altima,2.5 S,automatic,Florida,118669.0,gray,black,sam galloway ford lincoln,6400.0
+2009,Nissan,Sentra,2.0 S,automatic,Florida,108711.0,gold,gray,regional acceptance corporation / greenville,4300.0
+2007,Honda,Civic,EX,automatic,Florida,127850.0,black,gray,expert auto group inc,5000.0
+2012,Ford,F-150,XLT,automatic,Florida,109789.0,white,gray,westfall auto sales,18900.0
+2013,Nissan,Altima,2.5,automatic,Florida,40797.0,burgundy,black,avis corporation,12800.0
+2013,Toyota,Camry,SE,automatic,Florida,56198.0,silver,black,the hertz corporation,12000.0
+2012,MINI,Cooper,Base,automatic,Florida,28074.0,white,—,bmw mini financial services,13000.0
+2013,Lexus,GS 350,Base,automatic,Florida,17003.0,black,gray,lexus financial services,32400.0
+2011,Cadillac,SRX,Luxury,automatic,Florida,45814.0,red,tan,margate volvo,20000.0
+2011,Chevrolet,Traverse,LT2,automatic,Florida,37022.0,white,black,tdaf remarketing,20200.0
+2013,Hyundai,Veloster,Base,automatic,Florida,12632.0,red,gray,hyundai of st augustine,14200.0
+2013,Chrysler,200,LX,automatic,Florida,31668.0,gray,black,onesource/arlington toyota inc,10350.0
+2013,Chevrolet,Equinox,LT,automatic,Florida,16051.0,silver,gray,gm financial leasing,18800.0
+2009,Chevrolet,Silverado 1500,LS,automatic,Florida,143347.0,gray,black,westfall auto sales,12000.0
+2012,Honda,CR-V,EX-L,automatic,Florida,27683.0,brown,gray,palm beach auto mall inc,21800.0
+2013,Chevrolet,Cruze,2LT,automatic,Florida,40644.0,blue,black,santander consumer,11200.0
+2013,Chevrolet,Camaro,LT,UNKNOWN,Florida,50843.0,black,black,tdaf remarketing,21000.0
+2013,Toyota,Yaris,L,automatic,Florida,46841.0,red,gray,fox rent a car,9500.0
+2006,Toyota,Highlander,Limited,automatic,Florida,128338.0,silver,gray,jpmorgan chase bank n.a.,6900.0
+2013,Nissan,Altima,2.5,automatic,Florida,24005.0,brown,black,nissan-infiniti lt,14800.0
+2012,Lexus,IS 250,Base,automatic,Florida,22378.0,gray,beige,lexus financial services,20400.0
+2010,Audi,A4,2.0T Premium,automatic,Florida,52342.0,white,beige,tdaf remarketing,12000.0
+2012,Toyota,Camry,LE,automatic,Florida,28047.0,silver,gray,world omni financial corporation,14200.0
+2011,Infiniti,G Convertible,G37,automatic,Florida,60591.0,black,black,nissan infiniti lt,21800.0
+2001,Honda,CR-V,LX,automatic,Florida,116701.0,silver,gray,parking co of america inc,1900.0
+2012,BMW,3 Series,328i,automatic,Florida,13862.0,black,tan,lauderdale bmw of fort lauderdale,22000.0
+2004,Toyota,Sienna,XLE 7-Passenger,automatic,Florida,164567.0,gray,gray,kuhn honda,4300.0
+2009,Toyota,Venza,Base,automatic,Florida,52074.0,brown,beige,onesource/kendall toyota,14100.0
+2011,Toyota,Corolla,LE,automatic,Florida,14646.0,silver,gray,world omni financial corporation,12800.0
+2001,Dodge,Intrepid,SE,automatic,Florida,107429.0,silver,black,ed morse auto plaza,1400.0
+2003,Toyota,Highlander,Base,UNKNOWN,Florida,170382.0,silver,gray,dab auto world & leasing,4600.0
+2004,lexus,lx,470,automatic,Florida,167647.0,black,beige,firkins chrysler jeep dodge,13800.0
+2012,Nissan,Maxima,3.5 SV,automatic,Florida,41623.0,white,beige,nissan-infiniti lt,18800.0
+2014,Dodge,Charger,SE,automatic,Florida,15189.0,off-white,black,hertz corporation/gdp,16100.0
+2013,Nissan,Altima,2.5,automatic,Florida,29700.0,black,black,nissan-infiniti lt,13200.0
+2014,Nissan,Frontier,S,UNKNOWN,Florida,19808.0,silver,gray,regional acceptance corporation / greenville,17200.0
+2006,Toyota,Corolla,LE,UNKNOWN,Florida,110597.0,beige,beige,nicholas financial inc/clearwater,4700.0
+2013,Chevrolet,Silverado 1500,Work Truck,automatic,Florida,43480.0,blue,black,gm financial,15700.0
+2011,Lexus,IS 250 C,Base,automatic,Florida,31450.0,silver,gray,lexus financial services,22600.0
+2014,Toyota,Corolla,LE,automatic,Florida,18007.0,white,gray,onesource/earl stewart toyota,12500.0
+2009,Ford,F-250 Super Duty,Lariat,automatic,Florida,209262.0,gold,beige,westlake financial services,10000.0
+2007,GMC,Envoy,SLE,automatic,Florida,137967.0,gray,gray,ed morse cadillac,4300.0
+2008,Infiniti,G35,Sport,automatic,Florida,100656.0,gray,gray,lokey motor company,11800.0
+2010,Toyota,Highlander,Base,automatic,Florida,67885.0,gray,gray,sullivan auto group llc,15800.0
+2013,Hyundai,Sonata,GLS,automatic,Florida,24799.0,silver,gray,merchants leasing,12600.0
+2010,Honda,Odyssey,EX-L,automatic,Florida,98103.0,white,beige,hendrick honda daytona,12000.0
+2012,Nissan,Sentra,2.0 SL,UNKNOWN,Florida,33818.0,black,black,gm financial,12100.0
+2013,Chevrolet,Cruze,1LT,automatic,Florida,53563.0,silver,black,chrysler capital,9600.0
+2011,Honda,CR-V,EX,automatic,Florida,27978.0,white,gray,karl flammer ford inc,15400.0
+2013,Lexus,RX 350,Base,automatic,Florida,31174.0,gray,gray,lexus financial services,29000.0
+2004,Hyundai,Santa Fe,GLS,automatic,Florida,72829.0,silver,gray,pra receivables management llc,1100.0
+2007,Chrysler,Sebring,Base,automatic,Florida,121063.0,blue,gray,courtesy toyota of brandon,1200.0
+2006,Nissan,Frontier,SE,UNKNOWN,Florida,106845.0,silver,gray,remarketing by ge/campus auto retail service,8700.0
+2012,Kia,Optima,EX,automatic,Florida,41287.0,gray,gray,zimmerman auto brokers inc,13400.0
+2003,GMC,Yukon XL,1500 SLE,automatic,Florida,153548.0,gray,gray,remarketing of america,2700.0
+2009,BMW,3 Series,328i,automatic,Florida,77288.0,black,tan,sam galloway ford lincoln,10200.0
+2013,Subaru,Outback,2.5i Premium PZEV,automatic,Florida,15854.0,red,black,jpmorgan chase bank n.a.,21200.0
+2013,Hyundai,Elantra,GLS,UNKNOWN,Florida,30255.0,beige,tan,southeastern car & truck rental,11000.0
+2003,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Florida,171300.0,white,beige,westfall auto sales,13900.0
+2013,Chevrolet,Malibu,LTZ,automatic,Florida,51265.0,gray,black,the hertz corporation/gm,12800.0
+2014,Nissan,Altima,2.5 S,automatic,Florida,1398.0,red,beige,nissan-infiniti lt,17400.0
+2012,Mercedes-Benz,C-Class,C250 Sport,automatic,Florida,17726.0,white,beige,mercedes-benz financial services,19400.0
+2009,Lexus,ES 350,Base,automatic,Florida,36262.0,silver,gray,lexus financial services,16500.0
+2011,Chevrolet,HHR,LS,automatic,Florida,43516.0,white,gray,santander consumer,7600.0
+2015,Volvo,S60,T5 Drive-E,automatic,Florida,13587.0,white,tan,volvo na rep/world omni,22900.0
+2005,Nissan,Altima,2.5 S,automatic,Florida,122480.0,white,black,automotive credit corp,2500.0
+2000,Mitsubishi,Montero Sport,LS,automatic,Florida,207541.0,white,beige,coconut creek auto mall,1700.0
+2002,Mercury,Grand Marquis,GS,UNKNOWN,Florida,116202.0,burgundy,beige,credit acceptance corp/vrs/southfield,1900.0
+2007,Toyota,FJ Cruiser,Base,automatic,Florida,58833.0,burgundy,—,capital one auto finance,13000.0
+2014,Ford,Fusion,SE,automatic,Florida,18295.0,—,black,avis budget group,17400.0
+2007,Ford,Explorer Sport Trac,Limited,automatic,Florida,96658.0,black,black,regional acceptance corporation / greenville,10100.0
+2012,Lexus,ES 350,Base,automatic,Florida,18434.0,silver,gray,lexus financial services,23000.0
+2001,BMW,3 Series,325i,automatic,Florida,156530.0,blue,—,tropical chevrolet,1500.0
+1997,Honda,Civic,LX,automatic,Florida,209495.0,green,beige,autonation honda miami lakes,800.0
+2013,Hyundai,Veloster,Base,automatic,Florida,9077.0,yellow,black,hyundai motor finance,15100.0
+2005,Ford,Escape,XLT Sport,automatic,Florida,162160.0,green,beige,starling chevrolet buick gmc,2100.0
+2012,Honda,CR-V,EX-L,automatic,Florida,124399.0,black,black,westfall auto sales,16500.0
+2014,Volvo,XC60,3.2,automatic,Florida,36098.0,black,black,ez rent a car inc,23900.0
+2013,Kia,Optima,SX,automatic,Florida,26122.0,red,black,fields bmw,20000.0
+2014,Ford,Transit Connect,Wagon XLT LWB,automatic,Florida,10160.0,—,tan,ford motor credit company,21100.0
+2013,BMW,3 Series,328i,automatic,Florida,17547.0,brown,tan,financial services remarketing (lease),23000.0
+2006,Volkswagen,Jetta,2.5,automatic,Florida,125324.0,gray,gray,veterans ford,3800.0
+2003,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Florida,66604.0,silver,blue,tdaf remarketing,23400.0
+2010,Ford,Focus,SE,automatic,Florida,85484.0,silver,black,germain toyota of naples/germain scion of naples,5600.0
+2013,Lexus,CT 200h,Base,automatic,Florida,20072.0,red,beige,lexus financial services,18400.0
+2013,Toyota,Camry,SE,automatic,Florida,50149.0,red,black,the hertz corporation,12600.0
+2013,Lincoln,MKX,Base,automatic,Florida,21670.0,—,gray,ford motor credit company llc pd,24800.0
+2001,Oldsmobile,Silhouette,GLS,automatic,Florida,170681.0,silver,gray,autonation ford sanford,1000.0
+2011,Ford,Taurus,SEL,automatic,Florida,66833.0,silver,beige,ari,11700.0
+2014,Dodge,Charger,SE,automatic,Florida,24294.0,gray,black,santander consumer,16100.0
+2013,Toyota,Corolla,LE,automatic,Florida,38577.0,red,gray,avis corporation,11500.0
+2013,Kia,Forte,EX,automatic,Florida,17617.0,black,black,regional acceptance corporation / greenville,11400.0
+2014,Dodge,Charger,SE,UNKNOWN,Florida,36900.0,white,gray,firkins chrysler jeep dodge,13400.0
+2014,Honda,CR-V,LX,automatic,Florida,10271.0,—,black,warren henry infiniti inc,19700.0
+2012,Kia,Soul,+,automatic,Florida,72306.0,black,black,coral springs honda,9400.0
+2010,Honda,Civic,LX,automatic,Florida,73307.0,gray,gray,holman honda of fort lauderdale,8300.0
+2013,Infiniti,G Coupe,G37 Sport,automatic,Florida,12445.0,silver,black,nissan infiniti lt,25600.0
+2013,Ford,Fusion,Titanium,automatic,Florida,25810.0,white,black,ford motor credit company llc,19300.0
+2013,Jaguar,XJ,XJL Portfolio,automatic,Florida,22132.0,blue,brown,palm beach motor cars,48200.0
+2014,Ford,Fusion,SE,automatic,Florida,14386.0,—,black,avis budget group,17500.0
+2011,Nissan,Murano,SV,automatic,Florida,33359.0,gray,black,nissan-infiniti lt,18200.0
+2011,Volvo,XC90,3.2,automatic,Florida,19588.0,black,tan,onesource/kendall toyota,21800.0
+2012,Lexus,ES 350,Base,automatic,Florida,20297.0,white,beige,lexus financial services,21000.0
+2010,Nissan,Versa,1.8 S,automatic,Florida,74068.0,gray,gray,remarketing by ge/west financial acceptance,6600.0
+2007,Chevrolet,Tahoe,LS,automatic,Florida,94429.0,blue,gray,santander consumer,12600.0
+2011,Lexus,ES 350,Base,automatic,Florida,15516.0,black,beige,lexus financial services,21000.0
+2002,Hyundai,Accent,GL,UNKNOWN,Florida,39469.0,silver,gray,courtesy kia of brandon,1200.0
+2008,Porsche,Cayman,Base,manual,Florida,69687.0,black,tan,d&a fine cars,19500.0
+2012,Lexus,CT 200h,Base,automatic,Florida,46730.0,black,black,lexus financial services,17300.0
+2002,Toyota,Camry,LE,UNKNOWN,Florida,204758.0,red,gray,autonation nissan brandon,2400.0
+2008,Dodge,Charger,RT,automatic,Florida,105646.0,orange,black,gm financial,9400.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,30460.0,black,black,nissan-infiniti lt,11800.0
+2003,Chevrolet,Silverado 1500HD,LS,automatic,Florida,87455.0,gray,gray,transfleet us llc,10900.0
+2010,Volkswagen,CC,Sport PZEV,automatic,Florida,104245.0,blue,beige,autonation toyota scion weston,7700.0
+2005,Cadillac,DeVille,Base,automatic,Florida,124993.0,white,gray,credit acceptance corp/vrs/southfield,1700.0
+2014,GMC,Yukon,SLT,automatic,Florida,24193.0,silver,gray,enterprise veh exchange/rental,31200.0
+2008,Ford,Mustang,Premium,automatic,Florida,112975.0,silver,—,credit acceptance corp/vrs/southfield,6800.0
+2012,Toyota,Corolla,LE,automatic,Florida,56631.0,gold,beige,the hertz corporation,8200.0
+2012,Buick,Verano,Base,automatic,Florida,20038.0,white,beige,capital one auto finance,14500.0
+2004,BMW,3 Series,325Ci,automatic,Florida,59284.0,white,beige,coggin bmw treasure coast,6900.0
+2013,Hyundai,Elantra,GLS,automatic,Florida,55948.0,black,gray,hyundai motor finance,10400.0
+2014,Ford,Mustang,V6,automatic,Florida,56110.0,white,black,the hertz corporation,14700.0
+2007,MINI,Cooper,S,automatic,Florida,61489.0,black,black,braman motors,8600.0
+2008,HUMMER,H3,Alpha,automatic,Florida,115081.0,white,black,r & b car sales inc,16100.0
+2005,Dodge,Magnum,RT,automatic,Florida,129294.0,red,beige,wells fargo dealer services,6200.0
+2013,Nissan,Murano,SV,automatic,Florida,51722.0,gray,black,the hertz corporation,15800.0
+2012,GMC,Acadia,Denali,automatic,Florida,30402.0,burgundy,tan,cire leasing,30400.0
+2013,Chevrolet,Volt,Base,automatic,Florida,41678.0,gray,black,ge fleet services for itself/servicer,15900.0
+2009,Chevrolet,Traverse,LTZ,automatic,Florida,154902.0,white,gray,westfall auto sales,10600.0
+2012,Volkswagen,Passat,SE PZEV,automatic,Florida,14960.0,silver,tan,vw credit,13000.0
+2009,Chevrolet,Aveo,2LT,automatic,Florida,87943.0,silver,black,westlake financial services,2500.0
+2008,Lexus,IS 250,Base,automatic,Florida,101700.0,blue,beige,remarketing by ge/marcar leasing 2011 inc,11000.0
+2006,Toyota,Matrix,Base,automatic,Florida,227894.0,red,gray,westlake financial services,2600.0
+2011,Ford,Escape,XLS,automatic,Florida,66877.0,—,tan,lease plan usa,9400.0
+2014,Hyundai,Elantra GT,Base,automatic,Florida,15316.0,silver,gray,enterprise vehicle exchange / tra / rental / tulsa,9700.0
+2007,Chrysler,300,Base,automatic,Florida,116643.0,blue,black,courtesy chrysler jeep dodge,6000.0
+2005,Chrysler,Sebring,Limited,automatic,Florida,85655.0,black,gray,courtesy nissan of tampa,3000.0
+2010,Mazda,Mazda3,i Sport,automatic,Florida,72872.0,blue,black,santander consumer,7500.0
+2005,Toyota,Camry,LE,automatic,Florida,118172.0,gray,gray,coral springs honda,4800.0
+2007,BMW,3 Series,328i,automatic,Florida,101209.0,black,beige,afs acceptance llc,7500.0
+2013,Toyota,Corolla,S,manual,Florida,26683.0,black,black,onesource/kendall toyota,14200.0
+2012,Kia,Sedona,LX,automatic,Florida,60620.0,white,beige,dtg operations inc,10600.0
+2014,Ford,Fusion,SE,automatic,Florida,17073.0,—,black,avis budget group,18600.0
+2012,Lexus,IS 250,Base,automatic,Florida,49650.0,gray,black,lexus financial services,19200.0
+2015,Nissan,Versa Note,1.6 SV,automatic,Florida,12961.0,blue,black,nissan motor acceptance corporation,9600.0
+2013,Dodge,Grand Caravan,SXT,automatic,Florida,75433.0,silver,black,rental car finance corp/(pen),9801.0
+2012,Mazda,Mazda3,i Touring,automatic,Florida,34537.0,gray,black,jpmorgan chase bank n.a.,8400.0
+2014,Chevrolet,Cruze,2LT,automatic,Florida,36323.0,black,beige,avis corporation,12700.0
+2012,Infiniti,G Sedan,G37 Journey,automatic,Florida,32524.0,gray,beige,central florida auto gallery inc,20400.0
+2012,Lexus,ES 350,Base,automatic,Florida,12151.0,black,beige,lexus financial services,22600.0
+2014,Ford,Focus,SE,automatic,Florida,20728.0,UNKNOWN,UNKNOWN,avis budget group,12500.0
+2012,Nissan,Versa,1.6 S,manual,Florida,51756.0,silver,black,pnc bank  national association,7400.0
+2014,Nissan,Versa Note,1.6 SV,automatic,Florida,23415.0,gray,black,florida auto financial group,9800.0
+2008,Mazda,Mazda3,s Touring,automatic,Florida,124954.0,red,black,central florida postal credit union,5800.0
+2013,Chrysler,Town and Country,Touring,automatic,Florida,70707.0,white,black,the hertz corporation,12700.0
+2011,Nissan,Maxima,3.5 SV,automatic,Florida,33712.0,black,black,nissan-infiniti lt,18200.0
+2006,Infiniti,M35,Base,automatic,Florida,148726.0,black,black,remarketing by ge/space coast credit union,6600.0
+2013,Ford,Explorer,XLT,automatic,Florida,30539.0,—,black,ford motor credit company llc pd,24700.0
+2012,Lexus,GX 460,Premium,automatic,Florida,35164.0,beige,beige,zimmerman auto brokers inc,44000.0
+2008,Mazda,CX-9,Grand Touring,automatic,Florida,56935.0,silver,black,napleton's palm beach acura,12700.0
+2008,Dodge,Magnum,SXT,automatic,Florida,130516.0,gray,gray,suncoast credit corporation,3700.0
+2011,Ford,Edge,SE,automatic,Florida,48897.0,blue,beige,santander consumer,11400.0
+2000,Honda,Accord,LX,automatic,Florida,94019.0,silver,blue,autonation chevrolet pembroke pines,2300.0
+2012,Audi,Q5,2.0T Premium quattro,automatic,Florida,34796.0,black,black,audi pembroke pines,24200.0
+2004,Acura,TSX,Base,automatic,Florida,172003.0,black,beige,zimmerman auto brokers inc,4600.0
+2014,Ford,Fusion,SE,automatic,Florida,26612.0,—,black,avis budget group,16400.0
+2011,Mercedes-Benz,C-Class,C300 Sport,automatic,Florida,38970.0,gray,black,capital one auto finance,17300.0
+2011,Toyota,Camry,LE,automatic,Florida,71361.0,silver,gray,mercedes benz of north orlando,9300.0
+2008,Dodge,Caliber,SXT,automatic,Florida,64063.0,white,gray,santander consumer,6800.0
+2013,Kia,Soul,Base,manual,Florida,42913.0,white,black,j c auto world inc,9200.0
+2009,Chevrolet,Tahoe,LS,automatic,Florida,131550.0,gray,black,remarketing by ge/space coast credit union,11400.0
+2012,Ford,Fusion,SEL,automatic,Florida,31568.0,black,black,ford motor credit company llc pd,12500.0
+1998,Lexus,GS 300,Base,automatic,Florida,210118.0,blue,tan,beaver toyota of st augustine,2100.0
+2014,Jeep,Grand Cherokee,Summit,automatic,Florida,41070.0,gray,black,chrysler group llc,32200.0
+2013,Nissan,Altima,2.5,UNKNOWN,Florida,43745.0,silver,black,enterprise veh exchange/rental,12800.0
+2009,Toyota,Matrix,Base,automatic,Florida,57736.0,white,black,capital one auto finance,4800.0
+2012,Acura,MDX,Technology Package,automatic,Florida,20948.0,silver,beige,d&a fine cars,31200.0
+2013,Nissan,Altima,2.5,automatic,Florida,13225.0,silver,—,nissan-infiniti lt,16400.0
+2007,Nissan,Maxima,3.5 SL,automatic,Florida,92402.0,black,black,nicholas financial inc/clearwater,7300.0
+2009,Mercedes-Benz,C-Class,C300 Luxury,automatic,Florida,54305.0,gray,gray,mercedes benz of tampa,14900.0
+2013,Nissan,Altima,2.5,automatic,Florida,16014.0,beige,beige,nissan-infiniti lt,14200.0
+2013,Lexus,GS 350,Base,automatic,Florida,19064.0,silver,gray,lexus financial services,33500.0
+2014,Jeep,Cherokee,Latitude,UNKNOWN,Florida,11064.0,white,—,enterprise vehicle exchange / tra / rental / tulsa,12800.0
+2012,Toyota,Tacoma,PreRunner,automatic,Florida,52286.0,silver,gray,r k chevrolet inc,18800.0
+2013,Toyota,Camry,LE,automatic,Florida,41379.0,blue,gray,avis corporation,13700.0
+2014,Dodge,Grand Caravan,SXT,automatic,Florida,39171.0,red,black,avis corporation,16400.0
+2012,Chrysler,Town and Country,Touring,automatic,Florida,66077.0,red,black,autobuy,12600.0
+2014,Chevrolet,Silverado 1500,LTZ,automatic,Florida,18350.0,gray,black,award auto sales and leasing inc,37000.0
+2014,Kia,Optima,LX Hybrid,automatic,Florida,9565.0,blue,gray,kia motors america  inc,16300.0
+2015,Hyundai,Veloster,Turbo,automatic,Florida,2071.0,red,black,hyundai motor america/co car,22200.0
+2012,Toyota,Corolla,L,automatic,Florida,35047.0,black,gray,world omni financial corporation,10400.0
+2010,Mercedes-Benz,M-Class,ML350 4MATIC,automatic,Florida,61339.0,black,black,autobuy,19600.0
+2013,Nissan,Versa,1.6 S Plus,manual,Florida,22964.0,black,black,nissan-infiniti lt,9300.0
+2012,Nissan,Maxima,3.5 SV,automatic,Florida,23407.0,gray,black,nissan-infiniti lt,19200.0
+2000,Cadillac,DeVille,DHS,UNKNOWN,Florida,93824.0,white,beige,courtesy hyundai,1900.0
+2007,BMW,3 Series,328i,automatic,Florida,97593.0,white,beige,capital one auto finance,9700.0
+2014,Ford,F-150,XL,automatic,Florida,15339.0,white,gray,u-haul,19200.0
+2013,Volkswagen,CC,R-Line PZEV,automatic,Florida,39627.0,white,beige,vw credit,16200.0
+2013,Ford,Edge,SEL,automatic,Florida,24506.0,—,black,ford motor credit company llc pd,22700.0
+2011,Toyota,Venza,Base,automatic,Florida,24400.0,red,gray,world omni financial corporation,17000.0
+2014,Lincoln,MKZ,Base,automatic,Florida,15127.0,—,beige,ford motor credit company,25500.0
+2005,Chevrolet,Colorado,ZQ8,automatic,Florida,135508.0,yellow,gray,autonation chevrolet fort lauderdale,2900.0
+2013,Ford,Focus,SE,automatic,Florida,58322.0,—,black,ars/avis budget group,9300.0
+2010,Chevrolet,HHR,LS,automatic,Florida,80099.0,black,gray,gateway one lending & finance,4000.0
+2014,Dodge,Charger,SE,automatic,Florida,24147.0,silver,black,pv holding inc/gdp,15700.0
+2009,Dodge,Challenger,R/T,manual,Florida,103754.0,silver,black,tdaf remarketing,13900.0
+2013,Infiniti,G Sedan,G37x,automatic,Florida,15346.0,black,beige,nissan infiniti lt,24000.0
+2011,Jaguar,XJ,Base,automatic,Florida,49528.0,white,beige,jpmorgan chase bank n.a.,31400.0
+2005,Chevrolet,Malibu,Base,automatic,Florida,202347.0,white,gray,autonation chevrolet greenacres,1100.0
+2013,Mazda,Mazda5,Sport,automatic,Florida,56978.0,silver,black,the hertz corporation,10200.0
+2013,Ford,Escape,SE,automatic,Florida,73130.0,gray,black,dtg operations inc,12300.0
+2015,Toyota,RAV4,LE,automatic,Florida,9524.0,red,black,bmw alphera/alphera financial services,20000.0
+2013,Lexus,GS 350,Base,automatic,Florida,57480.0,black,tan,tdaf remarketing,30000.0
+2012,Honda,Civic,LX,automatic,Florida,34921.0,black,gray,zimmerman auto brokers inc,11800.0
+2014,Jeep,Wrangler,Unlimited Sport,automatic,Florida,13169.0,gray,black,chrysler group llc,25600.0
+2014,BMW,3 Series,320i,automatic,Florida,19951.0,black,black,lauderdale imports ltd bmw pembrok pines,22800.0
+2014,Audi,A6,2.0T Premium,automatic,Florida,18114.0,black,tan,prestige audi,32500.0
+2014,Toyota,Corolla,S,automatic,Florida,21818.0,blue,black,onesource/toyota of hollywood,14000.0
+2011,Nissan,Sentra,2.0 SL,automatic,Florida,35060.0,white,tan,arg inc,8100.0
+2011,Buick,Regal,CXL Turbo,automatic,Florida,42800.0,black,tan,suntrust bank,14000.0
+2013,Dodge,Avenger,SE,automatic,Florida,56341.0,gray,black,dtg operations inc,9600.0
+2012,Toyota,Corolla,LE,automatic,Florida,22406.0,gold,beige,world omni financial corporation,11500.0
+2010,Audi,A5,2.0T Premium quattro,UNKNOWN,Florida,81982.0,gray,gray,wells fargo dealer services,18300.0
+2013,Kia,Sorento,EX,automatic,Florida,36478.0,green,beige,kia motors finance,20300.0
+2013,Ford,Focus,SE,automatic,Florida,30590.0,gray,black,regional acceptance corporation / greenville,8800.0
+2010,Jeep,Wrangler,Unlimited Rubicon,UNKNOWN,Florida,80444.0,black,gray,tdaf remarketing,24400.0
+2003,Ford,Escape,XLS Popular,UNKNOWN,Florida,194883.0,green,gray,dt inventory,800.0
+2001,Acura,MDX,Touring,automatic,Florida,173196.0,gray,black,crown acura,2500.0
+2011,Jeep,Grand Cherokee,Laredo,automatic,Florida,96123.0,white,gray,auto sails inc,19300.0
+2013,Nissan,Rogue,SV,automatic,Florida,58672.0,black,black,the hertz corporation,12800.0
+2009,Hyundai,Santa Fe,GLS,automatic,Florida,79094.0,gray,gray,dt credit corporation,8000.0
+2010,Mazda,Mazda3,i Sport,automatic,Florida,64465.0,blue,—,courtesy toyota of brandon,6200.0
+2010,Toyota,Corolla,S,automatic,Florida,66582.0,silver,black,wells fargo dealer services,9100.0
+2008,BMW,3 Series,328i,automatic,Florida,72717.0,green,beige,flag/landrover southpointe,10200.0
+2012,Kia,Soul,Base,automatic,Florida,29068.0,black,black,regional acceptance corporation / greenville,10600.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,10163.0,blue,black,nissan-infiniti lt,12400.0
+2014,Chevrolet,Silverado 1500,LT,automatic,Florida,11778.0,black,black,braman motors,31800.0
+2014,Chevrolet,Impala,LT,UNKNOWN,Florida,21093.0,silver,black,gm remarketing,18200.0
+2008,Dodge,Caliber,SXT,automatic,Florida,83606.0,black,black,primeritus remarketing/crescent bank & trust,3400.0
+2013,Ford,Explorer,XLT,automatic,Florida,24177.0,white,beige,ford motor credit company llc,26100.0
+2014,Mercedes-Benz,E-Class,E550 Sport 4MATIC,automatic,Florida,20799.0,—,black,mercedes-benz financial services,46750.0
+2004,Cadillac,CTS,Base,automatic,Florida,141096.0,green,beige,public service credit union,1100.0
+2012,Volkswagen,GTI,Base,automatic,Florida,20895.0,gray,black,vw credit prequalified,19400.0
+2013,Nissan,Rogue,S,automatic,Florida,39906.0,black,black,nissan motor acceptance corporation,14200.0
+2002,Honda,Odyssey,EX-L,automatic,Florida,195316.0,gray,gray,east coast financial,1500.0
+2012,Toyota,Corolla,S,automatic,Florida,27212.0,gray,black,world omni financial corporation,10950.0
+2014,Chevrolet,Impala,LS Fleet,automatic,Florida,17052.0,gray,gray,gm remarketing,17600.0
+2005,Nissan,Altima,2.5,automatic,Florida,102881.0,gray,black,coggin honda of ft pierce,4700.0
+2012,Lexus,RX 350,Base,automatic,Florida,27869.0,gray,black,lexus financial services,30400.0
+2014,Chevrolet,Impala Limited,LT Fleet,automatic,Florida,22598.0,red,black,gm remarketing,13700.0
+2009,Land Rover,Range Rover,Supercharged,automatic,Florida,83794.0,white,—,dab auto world & leasing,29000.0
+2012,Toyota,Camry,LE,automatic,Florida,15959.0,silver,gray,world omni financial corporation,11600.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,6422.0,blue,beige,nissan-infiniti lt,14100.0
+2008,Subaru,Outback,2.5I,automatic,Florida,116511.0,gray,black,tdaf remarketing,7600.0
+2010,Ford,Ranger,XL,automatic,Florida,54331.0,white,gray,flexco fleet services,6100.0
+2012,Audi,A4,2.0T Premium,automatic,Florida,26023.0,silver,—,prestige audi,19200.0
+2012,Infiniti,G Sedan,G25,automatic,Florida,30914.0,black,gray,infiniti financial services,17000.0
+2010,Infiniti,QX56,Base,automatic,Florida,30329.0,white,beige,toyota financial services,31000.0
+2012,Mercedes-Benz,C-Class,C250 Sport,automatic,Florida,14620.0,black,beige,ebenzz motors,21200.0
+2014,Nissan,Altima,2.5 S,automatic,Florida,26246.0,white,beige,remarketing by ge/tech auto sales inc,12000.0
+2012,Lexus,GX 460,Base,automatic,Florida,55887.0,white,beige,firkins chrysler jeep dodge,36300.0
+2013,Hyundai,Elantra,GLS,automatic,Florida,14997.0,white,tan,hyundai of new port richey,10000.0
+2013,Scion,xB,Base,UNKNOWN,Florida,37672.0,gray,black,world omni financial corporation,10500.0
+2011,Chevrolet,Malibu,LS,automatic,Florida,76057.0,white,gray,santander consumer,7100.0
+2015,Ford,Explorer,Limited,automatic,Florida,17926.0,silver,beige,enterprise veh exchange/rental,29600.0
+2012,BMW,1 Series,128i,manual,Florida,43609.0,gray,beige,johnson lexus of raleigh,18100.0
+2013,Mitsubishi,Outlander Sport,SE,automatic,Florida,22093.0,black,black,gm financial,13900.0
+2008,BMW,X5,4.8i,automatic,Florida,63969.0,black,black,d&a fine cars,20400.0
+2011,Infiniti,G Sedan,G37x,automatic,Florida,30162.0,silver,black,nissan infiniti lt,18400.0
+2012,Lincoln,MKZ,Base,automatic,Florida,20504.0,red,beige,ford motor credit company llc,15300.0
+2011,BMW,5 Series Gran Turismo,550i,automatic,Florida,15826.0,black,black,lauderdale bmw of fort lauderdale,30900.0
+2011,Chrysler,200,Touring,automatic,Florida,44819.0,black,black,sullivan auto group llc,10500.0
+2003,Acura,TL,3.2,automatic,Florida,135956.0,gray,black,acura of gainesville,3400.0
+2002,Mercedes-Benz,CLK-Class,CLK320,automatic,Florida,55301.0,silver,gray,nextgear capital,1100.0
+2010,MINI,Cooper,S,automatic,Florida,45718.0,green,black,remarketing by ge/space coast credit union,9800.0
+2012,Nissan,Altima,2.5,automatic,Florida,54148.0,silver,black,autonation nissan kendall,12900.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,42280.0,blue,black,nissan-infiniti lt,13000.0
+2013,Hyundai,Elantra,GLS,automatic,Florida,22404.0,gray,gray,merchants leasing,10500.0
+2012,Chevrolet,Equinox,LS,automatic,Florida,43125.0,white,black,gm financial leasing,14200.0
+2002,Chevrolet,S-10,LS,manual,Florida,100540.0,blue,gray,remarketing by ge/community cu of florida,2400.0
+2010,Mazda,Mazda3,i SV,manual,Florida,85278.0,burgundy,beige,enterprise veh exchange/rental,6000.0
+2014,Hyundai,Sonata,GLS,automatic,Florida,31453.0,blue,gray,king hyundai,13800.0
+2011,BMW,3 Series,335i,automatic,Florida,37377.0,white,beige,financial services remarketing (lease),25025.0
+2012,Chevrolet,Silverado 1500,Work Truck,automatic,Florida,76867.0,white,gray,ari,11000.0
+2014,Chrysler,Town and Country,Touring,automatic,Florida,17021.0,gold,black,hertz corporation/gdp,19600.0
+1999,Ford,Ranger,XLT,manual,Florida,225065.0,black,gray,rick case hyundai inc,700.0
+2012,Toyota,4Runner,Limited,automatic,Florida,145906.0,white,beige,firkins chrysler jeep dodge,30000.0
+2008,Suzuki,Forenza,Base,automatic,Florida,81180.0,gold,gray,santander consumer,800.0
+2014,Nissan,Maxima,3.5 SV,automatic,Florida,5783.0,white,beige,nissan north america inc.,25600.0
+2013,Hyundai,Elantra,GLS,automatic,Florida,23838.0,black,gray,hyundai of new port richey,12900.0
+2002,GMC,Savana Cargo,3500,automatic,Florida,145558.0,white,gray,autonation nissan miami,1900.0
+2003,Lexus,LS 430,Base,automatic,Florida,163056.0,white,gray,gen x motors,7600.0
+2002,Honda,Accord,LX,automatic,Florida,148500.0,white,tan,coral springs honda,2500.0
+2013,Ford,Focus,SE,automatic,Florida,53437.0,white,black,the hertz corporation,9400.0
+1993,Honda,Accord,LX,automatic,Florida,226307.0,silver,gray,autonation ford jacksonville,900.0
+2006,Dodge,Magnum,SXT,automatic,Florida,88408.0,gray,—,whetstone partners,3200.0
+2006,Hyundai,Azera,Limited,automatic,Florida,127880.0,silver,gray,innovate loan servicing corp,2700.0
+2014,Ram,3500,Tradesman,automatic,Florida,7700.0,white,gray,tdaf remarketing,37800.0
+2007,Toyota,Sienna,CE 7-Passenger,automatic,Florida,78189.0,white,tan,d&a fine cars,8000.0
+2013,Toyota,Camry,LE,automatic,Florida,47692.0,white,beige,avis corporation,13300.0
+2012,Hyundai,Sonata,GLS,automatic,Florida,28523.0,blue,gray,hyundai motor finance,12800.0
+2013,Lexus,RX 350,Base,automatic,Florida,30069.0,black,black,lexus of north miami,33000.0
+2014,Ford,Mustang,V6,automatic,Florida,13097.0,black,black,avis budget group,20500.0
+2013,Hyundai,Sonata,GLS,automatic,Florida,88915.0,silver,gray,santander consumer,9200.0
+2014,Scion,FR-S,Base,automatic,Florida,3494.0,blue,black,onesource/mega auto group inc,20800.0
+2014,BMW,4 Series,435i,manual,Florida,5503.0,black,black,transworld auto finance & leasing,38000.0
+2001,Ford,Mustang,Base,automatic,Florida,107922.0,green,tan,autonation ford miami,1100.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Florida,43817.0,black,brown,nissan-infiniti lt,14400.0
+2013,Nissan,Leaf,SV,automatic,Florida,24131.0,white,black,nissan-infiniti lt,8000.0
+2013,Lexus,GS 350,Base,automatic,Florida,26529.0,black,gray,lexus financial services,30000.0
+2013,Nissan,Rogue,S,automatic,Florida,32393.0,black,gray,td auto finance,13500.0
+2011,Ford,F-150,XLT,automatic,Florida,92790.0,beige,beige,car collection of tampa inc,14500.0
+2013,Chevrolet,Impala,LS Fleet,automatic,Florida,55572.0,red,black,the hertz corporation,9600.0
+2014,Honda,Civic,LX,automatic,Florida,18588.0,burgundy,gray,gte fcu,13600.0
+2012,Chevrolet,Traverse,LS,automatic,Florida,52942.0,silver,gray,lease plan/ray chevrolet,13700.0
+2014,Chevrolet,Camaro,LT,UNKNOWN,Florida,16245.0,yellow,black,enterprise vehicle exchange / tra / rental / tulsa,10000.0
+2013,Dodge,Grand Caravan,SE,automatic,Florida,28375.0,gold,beige,the bancorp bank,14600.0
+2010,Hyundai,Tucson,Limited,automatic,Florida,117286.0,brown,gray,firkins chrysler jeep dodge,10800.0
+2015,Nissan,Pathfinder,SV,automatic,Florida,12288.0,blue,tan,enterprise veh exchange/rental,24400.0
+2013,Chrysler,300,S,automatic,Florida,29492.0,black,red,santander consumer,23400.0
+2004,BMW,5 Series,525i,automatic,Florida,135362.0,black,black,lauderdale bmw of fort lauderdale,5200.0
+2010,Dodge,Charger,SXT Fleet,automatic,Florida,89062.0,gray,black,grow financial fcu,8300.0
+2007,Chevrolet,Avalanche,LT,automatic,Florida,172800.0,black,black,meridian remarketing,7500.0
+2015,Chevrolet,Impala,LT,automatic,Florida,9550.0,red,black,gm remarketing,22400.0
+2012,Toyota,RAV4,Limited,automatic,Florida,16635.0,black,tan,world omni financial corporation,20250.0
+2012,Toyota,Prius Plug-in,Base,automatic,Florida,31247.0,gray,gray,toyota financial services,17900.0
+2013,Kia,Forte,EX,automatic,Florida,30380.0,black,black,regional acceptance corporation / greenville,9700.0
+2006,Dodge,Charger,SRT-8,automatic,Florida,76964.0,red,black,coggin nissan,12800.0
+2007,Chrysler,Aspen,Limited,automatic,Florida,151259.0,silver,gray,wells fargo dealer services,4200.0
+2004,Hyundai,XG350,Base,automatic,Florida,180154.0,off-white,tan,autonation toyota winter park,1100.0
+2005,Honda,Element,EX,automatic,Florida,139721.0,blue,black,coggin honda,3900.0
+2013,Cadillac,ATS,Standard,automatic,Florida,17760.0,gold,tan,us bank,20400.0
+2012,Honda,CR-V,EX-L,automatic,Florida,30875.0,red,tan,universal nissan,20600.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,28302.0,black,black,nissan-infiniti lt,14800.0
+2014,Chevrolet,Cruze,LTZ,automatic,Florida,19066.0,gray,—,gm remarketing,14900.0
+2011,Toyota,Highlander,Base,automatic,Florida,70731.0,blue,tan,herrin gear chevrolet co inc,15800.0
+2014,Chevrolet,Camaro,LT,automatic,Florida,14657.0,silver,—,gm remarketing,24200.0
+2005,Toyota,Prius,Base,automatic,Florida,123622.0,silver,gray,santander consumer,4200.0
+2014,Ford,Fusion Hybrid,Titanium,automatic,Florida,25152.0,—,black,avis budget group,19500.0
+2008,Porsche,Cayenne,Base,automatic,Florida,73516.0,gray,black,the collection,13700.0
+2013,Toyota,Yaris,LE,automatic,Florida,50312.0,white,gray,ciscon llc,8500.0
+1998,Toyota,Camry,LE,automatic,Florida,210953.0,white,gray,hertz remarketing,2000.0
+2006,Nissan,Pathfinder,LE,automatic,Florida,151229.0,red,gray,autonation toyota winter park,5000.0
+2014,Buick,Enclave,Leather Group,automatic,Florida,24887.0,gray,brown,gm remarketing,30300.0
+2013,Nissan,Altima,2.5,automatic,Florida,45850.0,white,black,nissan-infiniti lt,12600.0
+2014,Chevrolet,Cruze,1LT,automatic,Florida,21631.0,red,black,gm remarketing,12300.0
+2012,Hyundai,Sonata,GLS,automatic,Florida,34678.0,gray,gray,auto depot of orlando inc,12000.0
+2012,Honda,Pilot,EX,automatic,Florida,18170.0,black,gray,autonation honda miami lakes,21600.0
+2001,Mitsubishi,Eclipse Spyder,GS,automatic,Florida,72090.0,red,beige,autonation honda miami lakes,1400.0
+2011,Nissan,Maxima,3.5 SV,automatic,Florida,48501.0,white,tan,nissan-infiniti lt,18200.0
+2013,Lexus,IS 250,Base,automatic,Florida,18524.0,blue,beige,lexus financial services,21600.0
+2014,Chevrolet,Captiva Sport,LT Fleet,automatic,Florida,23955.0,silver,black,gm remarketing,16800.0
+2014,Chrysler,Town and Country,Touring,automatic,Florida,13956.0,white,black,enterprise holdings/gdp,20000.0
+2014,Chevrolet,Cruze,2LT,automatic,Florida,27541.0,blue,black,gm remarketing,13500.0
+2014,Honda,Civic,LX,automatic,Florida,14934.0,black,gray,caprock auto remarketing,13500.0
+2012,Infiniti,G Sedan,G25,automatic,Florida,22040.0,gray,beige,nissan infiniti lt,19400.0
+2012,Toyota,Camry,XLE,automatic,Florida,28151.0,white,gray,toyota financial services,18500.0
+2004,Chevrolet,Corvette,Base,manual,Florida,112405.0,red,black,remarketing by ge/west financial acceptance,12500.0
+2014,Ram,1500,Tradesman,automatic,Florida,14287.0,white,gray,bb&t asset disposal,25000.0
+2002,Kia,Sportage,Base,manual,Florida,121573.0,gray,gray,b and m auto group,750.0
+2011,Mercedes-Benz,C-Class,C300 Sport,automatic,Florida,28136.0,white,—,mercedes-benz financial services,20750.0
+2008,Lincoln,MKZ,Base,UNKNOWN,Florida,148867.0,white,beige,dt credit corporation,4100.0
+2013,Nissan,Maxima,3.5 S,automatic,Florida,68134.0,white,black,sw1 remarketing,12900.0
+2002,Volkswagen,New Beetle,GLS,automatic,Florida,80413.0,silver,gray,sheehan buick gmc  inc,1500.0
+2013,Buick,Verano,Leather Group,automatic,Florida,54618.0,silver,black,the hertz corporation/gm,11600.0
+2013,Hyundai,Sonata,GLS,automatic,Florida,32417.0,gray,gray,hyundai motor finance,13300.0
+2014,Nissan,Sentra,SV,UNKNOWN,Florida,30874.0,black,gray,ez rent a car inc,12700.0
+2004,Suzuki,Aerio,SX,UNKNOWN,Florida,136756.0,white,black,north palm hyundai,450.0
+2014,Dodge,Journey,SE,automatic,Florida,23169.0,silver,black,remarketing by ge/manheim central florida,14000.0
+2014,Subaru,Forester,2.5i Premium PZEV,manual,Florida,22202.0,black,gray,o'brien hyundai of fort meyers,19500.0
+2010,Chevrolet,Silverado 1500,LT,automatic,Florida,76994.0,red,black,santander consumer,17800.0
+2013,Chevrolet,Captiva Sport,LT Fleet,automatic,Florida,52819.0,silver,gray,the hertz corporation,11900.0
+2014,Ford,E-Series Van,E-150,automatic,Florida,4501.0,—,gray,ge fleet services for itself/servicer,19500.0
+2014,Ford,Focus,SE,automatic,Florida,16978.0,—,white,avis budget group,13400.0
+2012,Ford,Edge,SE,automatic,Florida,39138.0,—,black,ford motor credit company llc pd,16200.0
+2013,Ford,Explorer,XLT,automatic,Florida,62973.0,gray,black,the hertz corporation,21900.0
+2007,Ford,F-150,King Ranch,automatic,Florida,182398.0,green,brown,mid florida fcu,6900.0
+2013,Chevrolet,Camaro,LS,manual,Florida,19523.0,white,black,capital one auto finance,17000.0
+2013,Lexus,RX 350,Base,automatic,Florida,20628.0,gold,beige,lexus financial services,31600.0
+2013,Toyota,Camry,SE,automatic,Florida,18307.0,white,black,world omni financial corporation,15800.0
+2008,Kia,Sorento,LX,UNKNOWN,Florida,118836.0,black,brown,remarketing by ge/atlanta enterprises llc,3000.0
+2011,Ford,Explorer,Limited,automatic,Florida,36765.0,gold,gray,lauderdale infiniti,23000.0
+1997,Toyota,Camry,CE,automatic,Florida,194035.0,gold,beige,autonation ford fort lauderdale,1400.0
+2013,Ford,Mustang,GT,manual,Florida,19711.0,black,black,tdaf remarketing,35700.0
+2013,Honda,Pilot,EX-L,automatic,Florida,23785.0,gray,black,rick case honda,26200.0
+2014,Ford,Mustang,V6,automatic,Florida,32977.0,black,black,ars/avis budget group,19000.0
+2005,Honda,Accord,LX,automatic,Florida,110340.0,gold,beige,nicholas financial inc/clearwater,4700.0
+2015,Chevrolet,Silverado 2500HD,LT,automatic,Florida,7313.0,white,black,express car & truck rental,41000.0
+2014,Lexus,LS 460,Base,automatic,Florida,6366.0,white,beige,lexus financial services,64500.0
+2014,Nissan,Altima,2.5 S,automatic,Florida,33793.0,white,black,enterprise veh exchange/rental,13700.0
+2013,Audi,Q5,2.0T Premium quattro,automatic,Florida,24164.0,white,tan,prestige audi,27000.0
+2012,Lexus,ES 350,Base,automatic,Florida,18748.0,white,beige,lexus financial services,23500.0
+2013,Nissan,Rogue,S,automatic,Florida,41591.0,gray,black,nissan-infiniti lt,11400.0
+2015,Jeep,Wrangler,Unlimited Sahara,automatic,Florida,10601.0,black,black,tdaf remarketing,31900.0
+2013,Ford,Escape,S,automatic,Florida,136826.0,black,black,auto sails inc,10900.0
+2002,Ford,Explorer,XLT,UNKNOWN,Florida,204629.0,silver,gray,courtesy nissan of tampa,900.0
+2009,Toyota,Corolla,LE,automatic,Florida,75057.0,green,gray,santander consumer,7500.0
+2012,Lexus,CT 200h,Premium,automatic,Florida,25545.0,white,black,lexus financial services,21000.0
+2013,Toyota,Corolla,L,automatic,Florida,9681.0,silver,gray,santander consumer,13500.0
+2012,Infiniti,G Sedan,G25,automatic,Florida,26318.0,gray,gray,nissan infiniti lt,17200.0
+2005,Hyundai,Tucson,GLS,automatic,Florida,211706.0,blue,gray,remarketing by ge/sw1 remarketing,1500.0
+2010,Honda,Accord Crosstour,EX,automatic,Florida,43675.0,gray,beige,fountain auto mall,13900.0
+2014,Toyota,Camry,LE,automatic,Florida,3429.0,white,gray,world omni financial corporation,18100.0
+2007,Chevrolet,Malibu,LS Fleet,automatic,Florida,17158.0,white,gray,metro ford inc,2500.0
+2014,Ford,F-150,XLT,automatic,Florida,36107.0,—,gray,ars/avis budget group,24200.0
+2012,Toyota,Camry,XLE,automatic,Florida,38761.0,gold,beige,onesource/mega auto group inc,15000.0
+2011,Infiniti,G Sedan,G37 Journey,automatic,Florida,72023.0,black,beige,nissan infiniti lt,17000.0
+2013,Chevrolet,Spark,2LT,automatic,Florida,48923.0,silver,gray,the hertz corporation,7500.0
+2012,Ford,Explorer,Limited,automatic,Florida,38174.0,blue,brown,ford motor credit company llc pd,27000.0
+2010,Dodge,Avenger,SXT,automatic,Florida,86049.0,black,black,remarketing by ge/space coast credit union,5500.0
+2014,Lexus,IS 250,Base,automatic,Florida,17802.0,black,beige,tdaf remarketing,30400.0
+2014,Jeep,Patriot,Sport,automatic,Florida,23250.0,black,black,chrysler capital,13100.0
+2010,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Florida,165454.0,white,gray,lease plan/ray chevrolet,6900.0
+2014,Subaru,Impreza,2.0i Premium PZEV,automatic,Florida,16630.0,gray,black,subaru of america,17300.0
+2012,Toyota,Avalon,Limited,automatic,Florida,34552.0,white,gray,bill bryan subaru,21100.0
+2013,Ford,Edge,SE,automatic,Florida,6232.0,—,black,ford motor credit company llc pd,19500.0
+2013,Hyundai,Genesis,5.0 R-Spec,automatic,Florida,29034.0,black,black,hyundai motor finance,27500.0
+2006,Cadillac,Escalade,Base,automatic,Florida,180033.0,black,tan,ed morse cadillac,8000.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,10703.0,blue,black,nissan-infiniti lt,13800.0
+1997,BMW,Z3,1.9,manual,Florida,102283.0,blue,tan,pompano ford lincoln mercury,3200.0
+2014,Ford,Explorer,Limited,automatic,Florida,38136.0,—,beige,ars/avis budget group,27400.0
+2014,Chevrolet,Cruze,LS,automatic,Florida,10042.0,silver,black,regional acceptance corporation / greenville,12100.0
+2011,Mercedes-Benz,SL-Class,SL550,automatic,Florida,17093.0,black,beige,palm beach motor cars,52600.0
+2012,Infiniti,G Sedan,G25,automatic,Florida,46670.0,gray,gray,nissan infiniti lt,15600.0
+2008,Chevrolet,Malibu,LS,automatic,Florida,117651.0,silver,gray,regional acceptance corporation / greenville,4200.0
+2012,Toyota,Camry,LE,automatic,Florida,17918.0,black,gray,world omni financial corporation,14000.0
+2014,Ford,E-Series Van,E-250,UNKNOWN,Florida,12175.0,white,gray,u-haul,19500.0
+2014,Ford,Focus,SE,automatic,Florida,63807.0,gray,gray,regional acceptance corporation / greenville,8100.0
+2014,Ford,Focus,SE,automatic,Florida,34316.0,white,black,ars/avis budget group,12300.0
+2012,BMW,3 Series,328i xDrive,automatic,Florida,54552.0,off-white,gray,andrew thomas motorcars,20800.0
+2013,Toyota,Corolla,LE,automatic,Florida,46578.0,silver,gray,remarketing by ge/first commerce credit union,8200.0
+2012,Audi,A5,2.0T Premium quattro,automatic,Florida,14458.0,—,black,vw credit,24000.0
+2014,Dodge,Grand Caravan,R/T,automatic,Florida,39283.0,gray,black,avis corporation,18500.0
+2011,Toyota,RAV4,Base,automatic,Florida,90001.0,black,beige,world omni financial corporation,9100.0
+2012,Mazda,Mazda3,i Sport,automatic,Florida,62971.0,white,black,mazda of wesley chapel,8900.0
+2013,Nissan,Altima,2.5,automatic,Florida,14980.0,black,black,nissan-infiniti lt,19600.0
+1998,Buick,Regal,GS,UNKNOWN,Florida,129935.0,white,gray,autonation ford delray,600.0
+2013,Hyundai,Sonata,Limited,automatic,Florida,19237.0,gray,gray,us bank,15800.0
+2014,Ford,Fusion Hybrid,SE,automatic,Florida,23046.0,—,black,avis budget group,20000.0
+2011,Infiniti,G Sedan,G37 Journey,automatic,Florida,31868.0,white,beige,nissan infiniti lt,20800.0
+2014,Toyota,Tacoma,PreRunner V6,automatic,Florida,4643.0,black,gray,onesource/kendall toyota,22600.0
+2007,Honda,Accord,EX-L,automatic,Florida,104455.0,gold,tan,d&a fine cars,8400.0
+2012,BMW,3 Series,335is,automatic,Florida,21799.0,red,black,financial services remarketing (lease),36600.0
+2013,Land Rover,Range Rover Sport,Luxury,automatic,Florida,28340.0,white,brown,orlando car connection,51800.0
+2012,Infiniti,G Sedan,G37 Journey,automatic,Florida,26733.0,white,gray,nissan infiniti lt,23200.0
+2013,Ford,F-150,Lariat,automatic,Florida,13846.0,—,gold,ford motor credit company llc,32400.0
+2004,Nissan,Murano,SL,automatic,Florida,119106.0,silver,black,courtesy chrysler jeep dodge,4100.0
+2012,Ford,Fusion,SEL,automatic,Florida,14478.0,white,brown,ford motor credit company llc,13200.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,27786.0,silver,black,nissan-infiniti lt,15400.0
+2012,MINI,Cooper Countryman,S,automatic,Florida,30031.0,black,black,braman motors,20400.0
+2011,Toyota,Corolla,LE,automatic,Florida,80357.0,black,gray,pnc bank  national association,7400.0
+2011,Ram,1500,Laramie,automatic,Florida,31801.0,black,black,regional acceptance corporation / greenville,23400.0
+2013,Mercedes-Benz,SLK-Class,SLK250,automatic,Florida,30636.0,red,black,the hertz corporation,28300.0
+2009,Cadillac,CTS,Base,automatic,Florida,37160.0,white,beige,santander consumer,15300.0
+2014,Hyundai,Sonata,GLS,automatic,Florida,10633.0,red,beige,hyundai motor finance,15300.0
+2012,Dodge,Journey,American Value Package,automatic,Florida,79082.0,white,black,lease plan usa,9000.0
+2004,lexus,gx,470,automatic,Florida,137493.0,gold,beige,dab auto world & leasing,10200.0
+2013,Lexus,ES 350,Base,automatic,Florida,5002.0,gray,black,onesource/kendall toyota,29550.0
+2014,Lincoln,MKS,Base,automatic,Florida,2519.0,—,beige,ford motor credit company,25500.0
+2002,Ford,Windstar,LX Standard,automatic,Florida,121921.0,white,gray,daytona toyota,1500.0
+2010,Ford,Mustang,GT Premium,manual,Florida,51656.0,red,black,td auto finance,12400.0
+2015,Chevrolet,Equinox,LT,automatic,Florida,15279.0,white,black,enterprise veh exchange/rental,22300.0
+2011,GMC,Acadia,Denali,automatic,Florida,41809.0,gray,beige,johnson lexus of raleigh,27000.0
+2006,Toyota,4Runner,SR5,automatic,Florida,122624.0,gray,gray,champion auto wholesale inc,9000.0
+2013,FIAT,500,Sport,automatic,Florida,20008.0,yellow,gray,chrysler capital,9900.0
+2011,Cadillac,Escalade ESV,Premium,automatic,Florida,78738.0,red,black,d&a fine cars,30200.0
+2001,Honda,Civic,EX,manual,Florida,254817.0,black,black,coggin bmw treasure coast,1200.0
+2010,GMC,Terrain,SLE-1,automatic,Florida,72597.0,red,black,remarketing by ge/manheim ft. lauderdale,9000.0
+2013,Ford,F-150,XLT,automatic,Florida,40023.0,white,gray,the hertz corporation,26200.0
+2004,Ford,F-150,FX4,automatic,Florida,102663.0,yellow,black,santander consumer,10100.0
+2014,Ford,Fusion,SE,automatic,Florida,43905.0,white,beige,avis corporation,13600.0
+2014,Chevrolet,Impala,LT,automatic,Florida,44589.0,white,black,jm lexus,19000.0
+2013,Toyota,Yaris,L,automatic,Florida,65234.0,red,gray,remarketing by ge/west financial acceptance,8600.0
+2011,Ford,E-Series Van,E-350 Super Duty,UNKNOWN,Florida,159810.0,white,gray,westfall auto sales,7500.0
+2005,Ford,F-150,XL,automatic,Florida,138527.0,white,gray,the collection,4300.0
+2012,Ford,F-150,XLT,automatic,Florida,127746.0,—,gray,ari,12100.0
+2014,Lincoln,MKZ,Base,automatic,Florida,33837.0,—,black,avis budget group,23200.0
+2013,Dodge,Grand Caravan,SE,automatic,Florida,37323.0,white,black,ez rent a car inc,12500.0
+2012,Audi,A4,2.0T Premium,automatic,Florida,54736.0,silver,black,crown audi,20800.0
+2012,Nissan,Sentra,2.0 S,automatic,Florida,18667.0,blue,beige,nissan-infiniti lt,12000.0
+2009,Dodge,Avenger,SXT,automatic,Florida,121719.0,gold,—,nicholas financial inc/clearwater,4000.0
+2012,Kia,Optima,EX,automatic,Florida,31615.0,gray,gray,kia motors finance,13200.0
+2015,Kia,Sorento,LX,automatic,Florida,19247.0,white,beige,kia motors america  inc,18700.0
+2013,Nissan,Sentra,SV,automatic,Florida,43673.0,silver,black,nissan-infiniti lt,11200.0
+2006,Audi,A4,2.0T,automatic,Florida,73747.0,white,beige,mercedes benz of tampa,8000.0
+2009,Jeep,Liberty,Sport,automatic,Florida,88959.0,white,gray,courtesy nissan of tampa,9800.0
+2012,Infiniti,G Sedan,G25,automatic,Florida,35991.0,black,black,nissan infiniti lt,16400.0
+2013,Chevrolet,Equinox,LTZ,automatic,Florida,57756.0,silver,black,the hertz corporation,16300.0
+2012,Nissan,Altima,2.5,automatic,Florida,27924.0,black,beige,nissan-infiniti lt,12200.0
+2007,Honda,Civic,EX,automatic,Florida,63933.0,red,black,metro ford inc,7100.0
+2003,Honda,CR-V,EX,UNKNOWN,Florida,141370.0,gold,tan,coral springs honda,4100.0
+2014,Jeep,Compass,Sport,automatic,Florida,24134.0,blue,black,pv holding inc/gdp,14200.0
+2011,Toyota,Avalon,Base,automatic,Florida,61849.0,silver,black,clermont nissan,17000.0
+2012,Lexus,ES 350,Base,automatic,Florida,5500.0,white,beige,lexus financial services,28000.0
+2010,Lexus,RX 350,Base,automatic,Florida,97295.0,black,beige,johnson lexus of raleigh,16000.0
+2012,BMW,3 Series,335i,automatic,Florida,27026.0,blue,black,financial services remarketing (lease),26000.0
+2012,Nissan,Murano,SL,automatic,Florida,18069.0,black,tan,jpmorgan chase bank n.a.,23800.0
+2012,Lexus,GX 460,Base,automatic,Florida,44282.0,gray,gray,palm beach motor cars,34500.0
+2012,Toyota,Camry,SE,automatic,Florida,60825.0,gray,black,world omni financial corporation,12200.0
+2005,Ford,Expedition,Limited,automatic,Florida,113538.0,white,beige,new wave auto sales,3200.0
+2013,BMW,3 Series,328i,UNKNOWN,Florida,47150.0,gray,black,financial services remarketing (lease),19800.0
+2013,Ford,Focus,SE,automatic,Florida,53876.0,silver,black,the hertz corporation,9400.0
+2014,Chevrolet,Cruze,LTZ,automatic,Florida,16870.0,silver,black,gm remarketing,14800.0
+2012,Toyota,Camry,LE,automatic,Florida,29485.0,gray,gray,world omni financial corporation,13500.0
+2013,Cadillac,ATS,Luxury,automatic,Florida,43601.0,silver,black,the hertz corporation,18600.0
+2003,Nissan,Altima,3.5 SE,automatic,Florida,120572.0,white,beige,autonation chevrolet coral gables,2700.0
+2009,BMW,1 Series,135i,automatic,Florida,74883.0,black,black,kingsway motor co,13700.0
+2010,Chevrolet,Silverado 2500HD,LTZ,automatic,Florida,126386.0,white,black,tdaf remarketing,20600.0
+2014,Ford,Focus,SE,automatic,Florida,24345.0,silver,black,florida auto financial group,11600.0
+2010,Ford,F-150,FX2,automatic,Florida,57340.0,black,black,best buy repos inc,19700.0
+2006,Nissan,Murano,SL,automatic,Florida,100082.0,white,tan,nicholas financial inc/clearwater,5500.0
+2009,BMW,3 Series,328i,automatic,Florida,95007.0,blue,gray,toyota financial services,9100.0
+2013,Hyundai,Veloster,Turbo,automatic,Florida,31290.0,black,black,hyundai motor finance,14500.0
+2013,Kia,Optima,LX,automatic,Florida,26723.0,silver,gray,fuccillo kia of cape coral,14200.0
+2002,Toyota,Camry,LE,automatic,Florida,103895.0,gold,—,p b auto sales,1500.0
+2013,Subaru,Outback,2.5i Premium,automatic,Florida,84503.0,white,tan,d&a fine cars,14500.0
+2011,Toyota,Corolla,LE,automatic,Florida,35780.0,black,gray,world omni financial corporation,9100.0
+2009,MINI,Cooper Clubman,Base,manual,Florida,91525.0,brown,brown,hertz remarketing,7000.0
+2013,Lincoln,Navigator,Base,automatic,Florida,33219.0,gray,black,the hertz corporation,32300.0
+2014,Toyota,RAV4,XLE,automatic,Florida,17083.0,blue,gray,world omni financial corporation,21700.0
+2014,Ford,Fusion,SE,automatic,Florida,19159.0,—,black,avis budget group,17600.0
+2008,Lexus,ES 350,Base,automatic,Florida,79703.0,gray,gray,lauderdale infiniti,10800.0
+2012,Volkswagen,Passat,S PZEV,automatic,Florida,27525.0,white,black,vw credit,12000.0
+2014,Ford,F-150,XL,automatic,Florida,8199.0,white,gray,u-haul,18500.0
+2006,Chrysler,PT Cruiser,Touring,automatic,Florida,89395.0,silver,gray,courtesy nissan of tampa,3100.0
+2004,Volvo,XC90,T6,automatic,Florida,139572.0,gold,gray,autobuy,2600.0
+2006,Volvo,XC90,V8,automatic,Florida,103108.0,blue,—,mercedes benz of tampa,8200.0
+2003,Mitsubishi,Eclipse Spyder,GS,automatic,Florida,124859.0,red,black,coral springs honda,1900.0
+2013,Hyundai,Elantra,GLS,automatic,Florida,34920.0,black,gray,suntrust bank,9500.0
+2014,Kia,Rio,LX,automatic,Florida,10460.0,red,gray,kia motors america  inc,11400.0
+2005,Dodge,Stratus,SXT,UNKNOWN,Florida,130216.0,silver,black,broward county sheriffs office,1200.0
+2001,Chevrolet,Tahoe,Base,automatic,Florida,197814.0,black,gray,coral springs honda,500.0
+2012,Toyota,Camry,LE,automatic,Florida,30682.0,black,beige,world omni financial corporation,13200.0
+2013,Hyundai,Elantra,Limited,automatic,Florida,21231.0,black,tan,hyundai motor finance,13200.0
+2010,BMW,3 Series,328i,automatic,Florida,78902.0,black,black,braman motorcars of jupiter,14700.0
+1999,Dodge,Stratus,ES,automatic,Florida,131384.0,white,black,autonation honda hollywood,1200.0
+2011,Jeep,Grand Cherokee,Limited,automatic,Florida,53239.0,black,black,enterprise vehicle exchange / rental / tulsa,21000.0
+2006,Chrysler,300,Touring,automatic,Florida,123177.0,green,gray,nicholas financial inc/clearwater,5000.0
+2012,Mercedes-Benz,E-Class,E350 Luxury,automatic,Florida,47519.0,black,tan,lokey motor company,26100.0
+2013,Toyota,Camry,SE,automatic,Florida,30476.0,silver,black,world omni financial corporation,16300.0
+2012,Kia,Optima,LX,automatic,Florida,22771.0,gray,gray,kia motors finance,11600.0
+2010,Mazda,Mazda6,i Grand Touring,automatic,Florida,58814.0,white,black,ferco motors corp,9400.0
+2012,Audi,Q5,2.0T Premium quattro,automatic,Florida,58408.0,white,brown,vw credit,22200.0
+2007,BMW,X3,3.0si,automatic,Florida,123780.0,white,tan,sixrentals corp,7000.0
+2006,Nissan,Frontier,SE,automatic,Florida,117666.0,silver,gray,coggin honda of st. augustine,7900.0
+2003,Ford,Ranger,Edge,manual,Florida,101431.0,blue,black,gettel nissan of sarasota,3000.0
+2013,Kia,Optima,LX,automatic,Florida,32152.0,silver,beige,first investors servicing corp,9000.0
+2007,Mercedes-Benz,S-Class,S550,automatic,Florida,66066.0,silver,gray,tdaf remarketing,21600.0
+2008,Cadillac,STS,V6,automatic,Florida,53773.0,white,tan,greenway ford inc,10600.0
+2013,Nissan,Armada,SV,automatic,Florida,57150.0,black,black,tdaf remarketing,24800.0
+2003,Mazda,Protege,ES,automatic,Florida,147921.0,silver,gray,ed morse auto plaza,1700.0
+2013,Audi,Q5,2.0T Premium Plus quattro,automatic,Florida,32875.0,white,beige,vw credit,29600.0
+2014,Chevrolet,Impala,LT,automatic,Florida,26309.0,gray,gray,gm remarketing,18000.0
+2012,Ford,Explorer,XLT,automatic,Florida,164956.0,—,beige,lease plan/sutton ford,16800.0
+2014,Chevrolet,Impala,LTZ,automatic,Florida,17607.0,black,black,gm remarketing,25100.0
+2011,Nissan,Murano,SL,automatic,Florida,74263.0,gray,black,firkins nissan,14800.0
+2013,Mazda,CX-5,Touring,automatic,Florida,45871.0,black,black,elder ford of tampa,17400.0
+2014,Ford,Expedition,XLT,automatic,Florida,33218.0,red,beige,avis corporation,31900.0
+2012,Dodge,Challenger,R/T,automatic,Florida,8254.0,red,black,five star bank,20000.0
+2013,BMW,X3,xDrive35i,UNKNOWN,Florida,63848.0,white,beige,remarketing by ge/sunrise partners inc of nw,28400.0
+2014,Toyota,Camry,LE,automatic,Florida,13515.0,gray,gray,toyota motor sales usa inc/program,14600.0
+1998,Mercedes-Benz,M-Class,ML320,automatic,Florida,265638.0,silver,black,lauderdale imports ltd bmw pembrok pines,800.0
+2004,Porsche,Cayenne,S,automatic,Florida,107941.0,white,gray,palm beach auto group,10600.0
+2014,Chrysler,300,Base,automatic,Florida,24123.0,burgundy,black,hertz corporation/gdp,19000.0
+2012,Ford,Explorer,XLT,automatic,Florida,118539.0,—,tan,wheels exchange llc,17200.0
+2005,acura,rl,UNKNOWN,automatic,Florida,100238.0,gray,black,remarketing by ge/manheim central florida,6800.0
+2013,Volkswagen,Jetta SportWagen,TDI,automatic,Florida,21509.0,silver,black,schumacher auto group inc,18100.0
+2009,Audi,S5,quattro,automatic,Florida,39048.0,black,black,tdaf remarketing,26000.0
+2013,Toyota,Sienna,LE 7-Passenger Mobility Auto Access,automatic,Florida,58847.0,red,gray,the hertz corporation,17100.0
+2004,Pontiac,Grand Prix,GT2,automatic,Florida,80455.0,black,—,westlake financial services,3700.0
+2007,Honda,Civic,LX,manual,Florida,129129.0,gray,gray,holman honda of fort lauderdale,3600.0
+2003,Ford,Focus,LX,automatic,Florida,76670.0,red,—,courtesy toyota of brandon,1100.0
+2011,Dodge,Caliber,Rush,automatic,Florida,34231.0,silver,black,tdaf remarketing,12300.0
+2008,Nissan,Altima,2.5 S,automatic,Florida,111684.0,silver,black,jpmorgan chase bank n.a.,7000.0
+2014,Chevrolet,Impala,LT,automatic,Florida,23352.0,blue,black,gm remarketing,20000.0
+2005,Saturn,VUE,Base,automatic,Florida,102853.0,blue,gray,first technology credit union,2900.0
+2007,Suzuki,SX4,Base,automatic,Florida,172703.0,white,gray,courtesy toyota of brandon,3800.0
+2010,Chevrolet,Impala,LT,automatic,Florida,93403.0,black,gray,north palm hyundai,4600.0
+2013,Nissan,Juke,S,automatic,Florida,31310.0,red,black,kelley buick gmc inc,14500.0
+2013,Volkswagen,Jetta,TDI,automatic,Florida,30000.0,black,—,dick devoe buick cadillac inc,16500.0
+2003,Toyota,Celica,GT,automatic,Florida,153944.0,white,black,autonation toyota scion weston,2100.0
+2013,Hyundai,Elantra,GLS,automatic,Florida,23438.0,silver,gray,hyundai motor finance,11500.0
+2012,Ford,Escape,XLS,automatic,Florida,81396.0,black,gray,ari,8800.0
+2013,Toyota,Corolla,S Special Edition,automatic,Florida,18360.0,gray,gray,capital one auto finance,11300.0
+2007,Ford,Explorer,XLT,automatic,Florida,139575.0,blue,tan,southern auto finance co/safco/ft lauderdale,4400.0
+2014,Hyundai,Elantra,SE,automatic,Florida,17275.0,black,gray,hyundai of new port richey,13150.0
+2004,Toyota,Sienna,LE 8-Passenger,automatic,Florida,150341.0,gray,gray,palmetto57 nissan,3100.0
+2000,Chevrolet,Silverado 1500,Base,automatic,Florida,173103.0,gray,gray,brandon mitsubishi,2900.0
+2014,Ford,Explorer,Limited,automatic,Florida,17956.0,silver,black,ford-lincoln dealer program,32800.0
+2004,BMW,X5,3.0i,automatic,Florida,140202.0,white,tan,capital one auto finance,4800.0
+2007,Hyundai,Santa Fe,Limited,automatic,Florida,54617.0,gray,gray,ferco motors corp,8300.0
+2012,Kia,Soul,Base,automatic,Florida,57258.0,white,black,bmw alphera/alphera financial services,9000.0
+2014,Toyota,Camry,LE,automatic,Florida,5753.0,green,beige,world omni financial corporation,15000.0
+2013,Ford,Explorer,XLT,automatic,Florida,64711.0,silver,black,the hertz corporation,19000.0
+2013,Ford,F-150,FX4,automatic,Florida,27463.0,—,black,ford motor credit company llc,36000.0
+2012,Lexus,RX 350,Base,automatic,Florida,48636.0,gray,beige,jm lexus,25200.0
+2014,Kia,Optima,LX Hybrid,automatic,Florida,12295.0,white,black,kia motors america  inc,16100.0
+2012,Toyota,Yaris,LE,automatic,Florida,41642.0,gray,—,ferco motors corp,10300.0
+2013,Cadillac,ATS,Luxury,automatic,Florida,40117.0,black,gray,enterprise veh exchange/rental,19400.0
+2010,Jeep,Wrangler,Sahara,automatic,Florida,53123.0,blue,black,remarketing by ge/we florida financial,20000.0
+2014,Chrysler,Town and Country,Touring,automatic,Florida,25014.0,red,black,enterprise holdings/gdp,18500.0
+2014,Kia,Soul,Base,automatic,Florida,27582.0,green,black,regional acceptance corporation / greenville,11700.0
+2011,Mercedes-Benz,M-Class,ML350 4MATIC,automatic,Florida,30697.0,gray,gray,mercedes-benz financial services,24600.0
+2012,Ford,Fusion,SEL,automatic,Florida,22721.0,silver,tan,dyer chevrolet,13800.0
+2014,Chevrolet,Sonic,LTZ,automatic,Florida,10390.0,blue,black,gm remarketing,12600.0
+2008,BMW,3 Series,328i,automatic,Florida,42856.0,black,black,the collection,17500.0
+2008,Ford,F-250 Super Duty,FX4,automatic,Florida,108043.0,white,brown,courtesy chrysler jeep dodge,20100.0
+2009,Chevrolet,Equinox,LT,automatic,Florida,124820.0,white,gray,florida credit union,5500.0
+2008,Kia,Sorento,LX,automatic,Florida,86456.0,burgundy,tan,pines auto brokers,6500.0
+2011,Nissan,Maxima,3.5 SV,automatic,Florida,48968.0,gray,black,nissan-infiniti lt,13800.0
+2014,Chevrolet,Corvette Stingray,Base,automatic,Florida,12233.0,yellow,black,gm remarketing,57200.0
+2012,Lincoln,MKZ,Base,automatic,Florida,26417.0,burgundy,black,ford motor credit company llc,14300.0
+2014,Jeep,Wrangler,Sport,automatic,Florida,18761.0,red,black,chrysler capital,26000.0
+2001,Honda,Civic,LX,automatic,Florida,185084.0,white,beige,autonation toyota fort myers,1700.0
+2013,Chevrolet,Suburban,LTZ 1500,automatic,Florida,63643.0,gold,black,the hertz corporation,31000.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,Florida,19807.0,gray,gray,nissan infiniti lt,20200.0
+2005,Chrysler,Town and Country,Limited,automatic,Florida,126195.0,gold,gray,florida credit union,3000.0
+2005,Nissan,Maxima,3.5 SL,automatic,Florida,159119.0,black,black,autonation ford margate,2500.0
+2013,Lexus,RX 350,Base,automatic,Florida,19018.0,black,black,flowers nissan,31100.0
+2014,Lexus,IS 250,Base,automatic,Florida,15031.0,gray,black,lexus of pembroke pines,28000.0
+2011,Toyota,Sienna,XLE 8-Passenger,automatic,Florida,50334.0,red,gray,lokey motor company,21600.0
+2004,Honda,Civic,EX,automatic,Florida,123576.0,white,beige,courtesy toyota of brandon,3700.0
+2007,Hyundai,Santa Fe,GLS,automatic,Florida,74293.0,green,beige,courtesy hyundai,7200.0
+2006,Kia,Sportage,LX,automatic,Florida,106721.0,silver,gray,automatch usa,2300.0
+2014,Ford,Focus,SE,automatic,Florida,39126.0,—,gray,ars/avis budget group,11400.0
+2008,Kia,Rondo,EX,automatic,Florida,89563.0,blue,tan,meridian remarketing,3400.0
+2014,Toyota,Yaris,LE,automatic,Florida,36462.0,white,black,enterprise veh exchange/rental,10400.0
+2012,Mazda,Mazdaspeed 3,Touring,manual,Florida,36349.0,black,black,rob lambdin's university dodge,15400.0
+2013,Nissan,Pathfinder,SV,UNKNOWN,Florida,34647.0,gray,—,enterprise veh exchange/rental,19500.0
+2014,Ford,F-150,FX4,automatic,Florida,14520.0,silver,black,crosby nissan sales,34700.0
+2008,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Florida,50004.0,gray,gray,d&a fine cars,16600.0
+2014,Jeep,Grand Cherokee,SRT,automatic,Florida,11697.0,white,black,the collection,56000.0
+2012,Nissan,Maxima,3.5 S,automatic,Florida,22846.0,black,black,nissan-infiniti lt,14800.0
+2003,Lexus,ES 300,Base,automatic,Florida,149838.0,black,tan,lexus of north miami,3800.0
+2012,Toyota,RAV4,Limited,automatic,Florida,17559.0,silver,gray,world omni financial corporation,20250.0
+2010,Jeep,Wrangler,Unlimited Sahara,automatic,Florida,54698.0,burgundy,gray,tdaf remarketing,23400.0
+2014,Kia,Forte,LX,automatic,Florida,10501.0,black,gray,kia motors america  inc,12000.0
+2004,Ford,F-150,FX4,automatic,Florida,157050.0,black,black,arg inc,7800.0
+2005,Nissan,Altima,2.5 S,automatic,Florida,81215.0,gray,gray,autonation chevrolet south clearwater,4400.0
+2012,Hyundai,Elantra,Limited,automatic,Florida,43914.0,blue,beige,hyundai motor finance,12000.0
+2009,Jaguar,XF,Supercharged,automatic,Florida,61346.0,gray,black,consolidated asset recovery systems  inc.,18300.0
+2001,Jaguar,S-Type,3,automatic,Florida,100633.0,white,gray,metro ford inc,1500.0
+2013,Nissan,Altima,2.5,automatic,Florida,23882.0,white,black,nissan-infiniti lt,13800.0
+2013,Jeep,Wrangler,Unlimited Sport,automatic,Florida,57039.0,white,black,zimmerman auto brokers inc,25200.0
+2005,Kia,Spectra,Spectra5,automatic,Florida,84724.0,silver,—,courtesy nissan of tampa,2300.0
+2012,Chevrolet,Malibu,LS Fleet,automatic,Florida,84588.0,white,black,westfall auto sales,9400.0
+2012,Nissan,Maxima,3.5 SV,automatic,Florida,28016.0,white,beige,nissan-infiniti lt,20000.0
+2004,Mercedes-Benz,S-Class,S600,automatic,Florida,82563.0,black,black,santander consumer,5200.0
+2004,Acura,MDX,Touring,automatic,Florida,94286.0,beige,—,mercedes benz of tampa,7800.0
+2014,GMC,Savana Cargo,2500,automatic,Florida,10368.0,white,gray,u-haul,22300.0
+2013,Infiniti,G Sedan,G37x,automatic,Florida,9886.0,silver,beige,nissan infiniti lt,23000.0
+2005,Acura,TL,3.2,automatic,Florida,212859.0,gray,beige,coggin nissan at the avenues,2800.0
+2009,Toyota,Sienna,XLE 7-Passenger,automatic,Florida,92014.0,blue,gray,world omni financial corporation,11000.0
+2012,Nissan,Versa,1.8 S,UNKNOWN,Florida,45186.0,black,black,the hertz corporation,8000.0
+2007,Suzuki,Grand Vitara,XSport,automatic,Florida,177230.0,silver,black,auto sails inc,3750.0
+2012,Hyundai,Tucson,Limited PZEV,automatic,Florida,77040.0,blue,black,hyundai of new port richey,10600.0
+2005,Jeep,Grand Cherokee,Limited,automatic,Florida,148588.0,gold,—,credit acceptance corp/vrs/southfield,3700.0
+2014,Ford,Fusion,SE,automatic,Florida,24591.0,—,black,avis budget group,15200.0
+2014,Ford,Focus,SE,automatic,Florida,14348.0,—,black,avis budget group,13900.0
+2007,Dodge,Caliber,SXT,automatic,Florida,103412.0,white,gray,courtesy toyota of brandon,2900.0
+2011,Mazda,CX-7,i SV,automatic,Florida,54956.0,black,black,capital one auto finance,11000.0
+2015,Toyota,RAV4,LE,automatic,Florida,2610.0,gray,gray,world omni financial corporation,20900.0
+2006,Ford,F-150,XLT,automatic,Florida,389409.0,white,gray,enterprise fleet management exchange  inc.,1900.0
+2006,Buick,Lucerne,CXL,automatic,Florida,118625.0,beige,tan,dt credit corporation,2000.0
+2012,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Florida,63867.0,white,black,dtg operations inc,8100.0
+2014,Chevrolet,Silverado 1500,LT,automatic,Florida,15195.0,black,black,fidelity bank,26500.0
+2014,Toyota,Corolla,L,automatic,Florida,8997.0,white,gray,world omni financial corporation,14600.0
+2014,Chrysler,Town and Country,Touring,automatic,Florida,25990.0,black,black,enterprise holdings/gdp,18300.0
+2010,Ford,Mustang,V6,automatic,Florida,62952.0,red,gray,santander consumer,9600.0
+2000,Saturn,S-Series,SL1,automatic,Florida,124378.0,white,beige,hertz remarketing,500.0
+2014,Dodge,Grand Caravan,SXT,automatic,Florida,24087.0,blue,black,hertz corporation/gdp,16300.0
+2011,Ford,Ranger,XLT,automatic,Florida,54421.0,gray,gray,sunrise ford company,17300.0
+2011,Ford,Fusion,SE,automatic,Florida,59177.0,silver,gray,santander consumer,8800.0
+2014,Dodge,Grand Caravan,R/T,automatic,Florida,34638.0,beige,black,ez rent a car inc,17700.0
+2007,Nissan,Altima,2.5,automatic,Florida,93952.0,red,black,onemain rem/nationwide remarketing,4800.0
+2010,Ford,Ranger,XL,UNKNOWN,Florida,108567.0,—,gray,ford motor credit company llc,6000.0
+2012,Infiniti,G Sedan,G37x,automatic,Florida,31863.0,black,black,nissan infiniti lt,21000.0
+2012,Nissan,Quest,S,automatic,Florida,64863.0,black,gray,the hertz corporation,12500.0
+2013,Mercedes-Benz,C-Class,C250 Sport,automatic,Florida,29578.0,—,gray,mercedes-benz financial services,21750.0
+2014,Chevrolet,Camaro,SS,manual,Florida,24404.0,gray,black,army aviation center fcu,27800.0
+2004,UNKNOWN,UNKNOWN,UNKNOWN,manual,Florida,78974.0,silver,black,d&a fine cars,7300.0
+2013,Toyota,Tundra,Limited,automatic,Florida,47806.0,gray,gray,cire leasing,33800.0
+2007,Mercedes-Benz,S-Class,S550,automatic,Florida,93283.0,silver,gray,autonation toyota fort myers,17600.0
+2011,Kia,Rio,LX,automatic,Florida,98663.0,black,black,santander consumer,5300.0
+2013,Land Rover,Range Rover Evoque,Prestige Premium,automatic,Florida,20249.0,blue,gray,summer enterprises of miami inc,42500.0
+2014,Subaru,Forester,2.5i Premium PZEV,automatic,Florida,13286.0,burgundy,beige,subaru of america,21000.0
+2006,Dodge,Magnum,SE,automatic,Florida,134695.0,silver,gray,autonation chevrolet south clearwater,1300.0
+1992,Lexus,LS 400,Base,UNKNOWN,Florida,78351.0,gold,beige,autonation honda hollywood,600.0
+2013,Hyundai,Sonata,GLS,automatic,Florida,14274.0,blue,gray,hyundai motor finance,12800.0
+2013,Chevrolet,Suburban,LTZ 1500,automatic,Florida,57985.0,gold,black,the hertz corporation,31800.0
+2012,GMC,Acadia,Denali,automatic,Florida,28210.0,red,tan,devoe buick gmc,32000.0
+2014,Chrysler,Town and Country,Touring,automatic,Florida,30325.0,black,black,pv holding inc/gdp,17400.0
+2014,Ford,F-150,XLT,automatic,Florida,12915.0,white,gray,enterprise vehicle exchange/ars/coconut creek,26500.0
+2013,Ford,Escape,S,automatic,Florida,45144.0,green,black,boast volkswagen,13500.0
+2014,FIAT,500L,Easy,automatic,Florida,6466.0,red,gray,chrysler capital,12900.0
+2012,Ford,Edge,SE,automatic,Florida,53720.0,—,black,ford motor credit company llc pd,13100.0
+2007,Toyota,Prius,Base,automatic,Florida,122621.0,silver,gray,santander consumer,3900.0
+2003,Acura,TL,3.2 Type-S,automatic,Florida,126458.0,gray,black,bright star credit union,3200.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,71668.0,blue,black,premier partners inc.,8800.0
+2014,Hyundai,Accent,GS,automatic,Florida,14932.0,brown,black,hyundai motor finance,11200.0
+2012,Volkswagen,Passat,SE,automatic,Florida,36019.0,gray,beige,expert auto group inc,13000.0
+2013,Ford,Flex,Limited,automatic,Florida,35644.0,black,beige,ford motor credit company llc,23200.0
+2013,Honda,Pilot,EX-L,automatic,Florida,35630.0,silver,black,margate volvo,25000.0
+2014,Dodge,Charger,SE,automatic,Florida,10853.0,white,—,enterprise vehicle exchange / tra / rental / tulsa,2200.0
+2001,Ford,Explorer Sport,Base,automatic,Florida,224424.0,green,beige,autonation toyota scion weston,400.0
+2010,Acura,TSX,Base,automatic,Florida,64950.0,gray,black,zimmerman auto brokers inc,13800.0
+2005,Kia,Sorento,EX,automatic,Florida,132086.0,silver,gray,coggin nissan,3200.0
+2011,Hyundai,Santa Fe,GLS,automatic,Florida,66070.0,black,gray,capital one auto finance,10200.0
+2010,Chrysler,300,Touring,automatic,Florida,119823.0,silver,black,remktgedge / cars / carfinance capital llc,6600.0
+2012,Infiniti,G Sedan,G37 Journey,automatic,Florida,24308.0,white,beige,nissan infiniti lt,18200.0
+1997,Ford,F-150,Lariat,automatic,Florida,198216.0,red,gray,ed morse auto plaza,1800.0
+2006,Chevrolet,Impala,SS,automatic,Florida,77256.0,silver,gray,tdaf remarketing,8100.0
+2011,Ford,F-150,FX2,automatic,Florida,134724.0,blue,gray,elder ford of tampa,14500.0
+2003,Hyundai,Tiburon,Base,manual,Florida,87511.0,black,black,misc marshalling-manheim central florida,1100.0
+2013,Buick,Verano,Base,automatic,Florida,11178.0,silver,beige,gm financial,10500.0
+2002,Chevrolet,Suburban,1500 LS,automatic,Florida,199568.0,blue,gray,mullinax ford lincoln,2350.0
+2013,Ford,Focus,SE,automatic,Florida,52888.0,silver,gray,the hertz corporation,8500.0
+2001,Ford,Escape,XLT,automatic,Florida,152893.0,white,tan,autonation honda clearwater,1500.0
+2006,Ford,F-350 Super Duty,Lariat,UNKNOWN,Florida,122486.0,white,beige,autonation chevrolet coral gables,7800.0
+2010,Ford,Expedition,EL Limited,automatic,Florida,81191.0,black,black,alerce group llc,16400.0
+2012,Mercedes-Benz,M-Class,ML350 4MATIC,automatic,Florida,50128.0,brown,tan,metro ford inc,30800.0
+2007,Toyota,Corolla,S,automatic,Florida,117464.0,red,gray,east coast financial,4500.0
+2001,Ford,Mustang,Base,automatic,Florida,138923.0,red,gray,courtesy kia of brandon,900.0
+2013,Lexus,RX 350,Base,automatic,Florida,33114.0,white,black,lexus financial services,29600.0
+2014,Audi,A4,2.0T Premium,automatic,Florida,9828.0,red,black,braman motorcars,25400.0
+2003,Isuzu,Axiom,S,automatic,Florida,130828.0,gray,gray,autonation toyota fort myers,2800.0
+2001,Audi,A6,2.8 quattro,automatic,Florida,1.0,black,black,coggin deland ford,600.0
+2013,Chevrolet,Cruze,LS,automatic,Florida,40053.0,blue,gray,gm financial leasing,10000.0
+2009,Ford,Escape,Limited,UNKNOWN,Florida,133907.0,white,black,gm financial,5900.0
+2011,Lexus,IS 250,Base,automatic,Florida,36342.0,black,tan,myrddin fleet services,18200.0
+2012,Hyundai,Genesis Coupe,3.8 Track,manual,Florida,19412.0,gray,black,santander consumer,16300.0
+2003,Honda,CR-V,EX,UNKNOWN,Florida,306175.0,green,tan,purple heart,2300.0
+2014,Toyota,Avalon,XLE,automatic,Florida,5946.0,white,gray,datura auto sales and rentals,26700.0
+2012,Toyota,Camry,SE,automatic,Florida,34233.0,black,black,world omni financial corporation,14000.0
+2011,Mazda,CX-7,i SV,automatic,Florida,27426.0,white,beige,elder ford of tampa,12000.0
+2013,Infiniti,G Coupe,G37x,automatic,Florida,10796.0,black,black,nissan infiniti lt,24400.0
+2001,Nissan,Pathfinder,SE,automatic,Florida,86031.0,black,beige,classic auto brokers inc,3800.0
+2012,Kia,Optima,LX,automatic,Florida,18979.0,white,beige,kia motors finance,13000.0
+2008,Mercedes-Benz,M-Class,ML350,automatic,Florida,94731.0,silver,black,the auto site inc,14700.0
+2012,Lexus,RX 350,Base,automatic,Florida,30235.0,white,beige,lexus financial services,28400.0
+2007,Nissan,Maxima,3.5 SE,UNKNOWN,Florida,162884.0,gray,gray,wells fargo financial acceptance,4200.0
+2014,Kia,Sorento,SX,automatic,Florida,21535.0,white,black,mint motors,25800.0
+2008,Toyota,Tundra,SR5,automatic,Florida,151650.0,silver,black,expert auto group inc,10800.0
+2011,Nissan,Maxima,3.5 SV,automatic,Florida,38233.0,black,beige,nissan-infiniti lt,13000.0
+2008,Mazda,Mazda6,i Touring,automatic,Florida,119278.0,silver,gray,ed morse mazda lakeland,4600.0
+2009,BMW,3 Series,328i xDrive,automatic,Florida,95378.0,black,beige,wells fargo dealer services,10400.0
+2012,Mazda,Mazda3,i Touring,automatic,Florida,35841.0,silver,black,meridian remarketing,12700.0
+2014,Ford,Mustang,V6,automatic,Florida,57348.0,blue,black,dtg operations inc,12600.0
+2010,Hyundai,Sonata,GLS,automatic,Florida,233066.0,silver,gray,westfall auto sales,3500.0
+2007,Dodge,Charger,RT,automatic,Florida,88320.0,black,beige,gm financial,5100.0
+2012,Toyota,Camry,SE,automatic,Florida,37990.0,silver,black,world omni financial corporation,13100.0
+2013,Ford,Fusion,SE,automatic,Florida,15121.0,—,beige,ford motor credit company llc pd,15200.0
+2012,Ford,Fusion,SE,automatic,Florida,60283.0,silver,black,dtg operations inc,9700.0
+1996,Toyota,Camry,LE,automatic,Florida,128114.0,gray,gray,autonation toyota winter park,700.0
+1994,Toyota,Corolla,DX,automatic,Florida,150611.0,white,blue,coral springs honda,350.0
+2013,Hyundai,Elantra,GLS,automatic,Florida,46295.0,black,gray,avis corporation,11000.0
+2011,Kia,Soul,!,automatic,Florida,36170.0,white,brown,cannon cadillac of lakeland,9100.0
+2006,Nissan,Altima,2.5 S,automatic,Florida,153463.0,red,tan,holman honda of fort lauderdale,3400.0
+2013,Kia,Sorento,LX,automatic,Florida,53426.0,red,beige,avis corporation,14000.0
+2012,Ford,Explorer,Limited,automatic,Florida,48555.0,silver,beige,arcadia chevrolet buick inc.,24200.0
+2004,Volkswagen,Passat,GLS 1.8T 4Motion,UNKNOWN,Florida,139875.0,—,gray,enterprise vehicle exchange / rental / tulsa,1400.0
+2014,Hyundai,Elantra,SE,automatic,Florida,1488.0,black,beige,hyundai motor finance,14000.0
+1999,Honda,Accord,LX,automatic,Florida,184826.0,gray,—,coggin deland hyundai,400.0
+2013,Nissan,370Z,NISMO,manual,Florida,3134.0,orange,black,stingray chevrolet,29800.0
+2015,Hyundai,Sonata,Sport PZEV,automatic,Florida,8959.0,red,beige,kilpatrick chevrolet inc,20200.0
+2003,Chevrolet,Cavalier,LS,automatic,Florida,126717.0,beige,gray,courtesy hyundai,1200.0
+1995,Oldsmobile,Eighty-Eight Royale,Base,automatic,Florida,162698.0,gold,beige,coggin deland ford,800.0
+1995,Nissan,Truck,Base,manual,Florida,208916.0,gray,gray,autonation ford lincoln orange park,1400.0
+2012,Toyota,Camry,SE,automatic,Florida,94617.0,blue,black,remarketing by ge/space coast credit union,9600.0
+2014,Chrysler,Town and Country,Touring,automatic,Florida,42793.0,gray,black,avis corporation,17300.0
+2005,Honda,Odyssey,Touring,automatic,Florida,85715.0,gold,tan,remarketing by ge/manheim ft. lauderdale,6500.0
+2005,Audi,A6,3.2 quattro,automatic,Florida,150651.0,black,tan,autonation ford delray,4000.0
+2014,BMW,M6,Base,automatic,Florida,18035.0,black,black,the collection,86400.0
+2008,Ford,F-150,XL,automatic,Florida,211793.0,white,gray,lease plan usa,4100.0
+2014,Ford,F-150,XL,automatic,Florida,10327.0,white,gray,u-haul,16800.0
+2013,Chevrolet,Spark,2LT,automatic,Florida,31206.0,silver,black,the hertz corporation,8700.0
+2002,Lexus,RX 300,Base,automatic,Florida,98015.0,silver,black,lexus of north miami,5900.0
+2013,Chevrolet,Impala,LTZ,automatic,Florida,40651.0,black,black,enterprise veh exchange/rental,12500.0
+2008,Acura,TL,Base,automatic,Florida,66825.0,gray,beige,classic auto brokers inc,12700.0
+2014,Chevrolet,Cruze,LTZ,automatic,Florida,20496.0,silver,black,gm remarketing,15100.0
+2011,GMC,Terrain,SLT-1,automatic,Florida,37047.0,gray,brown,us bank,19100.0
+2011,Chevrolet,Equinox,LT1,automatic,Florida,82324.0,gray,gray,branford motor 1,10500.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,31846.0,black,black,nissan-infiniti lt,13200.0
+2012,Kia,Forte,Koup EX,manual,Florida,74334.0,white,black,capital one auto finance,8300.0
+2014,Ford,Mustang,GT Premium,automatic,Florida,11049.0,—,black,ford motor credit company,30600.0
+2013,Hyundai,Elantra,GLS,automatic,Florida,41923.0,white,tan,enterprise veh exchange/rental,11700.0
+2015,Hyundai,Elantra,SE,automatic,Florida,19381.0,silver,gray,budget rac of atlanta,12700.0
+2015,Ford,F-250 Super Duty,Lariat,automatic,Florida,11512.0,black,black,royal rent a car,48500.0
+2014,Honda,CR-V,EX,automatic,Florida,1932.0,black,black,fields bmw,22300.0
+2006,Honda,Civic,Hybrid,automatic,Florida,149045.0,gray,gray,coggin honda,3800.0
+2013,Hyundai,Sonata,Limited,automatic,Florida,52739.0,gray,gray,mitchell motor cars inc,12100.0
+2003,Ford,Explorer,Eddie Bauer,UNKNOWN,Florida,205836.0,white,beige,credit acceptance corp/vrs/southfield,1500.0
+2009,Toyota,Corolla,LE,automatic,Florida,155344.0,red,gray,auto sails inc,7700.0
+2003,Hyundai,Elantra,GT,automatic,Florida,163239.0,black,black,starling chevrolet buick gmc,650.0
+2013,Kia,Optima,SX,automatic,Florida,18318.0,black,black,coral springs honda,18900.0
+2013,Lexus,ES 350,Base,automatic,Florida,24060.0,black,tan,subaru of pembroke pines,27000.0
+2015,Nissan,Versa Note,1.6 SV,automatic,Florida,6518.0,blue,black,florida auto financial group,9800.0
+2008,Honda,Accord,LX,automatic,Florida,85197.0,gray,—,innovate loan servicing corp,7200.0
+2006,Cadillac,CTS,Base,automatic,Florida,86356.0,black,—,d&a fine cars,7200.0
+2012,Chevrolet,Traverse,LS,UNKNOWN,Florida,28634.0,blue,gray,primeritus remarketing/marine fcu,15100.0
+2001,Mitsubishi,Eclipse Spyder,GS,automatic,Florida,178630.0,black,gray,brandon mitsubishi,600.0
+2013,BMW,X1,sDrive28i,automatic,Florida,28952.0,white,black,financial services remarketing (lease),23800.0
+2013,Lexus,ES 350,Base,automatic,Florida,18711.0,gray,beige,lexus financial services,29200.0
+2012,Nissan,Sentra,2.0 SR,automatic,Florida,88777.0,—,gray,nissan-infiniti lt,6500.0
+2012,GMC,Acadia,Denali,automatic,Florida,26227.0,white,beige,fiserv/usb dealer services northstar exchange,31200.0
+2012,Nissan,Altima,2.5,automatic,Florida,31086.0,gray,black,nissan-infiniti lt,13000.0
+2001,Pontiac,Bonneville,SSEi,automatic,Florida,182527.0,gray,gray,autonation honda miami lakes,600.0
+2006,Audi,A4,2.0T,automatic,Florida,121085.0,silver,—,nicholas financial inc/clearwater,4300.0
+2011,Mitsubishi,Lancer Sportback,ES,automatic,Florida,94640.0,red,black,remarketing by ge/manheim central florida,5500.0
+2006,Chrysler,PT Cruiser,Limited,automatic,Florida,124390.0,silver,gray,k & c car sale inc,1500.0
+2012,Chevrolet,Malibu,LS Fleet,automatic,Florida,71400.0,white,gray,wheels exchange llc,8600.0
+2014,Jeep,Grand Cherokee,Limited,automatic,Florida,25069.0,charcoal,beige,chrysler capital,27300.0
+2012,Mercedes-Benz,E-Class,E350 Sport BlueTEC,automatic,Florida,18675.0,—,off-white,mercedes-benz financial services,30000.0
+2013,Ram,2500,Laramie,UNKNOWN,Florida,35020.0,white,black,tdaf remarketing,42000.0
+2013,Dodge,Grand Caravan,SXT,automatic,Florida,53253.0,red,black,the hertz corporation,10200.0
+2013,Buick,Verano,Leather Group,automatic,Florida,26111.0,blue,brown,gm financial,14600.0
+2009,Mazda,Mazda5,Sport,automatic,Florida,117978.0,blue,beige,santander consumer,3500.0
+2014,Chevrolet,Cruze,LTZ,automatic,Florida,20256.0,green,brown,gm remarketing,15000.0
+2007,Infiniti,G35,Journey,automatic,Florida,143097.0,black,black,tropical auto connection,8000.0
+2013,Lincoln,MKX,Base,automatic,Florida,30700.0,green,beige,enterprise veh exchange/rental,24200.0
+2006,Suzuki,Verona,Base,automatic,Florida,148053.0,silver,gray,automotive leasing specialist,400.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,56239.0,white,beige,santander consumer,10600.0
+2012,Honda,Odyssey,Touring,automatic,Florida,29684.0,gray,gray,treasure coast toyota of stuart,27600.0
+2014,Ford,E-Series Wagon,E-350 Super Duty XLT,UNKNOWN,Florida,14903.0,white,gray,avis budget group,20500.0
+2009,Honda,Civic,EX,automatic,Florida,38868.0,gray,gray,remarketing by ge/west financial acceptance,9000.0
+2013,Chrysler,200,Touring,automatic,Florida,32556.0,red,beige,enterprise veh exchange/rental,11600.0
+2014,Ford,Focus,SE,automatic,Florida,17605.0,—,black,avis budget group,12100.0
+2011,Lexus,IS 250,Base,automatic,Florida,32680.0,red,beige,lexus financial services,21700.0
+2011,Ford,F-150,XLT,automatic,Florida,53027.0,gold,beige,tdaf remarketing,23600.0
+2013,Lexus,GS 350,Base,automatic,Florida,21696.0,black,black,lexus financial services,32600.0
+2008,Jeep,Liberty,Limited Edition,automatic,Florida,56174.0,red,gray,tdaf remarketing,10600.0
+2013,FIAT,500,Sport,manual,Florida,13164.0,silver,gray,santander consumer,10100.0
+2007,Dodge,Caliber,Base,automatic,Florida,103620.0,blue,—,nicholas financial inc/clearwater,3500.0
+2012,Cadillac,SRX,Luxury,automatic,Florida,73444.0,black,beige,tdaf remarketing,17800.0
+2012,Honda,CR-V,EX-L,automatic,Florida,90241.0,white,gray,firkins chrysler jeep dodge,18000.0
+2012,Infiniti,G Sedan,G25,automatic,Florida,29414.0,white,black,nissan infiniti lt,18200.0
+2011,Mercedes-Benz,M-Class,ML350 4MATIC,automatic,Florida,29833.0,black,brown,mercedes-benz financial services,25800.0
+2013,Hyundai,Elantra,GLS,automatic,Florida,34153.0,gray,gray,enterprise veh exchange/rental,11800.0
+2000,Volkswagen,Jetta,GLS,automatic,Florida,149060.0,blue,beige,autonation toyota scion weston,1300.0
+2011,Chevrolet,Impala,LS Fleet,automatic,Florida,34958.0,white,gray,tdaf remarketing,10500.0
+2008,Chevrolet,Impala,LT,automatic,Florida,102949.0,black,gray,mid atlantic finance/clearwater,3000.0
+2014,Nissan,Rogue Select,S,automatic,Florida,8079.0,blue,gray,intercontinental fleet corp,14500.0
+2004,Mitsubishi,Lancer,ES,automatic,Florida,281824.0,silver,gray,autonation ford sanford,1100.0
+2004,Volkswagen,Touareg,V8,automatic,Florida,146126.0,blue,black,s&d auto sales,800.0
+2014,Chevrolet,Impala Limited,LT Fleet,automatic,Florida,16174.0,black,gray,gm remarketing,12800.0
+2008,Nissan,Titan,SE,automatic,Florida,83207.0,gold,—,credit acceptance corp/vrs/southfield,12500.0
+2011,Mazda,Mazda3,i Touring,automatic,Florida,24906.0,gray,black,jpmorgan chase bank n.a.,8800.0
+2001,Saturn,L-Series,L200,automatic,Florida,117103.0,gold,beige,coggin honda of ft pierce,1800.0
+2012,Ram,2500,Laramie Longhorn Edition,UNKNOWN,Florida,47821.0,white,black,tdaf remarketing,43000.0
+2013,Nissan,Juke,SV,manual,Florida,9411.0,black,—,nissan north america inc.,16800.0
+2009,Nissan,Rogue,SL,automatic,Florida,189037.0,silver,black,veterans ford,6200.0
+2008,Ford,F-150,XLT,automatic,Florida,126423.0,brown,beige,mission automot enterp sls & repair inc,11000.0
+2010,Nissan,Cube,1.8 Base,automatic,Florida,61433.0,gray,gray,wells fargo dealer services,7500.0
+2014,Ford,Fusion,Titanium,automatic,Florida,16123.0,—,black,ford motor credit company,21300.0
+2014,Jeep,Grand Cherokee,Limited,automatic,Florida,14835.0,white,tan,enterprise veh exchange/rental,30800.0
+2014,Kia,Forte,EX,automatic,Florida,27855.0,silver,gray,santander consumer,13100.0
+2010,Cadillac,CTS,Base,automatic,Florida,104278.0,black,black,remarketing by ge/summit financial corp,8500.0
+2015,Jeep,Compass,Sport,automatic,Florida,12781.0,gray,black,enterprise vehicle exchange-non pgm/orlando,15800.0
+2012,Kia,Optima,LX,automatic,Florida,20530.0,white,gray,kia motors finance,11800.0
+2007,Pontiac,G6,GT,automatic,Florida,156470.0,black,beige,mercedes benz of tampa,4000.0
+2002,Lincoln,LS,Base,automatic,Florida,109734.0,white,tan,margate volvo,2600.0
+2012,Ford,Taurus,SHO,automatic,Florida,23200.0,white,black,ford motor credit company llc,23300.0
+2007,Chrysler,300,Base,automatic,Florida,177778.0,gray,gray,mercedes-benz of pompano,1400.0
+2012,Infiniti,M,M35h,automatic,Florida,49951.0,—,black,nissan infiniti lt,24000.0
+2003,Chevrolet,Silverado 1500,LS,automatic,Florida,210234.0,silver,gray,wheels & deals auto sales of florida llc,3300.0
+2013,Hyundai,Tucson,GLS,automatic,Florida,21227.0,silver,black,hyundai motor finance,16300.0
+2014,Kia,Rio,LX,automatic,Florida,11530.0,white,gray,santander consumer,11100.0
+2014,Ford,Fusion,SE,automatic,Florida,16634.0,—,black,avis budget group,17700.0
+2007,Honda,CR-V,EX-L,automatic,Florida,94448.0,black,beige,tdaf remarketing,11100.0
+2014,Chevrolet,Suburban,LTZ 1500,automatic,Florida,28157.0,white,black,fleet services remarketing inc.,37500.0
+2007,Nissan,Pathfinder,LE,UNKNOWN,Florida,101804.0,gray,beige,autonation nissan pembroke pines,4400.0
+2014,Nissan,Altima,2.5 S,automatic,Florida,29889.0,red,black,hertz/tra,5900.0
+2014,Kia,Rio,LX,automatic,Florida,10415.0,silver,black,kia motors america  inc,11500.0
+2013,Toyota,Corolla,L,automatic,Florida,14052.0,gray,gray,world omni financial corporation,12700.0
+2007,Nissan,Altima,2.5 S,automatic,Florida,107989.0,black,black,capital one auto finance,5400.0
+2011,GMC,Acadia,SL,automatic,Florida,32592.0,gold,beige,westfall auto sales,17300.0
+2014,Chevrolet,Impala,LTZ,automatic,Florida,20920.0,blue,black,gm remarketing,14800.0
+2012,Chevrolet,Suburban,LT 1500,automatic,Florida,63808.0,black,black,tdaf remarketing,25800.0
+2012,Chevrolet,Malibu,LS Fleet,automatic,Florida,30498.0,white,gray,donlen exchange services inc,11200.0
+2014,Chevrolet,Captiva Sport,LTZ Fleet,automatic,Florida,16245.0,silver,black,remarketing by ge/sixrentals corp,14700.0
+2012,Lincoln,MKZ,Hybrid,automatic,Florida,13452.0,—,tan,ford motor credit company llc pd,14900.0
+2009,Suzuki,Grand Vitara,Premium,automatic,Florida,81517.0,silver,black,rick case hyundai inc,6500.0
+2012,Infiniti,G Sedan,G37 Journey,automatic,Florida,32175.0,black,black,nissan infiniti lt,21800.0
+2008,Hyundai,Santa Fe,Limited,automatic,Florida,106949.0,silver,black,regional acceptance corporation / greenville,7300.0
+2010,Ford,Focus,SES,automatic,Florida,41546.0,black,gray,regional acceptance corporation / greenville,8500.0
+2013,Toyota,Yaris,LE,automatic,Florida,16707.0,gray,gray,sst financial,6400.0
+2008,Ford,F-150,XL,automatic,Florida,199002.0,white,gray,ricks auto marketing center south,3300.0
+2010,Honda,Accord Crosstour,EX,automatic,Florida,86185.0,gray,beige,santander consumer,12000.0
+2009,Mazda,CX-7,Grand Touring,automatic,Florida,86742.0,blue,gray,bright star credit union,7100.0
+2004,Hyundai,Santa Fe,GLS,automatic,Florida,119281.0,black,beige,autonation nissan pembroke pines,2100.0
+2008,Nissan,Frontier,SE,automatic,Florida,81941.0,silver,gray,remarketing by ge/sunstate fcu,12900.0
+2003,Toyota,4Runner,Limited,automatic,Florida,216645.0,silver,gray,clearwater toyota,4700.0
+2005,Ford,F-150,Lariat,UNKNOWN,Florida,181307.0,green,beige,autonation ford delray,4900.0
+2014,BMW,3 Series,328i,automatic,Florida,5654.0,white,tan,meridian remarketing,27400.0
+2011,Hyundai,Sonata,SE,automatic,Florida,99055.0,blue,black,hyundai of new port richey,7600.0
+2012,Infiniti,M,M37,automatic,Florida,30013.0,gray,black,nissan infiniti lt,26000.0
+2009,Toyota,Corolla,LE,automatic,Florida,124759.0,gray,beige,auto sails inc,6800.0
+2001,Lexus,GS 300,Base,automatic,Florida,147915.0,white,beige,lexus of tampa bay,4000.0
+2013,Nissan,Altima,2.5,automatic,Florida,38791.0,silver,beige,pnc bank  national association,13600.0
+2009,Audi,A4,2.0T,automatic,Florida,57711.0,black,tan,mercedes benz of tampa,13000.0
+2007,Dodge,Charger,Base,automatic,Florida,138541.0,blue,gray,coggin nissan at the avenues,6700.0
+2013,Toyota,Corolla,LE,automatic,Florida,46269.0,red,tan,enterprise veh exchange/rental,11100.0
+2004,Honda,CR-V,EX,UNKNOWN,Florida,225678.0,burgundy,beige,autonation honda clearwater,2600.0
+2001,Audi,A4,1.8T quattro,automatic,Florida,96591.0,beige,tan,audi pembroke pines,2400.0
+2014,Ford,Focus,SE,automatic,Florida,36488.0,—,black,ars/avis budget group,11300.0
+2012,Audi,Q5,3.2 Premium Plus quattro,automatic,Florida,63093.0,black,brown,tdaf remarketing,27400.0
+2015,Kia,Sorento,LX,automatic,Florida,10935.0,burgundy,black,santander consumer,19400.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,29792.0,blue,black,nissan-infiniti lt,13000.0
+2007,Mercedes-Benz,CLK-Class,CLK350,automatic,Florida,75832.0,silver,black,brandon auto mall fiat,10500.0
+2012,Lincoln,MKZ,Base,automatic,Florida,28631.0,—,tan,ford motor credit company llc pd,16300.0
+2013,Ram,1500,Laramie Longhorn Edition,automatic,Florida,10443.0,orange,brown,chrysler group llc,25400.0
+2013,Dodge,Grand Caravan,SXT,automatic,Florida,28585.0,silver,black,hertz corporation/gdp,16200.0
+2011,Nissan,Maxima,3.5 SV,automatic,Florida,27872.0,blue,black,nissan-infiniti lt,18000.0
+2015,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Florida,14044.0,black,gray,enterprise veh exchange/rental,17800.0
+2001,Toyota,Celica,GT,manual,Florida,130960.0,silver,gray,coggin honda of st. augustine,3100.0
+2008,Ford,Edge,Limited,UNKNOWN,Florida,102682.0,blue,beige,coggin honda of ft pierce,8600.0
+2012,Nissan,Maxima,3.5 SV,automatic,Florida,21172.0,silver,black,nissan-infiniti lt,19000.0
+2005,Nissan,Frontier,LE,automatic,Florida,137525.0,black,gray,coggin honda,6500.0
+2012,BMW,5 Series,528i,automatic,Florida,35978.0,white,beige,lauderdale bmw of fort lauderdale,27500.0
+2012,Ford,E-Series Van,E-150,automatic,Florida,52905.0,white,gray,ge fleet services for itself/servicer,12750.0
+2014,Nissan,Versa Note,1.6 SV,UNKNOWN,Florida,17971.0,black,gray,nissan-infiniti lt,9800.0
+2009,Audi,Q5,3.2 Premium quattro,automatic,Florida,63654.0,blue,gray,automatch usa,15200.0
+2015,Ford,Fusion,SE,automatic,Florida,5524.0,—,brown,ford motor credit company,20400.0
+2012,Nissan,Sentra,2.0 SR,automatic,Florida,8716.0,silver,gray,nissan-infiniti lt,11200.0
+2014,Toyota,Corolla,LE,automatic,Florida,10330.0,red,gray,world omni financial corporation,14400.0
+2006,Dodge,Dakota,ST,automatic,Florida,66101.0,red,gray,onemain rem/global imports sales inc,7500.0
+2008,Chevrolet,Equinox,Sport,automatic,Florida,125130.0,black,black,nicholas financial inc/clearwater,5800.0
+2014,Ford,Focus,SE,automatic,Florida,11887.0,white,black,ford motor credit company llc,12800.0
+2007,Dodge,Sprinter Cargo,2500 144 WB,automatic,Florida,107868.0,white,gray,jerry ulm dodge chrysler jeep,14200.0
+2013,Hyundai,Sonata,GLS,automatic,Florida,21750.0,blue,gray,hyundai of new port richey,13000.0
+2014,Dodge,Grand Caravan,SXT,automatic,Florida,22690.0,white,black,hertz corporation/gdp,17500.0
+2002,Mercury,Sable,GS,automatic,Florida,120306.0,green,tan,toy-hon usa,1600.0
+2008,Cadillac,Escalade ESV,Base,automatic,Florida,55024.0,white,tan,remarketing by ge/space coast credit union,26000.0
+2012,Mercedes-Benz,E-Class,E350 Luxury,automatic,Florida,29258.0,black,black,mercedes-benz financial services,27600.0
+2012,BMW,5 Series,528i,automatic,Florida,24815.0,black,black,braman motorcars,28000.0
+2011,Infiniti,G Sedan,G37 Journey,automatic,Florida,30821.0,white,black,nissan infiniti lt,17800.0
+2013,Dodge,Grand Caravan,SE,UNKNOWN,Florida,41482.0,red,black,ez rent a car inc,12300.0
+2005,Hyundai,Elantra,GLS,manual,Florida,113918.0,black,gray,coggin honda of orlando,1200.0
+2013,Mazda,Mazda3,i Sport,automatic,Florida,57864.0,green,black,the hertz corporation,9300.0
+2014,Toyota,Sienna,LE 7-Passenger Mobility Auto Access,automatic,Florida,37035.0,gray,gray,avis corporation,20700.0
+2002,Chevrolet,Monte Carlo,LS,automatic,Florida,114658.0,black,black,consumer financial services/ft walton beach,1400.0
+2008,Ford,F-150,STX,automatic,Florida,76969.0,white,silver,santander consumer,7000.0
+2008,Chevrolet,Silverado 1500,LTZ,automatic,Florida,168807.0,red,beige,westlake financial services,11400.0
+2012,Chevrolet,Impala,LT Fleet,automatic,Florida,49982.0,white,gray,gm financial,9600.0
+2011,Toyota,Camry,LE,automatic,Florida,94559.0,gray,gray,bright star credit union,8500.0
+2013,Infiniti,G Coupe,G37 Sport,automatic,Florida,14072.0,white,black,nissan infiniti lt,27200.0
+2009,Dodge,Charger,SXT,automatic,Florida,162618.0,silver,black,santander consumer,3600.0
+2013,Chevrolet,Impala,LTZ,automatic,Florida,41586.0,silver,black,enterprise veh exchange/rental,12800.0
+2011,Jeep,Grand Cherokee,Laredo,automatic,Florida,39355.0,brown,—,woodall auto wholesale inc,24000.0
+2014,Chevrolet,Cruze,2LT,automatic,Florida,18051.0,white,black,gm remarketing,13400.0
+2012,Mercedes-Benz,CLS-Class,CLS63 AMG,automatic,Florida,22525.0,black,black,flag/ald motors inc,52600.0
+2006,Cadillac,DTS,Performance,automatic,Florida,145365.0,silver,tan,automatch usa,2600.0
+1994,Mercedes-Benz,S-Class,S420,automatic,Florida,91420.0,gold,beige,mercedes benz of orlando,3800.0
+2014,Ford,Mustang,V6,automatic,Florida,16577.0,gray,gray,enterprise vehicle exchange / tra / rental / tulsa,10100.0
+2011,Mazda,Mazda3,i Sport,automatic,Florida,33865.0,gray,black,jpmorgan chase bank n.a.,8300.0
+2013,Chrysler,Town and Country,Touring,automatic,Florida,63065.0,black,black,the hertz corporation,11200.0
+2013,Dodge,Grand Caravan,SXT,automatic,Florida,69529.0,blue,black,dtg operations inc,10100.0
+2012,Toyota,Corolla,LE,automatic,Florida,20956.0,black,beige,toyota financial services,11000.0
+2012,Toyota,Highlander,Base,automatic,Florida,39292.0,gray,black,autobuy,23800.0
+2009,Hyundai,Genesis,4.6,automatic,Florida,60762.0,black,black,tdaf remarketing,14400.0
+2002,Toyota,Camry Solara,SE V6,automatic,Florida,162170.0,gray,black,autonation chevrolet west colonial,2700.0
+2007,Hyundai,Sonata,GLS,automatic,Florida,89403.0,silver,gray,wells fargo dealer services,5000.0
+2008,Ford,Fusion,SE,automatic,Florida,106734.0,—,beige,lease plan/wal-mart stores,4000.0
+2009,Toyota,Corolla,LE,automatic,Florida,110492.0,silver,gray,toyota financial services,6000.0
+2003,Chevrolet,SSR,LS,automatic,Florida,3181.0,yellow,black,car market inc,25400.0
+2009,Ford,Escape Hybrid,Base,automatic,Florida,109250.0,white,gray,wheels exchange llc,8100.0
+2012,Ford,Escape,XLT,UNKNOWN,Florida,59198.0,white,gray,the hertz corporation,13900.0
+2010,Hyundai,Santa Fe,GLS,automatic,Florida,126880.0,white,gray,auto sails inc,10700.0
+2014,Toyota,Corolla,LE,automatic,Florida,23573.0,blue,gray,florida auto financial group,12800.0
+2013,Audi,A5,2.0T Premium Plus quattro,automatic,Florida,39238.0,red,black,lexus of north miami,28000.0
+2011,Kia,Soul,!,automatic,Florida,61514.0,red,black,gm financial,8700.0
+2014,Hyundai,Equus,Signature,automatic,Florida,2543.0,black,black,hyundai motor america/co car,47500.0
+2009,Chevrolet,Silverado 1500,LT,automatic,Florida,127388.0,burgundy,black,courtesy toyota of brandon,12600.0
+2015,Hyundai,Sonata Hybrid,Limited,automatic,Florida,1335.0,gray,gray,hyundai motor america/co car,27400.0
+2015,Chevrolet,Malibu,LTZ,automatic,Florida,16206.0,black,gold,register chevrolet & oldsmobile inc,18200.0
+2006,Kia,Spectra,EX,automatic,Florida,111559.0,gold,beige,courtesy nissan of tampa,2800.0
+2012,Ford,Escape,XLT,automatic,Florida,157933.0,black,gray,ford motor credit company llc,5300.0
+2013,Hyundai,Accent,GS,automatic,Florida,18066.0,black,—,hyundai motor finance,10800.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,23831.0,white,beige,nissan-infiniti lt,15600.0
+2013,FIAT,500,Pop,automatic,Florida,35002.0,white,black,tdaf remarketing,9000.0
+2012,Toyota,Sienna,LE 8-Passenger,automatic,Florida,47320.0,black,gray,avis corporation,16500.0
+2009,Ford,Ranger,XLT,UNKNOWN,Florida,219207.0,black,gray,ari,4400.0
+2008,Honda,Pilot,EX,automatic,Florida,93242.0,burgundy,gray,plus auto sales corp,9300.0
+2006,MINI,Cooper,Base,automatic,Florida,118040.0,yellow,black,clermont nissan,4800.0
+2015,Kia,K900,Luxury,automatic,Florida,8164.0,white,beige,kia motors america  inc,37600.0
+2010,Dodge,Charger,Base,automatic,Florida,87314.0,black,gray,santander consumer,7700.0
+2010,Toyota,Camry,LE,automatic,Florida,110669.0,silver,gray,world omni financial corporation,8400.0
+2006,Subaru,Outback,2.5i Special Edition,automatic,Florida,116268.0,blue,beige,schumacher auto group inc,7700.0
+2004,Saturn,ION,1,manual,Florida,166332.0,black,gray,autonation honda miami lakes,800.0
+2013,Infiniti,G Coupe,G37 Sport,automatic,Florida,19696.0,black,black,nissan infiniti lt,22000.0
+2012,Toyota,RAV4,Base,automatic,Florida,62145.0,silver,gray,tdaf remarketing,13800.0
+2014,Kia,Forte,LX,automatic,Florida,16615.0,white,black,kia motors america  inc,11800.0
+2012,Toyota,Camry,SE,automatic,Florida,28374.0,black,black,lexus of pembroke pines,14300.0
+2009,Toyota,Avalon,XLS,automatic,Florida,51668.0,black,gray,linus cadillac buick gmc,13400.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,Florida,18412.0,black,gray,nissan infiniti lt,23800.0
+2011,Dodge,Durango,Citadel,automatic,Florida,55057.0,gray,black,gatorland toyota,24600.0
+2013,Lincoln,MKZ,Base,automatic,Florida,19059.0,gray,tan,ford motor credit company,18300.0
+2014,Ford,Escape,Titanium,automatic,Florida,20341.0,brown,black,td auto finance,20000.0
+2013,Ford,Fiesta,SE,manual,Florida,20728.0,red,gray,capital one auto finance,10100.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,21119.0,blue,gray,nissan-infiniti lt,12000.0
+2013,Buick,Regal,Premium 1,automatic,Florida,57655.0,silver,black,the hertz corporation,11700.0
+2004,Buick,Rendezvous,CX,automatic,Florida,154188.0,gray,gray,courtesy chrysler jeep dodge,1100.0
+2009,Toyota,Sienna,XLE 7-Passenger,automatic,Florida,79873.0,gray,gray,palm toyota,10500.0
+2013,Hyundai,Elantra,Limited,automatic,Florida,19800.0,white,beige,hyundai motor finance,12000.0
+2008,Chevrolet,Avalanche,LT,automatic,Florida,54650.0,red,beige,tdaf remarketing,24200.0
+2006,Kia,Sedona,LX,automatic,Florida,101596.0,silver,tan,remarketing by ge/first florida credit union,900.0
+2013,Toyota,Tundra,Tundra FFV,UNKNOWN,Florida,32471.0,gray,gray,tdaf remarketing,25200.0
+2005,BMW,X3,3.0i,automatic,Florida,83864.0,gray,black,tdaf remarketing,10000.0
+2012,Hyundai,Sonata,GLS,automatic,Florida,36238.0,black,beige,hyundai motor finance,11800.0
+2008,Ford,Escape,XLT,automatic,Florida,132496.0,white,beige,ge fleet services for itself/servicer,5000.0
+2008,Chrysler,PT Cruiser,Base,automatic,Florida,81836.0,white,gray,santander consumer,2500.0
+2013,Ford,Focus,SE,automatic,Florida,17803.0,gray,—,ford motor credit company llc,10500.0
+2012,Toyota,Camry,SE,automatic,Florida,25354.0,silver,black,world omni financial corporation,14900.0
+2014,Dodge,Avenger,R/T,automatic,Florida,40428.0,gray,black,avis corporation,14300.0
+2010,Nissan,Altima,2.5 S,automatic,Florida,91403.0,black,black,nissan motor acceptance corporation,7500.0
+2007,Volkswagen,Eos,2.0T,automatic,Florida,79717.0,gold,beige,santander consumer,7400.0
+2014,Ford,Mustang,V6,UNKNOWN,Florida,27439.0,black,black,enterprise vehicle exchange/ars/coconut creek,19600.0
+2013,Dodge,Journey,SXT,automatic,Florida,51342.0,white,black,the hertz corporation,13200.0
+2010,Nissan,Murano,LE,automatic,Florida,81626.0,black,black,kelley buick gmc inc,15400.0
+2007,Nissan,Murano,S,automatic,Florida,101246.0,burgundy,tan,autonation toyota winter park,5900.0
+2012,Ford,Escape,XLT,automatic,Florida,71230.0,white,gray,donlen exchange services inc,11600.0
+2012,Infiniti,G Sedan,G25x,automatic,Florida,33222.0,black,black,nissan infiniti lt,18200.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,14733.0,blue,beige,nissan-infiniti lt,12000.0
+2013,Mazda,Mazda3,i Sport,automatic,Florida,17044.0,black,black,jpmorgan chase bank n.a.,11800.0
+2012,Lexus,GX 460,Base,automatic,Florida,56657.0,silver,black,jm lexus,33000.0
+2014,Toyota,Camry,SE,automatic,Florida,22550.0,black,black,world omni financial corporation,14100.0
+2010,Dodge,Journey,SE,automatic,Florida,42806.0,black,black,remarketing by ge/your deal automotive inc,11200.0
+2014,Chrysler,Town and Country,Touring,automatic,Florida,18789.0,black,tan,enterprise holdings/gdp,19800.0
+2008,Chevrolet,Aveo,Aveo5 Special Value,automatic,Florida,77334.0,black,—,fifth third bank,1800.0
+2000,Nissan,Maxima,SE,automatic,Florida,156181.0,silver,gray,courtesy kia of brandon,1000.0
+2009,Buick,Enclave,CXL,automatic,Florida,67025.0,white,beige,meridian remarketing,16600.0
+2006,Honda,Odyssey,EX-L,automatic,Florida,100197.0,blue,—,ed morse auto plaza,6600.0
+2013,Nissan,Sentra,SV,automatic,Florida,40428.0,purple,black,nissan-infiniti lt,10800.0
+2012,Cadillac,SRX,Luxury,automatic,Florida,36666.0,black,beige,gm financial leasing,22200.0
+2015,Lexus,RX 350,Base,automatic,Florida,9100.0,white,beige,tdaf remarketing,42600.0
+2015,Cadillac,Escalade,Luxury,automatic,Florida,11754.0,black,beige,american bank auto liquidators,70000.0
+1995,Mercury,Grand Marquis,LS,automatic,Florida,68670.0,blue,gray,autonation cadillac west palm beach,400.0
+2011,Mercedes-Benz,C-Class,C300 Sport,automatic,Florida,64299.0,black,black,santander consumer,14200.0
+2008,Ford,F-250 Super Duty,XL,automatic,Florida,80310.0,white,gray,1st commercial,9200.0
+2014,Chevrolet,Camaro,LT,automatic,Florida,7663.0,black,red,lease master inc,25700.0
+2012,Toyota,Prius c,Two,automatic,Florida,24242.0,blue,gray,toyota financial services,12100.0
+2013,Ford,Mustang,GT Premium,automatic,Florida,37897.0,—,black,ars/avis budget group,23400.0
+2007,Volkswagen,Jetta,Wolfsburg Edition,automatic,Florida,108865.0,black,black,expert auto group inc,2300.0
+2012,Infiniti,G Sedan,G25,automatic,Florida,21446.0,black,black,nissan infiniti lt,17800.0
+2013,Buick,Verano,Leather Group,automatic,Florida,23833.0,silver,black,tfp international inc,12600.0
+2007,Ford,Taurus,SE Fleet,automatic,Florida,78768.0,gold,tan,broward county sheriffs office,1000.0
+2011,BMW,3 Series,328i,automatic,Florida,37424.0,blue,black,tdaf remarketing,19200.0
+2013,Hyundai,Elantra,GLS,automatic,Florida,37899.0,white,beige,enterprise veh exchange/rental,11600.0
+2006,Mercedes-Benz,CLK-Class,CLK500,automatic,Florida,86429.0,white,tan,onemain rem/auto club of miami inc dba north dad,8500.0
+2009,BMW,5 Series,528i,automatic,Florida,58945.0,white,tan,santander consumer,16600.0
+2012,Chevrolet,Malibu,LT,automatic,Florida,58486.0,silver,gray,the hertz corporation,8800.0
+2004,Ford,F-150,Lariat,automatic,Florida,108449.0,white,beige,autonation ford fort lauderdale,8200.0
+2008,Infiniti,EX35,Base,automatic,Florida,68096.0,brown,brown,braman honda of palm beach,14500.0
+2011,Chevrolet,Silverado 1500,LTZ,automatic,Florida,26611.0,red,black,ralph larson chevrolet inc,29500.0
+2002,GMC,Yukon XL,1500 SLE,automatic,Florida,236684.0,gray,gray,mid atlantic finance/clearwater,1300.0
+2010,Chevrolet,HHR,LS,automatic,Florida,80446.0,—,gray,ari,5600.0
+2007,Honda,Odyssey,EX-L,automatic,Florida,160671.0,silver,gray,coral springs honda,4850.0
+2007,Dodge,Durango,Limited,automatic,Florida,66474.0,beige,brown,tdaf remarketing,10900.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Florida,9509.0,gray,gray,nissan-infiniti lt,12400.0
+2011,Ford,F-150,XLT,automatic,Florida,129051.0,—,gray,ari,11800.0
+2014,Ford,Mustang,V6,automatic,Florida,40983.0,red,black,ez rent a car inc,16600.0
+2011,Audi,A4,2.0T Premium,automatic,Florida,55058.0,gray,gray,audi pembroke pines,15800.0
+2006,Nissan,Murano,SL,automatic,Florida,64871.0,black,black,autonation chevrolet coral gables,3000.0
+2011,Infiniti,G Sedan,G37x,automatic,Florida,29967.0,white,black,nissan infiniti lt,20200.0
+2012,Nissan,Sentra,2.0 SR,automatic,Florida,40157.0,white,black,nissan-infiniti lt,10600.0
+1991,Cadillac,DeVille,Base,automatic,Florida,89483.0,red,beige,bmw of fort myers,600.0
+2013,Toyota,Prius,Two,automatic,Florida,28933.0,green,gray,subaru of orange park,17600.0
+2013,Toyota,RAV4,Limited,automatic,Florida,18761.0,red,gray,firkins nissan,22800.0
+2013,Dodge,Grand Caravan,SE,automatic,Florida,40518.0,silver,black,ez rent a car inc,11900.0
+2007,Ford,Fusion,SE,automatic,Florida,131053.0,gray,black,coggin nissan,4900.0
+2012,Ford,Focus,SE,automatic,Florida,36378.0,gray,—,arg inc,8600.0
+2013,Toyota,Tundra,Tundra,automatic,Florida,32144.0,black,gray,world omni financial corporation,19400.0
+2006,Chevrolet,Impala,LS,automatic,Florida,148289.0,black,gray,courtesy hyundai,1200.0
+2014,Ford,Fusion,Titanium,automatic,Florida,32051.0,—,black,ars/avis budget group,16900.0
+2013,Nissan,Altima,2.5,automatic,Florida,14580.0,silver,black,nissan-infiniti lt,13200.0
+2009,GMC,Acadia,SLT-1,automatic,Florida,59501.0,white,—,coral springs honda,15000.0
+2002,Jeep,Liberty,Sport,automatic,Florida,101090.0,black,gray,barnett finance company,2700.0
+2008,Ford,Explorer,Eddie Bauer,automatic,Florida,142662.0,brown,beige,jfk auto center,4700.0
+2011,Honda,Pilot,LX,automatic,Florida,81948.0,white,gray,coggin honda of ft pierce,13000.0
+2009,Land Rover,Range Rover Sport,Supercharged,automatic,Florida,108169.0,black,beige,dab auto world & leasing,19800.0
+2014,Ford,Fiesta,SE,automatic,Florida,17970.0,—,black,avis budget group,11300.0
+2013,Chevrolet,Equinox,LT,automatic,Florida,80272.0,blue,black,florida farm bureau casualty insurance company,13500.0
+2013,Volkswagen,CC,Sport,automatic,Florida,21524.0,beige,tan,vw credit prequalified,18000.0
+2013,Honda,Odyssey,EX-L,automatic,Florida,41013.0,gray,gray,sullivan auto group llc,25000.0
+2012,Ford,Fusion,SEL,automatic,Florida,82518.0,black,gray,ge fleet services for itself/servicer,9300.0
+2013,Infiniti,G Sedan,G37x,UNKNOWN,Florida,20037.0,white,gray,nissan infiniti lt,22800.0
+2012,Ford,Focus,SE,automatic,Florida,32803.0,red,black,mazda of wesley chapel,9600.0
+2014,Chevrolet,Spark,LS,automatic,Florida,2237.0,blue,black,zimmerman auto brokers inc,10000.0
+2008,Ford,Focus,SE,automatic,Florida,53910.0,white,gray,palm beach county sheriff's office,1200.0
+2002,Chevrolet,TrailBlazer,LS,automatic,Florida,195857.0,green,gray,dyer chevrolet,2500.0
+2011,Nissan,Altima,2.5,automatic,Florida,33416.0,black,black,nissan-infiniti lt,11800.0
+2006,Cadillac,DTS,Luxury III,automatic,Florida,110495.0,black,gray,wells fargo dealer services,5200.0
+2011,Mitsubishi,Outlander,SE,automatic,Florida,71537.0,white,black,bright star credit union,8500.0
+2014,GMC,Terrain,SLT-1,automatic,Florida,12373.0,charcoal,black,palm beach auto mall inc,24200.0
+2012,Toyota,Corolla,S,automatic,Florida,20710.0,blue,black,toyota financial services,13300.0
+2005,Ford,Mustang,Premium,automatic,Florida,84089.0,blue,gray,infiniti of tampa,4900.0
+2008,Volvo,XC90,V8,automatic,Florida,224037.0,black,tan,legacy toyota of tallahassee,5250.0
+2012,Toyota,Camry,SE,automatic,Florida,77390.0,black,black,world omni financial corporation,11800.0
+2010,Chevrolet,Suburban,1500 LS,automatic,Florida,78621.0,gray,black,sullivan auto group llc,19500.0
+2003,Honda,Civic,EX,automatic,Florida,157862.0,beige,tan,gen x motors,1300.0
+2002,Honda,Accord,SE,automatic,Florida,146717.0,silver,gray,autonation honda miami lakes,2200.0
+2010,Toyota,Camry,SE,automatic,Florida,176245.0,black,black,toyota financial services,6900.0
+2013,Ford,Fusion,SE,automatic,Florida,8104.0,black,black,ford motor credit company llc,15500.0
+2013,Lexus,ES 350,Base,automatic,Florida,17158.0,red,black,lexus of pembroke pines,29500.0
+2005,Nissan,Maxima,3.5 SL,automatic,Florida,118658.0,white,beige,autonation nissan delray,4400.0
+2013,Chevrolet,Cruze,Eco,manual,Florida,19621.0,white,black,autonation chevrolet pembroke pines,11700.0
+2003,dodge,stratus,4c se,automatic,Florida,164154.0,beige,black,autonation chevrolet pembroke pines,400.0
+2010,BMW,3 Series,328i,automatic,Florida,39538.0,gray,black,braman motors,12200.0
+2004,Dodge,Grand Caravan,SXT,automatic,Florida,173392.0,white,tan,automatch usa,1300.0
+2006,Lexus,IS 250,Base,automatic,Florida,154097.0,blue,black,gm financial,5800.0
+2014,Ford,Mustang,V6,automatic,Florida,42422.0,—,black,ars/avis budget group,17900.0
+2012,Nissan,Versa,1.8 S,automatic,Florida,1.0,blue,black,santander consumer,3000.0
+2004,Lexus,ES 330,Base,automatic,Florida,143837.0,burgundy,tan,santander consumer,4500.0
+2013,Acura,MDX,Base,UNKNOWN,Florida,40464.0,burgundy,tan,d&a fine cars,26400.0
+2012,Volkswagen,Jetta,SE PZEV,automatic,Florida,26104.0,gray,black,vw credit prequalified,13600.0
+2013,Cadillac,CTS Coupe,Performance,automatic,Florida,15355.0,blue,black,remarketing by ge/west financial acceptance,27400.0
+2008,Toyota,Camry,LE,automatic,Florida,216455.0,gold,beige,auto sails inc,5800.0
+2013,Chevrolet,Sonic,LTZ,automatic,Florida,49638.0,silver,black,the hertz corporation,8500.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,Florida,23911.0,—,black,nissan infiniti lt,21400.0
+2012,Jeep,Liberty,Sport,automatic,Florida,51255.0,silver,black,fox rent a car,12900.0
+2009,Toyota,Corolla,LE,automatic,Florida,86125.0,silver,gray,pnc bank  national association,7000.0
+2012,Toyota,Camry,XLE,automatic,Florida,23809.0,gold,beige,world omni financial corporation,16200.0
+2006,Ford,F-150,Lariat,automatic,Florida,133311.0,white,gray,lee county fleet service,3100.0
+2012,Nissan,Altima,2.5,automatic,Florida,34667.0,gray,black,courtesy chrysler jeep dodge,13000.0
+2007,Hyundai,Santa Fe,GLS,automatic,Florida,76805.0,red,tan,germain toyota of sarasota,5300.0
+2010,Mercedes-Benz,C-Class,C350 Sport,automatic,Florida,45087.0,black,black,mercedes-benz finc wholesale advantage,16800.0
+2005,Nissan,Altima,2.5 S,automatic,Florida,89071.0,gray,beige,nextgear capital,2900.0
+2014,Kia,Forte,EX,automatic,Florida,21413.0,red,gray,first investors servicing corp,11200.0
+2008,Dodge,Charger,RT,UNKNOWN,Florida,80020.0,black,black,remarketing by ge/penair fcu,10000.0
+2008,Volkswagen,Jetta,SE,automatic,Florida,47260.0,gray,gray,honda of fort myers,5100.0
+2012,Toyota,Corolla,S,automatic,Florida,34956.0,white,black,santander consumer,12200.0
+2007,Lexus,ES 350,Base,automatic,Florida,114888.0,burgundy,beige,remarketing by ge/drivetime,7400.0
+2006,Honda,Odyssey,EX-L,automatic,Florida,214145.0,gray,gray,wilde honda,3000.0
+2012,Toyota,Camry,XLE,automatic,Florida,45629.0,silver,gray,world omni financial corporation,13600.0
+2013,Toyota,Corolla,LE,automatic,Florida,43285.0,black,beige,santander consumer,10800.0
+2011,Ford,Escape,XLT,automatic,Florida,68758.0,blue,black,mazda of wesley chapel,10600.0
+2014,Chevrolet,Impala Limited,LTZ Fleet,automatic,Florida,20998.0,black,black,gm remarketing,14800.0
+2010,Jeep,Commander,Sport,automatic,Florida,57071.0,black,gray,remarketing by ge/we florida financial,14200.0
+2012,Honda,CR-V,EX,automatic,Florida,83759.0,beige,brown,wells fargo dealer services,13500.0
+2011,Nissan,Maxima,3.5 SV,automatic,Florida,29889.0,—,black,nissan-infiniti lt,18000.0
+2008,Suzuki,SX4,Sport,automatic,Florida,130624.0,black,gray,remarketing by ge/florida central credit union,2500.0
+2008,UNKNOWN,UNKNOWN,UNKNOWN,manual,Florida,76030.0,black,black,capital one auto finance,5100.0
+2010,Hyundai,Elantra,GLS,automatic,Florida,83088.0,silver,gray,florida state efcu,6800.0
+2014,Chevrolet,Impala Limited,LTZ Fleet,automatic,Florida,18960.0,white,black,gm remarketing,14700.0
+1992,Honda,Accord,LX,automatic,Florida,165899.0,blue,tan,gettel nissan of sarasota,2000.0
+2013,Mazda,CX-5,Touring,automatic,Florida,47667.0,black,black,audi pembroke pines,16200.0
+2014,Ford,E-Series Wagon,E-350 Super Duty XLT,UNKNOWN,Florida,7822.0,white,gray,ford motor credit company,26100.0
+2012,Toyota,Camry,LE,UNKNOWN,Florida,51307.0,gray,beige,world omni financial corporation,11400.0
+2009,Dodge,Journey,SXT,automatic,Florida,81270.0,gold,gray,ed morse cadillac,7300.0
+2013,Nissan,Altima,2.5,automatic,Florida,24888.0,white,beige,nissan-infiniti lt,14400.0
+2013,Ford,Mustang,V6,automatic,Florida,58878.0,silver,black,dtg operations inc,14100.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,39454.0,black,black,nissan-infiniti lt,11400.0
+2013,Chevrolet,Cruze,LTZ,automatic,Florida,40726.0,white,black,avis corporation,13100.0
+2012,Chevrolet,Impala,LTZ,automatic,Florida,73516.0,black,beige,santander consumer,8700.0
+2011,Ford,Fusion,SE,automatic,Florida,28038.0,silver,tan,advantage chrysler dodge jeep,11700.0
+2012,Lexus,IS 250,Base,automatic,Florida,26701.0,gray,black,lexus financial services,21700.0
+2014,Kia,Forte,LX,automatic,Florida,39645.0,white,—,avis corporation,11600.0
+2011,Nissan,Maxima,3.5 SV,automatic,Florida,48069.0,black,black,nissan-infiniti lt,14000.0
+2007,Infiniti,FX35,Base,automatic,Florida,111433.0,silver,black,sell your car here,11400.0
+2006,Jeep,Commander,Base,automatic,Florida,132786.0,silver,gray,zimmerman auto brokers inc,6400.0
+2014,Hyundai,Santa Fe Sport,Sport,automatic,Florida,13.0,blue,gray,hyundai motor america/co car open sale,27800.0
+2014,Ford,E-Series Van,E-250,automatic,Florida,9615.0,white,gray,u-haul,21800.0
+2012,Porsche,Cayenne,Base,automatic,Florida,24355.0,blue,black,porsche financial services,40000.0
+2015,Nissan,Versa Note,1.6 SV,automatic,Florida,3395.0,gray,black,firkins nissan,11800.0
+2014,Jeep,Wrangler,Unlimited Sport,automatic,Florida,14753.0,gray,black,zimmerman auto brokers inc,27800.0
+2012,Lexus,LS 460,Base,automatic,Florida,36524.0,silver,black,lexus financial services,35400.0
+2013,Hyundai,Sonata,GLS,automatic,Florida,26745.0,blue,gray,hyundai of new port richey,14100.0
+2006,Pontiac,GTO,Base,manual,Florida,79302.0,black,black,wells fargo dealer services,9900.0
+2011,Nissan,Maxima,3.5 SV,automatic,Florida,30503.0,—,black,nissan-infiniti lt,17200.0
+2015,Jeep,Wrangler,Unlimited Sahara,automatic,Florida,12016.0,white,black,tdaf remarketing,37600.0
+2012,Lexus,LS 460,Base,automatic,Florida,26844.0,gray,beige,lexus financial services,41000.0
+2012,Toyota,Camry,SE,automatic,Florida,24664.0,silver,black,world omni financial corporation,15300.0
+2013,Kia,Optima,EX,automatic,Florida,8768.0,beige,beige,rick case kia,16700.0
+2011,Nissan,Rogue,SV,automatic,Florida,27307.0,white,black,nissan-infiniti lt,16400.0
+2007,Jeep,Commander,Sport,automatic,Florida,113822.0,silver,gray,gm financial,5900.0
+2003,Mercedes-Benz,C-Class,C320 Sport,automatic,Florida,140365.0,—,gray,cfs of south florida,1700.0
+2011,Nissan,Sentra,2.0 S,automatic,Florida,31069.0,silver,gray,nissan motor acceptance corporation,7600.0
+2015,Chevrolet,Malibu,LT,automatic,Florida,18140.0,white,black,enterprise veh exchange/rental,16500.0
+2010,Dodge,Journey,SE,automatic,Florida,49392.0,silver,black,hertz remarketing,8800.0
+2014,Toyota,Camry,LE,automatic,Florida,17440.0,black,gray,ez rent a car inc,14200.0
+2013,Ford,Edge,SE,automatic,Florida,105896.0,white,beige,auto sails inc,10950.0
+2012,Ford,Focus,SE,automatic,Florida,33702.0,black,—,ford motor credit company llc,10400.0
+2004,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Florida,98760.0,white,beige,coggin toyota at the avenues,2400.0
+2012,BMW,5 Series,528i,automatic,Florida,44833.0,white,brown,lauderdale imports ltd bmw pembrok pines,27500.0
+2005,GMC,Yukon XL,Denali,automatic,Florida,221708.0,silver,tan,williamson cadillac company,2200.0
+2014,Ford,Focus,SE,automatic,Florida,19219.0,—,black,avis budget group,12600.0
+2014,Jeep,Patriot,Sport,automatic,Florida,10055.0,blue,black,chrysler capital,14300.0
+2013,Hyundai,Elantra,Limited,automatic,Florida,35137.0,silver,black,hyundai motor finance,13500.0
+2007,Nissan,Maxima,3.5 SL,automatic,Florida,80013.0,gray,beige,braman motors,8300.0
+2014,Kia,Sorento,LX,automatic,Florida,27863.0,silver,gray,enterprise veh exchange/rental,17000.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Florida,127240.0,red,gray,santander consumer,2700.0
+2011,Dodge,Caliber,Heat,automatic,Florida,77527.0,white,gray,consolidated asset recovery systems  inc.,5700.0
+2014,Dodge,Grand Caravan,SXT,automatic,Florida,23787.0,silver,black,enterprise holdings/gdp,16100.0
+2011,Infiniti,G Sedan,G37 Journey,automatic,Florida,46835.0,gray,black,nissan infiniti lt,18600.0
+2013,Toyota,Tacoma,Base,automatic,Florida,25844.0,white,gray,lipton toyota,8100.0
+2013,Chrysler,Town and Country,Touring,automatic,Florida,32777.0,blue,gray,chrysler group llc,17300.0
+2014,Ford,Focus,SE,automatic,Florida,34372.0,—,black,ars/avis budget group,11500.0
+2004,Jeep,Grand Cherokee,Laredo,automatic,Florida,174426.0,silver,black,crest auto wholesalers of sw fl inc,600.0
+2005,ford,explorer,4x2 v6 xlt,UNKNOWN,Florida,135677.0,red,beige,autonation toyota pinellas park,3200.0
+2013,Chevrolet,Camaro,LS,manual,Florida,26982.0,yellow,black,gm financial,15400.0
+2011,Cadillac,CTS Coupe,Base,automatic,Florida,34996.0,black,black,ebenzz motors,21500.0
+2006,BMW,3 Series,330i,automatic,Florida,111085.0,blue,beige,central florida educators fcu,5800.0
+2013,Ford,Escape,S,automatic,Florida,21997.0,gray,gray,ford motor credit company llc,14500.0
+2007,Saturn,Aura,XR,automatic,Florida,1.0,blue,brown,adobe auto sales inc,1100.0
+2003,Chevrolet,Avalanche,1500,automatic,Florida,270398.0,green,black,coral springs honda,3900.0
+2014,Ford,Fusion,SE,automatic,Florida,25217.0,white,beige,remarketing by ge/sunrise partners inc of nw,16500.0
+2013,Lexus,ES 300h,Base,automatic,Florida,25807.0,gray,beige,jm lexus,30000.0
+2013,Nissan,Maxima,3.5 S,automatic,Florida,54402.0,off-white,black,the hertz corporation,14700.0
+2009,Hyundai,Genesis,4.6,automatic,Florida,28007.0,black,black,tampa bay autonetwork,17200.0
+2006,Ford,F-150,Lariat,automatic,Florida,107224.0,silver,tan,zimmerman auto brokers inc,13400.0
+2014,Dodge,Grand Caravan,SXT,automatic,Florida,22025.0,white,black,hertz corporation/gdp,17000.0
+2012,Nissan,Maxima,3.5 SV,automatic,Florida,46195.0,gray,black,nissan-infiniti lt,16600.0
+2013,Nissan,Altima,2.5,automatic,Florida,7923.0,black,beige,nissan-infiniti lt,19200.0
+2001,Hyundai,Tiburon,Base,manual,Florida,186567.0,blue,black,purple heart services inc,400.0
+2000,dodge,durango,4x2 v8,automatic,Florida,157192.0,gray,gray,l g auto sales,750.0
+2014,Ford,Transit Connect,Wagon XLT LWB,automatic,Florida,6643.0,—,gray,ford motor credit company,21900.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,27554.0,black,beige,nissan-infiniti lt,14200.0
+2013,Jeep,Wrangler,Unlimited Sahara,automatic,Florida,13713.0,brown,tan,tdaf remarketing,30800.0
+2001,Honda,Accord,EX,automatic,Florida,135053.0,silver,gray,rick case hyundai inc,2750.0
+2013,Buick,LaCrosse,Leather Group,automatic,Florida,63235.0,silver,black,the hertz corporation/gm,13100.0
+2006,Ford,Fusion,S,automatic,Florida,95232.0,gray,beige,starling chevrolet,3400.0
+2013,Volkswagen,Passat,SE PZEV,automatic,Florida,38701.0,white,black,avis corporation,13200.0
+2006,Chrysler,Town and Country,LX,automatic,Florida,122038.0,blue,gray,greenway chrysler jeep dodge inc,3900.0
+2010,GMC,Yukon,Denali,automatic,Florida,39272.0,black,black,braman motorcars,32400.0
+2003,Mercedes-Benz,E-Class,E320,automatic,Florida,97139.0,silver,—,westlake financial services,3900.0
+2007,Honda,Accord,EX-L,automatic,Florida,81732.0,blue,gray,d&a fine cars,8300.0
+2014,Audi,A7,TDI Prestige quattro,automatic,Florida,11003.0,black,black,germain bmw of naples,57400.0
+2011,Toyota,Corolla,LE,automatic,Florida,69076.0,silver,gray,santander consumer,9000.0
+2012,Nissan,Versa,1.6 S,automatic,Florida,39054.0,white,black,nissan motor acceptance corporation,9100.0
+2015,Chrysler,200,Limited,automatic,Florida,15728.0,white,tan,enterprise veh exchange/rental,15800.0
+2014,Kia,Optima,LX,automatic,Florida,15155.0,black,gray,kia motors america  inc,14400.0
+2015,Kia,Sorento,LX,automatic,Florida,12892.0,black,gray,kia motors america  inc,19800.0
+1995,BMW,5 Series,525i,automatic,Florida,322983.0,black,gray,autonation chevrolet west colonial,300.0
+2011,Ford,Ranger,XL,automatic,Florida,97804.0,white,gray,tdaf remarketing,8600.0
+2012,Lexus,IS 250,Base,automatic,Florida,16421.0,black,gray,lexus financial services,23000.0
+2007,Mercedes-Benz,M-Class,ML320 CDI,automatic,Florida,105094.0,blue,beige,audi south orlando,13800.0
+2012,Lexus,IS 250,Base,automatic,Florida,29292.0,white,black,lexus financial services,22400.0
+2014,Jeep,Patriot,Sport,automatic,Florida,36938.0,white,black,chrysler capital,12300.0
+2013,Nissan,Altima,2.5,automatic,Florida,43269.0,gray,black,car masters corp,10900.0
+2014,Dodge,Dart,SXT,automatic,Florida,21191.0,silver,beige,pv holding inc/gdp,12700.0
+2010,Honda,Pilot,EX-L,automatic,Florida,71278.0,gray,gray,arcadia chevrolet buick inc.,17600.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,22796.0,blue,black,nissan-infiniti lt,10800.0
+2008,Audi,A4,2.0T,automatic,Florida,89720.0,black,black,d&a fine cars,10000.0
+2012,FIAT,500,Pop,automatic,Florida,50547.0,red,—,remarketing by ge/summit financial corp,6000.0
+2014,Toyota,Tundra,SR,automatic,Florida,1749.0,silver,gray,santander consumer,23400.0
+2012,Lexus,RX 350,Base,automatic,Florida,28439.0,black,black,lexus financial services,27600.0
+2013,Dodge,Dart,SXT,automatic,Florida,11714.0,red,black,central florida chrysler jeep dodge,11500.0
+2004,Chevrolet,Avalanche,1500,automatic,Florida,153652.0,silver,gray,autonation chevrolet fort lauderdale,6500.0
+2006,Honda,Odyssey,LX,automatic,Florida,148170.0,silver,gray,coggin honda of orlando,4000.0
+2008,Chevrolet,Malibu,LT,automatic,Florida,105592.0,gold,gray,capital one auto finance,5400.0
+2003,Mercedes-Benz,E-Class,E320,automatic,Florida,88958.0,black,off-white,tmt auto wholesale inc,6200.0
+2015,Nissan,Frontier,SV,UNKNOWN,Florida,7928.0,black,gray,tdaf remarketing,22200.0
+2014,Mercedes-Benz,E-Class,E350 Luxury,automatic,Florida,28570.0,silver,black,c & k auto imports south inc,37500.0
+2015,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Florida,8094.0,gold,gray,gm remarketing,20500.0
+2014,Dodge,Journey,SE,automatic,Florida,20555.0,white,beige,gm financial,15400.0
+2013,Nissan,Sentra,SV,automatic,Florida,17987.0,white,black,nissan motor acceptance corporation,11800.0
+2003,Hyundai,Elantra,GT,automatic,Florida,178842.0,silver,gray,autonation nissan brandon,800.0
+2009,Nissan,Murano,LE,automatic,Florida,69126.0,silver,black,jaguar aston martin naples,14800.0
+2012,Cadillac,CTS Coupe,Base,automatic,Florida,32337.0,white,black,santander consumer,21000.0
+2008,BMW,3 Series,335i,automatic,Florida,95415.0,black,black,napleton's clermont chrysler jeep dodge,10600.0
+2011,Nissan,Rogue,SV,automatic,Florida,72544.0,red,gray,daytona toyota,11500.0
+2015,Chevrolet,Impala,LT,automatic,Florida,18979.0,silver,gray,gm remarketing,21300.0
+2013,Ford,Fusion,SE,automatic,Florida,20336.0,—,black,ford motor credit company llc pd,13300.0
+2012,Ram,1500,ST,automatic,Florida,99488.0,silver,gray,westfall auto sales,12400.0
+2013,Jeep,Wrangler,Unlimited Sport,manual,Florida,15198.0,burgundy,black,cire leasing,25800.0
+2010,Toyota,Sienna,XLE 7-Passenger,automatic,Florida,49901.0,black,gray,panama city toyota,11600.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,49999.0,silver,black,nissan-infiniti lt,10400.0
+2009,Ford,Focus,SE,UNKNOWN,Florida,74608.0,silver,gray,achieva credit union,6600.0
+2013,Hyundai,Elantra,Limited,automatic,Florida,59585.0,gray,gray,hyundai motor finance,8300.0
+2011,Porsche,Panamera,Base,automatic,Florida,36274.0,white,brown,scottsdale sports car group,44400.0
+2012,Ford,Edge,SEL,automatic,Florida,31186.0,gray,black,ford motor credit company llc,21100.0
+2013,Nissan,Altima,2.5,automatic,Florida,12223.0,white,tan,nissan-infiniti lt,15200.0
+2009,Nissan,Rogue,S,automatic,Florida,100811.0,blue,gray,coggin honda,7100.0
+2005,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Florida,58256.0,red,tan,sam galloway ford lincoln,7200.0
+2012,Volkswagen,Passat,SE PZEV,automatic,Florida,45214.0,silver,gray,gettel hyundai,10400.0
+2011,Hyundai,Elantra,GLS,automatic,Florida,28232.0,gray,gray,florida credit union,10200.0
+2012,Infiniti,G Coupe,G37,automatic,Florida,31348.0,white,black,nissan infiniti lt,20200.0
+2013,Hyundai,Elantra,GLS,automatic,Florida,63088.0,black,tan,hyundai of new port richey,8800.0
+2015,Nissan,Versa,1.6 SL,automatic,Florida,16703.0,blue,beige,florida auto financial group,11000.0
+2013,BMW,3 Series,335i,automatic,Florida,15152.0,silver,gray,tdaf remarketing,33500.0
+2010,Chevrolet,Traverse,LS,automatic,Florida,86560.0,gray,gray,tdaf remarketing,10200.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,37538.0,beige,beige,nissan-infiniti lt,9800.0
+2015,Chevrolet,Suburban,LTZ,automatic,Florida,11876.0,black,black,enterprise veh exchange/rental,53200.0
+2012,Toyota,Corolla,LE,automatic,Florida,31842.0,beige,beige,world omni financial corporation,11150.0
+2013,Volkswagen,Passat,Wolfsburg Edition PZEV,automatic,Florida,55572.0,gray,black,enterprise veh exchange/rental,10500.0
+2014,Ford,F-150,XL,automatic,Florida,9951.0,white,gray,u-haul,17700.0
+2012,Honda,CR-V,LX,UNKNOWN,Florida,35363.0,red,gray,braman honda of palm beach,16700.0
+2014,Ford,Fusion,SE,automatic,Florida,8469.0,—,black,ford motor credit company llc,16100.0
+2014,Toyota,RAV4,XLE,automatic,Florida,9797.0,blue,beige,onesource/arlington toyota inc,22900.0
+2003,Volvo,S60,2.4,automatic,Florida,270404.0,black,black,mercedes benz of orlando,1200.0
+2007,Suzuki,Forenza,Base,automatic,Florida,107430.0,gold,gray,autonation honda hollywood,1000.0
+2012,Land Rover,LR4,Base,automatic,Florida,33114.0,white,black,flag/landrover tampa,40200.0
+2007,Saturn,VUE,Base,automatic,Florida,130453.0,green,beige,source one adj of ohio inc/skipco,1700.0
+2013,Ford,Fusion,SE,automatic,Florida,72503.0,gray,black,dtg operations inc,9700.0
+2012,Lexus,ES 350,Base,automatic,Florida,21382.0,gray,gray,lexus financial services,23500.0
+2012,Hyundai,Elantra,Limited,automatic,Florida,36007.0,silver,gray,hyundai motor finance,12500.0
+2013,Ford,Focus,SE,automatic,Florida,22887.0,—,gray,ford motor credit company llc pd,11900.0
+2012,Cadillac,SRX,Base,automatic,Florida,64977.0,brown,black,lexus of pembroke pines,17200.0
+2012,Mercedes-Benz,C-Class,C250 Sport,automatic,Florida,29619.0,white,black,mercedes-benz financial services,22250.0
+2008,Ford,Escape,XLT,automatic,Florida,168729.0,—,beige,ari,3900.0
+2013,Volkswagen,CC,Sport,automatic,Florida,15663.0,—,black,vw credit,17000.0
+2008,Ford,Escape,XLT,automatic,Florida,78538.0,white,gray,ari,8100.0
+2009,Pontiac,G3,Base,automatic,Florida,93716.0,blue,gray,grow financial fcu,3200.0
+2014,Nissan,Altima,2.5 S,automatic,Florida,14094.0,black,black,florida auto financial group,13600.0
+2013,Lexus,GS 350,Base,automatic,Florida,35212.0,white,tan,lexus of north miami,33000.0
+2013,Honda,Odyssey,EX-L,automatic,Florida,30598.0,gray,gray,port charlotte honda,25500.0
+2013,Lexus,ES 300h,Base,automatic,Florida,55069.0,black,black,schumacher auto group inc,25600.0
+2009,Lincoln,MKS,Base,automatic,Florida,47920.0,white,tan,santander consumer,13000.0
+2011,Dodge,Nitro,Heat,automatic,Florida,65031.0,blue,black,napletons south orlando chrysler jeep dodge,12700.0
+2012,Ford,Escape,Limited,automatic,Florida,64743.0,black,beige,ari,12500.0
+2014,Chrysler,200,LX,automatic,Florida,38762.0,white,black,enterprise vehicle exchange / tra / rental / tulsa,6600.0
+2008,Mercedes-Benz,E-Class,E350,automatic,Florida,99121.0,silver,black,mercedes benz of south orlando,10000.0
+2003,BMW,X5,3.0i,automatic,Florida,158197.0,blue,tan,platinum auto finance llc,2800.0
+2012,Volkswagen,Jetta,SE,automatic,Florida,33520.0,—,black,vw credit,8000.0
+2003,Cadillac,Escalade ESV,Base,automatic,Florida,240246.0,white,tan,1st commercial,4600.0
+2008,BMW,5 Series,535i,automatic,Florida,97487.0,black,beige,tfp international inc,9200.0
+2011,GMC,Sierra 1500,SLE,automatic,Florida,69693.0,black,black,tdaf remarketing,20800.0
+2006,GMC,Envoy,SLT,automatic,Florida,100822.0,green,black,grow financial fcu,6700.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,16518.0,silver,black,nissan-infiniti lt,13600.0
+2011,Nissan,Maxima,3.5 SV,automatic,Florida,41403.0,blue,black,nissan-infiniti lt,15800.0
+2014,Kia,Sorento,LX,automatic,Florida,21216.0,silver,beige,kia motors america  inc,18400.0
+2011,BMW,3 Series,328i xDrive,automatic,Florida,49968.0,red,black,lauderdale imports ltd bmw pembrok pines,16300.0
+2002,Honda,Accord,EX V-6,automatic,Florida,218070.0,black,gray,d&a fine cars,2500.0
+2008,Honda,Civic,LX,UNKNOWN,Florida,143791.0,silver,gray,coggin honda of orlando,5100.0
+2014,Chevrolet,Cruze,LTZ,automatic,Florida,21224.0,silver,black,gm remarketing,19900.0
+2012,Jeep,Wrangler,Rubicon,manual,Florida,53701.0,black,brown,tdaf remarketing,25800.0
+2012,Toyota,Camry,SE,automatic,Florida,46666.0,black,black,world omni financial corporation,15100.0
+2011,Ford,Edge,Limited,automatic,Florida,54729.0,silver,gray,american bank auto liquidators,20000.0
+2007,Jeep,Commander,Limited,automatic,Florida,119539.0,white,gray,starling chevrolet,8000.0
+2005,Ford,Focus,ZX4 SE,automatic,Florida,164473.0,white,beige,autonation toyota fort myers,1600.0
+2012,Chevrolet,Malibu,LT,automatic,Florida,45387.0,silver,black,remarketing by ge/sunrise partners inc of nw,10600.0
+2011,Chevrolet,Silverado 1500,LTZ,automatic,Florida,52890.0,white,beige,tdaf remarketing,26600.0
+2005,Mercury,Grand Marquis,GS Convenience,automatic,Florida,170281.0,silver,gray,bearcat leasing,700.0
+2012,Nissan,Murano,S,automatic,Florida,30444.0,white,beige,nissan-infiniti lt,14600.0
+2014,Ford,Focus,SE,automatic,Florida,13703.0,silver,gray,remarketing by ge/west financial acceptance,9900.0
+2012,Nissan,Altima,2.5 S,automatic,Florida,25821.0,black,black,nissan-infiniti lt,11600.0
+2013,Toyota,Tundra,Tundra,automatic,Florida,15110.0,black,gray,world omni financial corporation,23700.0
+2010,Honda,Civic,LX,automatic,Florida,80624.0,gray,gray,tdaf remarketing,7800.0
+2006,Ford,Explorer,Eddie Bauer,automatic,Florida,164085.0,white,white,credit acceptance corp/vrs/southfield,2300.0
+2014,Chevrolet,Impala Limited,LS Fleet,automatic,Florida,22644.0,gray,gray,gm remarketing,12100.0
+2014,Subaru,Outback,2.5i Premium PZEV,automatic,Florida,10689.0,blue,black,subaru of america,22600.0
+2007,GMC,Yukon XL,Denali,automatic,Florida,126338.0,white,beige,crown buick gmc,14000.0
+2013,Chrysler,Town and Country,Touring,automatic,Florida,63007.0,red,black,the hertz corporation,13400.0
+2012,Mercedes-Benz,E-Class,E350 Luxury 4MATIC,automatic,Florida,20104.0,black,blue,braman honda of palm beach,27800.0
+2013,Chrysler,Town and Country,Touring,automatic,Florida,28750.0,white,beige,chrysler group llc,16400.0
+2014,Subaru,Outback,2.5i Premium PZEV,automatic,Florida,17597.0,beige,beige,subaru of america,22400.0
+2004,Cadillac,CTS,Base,automatic,Florida,132857.0,green,black,coral springs honda,2700.0
+2007,Nissan,Altima,2.5 S,automatic,Florida,102667.0,gray,gray,coggin nissan,4600.0
+2014,Ford,Fiesta,SE,automatic,Florida,26664.0,—,black,avis budget group,9700.0
+2011,Ford,Edge,SEL,automatic,Florida,31896.0,—,black,ford motor credit company llc pd,19800.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Florida,124557.0,white,black,santander consumer,1000.0
+2014,Dodge,Grand Caravan,SXT,automatic,Florida,19535.0,red,beige,enterprise holdings/gdp,16600.0
+2014,Chevrolet,Impala,LT,automatic,Florida,17657.0,silver,gray,gm remarketing,18600.0

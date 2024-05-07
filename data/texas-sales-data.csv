@@ -1,0 +1,833 @@
+year,make,model,trim,transmission,state,odometer,color,interior,seller,selling_price
+2014,Chevrolet,Cruze,LS,automatic,Texas,11831.0,blue,gray,td auto finance,13100.0
+2012,Chevrolet,Cruze,1LT,automatic,Texas,57590.0,silver,gray,the hertz corporation,9100.0
+2006,Jeep,Grand Cherokee,Overland,automatic,Texas,119655.0,black,—,gm financial,7400.0
+2008,Mazda,Mazda3,i Sport,automatic,Texas,77963.0,gray,black,santander consumer,4400.0
+2006,Hyundai,Sonata,LX,automatic,Texas,126938.0,white,gray,united acceptance,2700.0
+2012,Nissan,Altima,2.5 S,automatic,Texas,21237.0,white,black,nissan-infiniti lt,13800.0
+2014,Ram,1500,Tradesman,UNKNOWN,Texas,23362.0,black,gray,chrysler capital,18600.0
+2011,Ford,F-150,XLT,automatic,Texas,45664.0,—,gray,ford motor credit company llc,24200.0
+2006,Infiniti,M35,Base,automatic,Texas,57508.0,silver,tan,austin infiniti inc,11200.0
+2010,Mazda,Mazda5,Sport,automatic,Texas,86993.0,gray,black,dt credit corporation,7100.0
+2013,Toyota,Prius,Two,automatic,Texas,53251.0,blue,gray,tdaf remarketing,12200.0
+2013,Chevrolet,Equinox,LS,automatic,Texas,51478.0,silver,black,lease plan usa,13100.0
+2007,Pontiac,G6,GT,automatic,Texas,135093.0,silver,black,dt credit corporation,3000.0
+1998,Chevrolet,Malibu,LS,automatic,Texas,246083.0,gold,beige,titlemax/san antonio tx24,600.0
+2014,Dodge,Charger,SE,automatic,Texas,11519.0,white,black,texas auto brokers,18200.0
+1998,Ford,F-150,XL,manual,Texas,201147.0,black,beige,beck & masten pontiac gmc hummer truck inc,1500.0
+2011,Dodge,Charger,Base,automatic,Texas,96348.0,black,black,manheim dallas,10600.0
+2012,Ford,Fusion,S,automatic,Texas,72125.0,silver,gray,lease plan usa,8700.0
+2012,Mercedes-Benz,C-Class,C300 Luxury 4MATIC,automatic,Texas,18424.0,silver,black,mercedes-benz financial services,23750.0
+2014,Ford,F-250 Super Duty,Platinum,automatic,Texas,9572.0,black,black,music city autoplex llc,57500.0
+2013,Ford,F-150,XLT,automatic,Texas,33184.0,—,gray,ars/enterprise,23500.0
+2012,Buick,LaCrosse,Convenience Group,automatic,Texas,17954.0,beige,tan,music city autoplex llc,17500.0
+2008,Lexus,RX 350,Base,automatic,Texas,100879.0,gray,—,fairway ford henderson,12500.0
+2003,Mercedes-Benz,M-Class,ML350,automatic,Texas,120134.0,black,tan,mercedes benz of georgetown,4300.0
+2013,Nissan,Maxima,3.5 SV,automatic,Texas,55449.0,burgundy,black,the hertz corporation,14200.0
+2008,Ford,Escape,XLT,automatic,Texas,104961.0,gray,black,cadillac of arlington,6500.0
+2006,Nissan,Maxima,3.5 SE,automatic,Texas,100284.0,white,gray,veros credit,2300.0
+2012,Ford,Fiesta,S,manual,Texas,82774.0,black,—,music city autoplex llc,5000.0
+2011,Chevrolet,Silverado 1500,LT,automatic,Texas,162622.0,gray,black,tdaf remarketing,14300.0
+2008,Hyundai,Tiburon,GT,automatic,Texas,73479.0,silver,red,huffines chrysler jeep dodge lewisville,5200.0
+2014,Ford,Fusion,SE,automatic,Texas,27318.0,—,black,ford motor credit company llc,14100.0
+2011,GMC,Sierra 1500,SLE,automatic,Texas,44440.0,black,black,gm financial,17900.0
+2014,Chrysler,Town and Country,Touring,automatic,Texas,43759.0,black,gray,avis corporation,17300.0
+2011,Chevrolet,Silverado 1500,LT,automatic,Texas,66912.0,blue,black,rlb investments,18000.0
+2015,Chevrolet,Silverado 3500HD,Work Truck,automatic,Texas,6568.0,white,gray,capps rent a car,40600.0
+2012,Volkswagen,Passat,SEL,automatic,Texas,30242.0,black,black,vw credit  inc/pilot,14200.0
+2009,Ford,F-150,FX4,automatic,Texas,104532.0,white,gray,wheels lt,13900.0
+2012,Dodge,Charger,SE,automatic,Texas,78759.0,gray,brown,spotless auto llc,10500.0
+2012,Jeep,Grand Cherokee,Laredo,automatic,Texas,50792.0,gray,tan,don davis nissan inc,18500.0
+2009,Land Rover,Range Rover Sport,HSE,automatic,Texas,124326.0,white,—,fairway ford henderson,15000.0
+2011,Ford,F-150,King Ranch,automatic,Texas,112127.0,brown,brown,texas direct auto,22700.0
+2010,Ford,F-150,SVT Raptor,automatic,Texas,27385.0,black,black,ford-lincoln dealer program,37700.0
+2012,Dodge,Charger,SE,automatic,Texas,44252.0,blue,tan,wheels lt,15500.0
+2014,Ford,F-150,XL,automatic,Texas,6206.0,white,gray,u-haul international,18300.0
+2006,Chevrolet,Cobalt,LS,automatic,Texas,143632.0,yellow,gray,dt credit corporation,2300.0
+2008,Chevrolet,HHR,LT,automatic,Texas,139011.0,orange,black,dt credit corporation,800.0
+2012,Hyundai,Elantra,GLS,automatic,Texas,38892.0,blue,gray,hyundai motor finance,9500.0
+2012,Toyota,Corolla,S,automatic,Texas,24248.0,white,black,toyota financial services,12900.0
+2014,Ford,Focus,SE,automatic,Texas,33625.0,red,black,avis budget group,12200.0
+2010,Volkswagen,Golf,2.5L PZEV,manual,Texas,69031.0,gray,—,one source fcu,7400.0
+2013,Ford,F-150,XLT,automatic,Texas,123966.0,—,gray,wheels lt,16100.0
+2013,Volkswagen,Tiguan,S 4Motion,automatic,Texas,47380.0,silver,black,the hertz corporation,14300.0
+2007,GMC,Yukon,SLE,automatic,Texas,110929.0,black,black,tdaf remarketing,11300.0
+2007,Acura,MDX,Base,automatic,Texas,155188.0,gray,black,tdaf remarketing,9400.0
+2013,Ford,F-150,King Ranch,automatic,Texas,45518.0,burgundy,brown,mike craig ford,35000.0
+2006,Jeep,Commander,Limited,automatic,Texas,177127.0,blue,gray,david mcdavid acura,5000.0
+2013,Chevrolet,Impala,LS,automatic,Texas,9554.0,red,gray,exeter finance corp,10700.0
+2014,Toyota,Sienna,LE 7-Passenger Mobility Auto Access,automatic,Texas,42885.0,silver,beige,tdaf remarketing,20500.0
+2013,Chevrolet,Equinox,LT,automatic,Texas,51532.0,silver,black,the hertz corporation,16000.0
+2012,Nissan,Rogue,SV,automatic,Texas,42223.0,black,black,nissan-infiniti lt,13800.0
+2008,Pontiac,G6,Value Leader,automatic,Texas,107378.0,silver,black,santander consumer,2400.0
+2008,Chevrolet,Malibu,LT,automatic,Texas,107803.0,burgundy,gray,jerry's gm,6500.0
+2006,Ford,Explorer,XLT,automatic,Texas,154039.0,silver,beige,mei finance,2600.0
+2014,Jeep,Cherokee,Sport,automatic,Texas,32691.0,white,gray,avis corporation,15600.0
+2003,Cadillac,Seville,STS,automatic,Texas,125037.0,white,gray,caprock auto remarketing,800.0
+2012,Ford,F-350 Super Duty,XLT,automatic,Texas,101195.0,silver,black,remarketing by ge/ak&y enterprises inc,22900.0
+2010,Chevrolet,Tahoe,LT,automatic,Texas,94249.0,silver,gray,tdaf remarketing,17800.0
+2013,Kia,Forte,EX,automatic,Texas,57176.0,black,gray,the hertz corporation,8200.0
+2013,Chevrolet,Equinox,LS,automatic,Texas,65534.0,white,—,ge fleet services for itself/servicer,12500.0
+2014,Toyota,Camry,LE,automatic,Texas,38347.0,gray,—,avis corporation,13800.0
+2012,Mercedes-Benz,S-Class,S550,automatic,Texas,35606.0,black,black,mercedes-benz financial services,43750.0
+2007,Pontiac,G6,GT,automatic,Texas,106745.0,gray,gray,san antonio dodge chrysler jeep,4700.0
+2005,Lincoln,Aviator,Luxury,UNKNOWN,Texas,114736.0,black,tan,dt credit corporation,6700.0
+2011,Hyundai,Sonata,SE,automatic,Texas,120837.0,gray,gray,santander consumer,4300.0
+2008,Chrysler,Aspen,Limited,automatic,Texas,93214.0,silver,gray,mike motors,9000.0
+2014,Buick,Verano,Convenience Group,automatic,Texas,34638.0,silver,beige,mid city mcandrew motors,13500.0
+2010,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Texas,106736.0,black,tan,howell motor company,16800.0
+2012,Nissan,Altima,2.5 S,automatic,Texas,29336.0,silver,black,nissan-infiniti lt,13600.0
+2005,Nissan,Maxima,3.5 SL,automatic,Texas,141661.0,silver,—,dt credit corporation,3100.0
+2012,Nissan,Altima,2.5,automatic,Texas,38723.0,white,tan,nissan-infiniti lt,14400.0
+2011,Dodge,Charger,Base,automatic,Texas,93181.0,gray,black,santander consumer,11900.0
+2014,Chevrolet,Malibu,LTZ,automatic,Texas,21520.0,white,—,tdaf remarketing,19700.0
+2013,Ford,Escape,SE,automatic,Texas,92679.0,silver,gray,ge fleet services for itself/servicer,11200.0
+2001,Dodge,Durango,Sport,automatic,Texas,253548.0,white,brown,titlemax/san antonio tx24,1000.0
+2011,Kia,Sorento,Base,automatic,Texas,105255.0,black,tan,santander consumer,9200.0
+2008,Nissan,Rogue,SL,automatic,Texas,82255.0,orange,black,santander consumer,9600.0
+2012,Honda,Odyssey,EX,automatic,Texas,30500.0,beige,tan,cm investments,20000.0
+2014,Ford,Fusion,Titanium,automatic,Texas,15564.0,red,black,ford motor credit company llc,20700.0
+2011,Infiniti,G Sedan,G37x,automatic,Texas,41282.0,gray,black,nissan infiniti lt,17200.0
+2014,Kia,Forte,LX,automatic,Texas,30667.0,gray,black,kia motors finance,12000.0
+2013,Nissan,Pathfinder,S,automatic,Texas,27852.0,black,black,nissan motor acceptance corporation,20600.0
+2013,Ram,1500,Sport,automatic,Texas,39320.0,black,black,primeritus remarketing/mag interests,27800.0
+2005,Chrysler,PT Cruiser,Touring,UNKNOWN,Texas,92904.0,black,—,titlemax/fort worth tx5,1000.0
+2006,Dodge,Charger,SE,automatic,Texas,117237.0,silver,black,dt inventory,5000.0
+2013,Honda,Insight,Base,automatic,Texas,36483.0,gray,gray,avis corporation,11400.0
+2011,Dodge,Journey,Express,automatic,Texas,107096.0,silver,black,dt credit corporation,6400.0
+2010,Nissan,Murano,S,automatic,Texas,67919.0,burgundy,tan,edwards motor company inc,15400.0
+2009,Chevrolet,Silverado 1500,LT,UNKNOWN,Texas,75394.0,white,black,brunson auto sales,21800.0
+2011,Honda,Civic,Hybrid,automatic,Texas,117411.0,black,tan,frank kent honda,5600.0
+2007,Lexus,IS 250,Base,automatic,Texas,131360.0,silver,gray,nextgear capital,8500.0
+2014,Kia,Sorento,EX,automatic,Texas,37853.0,white,black,stanley chrysler - dodge - jeep - gatesville,21500.0
+2008,Honda,CR-V,EX,automatic,Texas,106871.0,black,tan,santander consumer,9200.0
+2010,Toyota,Corolla,LE,automatic,Texas,37928.0,gray,gray,autonation honda lewisville,6800.0
+2013,Toyota,Camry Hybrid,LE,automatic,Texas,76121.0,white,—,ge fleet services for itself/servicer,12200.0
+2009,Chevrolet,Silverado 1500,LT,automatic,Texas,232233.0,burgundy,gray,fleet dodge,6900.0
+2012,Ford,Escape,XLT,automatic,Texas,81474.0,—,beige,donlen corporation,10400.0
+2010,Ford,Taurus,Limited,automatic,Texas,51311.0,silver,beige,ge fleet services for itself/servicer,12900.0
+2013,Dodge,Grand Caravan,SE,automatic,Texas,18692.0,blue,black,chrysler capital,15300.0
+2005,Volvo,S40,T5,automatic,Texas,175499.0,white,black,bmw of houston north in the woodlands,2600.0
+2013,Dodge,Grand Caravan,SXT,automatic,Texas,58797.0,silver,black,the hertz corporation,12400.0
+2014,Nissan,Altima,2.5 S,automatic,Texas,22123.0,beige,gray,nissan north america inc.,17400.0
+2013,Buick,LaCrosse,Leather Group,automatic,Texas,43985.0,silver,black,tdaf remarketing,13500.0
+2014,Ford,F-150,XLT,automatic,Texas,23396.0,—,gray,ars/enterprise,23700.0
+2015,Ford,Explorer,Sport,automatic,Texas,21898.0,—,black,budget rac of memphis,34000.0
+2010,Chrysler,300,Touring,automatic,Texas,79203.0,gray,gray,d&m leasing,9500.0
+2012,Ford,Focus,Titanium,automatic,Texas,29243.0,—,black,ford motor credit company llc,14900.0
+2010,Ford,F-150,Lariat,automatic,Texas,163656.0,white,tan,hopper motorplex inc,12900.0
+2008,Buick,Enclave,CXL,automatic,Texas,97550.0,white,gray,santander consumer,11300.0
+2015,Chevrolet,Silverado 1500,LT,automatic,Texas,13354.0,gray,black,hopper motorplex inc,37250.0
+2010,Chrysler,Town and Country,Touring,automatic,Texas,89039.0,silver,gray,huffines chrysler jeep dodge lewisville,7000.0
+2005,Ford,Taurus,SE,automatic,Texas,99206.0,white,gray,dt inventory,1600.0
+2009,Dodge,Grand Caravan,SE,automatic,Texas,86597.0,white,gray,remarketing by ge/midsouth capital lp,5800.0
+2012,Infiniti,G Sedan,G37 Journey,automatic,Texas,64677.0,black,black,nissan infiniti lt,15000.0
+2014,Jeep,Compass,Sport,automatic,Texas,36813.0,black,gray,enterprise veh exchange/rental,13300.0
+2011,Mazda,CX-9,Grand Touring,automatic,Texas,76884.0,black,black,jpmorgan chase bank n.a.,17400.0
+2013,Hyundai,Elantra,GLS,automatic,Texas,54380.0,blue,gray,the hertz corporation,7400.0
+2014,Ford,Mustang,V6,automatic,Texas,19238.0,red,black,brac of wichita - wichita landsman,18000.0
+2012,Chevrolet,Traverse,LS,automatic,Texas,25283.0,blue,gray,texas auto brokers,17100.0
+2006,Mercury,Mariner,Luxury,UNKNOWN,Texas,98782.0,gray,tan,improved credit lending,5400.0
+2013,Nissan,Altima,2.5,automatic,Texas,50762.0,burgundy,black,the hertz corporation,12500.0
+2011,Acura,MDX,Base,automatic,Texas,58689.0,gray,black,texas rv outlet superstore,27000.0
+2013,Nissan,Armada,SL,automatic,Texas,22771.0,black,black,nissan north america inc.,28800.0
+2004,Cadillac,CTS,Base,automatic,Texas,144151.0,gray,gray,dt credit corporation,3300.0
+2004,Dodge,Ram Pickup 1500,ST,automatic,Texas,82617.0,gray,beige,dt inventory,3600.0
+1994,Ford,Explorer,XLT,automatic,Texas,63137.0,green,gray,titlemax/windcrest tx1,500.0
+2007,Buick,LaCrosse,CX,automatic,Texas,176993.0,beige,tan,dt credit corporation,1500.0
+2007,Dodge,Charger,Base,automatic,Texas,247173.0,black,gray,automotive remarketing inc,1500.0
+2010,Nissan,Titan,SE,automatic,Texas,67740.0,white,black,nissan motor acceptance corporation,15000.0
+2006,Nissan,Titan,SE,automatic,Texas,122762.0,white,gray,jpmorgan chase bank n.a.,6600.0
+2007,Chevrolet,Equinox,LT,automatic,Texas,78180.0,gray,gray,capital one auto finance,7000.0
+2008,Toyota,Camry,LE,automatic,Texas,100444.0,gray,gray,regional acceptance corporation / greensboro,6900.0
+2008,Mazda,Mazda5,Touring,automatic,Texas,96752.0,gray,black,wells fargo dealer services,5400.0
+2012,Volkswagen,Passat,SEL,automatic,Texas,99492.0,gray,gray,wheels exchange llc,10600.0
+2013,Toyota,Corolla,LE,automatic,Texas,53043.0,black,tan,the hertz corporation,12400.0
+2012,Volkswagen,Passat,SEL PZEV,automatic,Texas,19991.0,gray,black,vw credit,13000.0
+2015,Kia,Cadenza,Premium,automatic,Texas,9151.0,silver,tan,kia motors america  inc,23000.0
+2007,BMW,3 Series,328i,automatic,Texas,96216.0,white,tan,manheim dallas,7000.0
+2014,Ford,Focus,SE,automatic,Texas,7835.0,gray,black,leif johnson ford,10500.0
+2006,Chrysler,300,SRT-8,automatic,Texas,154426.0,silver,black,wells fargo dealer services,5100.0
+2007,Nissan,Sentra,2.0 S,automatic,Texas,134186.0,blue,gray,dt credit corporation,3000.0
+2011,Dodge,Journey,Mainstreet,automatic,Texas,68365.0,silver,black,santander consumer,12100.0
+2010,Chevrolet,Silverado 1500,LT,automatic,Texas,96364.0,silver,black,wells fargo dealer services,18200.0
+2007,HUMMER,H2,Base,automatic,Texas,74544.0,black,black,hopper motorplex inc,26700.0
+2007,Kia,Sportage,LX,automatic,Texas,150096.0,burgundy,tan,mr bill motor company ltd,1300.0
+2003,Chevrolet,Corvette,Z06,manual,Texas,102554.0,black,black,mid city mcandrew motors,13100.0
+2014,Ford,Explorer,Limited,automatic,Texas,42659.0,white,black,avis corporation,26200.0
+2013,Dodge,Avenger,SXT,automatic,Texas,34397.0,blue,black,santander consumer,11000.0
+2014,Mazda,Mazda5,Sport,automatic,Texas,30547.0,gray,black,avis corporation,12800.0
+2014,Ford,E-Series Van,E-250,UNKNOWN,Texas,16492.0,white,gray,u-haul international,18500.0
+2009,Saab,9-3,Comfort,automatic,Texas,101397.0,black,gray,gm financial,3500.0
+2014,Ford,Fusion,SE,automatic,Texas,6534.0,white,beige,td auto finance,14300.0
+2009,Pontiac,G6,GT,automatic,Texas,76174.0,green,beige,regional acceptance corporation / greensboro,4800.0
+2011,Ford,Expedition,XLT,automatic,Texas,56630.0,—,black,ford motor credit company llc,21300.0
+2014,Ram,1500,Tradesman,automatic,Texas,19029.0,red,gray,chrysler capital,16400.0
+2007,Nissan,Quest,3.5 S,automatic,Texas,98832.0,gray,beige,tdaf remarketing,5300.0
+2014,Ford,Escape,SE,automatic,Texas,56168.0,green,gray,ford motor credit company,14200.0
+2011,Dodge,Caliber,Heat,automatic,Texas,75885.0,white,—,santander consumer,8100.0
+2014,Dodge,Challenger,R/T,automatic,Texas,30292.0,black,black,d&m leasing,23000.0
+2011,Dodge,Challenger,Base,automatic,Texas,112617.0,gray,—,capital one auto finance,10200.0
+2009,Dodge,Avenger,SE,automatic,Texas,109262.0,white,black,pm standley motorcars,5300.0
+2012,Ford,F-350 Super Duty,XL,automatic,Texas,39921.0,white,gray,ge fleet services for itself/servicer,28000.0
+2008,Cadillac,Escalade,Base,automatic,Texas,100105.0,blue,black,td auto finance,17900.0
+2011,Nissan,Altima,2.5 S,automatic,Texas,71715.0,black,black,national auto lenders inc,8700.0
+2008,Chevrolet,Silverado 1500,Work Truck,automatic,Texas,150397.0,gray,—,westlake financial services,11000.0
+2013,Chevrolet,Suburban,LTZ 1500,automatic,Texas,39551.0,white,tan,td auto finance,35400.0
+2006,Nissan,Maxima,3.5 SL,automatic,Texas,108767.0,red,tan,the hertz corporation,4900.0
+2013,Chevrolet,Impala,LTZ,automatic,Texas,37735.0,black,gray,enterprise vehicle exchange/dfw airport,12700.0
+2000,Honda,Accord,LX,automatic,Texas,222255.0,white,gray,the hertz corporation,1700.0
+2013,Hyundai,Elantra,GLS,automatic,Texas,29828.0,silver,gray,hyundai motor finance,13000.0
+2009,Acura,MDX,Base,automatic,Texas,46994.0,silver,gray,david mcdavid acura,21400.0
+2010,Cadillac,CTS,Performance,automatic,Texas,15618.0,silver,gray,jpmorgan chase bank n.a.,21000.0
+2006,Toyota,4Runner,SR5,automatic,Texas,76122.0,silver,—,capital one auto finance,12100.0
+2012,Nissan,Maxima,3.5 SV,automatic,Texas,40171.0,white,black,nissan-infiniti lt,20000.0
+2012,Lincoln,MKZ,Base,automatic,Texas,8140.0,blue,black,security service fcu (sscu),14800.0
+2009,Kia,Spectra,EX,automatic,Texas,42033.0,gold,beige,fiserv/crescent bank & trust,5200.0
+2009,Ford,Expedition,XLT,automatic,Texas,93186.0,—,beige,ford motor credit company llc,8400.0
+2013,Chevrolet,Sonic,LT,automatic,Texas,34071.0,black,black,onemain rem/international auto sales,6800.0
+2014,Nissan,Versa,1.6 SV,automatic,Texas,44408.0,silver,—,santander consumer,1500.0
+2014,Ford,E-Series Van,E-250,automatic,Texas,7631.0,white,gray,u-haul,21300.0
+2014,Nissan,Sentra,FE+ S,automatic,Texas,11132.0,gray,—,jpmorgan chase bank n.a.,10200.0
+2006,Ford,F-150,Lariat,UNKNOWN,Texas,103734.0,beige,tan,fiserv/sierra auto finance,9200.0
+2008,Lexus,IS F,Base,automatic,Texas,70359.0,black,—,gunn chevrolet ltd,24200.0
+2014,Toyota,Corolla,LE,automatic,Texas,9247.0,green,gray,pm standley motorcars,13300.0
+2011,Ford,F-150,Platinum,automatic,Texas,58472.0,white,gray,a b c auto credit inc,29200.0
+2008,Ford,F-150,FX4,automatic,Texas,66624.0,black,gray,tdaf remarketing,18400.0
+2014,Chevrolet,Impala Limited,LTZ Fleet,automatic,Texas,16603.0,black,black,pete eischen chevrolet co.,13300.0
+2013,Chevrolet,Captiva Sport,LS Fleet,automatic,Texas,28722.0,white,gray,enterprise vehicle exchange/dfw airport,14200.0
+2012,Ford,Edge,Limited,automatic,Texas,45954.0,—,black,ford motor credit company llc,20800.0
+2011,Hyundai,Genesis,4.6,automatic,Texas,62040.0,blue,beige,hyundai motor finance,15300.0
+2014,Honda,CR-V,EX,automatic,Texas,5374.0,white,beige,cm investments,21300.0
+2003,Ford,F-150,XLT,automatic,Texas,202109.0,brown,brown,kb cars & trucks llc,2600.0
+2010,Ford,Transit Connect,Cargo Van XLT,automatic,Texas,106028.0,white,gray,ge fleet services for itself/servicer,6300.0
+2004,Ford,F-150,Lariat,automatic,Texas,125126.0,white,beige,santander consumer,3500.0
+2014,Ford,Taurus,SE,automatic,Texas,32824.0,—,tan,ford motor credit company llc,13200.0
+2009,Ford,F-150,King Ranch,automatic,Texas,165758.0,white,brown,brunson auto sales,15800.0
+2010,Toyota,Camry,SE,automatic,Texas,65942.0,black,gray,hopper motorplex inc,11400.0
+2014,Ford,F-150,XLT,automatic,Texas,22765.0,—,gray,ars/enterprise,28000.0
+2014,Dodge,Durango,SXT,UNKNOWN,Texas,20155.0,red,black,chrysler capital,23700.0
+2008,Ford,Focus,S,manual,Texas,143282.0,—,gray,ford motor credit company llc,2000.0
+2012,Toyota,Camry,SE,automatic,Texas,35134.0,black,black,santander consumer,12400.0
+1999,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Texas,150090.0,white,gray,ge fleet services for itself/servicer,3000.0
+2011,Nissan,Maxima,3.5 S,automatic,Texas,90238.0,blue,black,santander consumer,12800.0
+2012,Ford,Focus,SEL,automatic,Texas,42037.0,red,gray,ars/avis budget group,10600.0
+2000,Chevrolet,Suburban,1500,automatic,Texas,104631.0,gray,gray,credit acceptance corp/vrs/southfield,2100.0
+2004,Ford,F-150,FX4,automatic,Texas,103297.0,red,black,tdaf remarketing,8400.0
+2010,Ford,E-Series Wagon,E-150 XL,automatic,Texas,40313.0,—,gray,ars/enterprise,14400.0
+2005,Chevrolet,Corvette,Base,automatic,Texas,33352.0,silver,black,capital one auto finance,23500.0
+2006,Honda,Odyssey,EX,automatic,Texas,119091.0,white,tan,fairway ford henderson,6500.0
+2007,Chevrolet,Silverado 1500 Classic,LS,automatic,Texas,116300.0,blue,gray,lawler motor sports inc,11000.0
+2014,Nissan,Versa Note,1.6 SV,automatic,Texas,8622.0,—,black,nissan motor acceptance corporation,11600.0
+2014,Kia,Optima,LX,automatic,Texas,8814.0,silver,beige,kia motors america  inc,16800.0
+2012,Infiniti,G Sedan,G25,automatic,Texas,37340.0,black,black,nissan infiniti lt,17800.0
+2002,Toyota,Sienna,LE,automatic,Texas,117875.0,gold,tan,autonation toyota north arlington,2750.0
+2013,Chrysler,200,Limited,automatic,Texas,24078.0,white,black,texas auto brokers,14100.0
+2014,Ram,2500,Laramie,automatic,Texas,27588.0,red,black,barco rent a truck,42800.0
+2012,Chrysler,200,Touring,automatic,Texas,35240.0,white,black,santander consumer,10600.0
+2012,Ram,1500,ST,automatic,Texas,41867.0,black,gray,primeritus remarketing/mag interests,18900.0
+2012,Ford,Fusion,SEL,automatic,Texas,31828.0,burgundy,beige,ford motor credit company llc,13800.0
+2008,Ford,Escape,XLT,automatic,Texas,67657.0,red,beige,wichita falls ford lin inc,7800.0
+2005,Mazda,Tribute,s,automatic,Texas,157733.0,gray,black,champion ford,2700.0
+2015,Mazda,CX-5,Touring,automatic,Texas,20870.0,red,black,enterprise vehicle exchange/dfw airport,19400.0
+2013,Toyota,Camry,LE,automatic,Texas,56042.0,white,black,the hertz corporation,13200.0
+2007,Chevrolet,Silverado 1500,Work Truck,automatic,Texas,96362.0,black,black,gunn honda,14400.0
+2013,Chrysler,200,Touring,automatic,Texas,19486.0,red,tan,first investors servicing corp,12800.0
+2007,GMC,Sierra 1500,SLE1,automatic,Texas,104946.0,silver,silver,beck & masten pontiac gmc buick gulf freeway,9000.0
+2009,Ford,Fusion,SE,automatic,Texas,100715.0,blue,gray,gm financial,4800.0
+2001,Ford,Windstar,LX,automatic,Texas,124675.0,blue,gray,purple heart,250.0
+2013,Chrysler,200,LX,automatic,Texas,49887.0,blue,black,avis corporation,10500.0
+2012,Ram,1500,ST,automatic,Texas,32372.0,silver,black,gm financial,20600.0
+2014,Kia,Optima,LX,automatic,Texas,33221.0,burgundy,tan,avis corporation,14600.0
+2003,Jeep,Grand Cherokee,Laredo,automatic,Texas,190482.0,red,gray,mid atlantic finance /clearwater,500.0
+2012,Nissan,Sentra,2,automatic,Texas,46346.0,black,gray,santander consumer,8400.0
+2013,Dodge,Avenger,SE,automatic,Texas,51486.0,blue,beige,santander consumer,7700.0
+2013,Infiniti,G Coupe,G37x,automatic,Texas,19000.0,black,black,nissan dealer blend/demaagd nissan,26200.0
+2012,Mercedes-Benz,C-Class,C250,automatic,Texas,21296.0,gray,black,mercedes-benz financial services,22500.0
+2013,Ford,Expedition,Limited,automatic,Texas,62137.0,black,black,ford motor credit company llc,27500.0
+2010,Hyundai,Santa Fe,SE,automatic,Texas,50180.0,silver,gray,d&m leasing,12300.0
+2008,Dodge,Avenger,SE,automatic,Texas,153673.0,white,gray,caprock auto remarketing,1900.0
+2014,Ford,E-Series Wagon,E-350 Super Duty XLT,automatic,Texas,25741.0,—,gray,avis budget group,19000.0
+1994,Chevrolet,Suburban,1500,automatic,Texas,251734.0,gray,gray,north central ford,450.0
+2014,Ford,Mustang,V6,automatic,Texas,34694.0,silver,black,avis corporation,18000.0
+2011,Ford,F-150,XLT,automatic,Texas,50443.0,red,gray,music city autoplex llc,21750.0
+2006,Dodge,Ram Pickup 2500,SLT,automatic,Texas,109420.0,red,gray,winter motor company inc,23100.0
+2011,Ford,Fusion,SE,automatic,Texas,114164.0,gray,black,remarketing by ge/ge capital solutions,6500.0
+2012,Ford,Fusion,SE,automatic,Texas,65847.0,silver,black,wheels exchange llc,9000.0
+2009,Ford,Fusion,SEL,automatic,Texas,85121.0,black,black,fairway ford henderson,8200.0
+2011,Nissan,Altima,2.5 S,automatic,Texas,83890.0,white,beige,mike albert fleet solutions,9600.0
+2008,Ford,F-250 Super Duty,Lariat,automatic,Texas,197322.0,white,tan,wisdom motor company,15000.0
+2005,Buick,Rainier,CXL,automatic,Texas,147987.0,gray,gray,autonation ford south fort worth,1500.0
+2014,Chrysler,Town and Country,Touring,automatic,Texas,28491.0,white,black,hertz corporation/gdp,18400.0
+2014,Dodge,Charger,SXT,automatic,Texas,33194.0,gray,black,avis corporation,17400.0
+2006,Dodge,Ram Pickup 3500,SLT,automatic,Texas,206471.0,blue,gray,westlake financial services,5800.0
+2009,Mercedes-Benz,S-Class,S550 4MATIC,automatic,Texas,119376.0,black,black,jpmorgan chase bank n.a.,18300.0
+2007,BMW,5 Series,530i,UNKNOWN,Texas,102385.0,black,brown,improved credit lending,5200.0
+2007,Chevrolet,Silverado 2500HD,LTZ,automatic,Texas,249082.0,gray,black,remarketing by ge/ak&y enterprises inc,11250.0
+2004,Honda,Accord,LX,automatic,Texas,134425.0,silver,gray,austin infiniti inc,4400.0
+2012,Toyota,Corolla,LE,automatic,Texas,50139.0,white,gray,chrysler capital,8400.0
+2003,Ford,Escape,XLT Popular,automatic,Texas,98740.0,blue,tan,dt inventory,3000.0
+2013,Nissan,Altima,2.5,automatic,Texas,56516.0,silver,black,the hertz corporation,12400.0
+2014,GMC,Terrain,SLT-2,automatic,Texas,33061.0,white,black,avis corporation,21900.0
+2005,GMC,Yukon XL,Denali,automatic,Texas,171460.0,beige,gray,credit acceptance corp/vrs/southfield,4100.0
+2013,Ford,F-150,XLT,automatic,Texas,48471.0,white,gray,the hertz corporation,23801.0
+2007,Chevrolet,Malibu,LS,automatic,Texas,126181.0,—,gray,dt credit corporation,4200.0
+2006,Ford,Explorer,XLT,automatic,Texas,86781.0,gray,brown,desert sun motors inc,6200.0
+2006,Chevrolet,Impala,SS,automatic,Texas,102739.0,black,black,dt credit corporation,5500.0
+2006,Chevrolet,Silverado 1500,Work Truck,automatic,Texas,215144.0,blue,gray,bmw of houston north in the woodlands,5400.0
+2014,Toyota,Camry,SE,automatic,Texas,32942.0,silver,black,avis corporation,15100.0
+2014,Nissan,Versa Note,1.6 SV,automatic,Texas,10771.0,—,gray,nissan motor acceptance corporation,11400.0
+2015,Kia,Sedona,LX,automatic,Texas,10037.0,white,gray,kia motors america  inc,20800.0
+2006,Chrysler,300,Touring,automatic,Texas,101865.0,off-white,tan,dt credit corporation,5500.0
+2011,Hyundai,Sonata,SE,automatic,Texas,47830.0,burgundy,black,wells fargo dealer services,11800.0
+2010,Lincoln,MKX,Base,automatic,Texas,105248.0,white,tan,td auto finance,10600.0
+2009,Ford,Focus,SE,automatic,Texas,120005.0,silver,gray,credit acceptance corp/vrs/southfield,4300.0
+2001,Chevrolet,Suburban,1500,automatic,Texas,146404.0,beige,beige,westlake financial services,2100.0
+2010,Chevrolet,Equinox,LT1,automatic,Texas,105585.0,gray,black,exeter finance corp,8200.0
+2006,Cadillac,Escalade,Base,automatic,Texas,110665.0,burgundy,gray,national auto lenders,9100.0
+2003,Lexus,LS 430,Base,automatic,Texas,116597.0,silver,gray,lewisville mitsubishi,8000.0
+2014,Volkswagen,Jetta,S,automatic,Texas,36487.0,white,black,ez rent a car/orlando,10500.0
+2008,Mercedes-Benz,C-Class,C350 Sport,automatic,Texas,82813.0,silver,gray,onemain rem/international auto sales,12600.0
+2009,Chevrolet,Colorado,LT,automatic,Texas,62408.0,black,black,santander consumer,15700.0
+2010,Ford,Edge,SE,automatic,Texas,55542.0,UNKNOWN,UNKNOWN,ford motor credit company llc,13400.0
+2012,BMW,3 Series,328i,automatic,Texas,31981.0,white,black,hopper motorplex inc,23600.0
+2014,Ram,2500,SLT,automatic,Texas,29367.0,white,gray,express car & truck rental,33000.0
+2014,Ford,Explorer,Limited,automatic,Texas,40966.0,red,beige,avis corporation,27400.0
+2008,Chevrolet,Colorado,Work Truck,automatic,Texas,99249.0,white,gray,mike motors,6200.0
+2015,Ford,Explorer,Limited,automatic,Texas,18582.0,—,gray,ars/enterprise,31000.0
+2008,Ford,Expedition,XLT,automatic,Texas,138200.0,—,black,ford motor credit company llc,7000.0
+2012,Chevrolet,Impala,LS Fleet,automatic,Texas,56071.0,beige,black,exeter finance corp,9500.0
+2015,Hyundai,Elantra,SE,automatic,Texas,21508.0,silver,gray,budget rac of atlanta,13100.0
+2014,Ford,Fiesta,SE,automatic,Texas,27003.0,silver,black,ford motor credit company llc,9400.0
+2011,Ford,F-150,XLT,automatic,Texas,71836.0,black,gray,hopper motorplex inc,21300.0
+2012,Ram,2500,ST,automatic,Texas,66657.0,white,gray,hopper motorplex inc,25000.0
+2011,Mercedes-Benz,C-Class,C300 Sport,automatic,Texas,30181.0,black,—,mercedes-benz financial services,19750.0
+2012,Ford,Explorer,XLT,UNKNOWN,Texas,44371.0,white,tan,ford motor credit company llc,24000.0
+2014,Ford,F-150,XL,automatic,Texas,3732.0,white,gray,u-haul,18700.0
+2011,Ford,Fusion,SE,automatic,Texas,69393.0,gray,gray,tdaf remarketing,9000.0
+2007,BMW,3 Series,328i,automatic,Texas,136168.0,black,black,huffines chrysler jeep dodge lewisville,6200.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Texas,159094.0,red,gray,dt credit corporation,1400.0
+1996,Dodge,Ram Pickup 1500,ST,automatic,Texas,197547.0,red,tan,automotive remarketing inc,400.0
+2013,Chevrolet,Silverado 1500,Work Truck,automatic,Texas,62404.0,white,black,gm financial,15100.0
+2012,Ford,Escape,Limited,automatic,Texas,59742.0,blue,tan,ford motor credit company llc,14600.0
+2012,Chevrolet,Captiva Sport,2LS Fleet,automatic,Texas,58283.0,white,black,consolidated asset recovery systems  inc.,8900.0
+2015,Kia,Sorento,LX,automatic,Texas,8282.0,black,gray,kia motors america  inc,20300.0
+2014,Hyundai,Azera,Limited,automatic,Texas,1853.0,silver,black,hyundai motor america/co car,24500.0
+2012,Volkswagen,Beetle,2.0T White Turbo Launch Edition,automatic,Texas,24260.0,gray,black,vw credit  inc/pilot,12600.0
+1995,Ford,Mustang,Base,manual,Texas,53615.0,white,tan,charitable adult rides services/car donating is,500.0
+2013,Ford,Focus,SE,automatic,Texas,17169.0,gray,beige,ford motor credit company llc,11000.0
+2014,Kia,Optima,LX,automatic,Texas,15169.0,gray,gray,kia motors america  inc,14600.0
+2013,Infiniti,G Coupe,G37 Sport,automatic,Texas,19259.0,black,gray,nissan infiniti lt,21600.0
+2013,Nissan,Rogue,S,automatic,Texas,21505.0,burgundy,black,pm standley motorcars,15100.0
+2014,Dodge,Grand Caravan,R/T,automatic,Texas,40356.0,gray,black,avis corporation,18700.0
+2013,Kia,Optima,LX,automatic,Texas,38612.0,gray,gray,avis corporation,13000.0
+2013,Nissan,Rogue,S,automatic,Texas,44966.0,black,gray,nissan motor acceptance corporation,11600.0
+2013,Honda,Civic,EX,automatic,Texas,7226.0,blue,—,cm investments,15800.0
+2004,Mercedes-Benz,SL-Class,SL600,automatic,Texas,106444.0,black,gray,vroom,10600.0
+2010,Mercedes-Benz,GLK-Class,GLK350 4MATIC,automatic,Texas,75652.0,red,gray,mercedes benz of tyler,19200.0
+2006,Acura,TL,Base,automatic,Texas,106945.0,gray,gray,durant toyota,9000.0
+2012,Ford,Focus,SE,automatic,Texas,45994.0,blue,gray,flexco fleet services,8600.0
+2009,Chevrolet,Traverse,LS,automatic,Texas,168765.0,gray,gray,ge fleet services for itself/servicer,6600.0
+2015,Jeep,Wrangler,Unlimited Freedom Edition,automatic,Texas,449.0,blue,black,red mccombs superior hyundai,39000.0
+2014,Ford,Mustang,GT,automatic,Texas,36106.0,black,black,pm standley motorcars,24300.0
+2011,Audi,A5,2.0T Premium quattro,automatic,Texas,56065.0,gray,tan,santander consumer,20750.0
+2014,Kia,Forte,LX,automatic,Texas,13279.0,brown,gray,kia motors america  inc,13200.0
+2012,Chevrolet,Cruze,1LT,automatic,Texas,34791.0,white,gray,ge fleet services for itself/servicer,10300.0
+2014,Ford,Fiesta,SE,automatic,Texas,5561.0,burgundy,black,tdaf remarketing,11300.0
+2013,Ford,Explorer,Limited,automatic,Texas,36838.0,black,black,avis corporation,25400.0
+2006,Kia,Sedona,LX,automatic,Texas,87676.0,silver,gray,dt credit corporation,2500.0
+2002,Buick,Century,Custom,automatic,Texas,1.0,gray,tan,dt inventory,1200.0
+2010,Ford,Focus,SE,automatic,Texas,90303.0,—,gray,ford-lincoln dealer program,7100.0
+2014,Chrysler,Town and Country,Touring-L,automatic,Texas,37825.0,white,tan,music city autoplex llc,23000.0
+2010,Ford,F-350 Super Duty,Lariat,automatic,Texas,70920.0,red,tan,tdaf remarketing,30200.0
+2014,Nissan,Versa,1.6 SV,automatic,Texas,28302.0,white,black,ramos auto sales,9900.0
+2009,Chevrolet,Traverse,LTZ,automatic,Texas,187477.0,white,gray,brunson auto sales,8500.0
+2011,Kia,Optima,LX,automatic,Texas,68369.0,white,gray,fiserv/regions bank,9200.0
+2011,Chevrolet,Camaro,2SS,manual,Texas,25483.0,white,gray,remarketing services of el paso,23200.0
+2014,Ford,Escape,S,automatic,Texas,19269.0,blue,black,santander consumer,14800.0
+2012,Ford,F-250 Super Duty,King Ranch,automatic,Texas,45685.0,white,brown,wichita falls ford lin inc,42400.0
+2013,Lincoln,MKS,Base,automatic,Texas,14170.0,black,black,ford-lincoln dealer program,25100.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,Texas,34425.0,blue,black,nissan infiniti lt,18600.0
+2011,Nissan,Maxima,3.5 SV,automatic,Texas,65394.0,—,black,nissan motor acceptance corporation,13800.0
+2014,Dodge,Journey,SE,automatic,Texas,53712.0,red,black,chrysler capital,11600.0
+2007,HUMMER,H3,Base,automatic,Texas,181042.0,red,black,trucks & cars for less,7900.0
+2012,Mercedes-Benz,M-Class,ML350 BlueTEC,automatic,Texas,59257.0,black,off-white,mercedes-benz financial services,32750.0
+2012,Ford,F-250 Super Duty,XL,automatic,Texas,94665.0,UNKNOWN,UNKNOWN,remarketing by ge/ak&y enterprises inc,14500.0
+2014,Kia,Cadenza,Premium,automatic,Texas,34859.0,white,black,avis corporation,19000.0
+2013,Hyundai,Sonata,GLS,automatic,Texas,39469.0,blue,tan,avis corporation,12400.0
+2014,Kia,Optima,LX Hybrid,automatic,Texas,14565.0,blue,tan,kia motors america  inc,17200.0
+2008,Chrysler,Sebring,Limited,automatic,Texas,77931.0,gray,gray,bank of america,6100.0
+2013,Mitsubishi,Lancer,ES,automatic,Texas,43219.0,blue,black,avis corporation,9700.0
+2007,Jeep,Liberty,Sport,automatic,Texas,114298.0,black,gray,toyota of fort worth,4500.0
+2013,Ford,F-150,Platinum,automatic,Texas,30161.0,black,black,ford motor credit company llc,36000.0
+2011,Ford,F-150,Platinum,automatic,Texas,33376.0,—,gray,ford motor credit company llc,31500.0
+2012,Ford,Fusion,SEL,automatic,Texas,54095.0,—,beige,ford motor credit company llc,12600.0
+2011,Ford,F-250 Super Duty,XL,automatic,Texas,108030.0,white,gray,ge fleet services for itself/servicer,11800.0
+2008,BMW,3 Series,335i,automatic,Texas,104762.0,black,black,rii,9700.0
+2007,Dodge,Caliber,R/T,automatic,Texas,102016.0,silver,gray,dt credit corporation,5600.0
+2005,GMC,Envoy XUV,SLE,automatic,Texas,111519.0,burgundy,gray,santander consumer,4200.0
+2011,GMC,Yukon XL,Denali,automatic,Texas,85651.0,black,black,rlb investments,24800.0
+2013,Dodge,Journey,SXT,UNKNOWN,Texas,95504.0,gray,tan,emkay inc,13000.0
+2015,Ford,Taurus,Limited,automatic,Texas,33591.0,white,beige,avis budget group,21100.0
+2012,Nissan,Versa,1.8 S,UNKNOWN,Texas,29127.0,red,black,lease plan usa/tra,3600.0
+2014,Chevrolet,Cruze,1LT,automatic,Texas,7407.0,red,black,tdaf remarketing,13000.0
+2014,Nissan,Juke,S,automatic,Texas,9127.0,silver,black,nissan north america inc.,13200.0
+2004,Lincoln,Town Car,Ultimate,automatic,Texas,92938.0,—,beige,wells fargo dealer services,3300.0
+2014,Audi,A6,2.0T Premium Plus quattro,automatic,Texas,9636.0,silver,black,fort worth audi,39000.0
+2005,Cadillac,DeVille,Base,automatic,Texas,84057.0,blue,beige,d&m leasing,5000.0
+2013,Kia,Optima,EX,automatic,Texas,29633.0,gray,gray,woodhouse ford inc,18000.0
+2002,Ford,Explorer,XLT,UNKNOWN,Texas,114890.0,green,black,all american chevrolet of midland,1400.0
+2010,Ford,Focus,SE,automatic,Texas,106901.0,gray,gray,hopper motorplex inc,5600.0
+2012,Ford,Expedition,EL Limited,automatic,Texas,34642.0,black,black,ford motor credit company llc pd,32500.0
+2012,Ford,F-150,XLT,automatic,Texas,41580.0,white,gray,ge fleet services for itself/servicer,23400.0
+2008,Saturn,Astra,XR,automatic,Texas,72067.0,silver,black,tdaf remarketing,3800.0
+2013,Ford,Focus,SE,automatic,Texas,14041.0,black,black,don davis nissan inc,12300.0
+1999,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Texas,97554.0,black,gray,lithia chrys jeep dodge of bryan college station,2200.0
+2001,GMC,Yukon,SLE,automatic,Texas,214801.0,burgundy,tan,jerry's hyundai,2800.0
+2013,Mazda,Mazda5,Sport,automatic,Texas,51590.0,gray,black,the hertz corporation,10400.0
+2014,Dodge,Challenger,SXT,automatic,Texas,13302.0,red,black,hacienda ford,21000.0
+2007,Chevrolet,Silverado 1500,Work Truck,automatic,Texas,134475.0,white,black,woodhouse chevrolet,10500.0
+2011,Jaguar,XF,Premium,automatic,Texas,40253.0,black,black,jpmorgan chase bank n.a.,28750.0
+2011,BMW,X5,xDrive35i,automatic,Texas,75053.0,silver,black,d&m leasing,19000.0
+2013,Honda,Pilot,EX-L w/Rear Entertainment,automatic,Texas,17326.0,black,gray,hopper motorplex inc,26400.0
+2006,Cadillac,SRX,V6,automatic,Texas,131737.0,black,black,dt credit corporation,3400.0
+2013,Hyundai,Genesis Coupe,3.8 Track,manual,Texas,22730.0,white,black,donlen corporation,21300.0
+2014,Ram,2500,SLT,automatic,Texas,24036.0,white,gray,enterprise veh exchange/rental,27800.0
+2013,Kia,Optima,LX,automatic,Texas,36769.0,gray,tan,checker leasing dba avis rac,13300.0
+2013,Ford,Focus,Electric,automatic,Texas,29508.0,—,gray,ford motor credit company llc,14200.0
+2012,Dodge,Journey,American Value Package,automatic,Texas,74786.0,gray,tan,wheels exchange llc,10200.0
+2008,Ford,Fusion,SE,automatic,Texas,155556.0,gray,black,north america financial,3000.0
+2014,Lexus,IS 350,Base,automatic,Texas,5231.0,white,red,mercedes benz of tyler,39250.0
+2004,Infiniti,QX56,Base,automatic,Texas,106130.0,gray,beige,gm financial,9100.0
+2010,Dodge,Charger,SXT Fleet,automatic,Texas,89776.0,white,black,tdaf remarketing,9800.0
+2014,Kia,Soul,+,automatic,Texas,13838.0,gray,black,kia motors america  inc,14400.0
+2010,Dodge,Charger,SXT Fleet,automatic,Texas,123475.0,gray,black,rlb investments,7500.0
+2005,Ford,F-150,XLT,automatic,Texas,131484.0,gray,black,laredo dodge chrysler jeep,4100.0
+2008,Chevrolet,Silverado 2500HD,LTZ,automatic,Texas,192648.0,red,beige,brunson auto sales,18900.0
+2012,Ford,Fusion,SE,automatic,Texas,65680.0,white,gray,dtg operations inc,10100.0
+1999,Ford,Taurus,SE,automatic,Texas,101627.0,red,brown,tdaf remarketing,500.0
+2013,Mercedes-Benz,S-Class,S550,automatic,Texas,21959.0,—,black,mercedes-benz financial services,49000.0
+2006,Chevrolet,Corvette,Base,automatic,Texas,32030.0,silver,gray,vroom,26000.0
+2010,Chevrolet,Impala,LT,automatic,Texas,110213.0,gray,gray,dt credit corporation,5900.0
+2001,Pontiac,Grand Am,SE,automatic,Texas,162478.0,white,black,dt inventory,700.0
+2011,Ford,Explorer,XLT,automatic,Texas,112588.0,silver,tan,ge fleet services for itself/servicer,14600.0
+2010,Dodge,Avenger,R/T,automatic,Texas,146856.0,blue,black,santander consumer,2900.0
+2014,Scion,tC,Base,manual,Texas,13479.0,black,black,tdaf remarketing,15300.0
+2009,Chrysler,PT Cruiser,Base,automatic,Texas,89270.0,black,gray,exeter finance corp,2200.0
+2006,Chevrolet,TrailBlazer EXT,LS,automatic,Texas,129544.0,gray,gray,westfall auto sales,5700.0
+2007,Buick,Lucerne,CXL,automatic,Texas,70821.0,gray,beige,fiserv/global lending services,7200.0
+2012,Buick,Enclave,Premium Group,automatic,Texas,66904.0,white,tan,hopper motorplex inc,24300.0
+2011,Chevrolet,Traverse,LS,automatic,Texas,62082.0,silver,gray,d&m leasing,14000.0
+2006,mercury,grand,marquis ls premium,automatic,Texas,64404.0,gold,beige,santander consumer,4500.0
+2011,Ford,Ranger,XL,automatic,Texas,155590.0,white,gray,flexco fleet services,4400.0
+2014,Chrysler,Town and Country,Touring,automatic,Texas,14058.0,gray,black,enterprise holdings/gdp,19900.0
+2007,Nissan,Altima,2.5 S,automatic,Texas,87974.0,green,tan,tdaf remarketing,7000.0
+2009,Mitsubishi,Lancer,ES,automatic,Texas,122320.0,white,black,security service fcu (sscu),3500.0
+2007,Chrysler,Town and Country,LX,automatic,Texas,100608.0,silver,gray,ge fleet services for itself/servicer,4500.0
+2013,Nissan,Pathfinder,SL,automatic,Texas,27424.0,gray,black,nissan-infiniti lt,26800.0
+2003,Jeep,Grand Cherokee,Laredo,automatic,Texas,196425.0,black,gray,dt credit corporation,1000.0
+2013,Volkswagen,Jetta,Base,automatic,Texas,20642.0,gray,black,santander consumer,11600.0
+2014,Chevrolet,Express Cargo,2500,automatic,Texas,16972.0,white,gray,capps rent a car,23000.0
+2011,Toyota,Camry,SE,automatic,Texas,54003.0,red,black,hopper motorplex inc,10300.0
+2011,Dodge,Nitro,Heat,automatic,Texas,80477.0,red,—,first light fcu,11400.0
+2006,Lincoln,Zephyr,Base,automatic,Texas,97039.0,white,beige,regional acceptance corporation / greensboro,3700.0
+2012,Infiniti,G Sedan,G37x,automatic,Texas,38177.0,black,black,nissan infiniti lt,20400.0
+2010,Ford,Ranger,XL,automatic,Texas,17829.0,gray,gray,lease plan usa,10800.0
+2003,Dodge,Ram Pickup 1500,SLT,UNKNOWN,Texas,200797.0,gray,gray,titlemax/san antonio tx24,1000.0
+2013,Hyundai,Sonata,GLS,automatic,Texas,29545.0,blue,gray,fiserv/security national automotive accept corp,11800.0
+2006,Ford,Ranger,XLT,manual,Texas,65815.0,black,gray,wells fargo dealer services,6200.0
+2009,Toyota,Corolla,LE,automatic,Texas,84683.0,gold,tan,gunn honda,7300.0
+2008,Chevrolet,HHR,LT,automatic,Texas,119886.0,gold,black,santander consumer,3100.0
+2011,Jeep,Liberty,Renegade,UNKNOWN,Texas,61713.0,white,gray,regional acceptance corporation / greensboro,14900.0
+2013,Nissan,Sentra,SR,automatic,Texas,34031.0,red,black,santander consumer,12000.0
+2008,BMW,5 Series,528i,automatic,Texas,90333.0,white,tan,tdaf remarketing,11500.0
+2014,Ford,Escape,SE,automatic,Texas,24689.0,—,gray,lease plan usa,16700.0
+2013,Hyundai,Elantra,GLS,automatic,Texas,48750.0,gray,beige,the hertz corporation,9000.0
+2013,Toyota,Tacoma,PreRunner V6,automatic,Texas,33634.0,gray,gray,music city autoplex llc,24250.0
+2005,Chevrolet,TrailBlazer EXT,LT,automatic,Texas,134217.0,gray,beige,mei finance,2500.0
+2014,Ford,Escape,Titanium,automatic,Texas,31302.0,silver,beige,avis budget group,20500.0
+2012,Nissan,Maxima,3.5 SV,automatic,Texas,31641.0,white,black,nissan-infiniti lt,17200.0
+2013,Hyundai,Sonata,GLS,automatic,Texas,39594.0,silver,gray,avis corporation,12300.0
+2014,Ford,Fusion,SE,automatic,Texas,44605.0,burgundy,black,avis corporation,14700.0
+2002,Mitsubishi,Eclipse,GT,manual,Texas,117219.0,red,black,dt inventory,800.0
+2006,Hyundai,Sonata,LX,UNKNOWN,Texas,207697.0,silver,—,titlemax/weatherford tx1,1400.0
+2010,Scion,xD,Base,automatic,Texas,94276.0,black,black,chrysler capital,6100.0
+2008,Chevrolet,Suburban,1500 LS,automatic,Texas,165728.0,black,—,fairway ford henderson,12400.0
+2008,Nissan,Versa,1.8 SL,automatic,Texas,102758.0,white,gray,credit acceptance corp/vrs/southfield,2500.0
+2013,Chevrolet,Silverado 1500,LT,automatic,Texas,56091.0,black,black,santander consumer,22750.0
+2005,Chevrolet,Impala,LS,automatic,Texas,121051.0,gold,beige,credit acceptance corp/vrs/southfield,600.0
+2008,Nissan,Versa,1.8 S,automatic,Texas,125891.0,silver,black,santander consumer,2800.0
+2014,Kia,Optima,LX,automatic,Texas,7521.0,red,tan,viva ford,16100.0
+2010,Dodge,Avenger,SXT,automatic,Texas,130836.0,white,black,santander consumer,3600.0
+2012,Ford,Fusion,S,automatic,Texas,40609.0,silver,tan,ford motor credit company llc,9300.0
+2004,BMW,X3,3.0i,automatic,Texas,103436.0,green,brown,whites auto sales llc,5100.0
+2013,Mercedes-Benz,E-Class,E350 Sport,automatic,Texas,49936.0,silver,black,hopper motorplex inc,34000.0
+2014,Ford,Fiesta,SE,automatic,Texas,41309.0,red,tan,ars/avis budget group,10200.0
+2015,Chevrolet,Silverado 2500HD,LT,UNKNOWN,Texas,7513.0,silver,—,fairway ford henderson,40000.0
+2011,Nissan,Maxima,3.5 SV,automatic,Texas,29058.0,silver,black,mid city mcandrew motors,17700.0
+2013,Chrysler,300,C,automatic,Texas,53297.0,white,beige,chrysler capital,18700.0
+2005,Volvo,XC90,T6,automatic,Texas,71807.0,silver,gray,tdaf remarketing,8000.0
+2009,Chevrolet,TrailBlazer,LT,automatic,Texas,117089.0,blue,gray,consolidated asset recovery systems  inc.,3300.0
+2011,Toyota,Corolla,LE,automatic,Texas,80802.0,beige,gray,westside hummer inc,9700.0
+2012,Buick,Verano,Convenience Group 2,automatic,Texas,25016.0,silver,gray,wells fargo dealer services,12000.0
+2013,Ford,Fusion,SE,automatic,Texas,41343.0,red,beige,ars/avis budget group,13700.0
+2012,Nissan,Altima,2.5 S,automatic,Texas,17577.0,red,black,nissan motor acceptance corporation,13000.0
+2007,Ford,Escape,XLS,automatic,Texas,129250.0,white,gray,one source fcu,2600.0
+2000,Ford,F-150,XLT,automatic,Texas,227141.0,white,gray,titlemax/san antonio tx24,1000.0
+2007,Dodge,Ram Pickup 3500,SLT,manual,Texas,161643.0,brown,brown,san antonio dodge chrysler jeep,17000.0
+2013,Infiniti,G Sedan,G37x,automatic,Texas,20005.0,gray,black,nissan infiniti lt,18000.0
+2012,Nissan,Altima,2.5 S,automatic,Texas,24059.0,gray,black,nissan-infiniti lt,12600.0
+2007,Chevrolet,Silverado 1500,LT2,automatic,Texas,111100.0,blue,black,cm investments,12700.0
+2007,Chevrolet,Avalanche,LT,automatic,Texas,102874.0,black,black,tdaf remarketing,15250.0
+2008,Nissan,350Z,Enthusiast,manual,Texas,24818.0,silver,—,afg/roquemore and roquemore inc,17300.0
+2006,Chevrolet,Cobalt,LS,automatic,Texas,159715.0,black,gray,automotive remarketing inc,1500.0
+2007,Chrysler,Sebring,Base,automatic,Texas,149355.0,blue,gray,dt credit corporation,2800.0
+2007,Honda,Civic,EX,UNKNOWN,Texas,125208.0,red,black,titlemax/houston tx39,3000.0
+2012,Ford,Fusion,S,automatic,Texas,40325.0,white,gray,lease plan usa,11200.0
+2015,Jeep,Wrangler,Unlimited Sahara,automatic,Texas,82.0,black,—,music city autoplex llc,47500.0
+2014,Ford,Fusion,SE,automatic,Texas,33121.0,—,beige,avis budget group,14000.0
+2004,Nissan,Xterra,SE,automatic,Texas,96726.0,brown,gray,cm investments,5900.0
+2014,Dodge,Avenger,SE,automatic,Texas,27272.0,blue,black,chrysler capital,7300.0
+2010,Ford,Ranger,XL,automatic,Texas,155892.0,white,gray,donlen corporation,5000.0
+2008,Chevrolet,Tahoe,LT,automatic,Texas,98754.0,beige,black,myrddin fleet services,13700.0
+2007,Chevrolet,Equinox,LT,automatic,Texas,120982.0,gray,gray,credit acceptance corp/vrs/southfield,3800.0
+2012,Jeep,Wrangler,Unlimited Sahara,automatic,Texas,104521.0,black,brown,pnc bank  national association,22500.0
+2007,Nissan,Xterra,S,automatic,Texas,105214.0,yellow,black,wells fargo dealer services,6600.0
+2007,Chevrolet,Impala,LT,automatic,Texas,112675.0,gold,gray,jim norton toyota of lawton,6400.0
+2005,GMC,Yukon,SLE,UNKNOWN,Texas,166622.0,gray,gray,consolidated asset recovery systems  inc.,4200.0
+2004,Infiniti,G35,Base,automatic,Texas,87467.0,silver,tan,tdaf remarketing,8400.0
+2012,Mazda,Mazda3,i Sport,automatic,Texas,45058.0,silver,black,regional finance/san antonio,7500.0
+2009,Kia,Borrego,EX,automatic,Texas,69039.0,gray,tan,regional acceptance corporation / greensboro,9000.0
+2015,Cadillac,Escalade,Premium,automatic,Texas,2048.0,blue,black,bank of the west,75250.0
+2012,Chrysler,200,LX,automatic,Texas,62241.0,white,—,dtg operations inc,10100.0
+2010,Nissan,Pathfinder,SE,automatic,Texas,97214.0,white,tan,santander consumer,9200.0
+2011,GMC,Terrain,SLT-1,automatic,Texas,58534.0,white,gray,brunson auto sales,17100.0
+2014,Chevrolet,Express,LS 3500,automatic,Texas,17541.0,white,gray,texas auto brokers,23300.0
+2010,Chevrolet,Equinox,LT1,automatic,Texas,79902.0,black,black,chrysler capital,9300.0
+2014,Dodge,Avenger,SE,automatic,Texas,27442.0,black,black,chrysler capital,10700.0
+2013,Ford,Focus,SE,automatic,Texas,18338.0,—,black,ford motor credit company llc,11800.0
+2012,Nissan,Maxima,3.5 S,automatic,Texas,39298.0,red,black,nissan-infiniti lt,15800.0
+2007,Acura,MDX,Base,automatic,Texas,88021.0,black,gray,david mcdavid acura,15000.0
+2013,Chrysler,300,Base,automatic,Texas,29397.0,black,black,chrysler capital,18200.0
+2012,Dodge,Charger,SE,automatic,Texas,72784.0,black,black,td auto finance,11400.0
+2005,GMC,Yukon XL,1500 SLE,automatic,Texas,139632.0,white,gray,pm standley motorcars,8200.0
+2013,Hyundai,Sonata,GLS,automatic,Texas,39183.0,red,beige,avis corporation,12400.0
+2008,Nissan,Pathfinder,SE,automatic,Texas,141940.0,brown,tan,fairway ford henderson,6900.0
+2008,Dodge,Ram Pickup 1500,SLT,automatic,Texas,106013.0,gray,gray,remarketing by ge/flagship credit acceptance,9400.0
+2012,Mercedes-Benz,C-Class,C250 Sport,automatic,Texas,23993.0,—,black,mercedes-benz financial services,22000.0
+2013,Chrysler,200,Touring,automatic,Texas,17771.0,silver,black,texas auto brokers,12500.0
+2006,Dodge,Dakota,ST,automatic,Texas,94052.0,white,silver,lewisville mitsubishi,5500.0
+2010,Hyundai,Santa Fe,GLS,automatic,Texas,35069.0,blue,tan,bmw of arlington,12600.0
+2011,Ram,3500,Laramie,automatic,Texas,74188.0,brown,brown,fairway ford henderson,36800.0
+2007,Ford,F-350 Super Duty,XLT,automatic,Texas,80447.0,white,brown,pm standley motorcars,23600.0
+2014,Ford,Expedition,XLT,automatic,Texas,34528.0,blue,tan,avis budget group,31000.0
+2011,Audi,A8,4.2 quattro,automatic,Texas,35873.0,gray,gray,audi plano,34000.0
+2011,Ford,Transit Connect,Cargo Van XLT,automatic,Texas,128271.0,white,gray,ge fleet services for itself/servicer,7500.0
+2012,Chevrolet,Volt,Base,automatic,Texas,79277.0,white,black,ge fleet services for itself/servicer,8200.0
+2013,Mitsubishi,Outlander Sport,SE,automatic,Texas,70558.0,red,black,santander consumer,10500.0
+2013,Ford,Fusion,SE,automatic,Texas,92095.0,gray,black,donlen corporation,9700.0
+2004,Lincoln,Aviator,Ultimate,automatic,Texas,124505.0,silver,beige,united acceptance,2000.0
+2014,Toyota,4Runner,Limited,automatic,Texas,8209.0,white,beige,cm investments,39800.0
+2014,Kia,Soul,+,automatic,Texas,16443.0,white,black,kia motors america  inc,14000.0
+2008,Hyundai,Santa Fe,GLS,automatic,Texas,74590.0,green,beige,regional acceptance corporation / greensboro,6300.0
+2012,Infiniti,G Sedan,G25,automatic,Texas,21622.0,gray,gray,nissan infiniti lt,15800.0
+2014,Toyota,Sienna,LE 7-Passenger Mobility Auto Access,automatic,Texas,34421.0,burgundy,gray,enterprise veh exchange/rental,21600.0
+2013,Toyota,Corolla,LE,automatic,Texas,45790.0,red,gray,avis corporation,12200.0
+2011,Ford,F-250 Super Duty,XL,automatic,Texas,112127.0,white,gray,donlen corporation,15900.0
+2000,Mercedes-Benz,S-Class,S500,automatic,Texas,96886.0,black,gray,rii,3800.0
+2013,Ram,2500,Laramie Longhorn Edition,automatic,Texas,25877.0,black,black,td auto finance,44100.0
+2005,Ford,F-150,XLT,automatic,Texas,187027.0,red,—,all american chevrolet of killeen,3400.0
+2012,Toyota,RAV4,Base,automatic,Texas,65839.0,silver,gray,the hertz corporation,12100.0
+2011,Nissan,Maxima,3.5 SV,automatic,Texas,76472.0,black,black,nissan-infiniti lt,12800.0
+2010,Mercedes-Benz,E-Class,E350,UNKNOWN,Texas,39610.0,black,beige,beck & masten kia of tomball,23500.0
+2013,Mitsubishi,Lancer,ES,automatic,Texas,46110.0,blue,black,avis corporation,9700.0
+2013,Chrysler,200,Limited,automatic,Texas,46068.0,white,black,tdaf remarketing,11500.0
+2013,Ford,F-150,XLT,automatic,Texas,14626.0,silver,gray,ford motor credit company llc,24400.0
+2010,Ford,F-150,XLT,automatic,Texas,70225.0,white,—,sames ford,7500.0
+2013,Ford,Focus,SE,automatic,Texas,21522.0,—,black,ford motor credit company llc,12400.0
+2008,GMC,Acadia,SLE-1,automatic,Texas,109277.0,silver,gray,best way autos,8500.0
+2004,Mercury,Grand Marquis,GS,automatic,Texas,115761.0,silver,gray,joe myers toyota,2600.0
+2015,Ford,F-250 Super Duty,XLT,automatic,Texas,3238.0,white,gray,mid city mcandrew motors,32500.0
+2012,Ford,Edge,SEL,automatic,Texas,55433.0,burgundy,beige,wheels lt,16700.0
+2013,Nissan,Altima,2.5,automatic,Texas,14938.0,black,black,nissan-infiniti lt,16400.0
+2011,Ford,Explorer,XLT,automatic,Texas,80625.0,black,gray,tdaf remarketing,19000.0
+2014,Ford,Fusion,Titanium,automatic,Texas,36404.0,gray,gray,ars/avis budget group,19600.0
+2008,Hyundai,Sonata,Limited V6,automatic,Texas,149156.0,gold,tan,autonation nissan dallas,3200.0
+2013,Chevrolet,Camaro,SS,automatic,Texas,40917.0,silver,black,the hertz corporation,22100.0
+2004,Chevrolet,Cavalier,Base,automatic,Texas,143948.0,red,black,kjc auto title loan corp,800.0
+2010,Ford,Escape,XLS,automatic,Texas,50790.0,silver,gray,jpmorgan chase bank n.a.,10400.0
+2013,Ford,Focus,S,automatic,Texas,54747.0,—,black,ford motor credit company llc,8000.0
+2008,Mercedes-Benz,M-Class,ML320 CDI,automatic,Texas,74051.0,beige,tan,pm standley motorcars,16000.0
+2008,Infiniti,G35,Base,automatic,Texas,92844.0,black,black,gunn acura,12700.0
+2011,Chevrolet,Equinox,LT2,automatic,Texas,103664.0,gray,black,texas direct auto,11100.0
+2013,Dodge,Durango,SXT,automatic,Texas,29839.0,blue,tan,north central ford,21500.0
+2013,Ford,Explorer,Limited,automatic,Texas,44142.0,black,beige,avis corporation,24500.0
+2014,Ford,Fiesta,SE,automatic,Texas,12903.0,gray,gray,ford motor credit company llc,2500.0
+2013,Volkswagen,Jetta,SE,manual,Texas,32674.0,gray,black,vw credit,9200.0
+2014,Nissan,Juke,SV,automatic,Texas,36133.0,red,black,nissan motor acceptance corporation,15200.0
+2013,Hyundai,Elantra,GLS,automatic,Texas,41854.0,red,tan,avis corporation,11000.0
+2012,Dodge,Charger,SE,automatic,Texas,34289.0,black,black,tdaf remarketing,17100.0
+2008,Toyota,Tundra,SR5,automatic,Texas,79314.0,white,gray,pm standley motorcars,26700.0
+2005,Jeep,Grand Cherokee,Laredo,automatic,Texas,117789.0,gray,tan,supreme fcu,5000.0
+2006,Mazda,MX-5 Miata,Base,UNKNOWN,Texas,70310.0,black,—,all american chevrolet of killeen,4200.0
+2013,Mercedes-Benz,SL-Class,SL550,automatic,Texas,11790.0,black,black,mercedes-benz financial services,71250.0
+2011,Hyundai,Elantra,GLS,UNKNOWN,Texas,84711.0,red,tan,san antonio dodge chrysler jeep,7100.0
+2013,Chevrolet,Sonic,LTZ,automatic,Texas,49338.0,silver,—,the hertz corporation,8900.0
+2012,Nissan,Altima,2.5 S,automatic,Texas,49967.0,beige,beige,nissan-infiniti lt,12200.0
+2010,Chevrolet,Impala,LS,automatic,Texas,122612.0,red,black,santander consumer,1300.0
+2012,Hyundai,Elantra,GLS,automatic,Texas,33246.0,silver,gray,hyundai motor finance,11000.0
+2012,Ram,2500,SLT,automatic,Texas,56746.0,red,gray,barco fleet services,25700.0
+2013,Chrysler,300,Base,automatic,Texas,11885.0,blue,tan,chrysler capital,18400.0
+2013,GMC,Sierra 1500,SLT,automatic,Texas,44036.0,silver,black,hopper motorplex inc,32700.0
+2014,Jeep,Cherokee,Latitude,automatic,Texas,20128.0,black,black,budget rac of atlanta,19000.0
+2011,Chevrolet,Traverse,LT1,automatic,Texas,76234.0,white,black,tdaf remarketing,13600.0
+2013,Dodge,Grand Caravan,SXT,automatic,Texas,67260.0,red,black,the hertz corporation,12300.0
+2012,Ford,F-150,XL,automatic,Texas,39491.0,silver,gray,santander consumer,14500.0
+2010,Cadillac,CTS,Luxury,automatic,Texas,63139.0,black,black,santander consumer,13400.0
+2013,Chevrolet,Impala,LS Fleet,automatic,Texas,45590.0,black,black,the hertz corporation,10600.0
+2004,Mitsubishi,Galant,ES,automatic,Texas,163732.0,white,black,d&m leasing,1400.0
+2007,Kia,Spectra,EX,automatic,Texas,153430.0,black,gray,d&m leasing,2300.0
+2008,Lexus,GX 470,Base,automatic,Texas,107449.0,silver,tan,automax,18800.0
+2014,land rover,range,r spt v6 hse,automatic,Texas,18620.0,black,tan,tdaf remarketing,71600.0
+2012,Ram,1500,SLT,automatic,Texas,83149.0,white,gray,jpmorgan chase bank n.a.,14500.0
+2012,Chevrolet,Malibu,LT,automatic,Texas,93014.0,white,gray,wheels exchange llc,7900.0
+2012,Volkswagen,Jetta,Base,automatic,Texas,57463.0,black,black,the hertz corporation,8200.0
+2006,Dodge,Viper,SRT-10,manual,Texas,17498.0,gray,black,pm standley motorcars,48500.0
+2013,Mazda,Mazda3,i SV,automatic,Texas,19351.0,green,black,santander consumer,12300.0
+2014,Toyota,Sienna,LE 7-Passenger Mobility Auto Access,automatic,Texas,21945.0,red,gray,rlb investments,22600.0
+2012,Infiniti,G Sedan,G37 Journey,automatic,Texas,7888.0,—,black,nissan infiniti lt,22800.0
+2006,Dodge,Ram Pickup 1500,SLT,automatic,Texas,141476.0,silver,gray,remarketing by ge/boeing wichita credit union,7400.0
+2010,Mercedes-Benz,CL-Class,CL550 4MATIC,automatic,Texas,31506.0,black,black,mercedes-benz financial services,40000.0
+2012,Ford,Fusion,SE,automatic,Texas,73569.0,white,gray,donlen corporation,8000.0
+2013,Ford,E-Series Wagon,E-350 Super Duty XL,automatic,Texas,39133.0,—,gray,ford-lincoln dealer program,21000.0
+2009,Saturn,Aura,XE,automatic,Texas,104494.0,black,gray,dt credit corporation,5300.0
+2004,Jeep,Wrangler,Sahara,automatic,Texas,87383.0,gold,beige,fairway ford henderson,11600.0
+2011,Ford,F-250 Super Duty,XL,automatic,Texas,222440.0,white,gray,donlen corporation,10100.0
+2001,Toyota,Sequoia,SR5,automatic,Texas,183982.0,black,gray,united auto credit/hurst,2000.0
+2013,Chrysler,200,Touring,automatic,Texas,44681.0,red,gray,wells fargo dealer services,10900.0
+2012,Chevrolet,Silverado 1500,LT,automatic,Texas,81658.0,white,black,mobilease,15600.0
+2012,Nissan,Altima,2.5 S,automatic,Texas,47716.0,silver,black,nissan-infiniti lt,13600.0
+2005,Chrysler,PT Cruiser,Touring,automatic,Texas,163512.0,white,black,honda cars of mckinney,1900.0
+2012,Ford,Fusion,S,automatic,Texas,72729.0,white,gray,southgate capital llc,9500.0
+2013,Toyota,Corolla,LE,automatic,Texas,34243.0,white,gray,checker leasing dba avis rac,12000.0
+2012,Chevrolet,Sonic,LT,manual,Texas,50387.0,black,black,wells fargo dealer services,8100.0
+2012,Infiniti,G Sedan,G37x,automatic,Texas,36722.0,black,black,nissan infiniti lt,16600.0
+2014,Ram,2500,SLT,automatic,Texas,24355.0,brown,black,enterprise veh exchange/rental,36000.0
+2013,Mazda,Mazda5,Touring,automatic,Texas,65030.0,black,black,the hertz corporation,11300.0
+2005,Acura,TSX,Base,UNKNOWN,Texas,112667.0,blue,gray,cm investments,5800.0
+2012,Kia,Soul,Base,automatic,Texas,30802.0,white,black,kia motors finance,7700.0
+2014,Ford,F-150,SVT Raptor,UNKNOWN,Texas,36484.0,red,black,ford-lincoln dealer program,48100.0
+2014,Ford,Focus,SE,automatic,Texas,39594.0,white,black,avis corporation,12000.0
+2008,Nissan,Pathfinder,SE,automatic,Texas,148003.0,white,—,fairway ford henderson,7300.0
+2012,Chevrolet,Malibu,LS Fleet,automatic,Texas,81242.0,white,gray,wheels exchange llc,8000.0
+2010,Cadillac,SRX,Premium,automatic,Texas,89065.0,silver,black,cadillac of arlington,16800.0
+2014,Audi,S7,quattro,automatic,Texas,13844.0,—,black,vw credit xu ready,75400.0
+2011,Toyota,Camry,LE,automatic,Texas,113649.0,silver,gray,heavenly motors of texas ltd,8900.0
+2014,GMC,Terrain,SLT-2,automatic,Texas,33168.0,gray,gray,avis corporation,21900.0
+2012,Ford,Explorer,Limited,automatic,Texas,37444.0,—,black,ford motor credit company llc,27600.0
+2000,Chevrolet,Tahoe,LS,automatic,Texas,171687.0,beige,beige,cadillac of arlington,3800.0
+2008,Chevrolet,Impala,LS,automatic,Texas,151723.0,gray,gray,dt credit corporation,3400.0
+2013,Kia,Forte,EX,automatic,Texas,36920.0,black,black,remktgedge / cars / carfinance capital llc,9400.0
+2004,Toyota,Highlander,Base,UNKNOWN,Texas,146497.0,black,tan,pm standley motorcars,5500.0
+2014,Infiniti,QX60,Hybrid,automatic,Texas,14384.0,gray,black,nissan north america inc.,36400.0
+2014,Chevrolet,Express,LS 3500,automatic,Texas,19001.0,white,gray,capps van & car rental,25500.0
+2014,Jeep,Grand Cherokee,Laredo,automatic,Texas,42019.0,red,gray,tdaf remarketing,22900.0
+2011,Dodge,Grand Caravan,Mainstreet,automatic,Texas,87198.0,white,gray,wheels exchange llc,8000.0
+2012,Ram,1500,ST,automatic,Texas,55347.0,silver,black,santander consumer,11900.0
+2012,Kia,Sedona,LX,automatic,Texas,59344.0,black,silver,dtg operations inc,10600.0
+2014,Kia,Forte,LX,automatic,Texas,43827.0,gray,gray,avis corporation,11000.0
+2012,Volkswagen,CC,Sport,automatic,Texas,33756.0,black,gray,music city autoplex llc,15750.0
+2010,Hyundai,Elantra,GLS,automatic,Texas,103958.0,gray,gray,regional acceptance corporation / greensboro,4500.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Texas,158960.0,blue,gray,heritage buick gmc,9800.0
+2013,Ford,Taurus,SE,automatic,Texas,77539.0,blue,beige,ge fleet services for itself/servicer,11500.0
+2009,Chevrolet,Silverado 1500,LT,automatic,Texas,125398.0,purple,black,westlake financial services,7200.0
+2007,toyota,tundra,4x2 v8 sr5,automatic,Texas,103298.0,silver,black,jpmorgan chase bank n.a.,13400.0
+2015,Kia,Cadenza,Premium,automatic,Texas,13088.0,brown,beige,kia motors america  inc,22300.0
+2014,Hyundai,Sonata,GLS,automatic,Texas,25208.0,silver,gray,enterprise vehicle exchange / tra / rental / tulsa,10800.0
+2009,Dodge,Avenger,SXT,automatic,Texas,93555.0,gray,black,foursight capital llc,4500.0
+2011,Chevrolet,Silverado 1500,LT,automatic,Texas,103562.0,black,gray,mid city mcandrew motors,20400.0
+2013,Ford,Fiesta,SE,automatic,Texas,48569.0,black,gray,mid city mcandrew motors,9000.0
+2000,Ford,F-150,XLT,UNKNOWN,Texas,197829.0,red,gray,courtesy nissan,1800.0
+2012,Nissan,Rogue,SV,automatic,Texas,37762.0,blue,black,don davis nissan inc,14100.0
+2009,Chevrolet,Impala,LS,automatic,Texas,63947.0,gold,black,santander consumer,8600.0
+2014,Ford,Escape,Titanium,automatic,Texas,27067.0,silver,gray,avis budget group,20100.0
+2014,Infiniti,QX60,Base,automatic,Texas,6949.0,black,black,nissan infiniti lt,41200.0
+2014,Kia,Forte,LX,automatic,Texas,40666.0,blue,black,avis corporation,11200.0
+2012,Lexus,RX 350,Base,automatic,Texas,16051.0,black,gray,music city autoplex llc,32000.0
+2010,Chevrolet,Silverado 1500,Work Truck,automatic,Texas,58234.0,gray,gray,regional acceptance corporation / greensboro,11500.0
+2013,Nissan,Xterra,S,automatic,Texas,54534.0,white,gray,dtg operations inc,16500.0
+2009,Chevrolet,Impala,LS,automatic,Texas,93147.0,brown,black,primeritus remarketing/crescent bank & trust,6000.0
+2007,Mercury,Milan,Premier,automatic,Texas,136950.0,—,tan,ford motor credit company llc,2600.0
+2013,Chrysler,200,Touring,automatic,Texas,53297.0,red,black,hopper motorplex inc,10500.0
+2013,Toyota,Camry,LE,automatic,Texas,37838.0,gray,gray,avis corporation,13300.0
+2014,Nissan,Versa,1.6 SV,automatic,Texas,20043.0,—,black,nissan motor acceptance corporation,10800.0
+2012,Chevrolet,Malibu,LT,automatic,Texas,77295.0,white,gray,westlake financial services,6400.0
+2014,Kia,Optima,LX Hybrid,automatic,Texas,11774.0,black,tan,kia motors america  inc,17100.0
+2007,Chevrolet,Impala,LT,automatic,Texas,148324.0,white,gray,dt credit corporation,3100.0
+2013,Ford,Taurus,SEL,automatic,Texas,76391.0,—,tan,lease plan usa,13200.0
+2008,GMC,Sierra 1500,SLE1,automatic,Texas,193422.0,black,—,fairway ford henderson,10100.0
+2011,Toyota,Corolla,LE,automatic,Texas,81360.0,gold,tan,united acceptance,6800.0
+2007,Pontiac,G6,GT,automatic,Texas,106454.0,black,black,fiserv/security national automotive accept corp,4900.0
+2014,Ram,1500,Tradesman,automatic,Texas,20211.0,white,gray,pro financial inc,18600.0
+2006,Ford,F-150,XLT,automatic,Texas,81772.0,blue,gray,mid city mcandrew motors,10600.0
+2014,Chrysler,200,Touring,automatic,Texas,8016.0,black,black,chrysler capital,13500.0
+2013,Toyota,Yaris,L,automatic,Texas,56605.0,black,black,the hertz corporation,9400.0
+2009,Nissan,Maxima,3.5 S,automatic,Texas,90322.0,black,black,the hertz corporation,10600.0
+2013,Ford,F-150,XLT,automatic,Texas,71269.0,white,gray,ford-lincoln dealer program,22600.0
+2003,Mazda,Protege5,Base,automatic,Texas,145744.0,yellow,black,autonation chevrolet north richland hills,1600.0
+2014,Chevrolet,Cruze,2LT,automatic,Texas,40483.0,black,black,avis corporation,12500.0
+2012,Ford,Focus,SE,automatic,Texas,56943.0,white,tan,td auto finance,7600.0
+2008,Chevrolet,Suburban,1500 LS,automatic,Texas,154678.0,gray,black,quick credit cars,11400.0
+2005,Ford,F-150,XLT,UNKNOWN,Texas,161958.0,red,tan,d&m leasing,5300.0
+2014,Ford,Focus,SE,automatic,Texas,36091.0,burgundy,gray,avis corporation,10800.0
+2010,Ford,F-250 Super Duty,Lariat,automatic,Texas,108770.0,white,tan,rlb investments,19500.0
+2013,Toyota,RAV4,LE,automatic,Texas,55171.0,silver,gray,the hertz corporation,15300.0
+2015,Chrysler,200,S,automatic,Texas,15295.0,gray,black,tdaf remarketing,15000.0
+2013,Chevrolet,Volt,Base,automatic,Texas,68048.0,black,black,tdaf remarketing,12500.0
+2011,Ram,1500,ST,automatic,Texas,42331.0,red,—,santander consumer,20100.0
+2013,Dodge,Dart,SXT,manual,Texas,22953.0,black,black,music city autoplex llc,13000.0
+2011,Ford,Fusion,SE,automatic,Texas,44218.0,—,black,ford motor credit company llc,7800.0
+2014,Hyundai,Veloster,Base,automatic,Texas,28505.0,silver,black,avis corporation,14000.0
+2012,Ford,F-150,FX4,automatic,Texas,64152.0,white,—,ge fleet services for itself/servicer,21200.0
+2005,Pontiac,Montana,SV6,automatic,Texas,140517.0,brown,tan,dt credit corporation,950.0
+2012,Honda,Civic,LX,automatic,Texas,47183.0,silver,gray,fiserv/crescent bank & trust,10700.0
+2007,Chevrolet,Tahoe,LT,automatic,Texas,94621.0,black,tan,onemain rem/regional management corp,17000.0
+1996,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Texas,186120.0,green,tan,bmw of houston north,1600.0
+2011,Ford,Explorer,XLT,automatic,Texas,25976.0,black,gray,ford country of lewisville,21000.0
+2012,Lincoln,MKZ,Hybrid,automatic,Texas,25272.0,white,tan,ford motor credit company llc,18000.0
+2013,Dodge,Dart,SXT,automatic,Texas,41176.0,silver,black,chrysler capital,6100.0
+2005,Chevrolet,Tahoe,LS,automatic,Texas,136461.0,red,beige,d&m leasing,7400.0
+2011,Ford,F-150,XLT,automatic,Texas,33299.0,gray,gray,ford motor credit company llc,25000.0
+2014,Kia,Soul,+,automatic,Texas,10734.0,yellow,black,kia motors america  inc,14000.0
+2012,Dodge,Caliber,SXT,automatic,Texas,72582.0,red,gray,remarketing by ge/flagship credit acceptance,7100.0
+2014,Chrysler,200,LX,automatic,Texas,19040.0,black,black,hopper motorplex inc,11900.0
+2007,Nissan,Sentra,2,UNKNOWN,Texas,117254.0,black,—,tiger financial management llc,2500.0
+2011,Ford,F-150,XLT,automatic,Texas,34460.0,white,tan,santander consumer,33000.0
+2004,Dodge,Ram Pickup 1500,SLT,automatic,Texas,149440.0,red,tan,automotive remarketing inc,1400.0
+2014,Kia,Forte,LX,automatic,Texas,7355.0,silver,gray,kia motors america  inc,13100.0
+2003,Buick,Regal,LS,automatic,Texas,82278.0,gray,beige,fiserv/pelican resource group,2100.0
+2012,Ford,F-250 Super Duty,XL,automatic,Texas,58612.0,white,gray,onemain rem/shak's auto sales inc,10300.0
+2010,Lexus,LS 460,Base,automatic,Texas,42259.0,blue,beige,tdaf remarketing,26000.0
+2014,Lincoln,MKS,Base,automatic,Texas,34375.0,silver,beige,avis budget group,22400.0
+2008,smart,fortwo,passion,automatic,Texas,29424.0,blue,black,motorcars of south texas,5500.0
+2002,Pontiac,Grand Prix,GT,automatic,Texas,194050.0,gold,beige,automotive remarketing inc,900.0
+2005,Mercedes-Benz,C-Class,C320 Luxury 4MATIC,automatic,Texas,154099.0,silver,black,rii,4200.0
+2002,Jeep,Liberty,Limited,automatic,Texas,144816.0,red,tan,texas rv outlet superstore,3400.0
+2013,Chevrolet,Cruze,2LT,automatic,Texas,52594.0,gray,black,santander consumer,11100.0
+2013,Ram,1500,Tradesman,automatic,Texas,27551.0,gray,gray,chrysler capital,23000.0
+2013,Dodge,Challenger,SXT,automatic,Texas,25078.0,black,black,first community credit union,17600.0
+2013,Dodge,Charger,R/T,automatic,Texas,32407.0,gray,black,security service fcu (sscu),17000.0
+2007,Honda,Civic,EX,automatic,Texas,95866.0,silver,gray,texas direct auto,6900.0
+2012,Ford,Fusion,S,automatic,Texas,40943.0,white,beige,lease plan usa,10500.0
+2012,Ford,E-Series Van,E-150,automatic,Texas,57636.0,white,gray,ge fleet services for itself/servicer,16000.0
+2010,Chevrolet,Cobalt,LT,automatic,Texas,84517.0,black,black,santander consumer,1100.0
+2013,Ford,C-Max Energi,SEL,automatic,Texas,87990.0,silver,black,ge fleet services for itself/servicer,8800.0
+2006,Honda,Pilot,EX-L,automatic,Texas,211456.0,black,gray,city credit union,1800.0
+2006,Honda,Accord,EX,automatic,Texas,201021.0,gray,gray,united auto credit/hurst,2300.0
+2012,Nissan,Altima,2.5 S,automatic,Texas,57385.0,blue,tan,nissan-infiniti lt,10800.0
+2010,Mercedes-Benz,C-Class,C300 Sport,automatic,Texas,78233.0,black,black,santander consumer,13700.0
+2011,Chrysler,200,Limited,automatic,Texas,83991.0,black,beige,fiserv/crescent bank & trust,7000.0
+2013,Ford,Edge,Limited,automatic,Texas,41384.0,green,black,ars/avis budget group,21300.0
+2012,Nissan,Versa,1.6 S,automatic,Texas,72176.0,white,black,san antonio dodge chrysler jeep,5500.0
+2015,Mazda,CX-5,Touring,automatic,Texas,43619.0,black,black,avis corporation,16300.0
+2013,Toyota,Camry,SE,UNKNOWN,Texas,62349.0,gray,black,the hertz corporation,11601.0
+2008,Dodge,Avenger,SE,automatic,Texas,146663.0,silver,gray,consolidated asset recovery systems  inc.,3500.0
+2015,Ford,Taurus,Limited,automatic,Texas,30410.0,—,beige,avis budget group,21000.0
+2008,Chevrolet,HHR,LS,automatic,Texas,48089.0,silver,gray,fiserv/crescent bank & trust,5000.0
+2012,Honda,Crosstour,EX-L,automatic,Texas,41499.0,white,tan,rainbow motors corporation,16750.0
+2014,Infiniti,Q50,Premium,automatic,Texas,16800.0,white,black,nissan infiniti lt,28000.0
+2012,Nissan,Frontier,SV,automatic,Texas,54495.0,white,gray,santander consumer,16000.0
+2013,Nissan,Rogue,SV,UNKNOWN,Texas,26291.0,black,silver,nissan motor acceptance corporation,14000.0
+2013,Chevrolet,Traverse,LT,automatic,Texas,46206.0,gray,black,lease plan usa,19100.0
+2014,Ford,Fusion,Titanium,automatic,Texas,30285.0,—,black,avis budget group,18400.0
+2014,Chevrolet,Express,LS 2500,automatic,Texas,11931.0,white,gray,capps rent a car,22700.0
+2013,Ford,Edge,Limited,automatic,Texas,40538.0,black,gray,hopper motorplex inc,20750.0
+2013,Chevrolet,Equinox,LTZ,automatic,Texas,53013.0,silver,black,the hertz corporation,17200.0
+2008,Nissan,Versa,1.8 SL,automatic,Texas,116738.0,white,black,consolidated asset recovery systems  inc.,3100.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Texas,165429.0,silver,gray,dt credit corporation,1900.0
+2004,Audi,A8,L quattro,automatic,Texas,107479.0,black,black,fiserv/independent bank,2000.0
+2014,Hyundai,Elantra,SE,automatic,Texas,6158.0,gray,gray,hyundai motor finance,14800.0
+2009,Ford,Fusion,SE,automatic,Texas,117480.0,white,gray,ge fleet services for itself/servicer,5900.0
+2011,Infiniti,G Coupe,G37,automatic,Texas,28903.0,gray,black,nissan infiniti lt,20600.0
+2012,Volkswagen,Jetta SportWagen,TDI,automatic,Texas,49540.0,silver,black,bmw of arlington,15000.0
+2012,Infiniti,G Sedan,G25,automatic,Texas,25762.0,gray,black,nissan infiniti lt,17800.0
+2009,Chevrolet,Malibu,LS,automatic,Texas,141048.0,white,brown,capital one auto finance,3400.0
+2013,Chevrolet,Traverse,LS,automatic,Texas,38359.0,silver,purple,remarketing by ge/the credit union loan source,12900.0
+2012,Ford,Focus,SE,automatic,Texas,35273.0,blue,gray,fiserv/regions bank,7700.0
+2009,Hyundai,Santa Fe,Limited,automatic,Texas,101037.0,blue,tan,cars group finance & sales,10100.0
+2007,Dodge,Caliber,SXT,automatic,Texas,107693.0,white,brown,wells fargo dealer services,2600.0
+2012,Ford,Fusion,S,automatic,Texas,67820.0,white,gray,lease plan usa,9700.0
+2013,Mercedes-Benz,E-Class,E350 Sport 4MATIC,automatic,Texas,30206.0,silver,black,music city autoplex llc,31000.0
+2012,Ford,Transit Connect,Cargo Van XLT,automatic,Texas,152511.0,white,gray,clear remarketing,6500.0
+2011,Ram,1500,Laramie,automatic,Texas,69383.0,black,gray,woodhouse ford inc,26500.0
+2012,Chrysler,200,LX,automatic,Texas,61490.0,white,—,dt credit corporation,9000.0
+2007,Chevrolet,Suburban,1500 LS,automatic,Texas,123842.0,blue,gray,afs acceptance llc,8200.0
+2014,Ford,Fusion,SE,automatic,Texas,13637.0,gray,black,ford motor credit company,14600.0
+2013,Honda,Civic,LX,automatic,Texas,38859.0,gray,beige,avis corporation,13300.0
+2007,Chevrolet,Avalanche,LT,automatic,Texas,142817.0,black,gray,td auto finance,9000.0
+2003,Volkswagen,Jetta,GLS 1.8T,manual,Texas,153049.0,white,beige,regional acceptance corporation / greensboro,1400.0
+2014,Kia,Optima,LX Hybrid,automatic,Texas,9736.0,black,beige,kia motors america  inc,18100.0
+2014,Ford,Focus,SE,automatic,Texas,18605.0,burgundy,black,ford motor credit company llc,11600.0
+2012,Ford,Fusion,SE,automatic,Texas,66293.0,silver,black,ford motor credit company llc,10000.0
+2011,Toyota,Sienna,LE 7-Passenger Mobility Auto Access,automatic,Texas,50968.0,—,gray,ge fleet services for itself/servicer,13800.0
+2014,Ram,1500,SLT,automatic,Texas,5439.0,silver,gray,johnson sewell ford lincoln inc,27500.0
+2011,Ford,F-350 Super Duty,Lariat,automatic,Texas,48040.0,white,brown,hiley mazda of hurst,40000.0
+2010,Jeep,Patriot,Sport,automatic,Texas,35880.0,silver,black,exeter finance corp,6700.0
+2012,Nissan,Altima,2.5,automatic,Texas,22669.0,gray,gray,nissan-infiniti lt,10800.0
+2011,Dodge,Challenger,R/T,automatic,Texas,43547.0,black,black,fiserv/regions bank,14200.0
+2012,Jeep,Liberty,Sport,automatic,Texas,51428.0,black,black,mid city mcandrew motors,13000.0
+2014,Hyundai,Accent,SE,manual,Texas,11712.0,silver,beige,first light fcu,10500.0
+2012,Toyota,Camry,LE,automatic,Texas,22884.0,white,gray,the hertz corporation,13600.0
+2013,Ford,F-150,Platinum,automatic,Texas,53302.0,black,brown,woodhouse ford inc,34000.0
+2005,Volvo,S40,2.4i,automatic,Texas,134143.0,silver,gray,prestige financial services,1600.0
+2008,Suzuki,XL7,Premium,automatic,Texas,75784.0,burgundy,tan,tdaf remarketing,5400.0
+2011,Ram,1500,SLT,automatic,Texas,76355.0,white,—,south bay remarketing services,18100.0
+2014,Toyota,Camry,SE,automatic,Texas,36075.0,red,black,ez rent a car/orlando,15800.0
+2006,Mercedes-Benz,E-Class,E350,automatic,Texas,115102.0,silver,black,dt credit corporation,3700.0
+2008,Saturn,Sky,Base,automatic,Texas,47928.0,red,—,santander consumer,5500.0
+2013,Chevrolet,Equinox,LT,automatic,Texas,39019.0,white,black,avis corporation,16800.0
+2008,Ford,Escape,XLT,UNKNOWN,Texas,99948.0,green,tan,mark one financial,7500.0
+2007,Ford,Ranger,XLT,automatic,Texas,107915.0,white,gray,dt credit corporation,6200.0
+2012,Chevrolet,Cruze,2LT,automatic,Texas,60790.0,silver,black,music city autoplex llc,10750.0
+2002,BMW,X5,3.0i,automatic,Texas,141153.0,green,gray,westlake financial services,1300.0
+2013,Ram,2500,Tradesman,automatic,Texas,92014.0,white,black,donlen corporation,20000.0
+2005,Toyota,Corolla,CE,manual,Texas,130190.0,silver,gray,d&m leasing,2300.0
+2006,Dodge,Sprinter Cargo,2500 140 WB,automatic,Texas,223955.0,white,blue,lease plan usa/tra,6000.0
+2010,Ford,Transit Connect,Cargo Van XLT,UNKNOWN,Texas,146100.0,white,gray,ars/executive car leasing co,5700.0
+2000,Mazda,MX-5 Miata,Base,manual,Texas,216520.0,blue,tan,hiley mazda of hurst,1100.0
+2006,Volkswagen,New Beetle,2.5,automatic,Texas,113198.0,red,tan,dt credit corporation,2500.0
+2008,Dodge,Grand Caravan,SE,automatic,Texas,136009.0,silver,gray,credit acceptance corp/vrs/southfield,3900.0
+2013,Chevrolet,Cruze,1LT,automatic,Texas,42348.0,silver,black,avis corporation,11100.0
+2013,Audi,A4,2.0T Premium quattro,automatic,Texas,27745.0,silver,black,silver car,24200.0
+2013,Dodge,Avenger,SXT,automatic,Texas,76559.0,white,black,gm financial,7200.0
+2014,Mitsubishi,Mirage,DE,automatic,Texas,6424.0,gray,black,santander consumer,10000.0
+2013,Nissan,Juke,SV,automatic,Texas,24465.0,black,red,nissan north america inc.,13600.0
+2009,Ford,Fusion,SEL,automatic,Texas,63234.0,white,tan,santander consumer,9100.0
+2014,Chrysler,Town and Country,Touring,automatic,Texas,14926.0,red,black,chrysler capital,19500.0
+2003,GMC,Yukon XL,1500 SLE,UNKNOWN,Texas,189915.0,white,gray,dt inventory,2600.0
+2013,Audi,A5,2.0T Premium Plus quattro,automatic,Texas,16786.0,silver,gray,tdaf remarketing,33500.0
+2006,Ford,F-150,Lariat,automatic,Texas,124827.0,silver,beige,del rio ford lincoln mercury ltd,7200.0
+2011,Nissan,Sentra,2.0 S,automatic,Texas,105232.0,silver,gray,dt credit corporation,5200.0
+2013,Hyundai,Elantra GT,Base,automatic,Texas,20995.0,black,tan,hyundai motor finance,13600.0
+2012,Hyundai,Elantra,GLS,automatic,Texas,23303.0,black,gray,hyundai motor finance,11300.0
+2008,Hyundai,Santa Fe,GLS,automatic,Texas,93832.0,blue,gray,santander consumer,3400.0
+2011,Toyota,Highlander,Limited,automatic,Texas,65214.0,gray,gray,d&m leasing,24500.0
+2014,Porsche,Cayman,S,automatic,Texas,5961.0,black,black,rolls royce motorcars manhattan,59250.0
+2007,Nissan,Altima,2.5 S,automatic,Texas,131813.0,blue,black,dt credit corporation,4000.0
+2013,Chevrolet,Equinox,LTZ,automatic,Texas,52507.0,silver,black,the hertz corporation,16600.0
+1998,Chevrolet,Suburban,1500,automatic,Texas,265824.0,white,beige,titlemax/jacinto city tx1,500.0
+2014,Ford,Fiesta,SE,automatic,Texas,39809.0,gray,black,avis corporation,8600.0
+2010,Ford,F-250 Super Duty,XL,automatic,Texas,190617.0,white,tan,remarketing by ge/midsouth capital lp,5500.0
+2013,Dodge,Avenger,SE,automatic,Texas,26122.0,red,beige,chrysler capital,11000.0
+2014,Toyota,Camry,LE,automatic,Texas,32409.0,gray,gray,avis corporation,15300.0
+2012,Audi,A4,2.0T Premium,automatic,Texas,23652.0,white,tan,hopper motorplex inc,19800.0
+2014,Ford,E-Series Van,E-150,automatic,Texas,9285.0,white,gray,ge fleet services for itself/servicer,19500.0
+2013,Lincoln,MKS,Base,automatic,Texas,15891.0,—,black,ford motor credit company llc,26600.0
+2011,Buick,LaCrosse,CXL,automatic,Texas,89654.0,silver,black,regional finance/san antonio,10000.0
+2006,Mitsubishi,Lancer,Ralliart,automatic,Texas,85672.0,blue,black,dt credit corporation,1800.0
+2013,Ford,Explorer,Limited,automatic,Texas,53031.0,silver,black,nissan of fort worth,23100.0
+2004,Ford,F-150,XLT,automatic,Texas,102551.0,red,tan,santander consumer,5900.0
+2012,Ford,Taurus,SEL,automatic,Texas,56728.0,gray,gray,wheels lt,15200.0
+2007,Cadillac,Escalade,Base,automatic,Texas,198888.0,black,tan,primeritus remarketing/vonuc motors,10000.0
+2014,Jeep,Compass,Sport,automatic,Texas,17892.0,gray,black,chrysler capital,14700.0
+2008,Jeep,Liberty,Sport,automatic,Texas,71497.0,red,gray,santander consumer,9100.0

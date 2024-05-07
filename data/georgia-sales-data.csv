@@ -1,0 +1,606 @@
+year,make,model,trim,transmission,state,odometer,color,interior,seller,selling_price
+2014,Kia,Rio,LX,UNKNOWN,Georgia,13291.0,black,gray,kia motors america  inc,11400.0
+2012,Honda,Pilot,LX,automatic,Georgia,34930.0,blue,gray,ahfc/honda lease trust/hvt  inc. eot,18200.0
+2006,Hyundai,Accent,GLS,automatic,Georgia,138486.0,black,tan,pra receivables management llc,2800.0
+2002,Ford,Explorer,XLS,UNKNOWN,Georgia,131457.0,red,gray,nextgear capital,1500.0
+2013,Chevrolet,Cruze,2LT,automatic,Georgia,38900.0,silver,black,john bleakley ford inc,12200.0
+2014,Nissan,Sentra,FE+ SV,automatic,Georgia,8041.0,black,black,enterprise vehicle exchange / tra / rental / tulsa,10400.0
+2010,Chrysler,Town and Country,Touring,automatic,Georgia,62920.0,white,gray,nalley toyota of roswell,8100.0
+2014,Honda,CR-V,EX-L,automatic,Georgia,14957.0,blue,gray,american honda motor company,23000.0
+2014,Kia,Cadenza,Premium,UNKNOWN,Georgia,6346.0,black,black,kia motors america  inc,23100.0
+2001,Lexus,LS 430,Base,automatic,Georgia,146213.0,silver,black,persichetti motorsports inc,3500.0
+2005,BMW,3 Series,330Ci,manual,Georgia,64428.0,blue,gray,germain lexus,10500.0
+2007,Honda,Odyssey,EX-L,automatic,Georgia,165219.0,gray,gray,momentum motorcars,5350.0
+2005,Chevrolet,TrailBlazer,LS,automatic,Georgia,149985.0,burgundy,gray,santander consumer,3000.0
+2011,Ford,Fusion,SE,automatic,Georgia,94258.0,gray,gray,lease plan usa,7200.0
+2012,Scion,xD,Base,automatic,Georgia,29025.0,purple,black,toyota financial services,10200.0
+2011,Mazda,Mazda6,i Touring,automatic,Georgia,68633.0,black,—,jpmorgan chase bank n.a.,10000.0
+2009,Dodge,Journey,SXT,automatic,Georgia,138928.0,green,black,wells fargo dealer services,3600.0
+2014,Ford,Escape,SE,automatic,Georgia,36188.0,gray,black,ars/avis budget group,16400.0
+2012,Hyundai,Elantra,GLS,automatic,Georgia,20142.0,white,tan,hyundai motor finance,11200.0
+2007,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Georgia,118999.0,red,gray,wells fargo dealer services,15700.0
+2014,Kia,Sportage,LX,automatic,Georgia,35205.0,silver,gray,avis corporation,14800.0
+2012,Nissan,Maxima,3.5 SV,automatic,Georgia,35813.0,black,black,nissan-infiniti lt,15400.0
+2012,Land Rover,Range Rover Sport,HSE,automatic,Georgia,27874.0,—,beige,morrison motors inc,42500.0
+2006,Jeep,Liberty,Renegade,automatic,Georgia,78794.0,blue,gray,gm financial,6700.0
+2008,Volkswagen,Jetta,SEL PZEV,automatic,Georgia,79392.0,black,black,santander consumer,6600.0
+2015,Volvo,XC60,T5 Drive-E Premier,UNKNOWN,Georgia,8591.0,beige,beige,volvo na rep/world omni,29800.0
+2012,Porsche,Panamera,4,automatic,Georgia,27016.0,blue,black,porsche financial services,52500.0
+2009,Honda,Pilot,Touring,automatic,Georgia,119412.0,gray,gray,davis automotive,13500.0
+2007,Hyundai,Santa Fe,Limited,automatic,Georgia,153659.0,silver,beige,wells fargo dealer services,4700.0
+2011,Kia,Sorento,EX,automatic,Georgia,76912.0,purple,black,morris auto sales inc,12700.0
+2014,Dodge,Dart,SXT,automatic,Georgia,22366.0,white,black,chrysler capital,12300.0
+2014,Ford,Focus,SE,automatic,Georgia,34643.0,white,black,ars/avis budget group,11400.0
+2014,Toyota,Camry,SE,UNKNOWN,Georgia,19304.0,black,black,world omni financial corporation,17900.0
+2010,GMC,Sierra 1500,SL,automatic,Georgia,87015.0,silver,gray,young motors llc,14900.0
+2012,Dodge,Grand Caravan,SXT,automatic,Georgia,60388.0,white,black,ge fleet services for itself/servicer,9500.0
+2012,Toyota,Corolla,S,automatic,Georgia,23161.0,red,black,toyota financial services,13100.0
+2012,Ford,Explorer,Base,automatic,Georgia,26769.0,silver,tan,munter motor cars,20200.0
+2014,Ford,Explorer,Limited,automatic,Georgia,20386.0,red,gray,ars/enterprise,32100.0
+2013,Lexus,GS 350,Base,automatic,Georgia,24080.0,white,gray,lexus financial services,33100.0
+2013,Chevrolet,Impala,LT Fleet,automatic,Georgia,55404.0,gray,black,dollar thrifty automotive group,10100.0
+2014,Toyota,Corolla,L,automatic,Georgia,15161.0,gray,gray,world omni financial corporation,13500.0
+2008,Ford,Escape,XLT,automatic,Georgia,99258.0,gray,brown,cameron motor sports,7200.0
+2013,Chevrolet,Malibu,LT,automatic,Georgia,17902.0,black,black,capital one auto finance,12500.0
+2003,Nissan,Xterra,XE,automatic,Georgia,213515.0,blue,gray,five star chevrolet cadillac,1400.0
+2013,Kia,Optima,LX,automatic,Georgia,16207.0,white,—,kia motors finance,14600.0
+2006,BMW,3 Series,325i,automatic,Georgia,125897.0,silver,black,nalley infiniti marietta,7000.0
+2007,Ford,Expedition,XLT,UNKNOWN,Georgia,111822.0,black,beige,momentum motorcars,8800.0
+2015,Scion,FR-S,Base,manual,Georgia,4152.0,blue,black,world omni financial corporation,20900.0
+2007,Dodge,Caravan,SXT,automatic,Georgia,164098.0,blue,gray,us bank,1800.0
+2010,Kia,Forte,LX,automatic,Georgia,85058.0,white,gray,capital one auto finance,5000.0
+2008,Pontiac,Grand Prix,Base,automatic,Georgia,132192.0,red,black,five star dodge,2900.0
+2011,Toyota,Sienna,LE 7-Passenger Mobility Auto Access,automatic,Georgia,68637.0,gray,beige,carworks inc,15100.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,Georgia,15868.0,white,gray,nissan infiniti lt,24400.0
+2012,Ram,1500,SLT,automatic,Georgia,98546.0,gray,black,remarketing by ge/nextgear capital,10000.0
+2015,Chrysler,200,Limited,automatic,Georgia,22023.0,gray,black,lease plan usa,14500.0
+2006,Hyundai,Sonata,GLS,automatic,Georgia,111604.0,gold,tan,automobile acceptance corp,3100.0
+2009,Pontiac,Vibe,Base,automatic,Georgia,228776.0,white,black,ge fleet services for itself/servicer,4100.0
+2000,Volkswagen,Jetta,GLS,manual,Georgia,247302.0,silver,black,autonation volkswagen mall of georgia,850.0
+2013,Dodge,Charger,SE,automatic,Georgia,34148.0,white,tan,capital one auto finance,16100.0
+2013,Dodge,Challenger,SXT,automatic,Georgia,24553.0,black,black,pra recievables management llc,16900.0
+2006,Mercedes-Benz,C-Class,C230 Sport,manual,Georgia,130712.0,black,gray,nalley bmw,4700.0
+2014,Ford,Mustang,V6,automatic,Georgia,27635.0,red,gray,ars/enterprise,18700.0
+2001,Ford,Windstar,LX,automatic,Georgia,152751.0,beige,beige,jaguar porsche volvo of greenville,1400.0
+2013,Ford,Fusion Hybrid,SE,automatic,Georgia,90179.0,blue,black,ge fleet services for itself/servicer,10600.0
+2006,Mitsubishi,Lancer,ES,automatic,Georgia,114473.0,silver,gray,cdc fcu,2700.0
+2014,Buick,Enclave,Leather Group,UNKNOWN,Georgia,26938.0,white,black,kern automotive group inc,31000.0
+2007,Chevrolet,Uplander,LS,automatic,Georgia,177273.0,silver,gray,santander consumer,1400.0
+2001,Ford,F-150,XL,manual,Georgia,343887.0,white,gray,nalley honda,1100.0
+2012,Ford,Explorer,XLT,automatic,Georgia,26023.0,gray,black,ford motor credit company llc pd,26600.0
+2008,Lexus,ES 350,Base,automatic,Georgia,141493.0,black,beige,autonation volkswagen mall of georgia,9300.0
+2011,Kia,Optima,LX,automatic,Georgia,63129.0,burgundy,beige,capital one auto finance,10700.0
+2010,Chevrolet,Tahoe,LTZ,automatic,Georgia,106916.0,black,black,t. james motorsports llc,23900.0
+2005,Ford,F-150,FX4,UNKNOWN,Georgia,188437.0,black,black,nalley ford sandy springs,5500.0
+2007,Chevrolet,Impala,SS,automatic,Georgia,101349.0,silver,gray,jpmorgan chase bank n.a.,5900.0
+2010,Dodge,Caliber,SXT Fleet,UNKNOWN,Georgia,70924.0,white,black,santander consumer,5900.0
+2014,Ford,F-150,FX4,automatic,Georgia,12139.0,white,black,ars/thrifty car rental/greer,37000.0
+2008,Ford,Escape,XLT,automatic,Georgia,152470.0,green,gray,santander consumer,3100.0
+2014,Kia,Forte,LX,automatic,Georgia,36069.0,brown,black,jpmorgan chase bank n.a.,10900.0
+2014,Mercedes-Benz,CLA-Class,CLA45 AMG,automatic,Georgia,3785.0,white,black,mercedes-benz usa,46000.0
+2008,Ford,Ranger,XL,UNKNOWN,Georgia,53826.0,white,black,crescent automotive corp inc,9800.0
+2014,Ford,Fusion,Titanium,automatic,Georgia,41629.0,black,black,international auto group inc,17300.0
+2007,Nissan,Frontier,SE,automatic,Georgia,117224.0,gray,beige,young motors llc,10100.0
+2003,Mercedes-Benz,E-Class,E500,automatic,Georgia,207444.0,black,black,nalley infiniti decatur,3400.0
+2012,Infiniti,G Sedan,G25,automatic,Georgia,30166.0,gray,black,nissan infiniti lt,18800.0
+2013,Porsche,911,Carrera 4S,automatic,Georgia,9332.0,black,black,porsche financial services,92500.0
+2004,Lincoln,Navigator,Luxury,UNKNOWN,Georgia,148566.0,silver,gray,auto one acceptance llc,2200.0
+2012,Ford,Escape,XLS,automatic,Georgia,36634.0,black,tan,ford motor credit company llc,12100.0
+2006,Volkswagen,Passat,2.0T,automatic,Georgia,169216.0,gray,gray,vw credit,800.0
+2008,Chevrolet,HHR,LT,automatic,Georgia,90923.0,gray,gray,asbury automotive group,4900.0
+2012,Chevrolet,Cruze,1LT,automatic,Georgia,43041.0,white,black,wells fargo dealer services,9000.0
+2012,Chrysler,200,Touring,automatic,Georgia,47172.0,silver,black,santander consumer,8800.0
+2007,Ford,Focus,ZX4 SE,UNKNOWN,Georgia,109441.0,black,gray,just right auto deals,2000.0
+2010,Dodge,Charger,SXT Fleet,automatic,Georgia,95715.0,black,black,t. james motorsports llc,10000.0
+2014,Ford,F-150,FX4,automatic,Georgia,12173.0,white,black,ars/thrifty car rental/greer,37100.0
+2013,Toyota,Sienna,Limited 7-Passenger,automatic,Georgia,26105.0,gray,gray,world omni financial corporation,26700.0
+2014,Buick,Regal,Premium I,automatic,Georgia,21384.0,beige,gray,gm financial,18800.0
+1988,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Georgia,241751.0,black,black,titlemax/conyers ga1,700.0
+2014,Kia,Rio,LX,UNKNOWN,Georgia,22055.0,silver,black,kia motors america  inc,11000.0
+2014,Lincoln,Navigator,Base,automatic,Georgia,15468.0,black,gray,ars/enterprise,38100.0
+2012,Ford,Focus,SE,automatic,Georgia,74640.0,black,black,capital one auto finance,8600.0
+2014,Honda,Accord,Sport,automatic,Georgia,3652.0,gold,black,ahfc/honda lease trust/hvt  inc.,20200.0
+2009,Buick,Enclave,CXL,automatic,Georgia,54691.0,silver,tan,mercedes benz of buckhead,16200.0
+2005,Dodge,Ram Pickup 1500,SLT,automatic,Georgia,160165.0,silver,black,momentum motorcars,8000.0
+2013,Chevrolet,Malibu,LS,automatic,Georgia,34041.0,black,gray,gm financial,11100.0
+2007,Ford,Five Hundred,SEL,automatic,Georgia,123707.0,green,gray,bellamy strickland chev olds pon,4600.0
+2013,Honda,Civic,LX,automatic,Georgia,18356.0,blue,gray,wells fargo dealer services,12900.0
+2010,Honda,Accord,EX-L,automatic,Georgia,77251.0,gray,black,gwinnett place honda,12300.0
+2007,Toyota,FJ Cruiser,Base,automatic,Georgia,177674.0,purple,black,jpmorgan chase bank n.a.,11700.0
+2012,Nissan,Sentra,2.0 SR,UNKNOWN,Georgia,41622.0,gray,gray,nissan-infiniti lt,9800.0
+2012,Ford,Focus,SEL,automatic,Georgia,89434.0,red,black,tdaf remarketing,6500.0
+2004,Honda,Odyssey,EX-L,automatic,Georgia,117993.0,gray,gray,capital one auto finance,1800.0
+2012,Scion,iQ,Base,automatic,Georgia,14821.0,gray,black,toyota financial services,9200.0
+2014,Toyota,Yaris,LE,automatic,Georgia,31464.0,white,gray,rb motor finance/dba avis,11300.0
+2011,Nissan,Murano,SL,automatic,Georgia,41253.0,white,beige,nissan-infiniti lt,18900.0
+2011,Mazda,Mazda6,i Sport,automatic,Georgia,22768.0,silver,black,wells fargo financial acceptance,9800.0
+2012,Mazda,Mazda3,i Touring,automatic,Georgia,55839.0,gray,black,the hertz corporation,9800.0
+2014,Ford,Fusion,SE,automatic,Georgia,15213.0,—,black,lease plan usa,15200.0
+2014,Ford,E-Series Van,E-250,automatic,Georgia,11002.0,white,gray,u-haul,20000.0
+2007,Volvo,XC70,Base,automatic,Georgia,74064.0,blue,beige,jaguar porsche volvo of greenville,8600.0
+2006,Toyota,Tundra,SR5,automatic,Georgia,92889.0,white,gray,bmw alphera/alphera financial services,11000.0
+2014,Lincoln,MKS,Base,automatic,Georgia,25541.0,white,black,ars/manheim georgia,28100.0
+1999,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Georgia,164784.0,gold,tan,carworks inc,1700.0
+2005,GMC,Yukon XL,Denali,automatic,Georgia,162299.0,gray,gray,carworks inc,7500.0
+2015,Kia,Sorento,LX,UNKNOWN,Georgia,10749.0,white,beige,kia motors america  inc,20000.0
+2013,Kia,Sorento,SX,automatic,Georgia,32686.0,burgundy,black,jim ellis,21600.0
+2009,Kia,Borrego,EX,automatic,Georgia,78091.0,black,black,remarketing by ge/the credit union loan source,11200.0
+2013,Ford,Focus,SE,automatic,Georgia,8352.0,black,black,ford motor credit company llc pd,13400.0
+2013,Nissan,Pathfinder,SL,automatic,Georgia,25673.0,gray,black,nissan motor acceptance corporation,23600.0
+2005,Ford,Crown Victoria,LX,automatic,Georgia,162552.0,black,beige,automobile acceptance corp,2200.0
+2012,Nissan,Altima,2.5,automatic,Georgia,41303.0,black,black,nissan-infiniti lt,13200.0
+2004,BMW,7 Series,745i,automatic,Georgia,80574.0,black,tan,mercedes benz of buckhead,7800.0
+2013,Nissan,Leaf,SL,automatic,Georgia,15456.0,black,black,nissan-infiniti lt,12000.0
+2002,Nissan,Maxima,GLE,automatic,Georgia,153174.0,gray,black,nalley acura,2500.0
+2009,Dodge,Journey,SXT,automatic,Georgia,97037.0,green,beige,santander consumer,5200.0
+2005,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Georgia,178002.0,gray,black,tdaf remarketing,2500.0
+2012,Ford,Edge,SEL,automatic,Georgia,21688.0,black,gray,ford motor credit company llc pd,21800.0
+2013,Hyundai,Sonata,GLS,automatic,Georgia,38430.0,black,beige,hyundai motor finance,10900.0
+2014,Mercedes-Benz,C-Class,C250 Sport,automatic,Georgia,16457.0,white,tan,mercedes benz of buckhead,23000.0
+2008,Pontiac,G6,Value Leader,automatic,Georgia,124155.0,blue,black,rick hendrick chevrolet,3400.0
+2009,Mercedes-Benz,CLK-Class,CLK350,automatic,Georgia,17509.0,black,black,mercedes benz of buckhead,23500.0
+2011,Infiniti,G Sedan,G37 Journey,automatic,Georgia,28898.0,black,black,nissan infiniti lt,22400.0
+2008,Honda,Odyssey,EX-L,automatic,Georgia,130645.0,blue,gray,lexus of greenville,7800.0
+2014,Ford,F-150,XLT,automatic,Georgia,23231.0,red,gray,ars/enterprise,23500.0
+2008,Buick,Enclave,CXL,automatic,Georgia,91763.0,beige,tan,jaguar porsche volvo of greenville,11300.0
+1996,Ford,Escort,LX,automatic,Georgia,120973.0,green,gray,capital auto auction,500.0
+2007,Hyundai,Accent,GS,automatic,Georgia,76756.0,orange,black,santander consumer,3200.0
+2012,Kia,Sorento,EX,automatic,Georgia,39499.0,black,black,jpmorgan chase bank n.a.,19600.0
+2014,Dodge,Durango,Citadel,automatic,Georgia,21624.0,burgundy,tan,easy car leasing llc dba brac of birmingham,29900.0
+2011,Chevrolet,HHR,LT,automatic,Georgia,74487.0,gray,black,gm financial,6600.0
+2010,Ford,Transit Connect,Cargo Van XLT,automatic,Georgia,128977.0,white,gray,ge fleet services for itself/servicer,8900.0
+2008,Nissan,Titan,SE,automatic,Georgia,63920.0,silver,black,vw credit,10000.0
+2012,Hyundai,Accent,GS,automatic,Georgia,61248.0,UNKNOWN,UNKNOWN,wells fargo dealer services,7400.0
+2013,Kia,Forte,EX,automatic,Georgia,50633.0,white,gray,the hertz corporation,9400.0
+2013,Toyota,Prius c,One,automatic,Georgia,33875.0,silver,gray,world omni financial corporation,10000.0
+2011,Dodge,Durango,Crew,automatic,Georgia,83908.0,gray,black,tds auto brokers,14600.0
+2012,Honda,Crosstour,EX-L,automatic,Georgia,61401.0,silver,black,cherokee ford inc,17900.0
+2007,Chevrolet,Avalanche,LT,automatic,Georgia,169450.0,white,gray,north atlanta auto superstore,10100.0
+2011,Chevrolet,Equinox,LTZ,automatic,Georgia,31722.0,blue,black,young motors llc,16400.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Georgia,82640.0,white,beige,atlanta auto distributors llc,14500.0
+2012,Ford,Fusion,SEL,automatic,Georgia,18775.0,white,tan,ford motor credit company llc pd,15700.0
+2011,Ram,1500,Sport,automatic,Georgia,65866.0,red,gray,gm financial,19800.0
+2007,Mercedes-Benz,R-Class,R350,automatic,Georgia,104139.0,black,black,capital one auto finance,8600.0
+2005,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Georgia,155918.0,gold,tan,wiggles auto sales inc,6900.0
+2004,Toyota,Highlander,Base,automatic,Georgia,113671.0,silver,gray,germain toyota of naples/germain scion of naples,8100.0
+2013,Kia,Rio,LX,automatic,Georgia,47673.0,black,gray,capital one auto finance,9000.0
+2014,Toyota,4Runner,SR5,automatic,Georgia,25221.0,black,black,toyota financial services/enterprise,29200.0
+2007,GMC,Sierra 1500,Denali,automatic,Georgia,206613.0,black,black,hennessy mazda buick gmc,12800.0
+2013,Volkswagen,Jetta,Base,UNKNOWN,Georgia,6464.0,silver,black,tdaf remarketing,10000.0
+2007,Kia,Spectra,EX,automatic,Georgia,112059.0,blue,gray,automobile acceptance corp,3900.0
+2014,Dodge,Journey,SE,automatic,Georgia,13668.0,silver,black,chrysler capital,13900.0
+2008,BMW,Z4,3.0i,automatic,Georgia,28288.0,black,beige,mercedes benz of buckhead,18200.0
+2014,Toyota,Camry,SE,automatic,Georgia,10274.0,blue,black,world omni financial corporation,16800.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Georgia,80591.0,white,black,santander consumer,11300.0
+2009,Lincoln,MKZ,Base,automatic,Georgia,75288.0,blue,beige,jpmorgan chase bank n.a.,7600.0
+2012,Dodge,Grand Caravan,American Value Package,automatic,Georgia,45196.0,white,black,santander consumer,10300.0
+2013,Mercedes-Benz,GLK-Class,GLK350 4MATIC,automatic,Georgia,30790.0,gray,black,international auto group inc,28600.0
+2012,Hyundai,Sonata Hybrid,Base,automatic,Georgia,34102.0,gray,gray,hyundai motor finance,13100.0
+2008,Land Rover,Range Rover Sport,HSE,UNKNOWN,Georgia,104745.0,white,tan,flag/ald motors inc,16500.0
+2011,BMW,3 Series,328i,automatic,Georgia,76574.0,black,black,financial services remarketing (lease),19600.0
+2004,Saturn,VUE,Base,manual,Georgia,121844.0,black,gray,five star ford lincoln mercury,1850.0
+2014,Nissan,Maxima,3.5 S,automatic,Georgia,1394.0,white,gray,nissan motor acceptance corporation,20200.0
+2012,Mercedes-Benz,C-Class,C250 Sport,automatic,Georgia,21164.0,UNKNOWN,UNKNOWN,mercedes-benz financial services,18500.0
+2014,Kia,Forte,LX,UNKNOWN,Georgia,20656.0,red,gray,kia motors america  inc,11800.0
+2014,Chevrolet,Silverado 1500,LT,UNKNOWN,Georgia,29361.0,burgundy,black,onemain rem/lenn costner auto sales,25200.0
+2013,Toyota,Avalon,Limited,automatic,Georgia,30067.0,gray,beige,toyota financial services,22200.0
+2012,Nissan,Rogue,SV,automatic,Georgia,26534.0,gray,gray,nissan-infiniti lt,14400.0
+2011,Honda,CR-V,EX,automatic,Georgia,22781.0,brown,—,ahfc/honda lease trust/hvt  inc. eot,16000.0
+2006,Chevrolet,Equinox,LS,automatic,Georgia,112883.0,gray,gray,jpmorgan chase bank n.a.,3400.0
+2011,Nissan,Maxima,3.5 SV,automatic,Georgia,82669.0,gray,black,jpmorgan chase bank n.a.,14000.0
+2013,Toyota,Yaris,LE,automatic,Georgia,61899.0,gray,—,the hertz corporation,7900.0
+2013,Dodge,Avenger,SE,automatic,Georgia,52825.0,gray,gray,avis corporation,9400.0
+2014,Toyota,Camry,SE,UNKNOWN,Georgia,36155.0,silver,black,avis corporation,15000.0
+2013,Ford,Focus,SE,automatic,Georgia,9163.0,blue,gray,stream llc dba stream remarketing solutions,11600.0
+2012,Hyundai,Tucson,Limited,UNKNOWN,Georgia,35012.0,brown,burgundy,hyundai motor finance,18500.0
+2012,Hyundai,Sonata Hybrid,Base,automatic,Georgia,11195.0,gray,gray,hyundai motor finance,15100.0
+2013,Chevrolet,Express Cargo,2500,automatic,Georgia,59490.0,white,beige,economy rent a car & sales inc,16700.0
+2014,Kia,Optima,LX,UNKNOWN,Georgia,11844.0,burgundy,beige,kia motors america  inc,15300.0
+2008,Jeep,Grand Cherokee,Laredo,automatic,Georgia,98354.0,red,black,wells fargo dealer services,8100.0
+2007,Chevrolet,Malibu,LS,automatic,Georgia,32457.0,white,beige,wells fargo dealer services,4500.0
+2014,Ford,Focus,SE,automatic,Georgia,30077.0,black,black,ars/enterprise,12500.0
+2014,Honda,Civic,LX,automatic,Georgia,14550.0,blue,gray,ahfc/honda lease trust/hvt  inc.,15100.0
+2011,Chevrolet,Avalanche,LTZ,automatic,Georgia,49026.0,red,black,jeffs motorcars inc,28600.0
+2007,GMC,Yukon,SLE,automatic,Georgia,163303.0,beige,beige,nalley infiniti decatur,9400.0
+2013,Dodge,Dart,SXT,automatic,Georgia,36856.0,orange,black,wells fargo dealer services,11800.0
+2011,Chevrolet,Silverado 1500,LS,automatic,Georgia,68103.0,black,black,young motors llc,17200.0
+2013,Volkswagen,Jetta,SEL PZEV,automatic,Georgia,21939.0,—,beige,vw credit,15200.0
+2011,Ford,Ranger,XL,automatic,Georgia,93239.0,white,—,sutton leasing inc,7800.0
+2012,Dodge,Avenger,SE,automatic,Georgia,64022.0,white,black,the hertz corporation,8601.0
+2003,Ford,F-150,XLT,UNKNOWN,Georgia,159116.0,black,gray,lexus of greenville,4800.0
+2005,Nissan,Sentra,1.8 S,UNKNOWN,Georgia,118550.0,black,beige,credit acceptance corp/vrs/southfield,3000.0
+2006,Dodge,Ram Pickup 1500,SLT,automatic,Georgia,179095.0,white,gray,crown nissan greenville,3100.0
+2012,Ford,F-350 Super Duty,XLT,automatic,Georgia,147915.0,white,beige,fleet street remarketing llc,17700.0
+2011,Chevrolet,Camaro,LS,manual,Georgia,27104.0,silver,black,remarketing by ge/summit financial corp,14000.0
+2012,Ford,Fusion,SEL,automatic,Georgia,28059.0,red,black,jim ellis,14000.0
+2010,Dodge,Avenger,Express,automatic,Georgia,89244.0,red,black,innovative auto llc,7300.0
+2013,Chevrolet,Equinox,LS,automatic,Georgia,59208.0,black,black,ge fleet services for itself/servicer,13200.0
+2013,Ford,F-150,XLT,automatic,Georgia,63235.0,black,gray,ford motor credit company llc pd,23500.0
+2008,BMW,3 Series,328i,automatic,Georgia,127195.0,silver,black,arc financial,6100.0
+2011,Ford,Explorer,XLT,automatic,Georgia,64651.0,blue,gray,ford-lincoln dealer program,21300.0
+2014,Ford,E-Series Van,E-250,automatic,Georgia,12016.0,white,gray,u-haul,19200.0
+2004,Nissan,Maxima,3.5 SL,automatic,Georgia,91939.0,gold,tan,carworks inc,6000.0
+2015,Chevrolet,Spark,1LT,automatic,Georgia,6017.0,red,black,hertz/tra,6700.0
+2013,Lincoln,MKX,Base,automatic,Georgia,24833.0,white,gray,ford motor credit company llc pd,30100.0
+2012,Dodge,Charger,SE,automatic,Georgia,70799.0,black,black,onesource/savannah toyota scion,12900.0
+2007,Ford,Focus,ZX4 SE,automatic,Georgia,100340.0,red,beige,chrysler capital,3200.0
+2011,Buick,LaCrosse,CXL,automatic,Georgia,127723.0,black,tan,jpmorgan chase bank n.a.,8300.0
+2008,Volkswagen,New Beetle,S,automatic,Georgia,77754.0,silver,gray,five star dodge,5300.0
+1999,Dodge,Durango,SLT,automatic,Georgia,298540.0,black,black,five star dodge,700.0
+2014,Toyota,Camry,SE,automatic,Georgia,11073.0,silver,black,toyota motor sales usa inc/program,17400.0
+2012,Mercedes-Benz,C-Class,C250 Sport,UNKNOWN,Georgia,21098.0,UNKNOWN,UNKNOWN,mercedes-benz financial services,20000.0
+2008,BMW,7 Series,750Li,automatic,Georgia,82147.0,white,tan,financial services remarketing (lease),16800.0
+2006,BMW,7 Series,750i,automatic,Georgia,115442.0,silver,gray,consolidated asset recovery systems  inc.,6300.0
+2014,Hyundai,Santa Fe Sport,Sport 2.0T,automatic,Georgia,10.0,white,beige,hyundai motor america/co car,27900.0
+2015,Kia,Soul,+,automatic,Georgia,21614.0,brown,black,kia motors america  inc,13800.0
+2013,Chevrolet,Silverado 1500,LT,automatic,Georgia,38570.0,red,black,kern automotive group inc,34800.0
+2012,Chevrolet,Cruze,LS,automatic,Georgia,57996.0,blue,gray,gm financial,8800.0
+2012,Toyota,Camry,LE,automatic,Georgia,15829.0,gold,beige,capital one auto finance,12900.0
+2009,Land Rover,Range Rover Sport,HSE,automatic,Georgia,55855.0,silver,black,bank of america,18800.0
+2008,Dodge,Grand Caravan,SXT,automatic,Georgia,172671.0,silver,black,fleet street remarketing (heavy),2200.0
+2003,Chevrolet,Blazer,LS,automatic,Georgia,94332.0,beige,black,ari,2600.0
+2007,BMW,5 Series,550i,automatic,Georgia,72323.0,gray,black,jim ellis,11500.0
+2014,Ford,Fusion,SE,UNKNOWN,Georgia,22242.0,gray,gray,ford motor credit company llc,14000.0
+2013,Ford,F-150,XLT,automatic,Georgia,18118.0,blue,beige,ford motor credit company llc,29400.0
+2014,Ford,Explorer,Limited,automatic,Georgia,21581.0,silver,gray,ars/enterprise,28900.0
+2013,Infiniti,G Coupe,G37 Sport,automatic,Georgia,16842.0,gray,black,nissan infiniti lt,23800.0
+2015,Nissan,Versa Note,1.6 SV,automatic,Georgia,3366.0,—,black,nissan motor acceptance corporation,11800.0
+2000,Saturn,S-Series,SC2,automatic,Georgia,131952.0,blue,gray,purple heart,400.0
+2011,Ford,Expedition,EL King Ranch,automatic,Georgia,68279.0,white,beige,gm financial,18000.0
+2011,Toyota,Camry,LE,automatic,Georgia,79487.0,black,beige,mcdonald auto sales & leasing,10800.0
+2003,Chevrolet,Impala,Base,automatic,Georgia,177507.0,silver,gray,nextgear capital,900.0
+2013,Mercedes-Benz,GL-Class,GL450 4MATIC,automatic,Georgia,40479.0,blue,black,the hertz corporation,39400.0
+2011,Toyota,Corolla,S,automatic,Georgia,78784.0,gray,black,world omni financial corporation,7800.0
+2012,Nissan,Altima,2.5 S,automatic,Georgia,28398.0,gray,beige,nissan-infiniti lt,11800.0
+2006,BMW,3 Series,330i,UNKNOWN,Georgia,96229.0,gray,gray,young motors llc,9900.0
+2010,Hyundai,Sonata,GLS,automatic,Georgia,99955.0,silver,gray,tdaf remarketing,5200.0
+2012,Toyota,Tacoma,PreRunner V6,automatic,Georgia,51572.0,silver,gray,wells fargo dealer services,22600.0
+2008,Chevrolet,Tahoe,LT,automatic,Georgia,132433.0,black,black,hayes chrysler dodge jeep inc,14800.0
+2013,Nissan,Rogue,SV,automatic,Georgia,20273.0,silver,gray,carworks inc,13800.0
+2012,Ford,Escape,Limited,automatic,Georgia,26185.0,blue,black,ford motor credit company llc pd,17300.0
+2008,MINI,Cooper,Base,automatic,Georgia,73569.0,red,black,ashwini k bahl,6700.0
+2012,Lincoln,MKT,Base,automatic,Georgia,62512.0,white,beige,centerpoint auto exchange llc,22800.0
+2013,Nissan,Versa,1.6 S Plus,automatic,Georgia,41474.0,silver,beige,merchants automotive group,9400.0
+2009,Chevrolet,Equinox,LT,automatic,Georgia,61354.0,red,silver,innovative auto llc,9400.0
+2012,Nissan,Altima,2.5 S,automatic,Georgia,58216.0,silver,black,bmw alphera/alphera financial services,10000.0
+2006,BMW,X5,3.0i,automatic,Georgia,145865.0,gray,black,nalley acura,7000.0
+2003,Infiniti,G35,Base,automatic,Georgia,170685.0,gray,green,peoples credit company inc,3000.0
+2008,Hyundai,Santa Fe,Limited,automatic,Georgia,76903.0,—,beige,remarketing by ge/summit financial corp,10400.0
+2012,Toyota,Camry,L,automatic,Georgia,25536.0,blue,gray,world omni financial corporation,13700.0
+2011,BMW,X3,xDrive28i,automatic,Georgia,49004.0,blue,tan,best buy auto brokers inc,23800.0
+2014,Toyota,Corolla,LE,automatic,Georgia,26755.0,green,gray,hertz/tra,5400.0
+2003,Toyota,Highlander,Base,automatic,Georgia,175389.0,beige,tan,nalley lexus smyrna,9200.0
+2010,Honda,CR-V,LX,automatic,Georgia,135312.0,burgundy,gray,ahfc/honda lease trust/hvt  inc.,10900.0
+2014,Ford,Mustang,V6,automatic,Georgia,11912.0,black,black,enterprise vehicle exchange / tra / rental / tulsa,13800.0
+2004,Ford,F-150 Heritage,XL,automatic,Georgia,158446.0,white,gray,lease plan usa,1800.0
+2013,Ford,F-150,XLT,automatic,Georgia,45189.0,gray,gray,ars/enterprise,20600.0
+2012,Kia,Sorento,LX,automatic,Georgia,44770.0,burgundy,black,fifth third bank,15400.0
+2006,Honda,Odyssey,Touring,automatic,Georgia,140660.0,black,tan,momentum motorcars,8000.0
+2007,Saturn,Aura,XE,automatic,Georgia,82083.0,—,beige,carworks inc,5200.0
+2013,Mercedes-Benz,E-Class,E350 Sport,automatic,Georgia,59644.0,blue,black,the hertz corporation,22900.0
+2005,Chevrolet,Equinox,LT,automatic,Georgia,119353.0,silver,gray,santander consumer,3500.0
+2002,Ford,Taurus,SE,automatic,Georgia,141738.0,beige,tan,charitable adult rides services/car donating is,900.0
+2011,Hyundai,Elantra,GLS,UNKNOWN,Georgia,32887.0,gray,gray,hyundai motor finance,7200.0
+2001,Isuzu,Trooper,Limited,automatic,Georgia,201245.0,red,—,autonation volkswagen mall of georgia,1250.0
+2004,Ford,Focus,LX,automatic,Georgia,167191.0,gold,gray,charitable adult rides services/car donating is,500.0
+2013,Nissan,Altima,2.5,automatic,Georgia,13993.0,black,—,nissan-infiniti lt,14400.0
+2001,Acura,CL,3.2,automatic,Georgia,130210.0,black,black,nalley lexus roswell,2500.0
+2013,Chrysler,300,Base,automatic,Georgia,25645.0,blue,black,chrysler capital,17300.0
+2002,Nissan,Altima,2.5 SL,automatic,Georgia,255952.0,white,tan,asbury automotive group,1200.0
+2014,Ford,Edge,Limited,automatic,Georgia,27474.0,black,gray,ars/enterprise,24100.0
+2010,Kia,Optima,LX,automatic,Georgia,58157.0,black,tan,nationwide financial inc,7900.0
+2007,Lincoln,Navigator L,Luxury,automatic,Georgia,110003.0,white,gray,bill hancock motors,13100.0
+2014,Ford,F-150,FX4,automatic,Georgia,14536.0,white,black,ars/thrifty car rental/greer,36000.0
+2007,Toyota,Camry,SE V6,automatic,Georgia,112937.0,white,beige,innovative auto llc,7900.0
+2010,Chevrolet,Camaro,1LT,automatic,Georgia,81850.0,red,black,wells fargo dealer services,13200.0
+2014,Chevrolet,Cruze,LTZ,automatic,Georgia,36014.0,red,black,economy rent a car & sales inc,13500.0
+2005,Chevrolet,Silverado 2500HD,LS,automatic,Georgia,72716.0,white,gray,adventure rv & auto sales inc,15700.0
+2002,Infiniti,Q45,Base,automatic,Georgia,164154.0,beige,beige,nalley infiniti marietta,3500.0
+2007,Jeep,Wrangler,Unlimited Sahara,manual,Georgia,116974.0,black,gray,young motors llc,13400.0
+2014,Kia,Soul,+,automatic,Georgia,32932.0,brown,black,avis corporation,14000.0
+2011,Toyota,Camry,LE,automatic,Georgia,88186.0,silver,gray,toyota of union city,9500.0
+2004,MINI,Cooper,Base,manual,Georgia,155256.0,red,black,barnett finance company,3200.0
+2012,BMW,1 Series,128i,automatic,Georgia,41801.0,red,gray,financial services remarketing (lease),22400.0
+2012,Lexus,ES 350,Base,automatic,Georgia,14684.0,gray,tan,toyota motor sales usa inc/buyback/lexus,20200.0
+2007,Ford,Fusion,SE,automatic,Georgia,103816.0,blue,gray,wells fargo dealer services,3500.0
+2000,Toyota,Celica,GT-S,manual,Georgia,154793.0,blue,gray,nalley toyota of roswell,800.0
+2013,Toyota,Yaris,LE,automatic,Georgia,44762.0,black,—,car and truck rentals,9100.0
+2014,Kia,Forte,LX,automatic,Georgia,34298.0,red,gray,avis corporation,11800.0
+2001,GMC,Yukon,SLE,automatic,Georgia,251879.0,white,beige,crown nissan greenville,1700.0
+2009,Toyota,Corolla,LE,automatic,Georgia,75455.0,silver,gray,prestige financial services,7500.0
+2013,Ford,Focus,SE,automatic,Georgia,18248.0,black,black,ford motor credit company llc pd,11300.0
+2012,Nissan,Altima,2.5 S,UNKNOWN,Georgia,51702.0,blue,black,bmw alphera/alphera financial services,10800.0
+2013,Bentley,Continental GTC,V8,automatic,Georgia,13221.0,black,black,porsche fin svcs dba bentley financial services,134000.0
+2002,Pontiac,Grand Prix,GT,automatic,Georgia,165417.0,brown,tan,asbury automotive group,1300.0
+2006,Infiniti,QX56,Base,automatic,Georgia,146729.0,white,black,nalley infiniti decatur,8700.0
+2003,Jeep,Grand Cherokee,Laredo,automatic,Georgia,156913.0,silver,gray,sst financial,1000.0
+2014,Ford,F-150,XLT,automatic,Georgia,28423.0,blue,gray,ars/ford-lincoln dealer program,27000.0
+2013,Nissan,Altima,2.5,automatic,Georgia,27057.0,black,black,nissan-infiniti lt,14900.0
+2004,Ford,Mustang,Premium,automatic,Georgia,128055.0,red,black,nalley honda,3300.0
+2012,Chevrolet,Malibu,LS,automatic,Georgia,91794.0,brown,tan,leasing associates inc,9200.0
+2014,Cadillac,SRX,Luxury,automatic,Georgia,17989.0,gray,black,tdaf remarketing,26000.0
+2014,Dodge,Journey,SXT,automatic,Georgia,19913.0,black,black,easy car leasing llc dba brac of birmingham,16600.0
+2011,Ram,1500,SLT,automatic,Georgia,37324.0,white,gray,centerpoint auto exchange llc,12800.0
+2007,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Georgia,83862.0,blue,gray,chrysler capital,16900.0
+2013,Honda,Civic,LX,automatic,Georgia,32433.0,blue,beige,ahfc/honda lease trust/hvt  inc.,12200.0
+2011,Chevrolet,Impala,LT Fleet,automatic,Georgia,56269.0,gray,gray,tdaf remarketing,5900.0
+2012,Infiniti,M,M37,automatic,Georgia,54319.0,gray,black,nissan infiniti lt,23700.0
+2014,Kia,Forte,LX,automatic,Georgia,15175.0,silver,black,kia motors america  inc,10500.0
+2012,Mercedes-Benz,C-Class,C250 Sport,automatic,Georgia,50008.0,silver,—,carworks inc,20200.0
+2012,Volkswagen,Passat,SE,UNKNOWN,Georgia,21927.0,gray,black,vw credit  inc/pilot,12800.0
+2012,MINI,Cooper,Base,manual,Georgia,54757.0,orange,black,bmw mini financial services,10400.0
+2003,Ford,Focus,LX,automatic,Georgia,187350.0,blue,—,credit acceptance corp/vrs/southfield,700.0
+2013,Infiniti,G Sedan,G37x,automatic,Georgia,48839.0,gray,gray,the hertz corporation,20400.0
+2012,BMW,M3,Base,manual,Georgia,33629.0,—,brown,financial services remarketing (lease),37600.0
+2011,Acura,TL,Base,automatic,Georgia,54987.0,black,gray,ahfc/honda lease trust/hvt  inc acuras,17900.0
+2013,Volkswagen,Passat,SE PZEV,automatic,Georgia,62259.0,black,black,the hertz corporation,11500.0
+2009,Kia,Optima,LX,manual,Georgia,67065.0,red,beige,wells fargo dealer services,4500.0
+2007,Ford,Explorer,XLT,automatic,Georgia,102452.0,blue,tan,motormax automotive inc,6300.0
+2013,Mercedes-Benz,C-Class,C300 Sport 4MATIC,automatic,Georgia,44966.0,white,tan,global motor sports inc,22200.0
+2012,Nissan,Rogue,S,UNKNOWN,Georgia,32013.0,black,gray,nissan-infiniti lt,15000.0
+2012,Acura,MDX,Advance Package,automatic,Georgia,31373.0,black,tan,ahfc/honda lease/trust/hvt  inc. eot acuras,27500.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Georgia,118066.0,white,tan,carey paul honda,13000.0
+2014,Kia,Optima,SX,UNKNOWN,Georgia,1326.0,—,black,kia motors america  inc,20000.0
+2012,Infiniti,G Sedan,G37 Journey,automatic,Georgia,26351.0,gray,gray,nissan infiniti lt,22400.0
+2012,Ford,Escape,Limited,automatic,Georgia,28278.0,silver,black,ford motor credit company llc pd,14800.0
+2014,Kia,Forte,LX,UNKNOWN,Georgia,23014.0,black,black,kia motors america  inc,12100.0
+2004,Hyundai,Sonata,GLS,automatic,Georgia,163340.0,black,gray,families first inc,1600.0
+2010,Toyota,Corolla,LE,automatic,Georgia,122862.0,black,gray,champion auto exchange,6800.0
+2006,Ford,F-250 Super Duty,XL,automatic,Georgia,182615.0,blue,brown,ford-lincoln dealer program,15500.0
+2011,Hyundai,Sonata,SE,automatic,Georgia,98540.0,gray,gray,international credit inc,9300.0
+2012,Toyota,Corolla,L,automatic,Georgia,19013.0,blue,gray,world omni financial corporation,11700.0
+2001,Dodge,Dakota,Sport,automatic,Georgia,191887.0,white,gray,bellamy strickland chev gmc,2000.0
+2008,Jeep,Commander,Sport,automatic,Georgia,104214.0,blue,gray,lexus of greenville,7800.0
+2006,BMW,M6,Base,automatic,Georgia,75395.0,black,black,toyota of northwest arkansas,24600.0
+2004,Chevrolet,Monte Carlo,SS,automatic,Georgia,180240.0,black,black,wells fargo dealer services,3000.0
+2004,Infiniti,FX45,Base,automatic,Georgia,123534.0,black,black,cherokee chrysler dodge jeep,7000.0
+2012,Honda,Ridgeline,RTL,automatic,Georgia,49229.0,—,gray,carworks inc,24800.0
+2003,Nissan,Xterra,SE S/C,automatic,Georgia,183420.0,beige,black,nalley lexus roswell,2600.0
+2012,Honda,Accord,EX-L,automatic,Georgia,25932.0,gray,gray,ahfc/honda lease trust/hvt  inc. eot,14300.0
+2007,Lexus,LS 460,L,automatic,Georgia,81407.0,black,beige,mercedes benz of buckhead,23000.0
+2013,Ford,Edge,SE,automatic,Georgia,19759.0,black,black,ford motor credit company llc pd,16400.0
+2013,Ford,Fiesta,SE,manual,Georgia,8219.0,purple,black,jim ellis,8300.0
+2012,Nissan,Versa,1.8 S,automatic,Georgia,51457.0,red,black,santander consumer,4500.0
+2002,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Georgia,185898.0,green,brown,hayes chrysler dodge jeep of gainesville inc,1800.0
+2012,Ford,Mustang,V6,automatic,Georgia,60869.0,silver,black,young motors llc,14300.0
+2008,Ford,Expedition,XLT,automatic,Georgia,157554.0,black,black,tdaf remarketing,8800.0
+2012,Ford,Fusion,SEL,UNKNOWN,Georgia,12721.0,white,beige,ford motor credit company llc pd,16000.0
+2010,Toyota,Avalon,Limited,automatic,Georgia,68066.0,black,black,motormax automotive inc,15000.0
+2000,Lincoln,LS,V8,automatic,Georgia,76533.0,beige,tan,ari,3550.0
+2014,Ford,Mustang,V6,automatic,Georgia,24177.0,black,black,ford motor credit company,23200.0
+2011,Toyota,Yaris,Base,automatic,Georgia,101681.0,red,black,gm financial,6100.0
+2013,Infiniti,FX,FX37,automatic,Georgia,17051.0,black,brown,nissan infiniti lt,33200.0
+2011,Mercedes-Benz,M-Class,ML350 4MATIC,UNKNOWN,Georgia,42011.0,white,gray,mercedes-benz financial services,24750.0
+2010,Ford,Escape,XLS,automatic,Georgia,74468.0,beige,gray,santander consumer,8900.0
+2014,Ford,Fusion,Titanium,automatic,Georgia,9912.0,—,black,ford motor credit company llc pd,24500.0
+2008,Ford,Taurus,SEL,automatic,Georgia,164699.0,burgundy,gray,santander consumer,2300.0
+2011,Honda,Civic,DX-VP,automatic,Georgia,16678.0,blue,gray,ahfc/honda lease trust/hvt  inc. eot,9300.0
+2012,Honda,Pilot,EX,automatic,Georgia,29199.0,gray,gray,ahfc/honda lease trust/hvt  inc. eot,20800.0
+2009,Hyundai,Genesis,3.8,automatic,Georgia,126458.0,white,beige,afg/roquemore and roquemore inc,8000.0
+2006,Hyundai,Azera,Limited,automatic,Georgia,112962.0,gray,beige,chase automotive,4500.0
+2015,Ford,F-250 Super Duty,XLT,automatic,Georgia,14438.0,white,gray,ars/enterprise,34200.0
+1997,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Georgia,193415.0,gold,beige,bellamy strickland chev olds pon,3300.0
+2013,Nissan,Sentra,SV,automatic,Georgia,50457.0,—,beige,nissan motor acceptance corporation,9700.0
+2008,Hyundai,Entourage,GLS,automatic,Georgia,79946.0,red,gray,nalley toyota of roswell,5000.0
+2008,Ford,Taurus,Limited,automatic,Georgia,115959.0,white,tan,automobile acceptance corp,5800.0
+2013,BMW,X1,xDrive35i,automatic,Georgia,31697.0,black,black,r m hollenshead auto sales inc,27200.0
+2014,Dodge,Durango,Limited,automatic,Georgia,23279.0,white,black,enterprise veh exchange/rental,27900.0
+2013,Mercedes-Benz,C-Class,C250 Sport,UNKNOWN,Georgia,13962.0,—,tan,mercedes-benz financial services,22250.0
+2012,Volkswagen,Passat,SE PZEV,automatic,Georgia,78215.0,blue,black,cameron motor sports,10700.0
+2005,Dodge,Ram Pickup 1500,SLT,automatic,Georgia,109340.0,gray,black,hayes chrysler dodge jeep inc,11700.0
+2012,Nissan,Rogue,S,automatic,Georgia,24913.0,black,black,nissan marshlling,12000.0
+2006,Chevrolet,Impala,LT,automatic,Georgia,68155.0,black,black,nalley bmw,4800.0
+2011,Toyota,Camry,LE,automatic,Georgia,120477.0,gray,beige,prestige financial services,7800.0
+2009,Nissan,Frontier,SE,manual,Georgia,88950.0,silver,silver,jpmorgan chase bank n.a.,8600.0
+2008,Ford,Edge,SEL,automatic,Georgia,76603.0,gray,beige,santander consumer,10700.0
+2003,GMC,Envoy,SLE,automatic,Georgia,170722.0,gold,gray,automobile acceptance corp,2200.0
+2010,Lincoln,Navigator,Base,automatic,Georgia,43957.0,white,tan,dublin cadillac nissan & gmc,23800.0
+2009,Audi,A4,2.0T Premium quattro,automatic,Georgia,112653.0,black,black,santander consumer,9200.0
+2005,Hyundai,Elantra,GT,manual,Georgia,102518.0,silver,gray,hennessy mazda buick gmc,2500.0
+2014,Ford,Fusion,SE,automatic,Georgia,33218.0,black,black,avis budget group,16600.0
+2012,BMW,5 Series,550i,automatic,Georgia,43155.0,black,beige,bmw north america,30200.0
+2012,Chevrolet,Express Cargo,2500,automatic,Georgia,85558.0,white,gray,ge fleet services for itself/servicer,13500.0
+1999,Mazda,Protege,LX,automatic,Georgia,98515.0,white,tan,charitable adult rides services/car donating is,1200.0
+2008,Ford,F-350 Super Duty,Lariat,automatic,Georgia,118460.0,black,gray,ford-lincoln dealer program,18500.0
+2012,Nissan,Rogue,S,automatic,Georgia,26251.0,red,gray,td auto finance,16500.0
+2007,HUMMER,H2 SUT,Base,automatic,Georgia,125546.0,turquoise,black,momentum motorcars,23400.0
+2009,Honda,Ridgeline,RTL,automatic,Georgia,91884.0,white,tan,cherokee chrysler dodge jeep,16000.0
+2010,Honda,Accord,EX-L V-6,automatic,Georgia,90501.0,burgundy,beige,capital one auto finance,11000.0
+2010,Chevrolet,Camaro,2SS,manual,Georgia,30505.0,blue,gray,carl black chevrolet buick gmc,23000.0
+2012,Audi,A4,2.0T Premium quattro,automatic,Georgia,28423.0,black,black,ge fleet services for itself/servicer,21100.0
+2012,Acura,TL,Advance Package,automatic,Georgia,62056.0,gray,black,jpmorgan chase bank n.a.,17500.0
+2007,Chevrolet,Impala,LS,automatic,Georgia,170104.0,blue,beige,wells fargo dealer services,2100.0
+1998,Lincoln,Navigator,Base,automatic,Georgia,206685.0,black,beige,five star chevrolet cadillac,950.0
+2011,Infiniti,G Sedan,G37x,automatic,Georgia,27548.0,black,black,nissan infiniti lt,19800.0
+2012,Honda,Accord,LX,automatic,Georgia,30699.0,silver,black,ahfc/honda lease trust/hvt  inc. eot,12600.0
+2005,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Georgia,167746.0,black,gray,capital one auto finance,500.0
+2008,Toyota,Sienna,XLE 7-Passenger,automatic,Georgia,95008.0,white,gray,nalley toyota of roswell,12100.0
+2010,Dodge,Caliber,SXT Fleet,automatic,Georgia,104831.0,black,gray,barattini quality cars & trucks inc,5500.0
+2004,GMC,Sierra 1500,Base,automatic,Georgia,1.0,gold,beige,automobile acceptance corp,650.0
+2012,BMW,3 Series,335i,automatic,Georgia,48396.0,blue,brown,financial services remarketing (lease),26200.0
+2012,Toyota,Corolla,S,automatic,Georgia,11835.0,silver,black,world omni financial corporation,14000.0
+2009,Chevrolet,Impala,LT,automatic,Georgia,117507.0,gray,gray,jim ellis,4600.0
+2003,BMW,3 Series,325i,automatic,Georgia,128990.0,blue,gray,nalley toyota of roswell,5000.0
+2007,Suzuki,Grand Vitara,Luxury,automatic,Georgia,50055.0,gray,black,autonation nissan marietta,5100.0
+2008,Chevrolet,Silverado 1500,Work Truck,automatic,Georgia,111217.0,white,black,td auto finance,13400.0
+2012,Honda,Odyssey,EX,automatic,Georgia,48767.0,silver,gray,ahfc/honda lease trust/hvt  inc. eot,18000.0
+2003,Dodge,Ram Pickup 1500,SLT,automatic,Georgia,142861.0,blue,—,remarketing by ge/nextgear capital,5000.0
+2003,Honda,Accord,EX V-6,automatic,Georgia,194902.0,silver,black,nextgear capital,2800.0
+2010,BMW,3 Series,328i,manual,Georgia,94020.0,black,beige,asbury automotive group,15800.0
+2011,Honda,Pilot,EX-L,automatic,Georgia,89485.0,blue,gray,ride rite automobiles llc,16800.0
+2010,Infiniti,QX56,Base,automatic,Georgia,86297.0,black,black,diamond lt,21000.0
+2013,Nissan,Altima,3.5 SL,automatic,Georgia,28993.0,black,black,nissan motor acceptance corporation,15400.0
+2007,Chevrolet,Impala,LT,automatic,Georgia,152342.0,gold,beige,automobile acceptance corp,3000.0
+2012,Nissan,Maxima,3.5 SV,automatic,Georgia,35126.0,black,black,nissan-infiniti lt,19000.0
+2012,Ford,Edge,SEL,automatic,Georgia,22914.0,white,gray,ford motor credit company llc pd,18000.0
+2011,Ford,Fusion,SE,automatic,Georgia,56245.0,gray,gray,capital one auto finance,9900.0
+2011,Dodge,Charger,Base,automatic,Georgia,59485.0,white,black,capital one auto finance,9700.0
+2004,Dodge,Ram Pickup 1500,SLT,automatic,Georgia,94682.0,red,gray,myrddin fleet services,7300.0
+2013,Chevrolet,Impala,LT Fleet,automatic,Georgia,40837.0,silver,gray,enterprise vehicle exchange / tra / rental / tulsa,11000.0
+2011,GMC,Sierra 1500,SL,automatic,Georgia,67070.0,red,black,cameron motor sports,14800.0
+2012,Dodge,Durango,SXT,automatic,Georgia,44735.0,black,gray,young motors llc,19900.0
+2011,Toyota,RAV4,Limited,automatic,Georgia,43414.0,silver,gray,toyota financial services,17700.0
+2012,Toyota,Corolla,L,automatic,Georgia,13425.0,white,gray,world omni financial corporation,11900.0
+2014,Ford,Fusion,SE,automatic,Georgia,43621.0,brown,black,ars/avis budget group,13700.0
+2008,Mercedes-Benz,CLS-Class,CLS550,automatic,Georgia,92967.0,silver,black,cameron motor sports,17900.0
+2012,Ford,Fiesta,SES,automatic,Georgia,54068.0,—,black,ford-lincoln dealer program,7700.0
+2010,Acura,TSX,Base,automatic,Georgia,24273.0,black,tan,teamone toyota of gadsden,16300.0
+2000,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Georgia,209414.0,silver,gray,gwinnett place honda,1400.0
+2009,Lincoln,MKX,Base,automatic,Georgia,126816.0,silver,black,cameron motor sports,9000.0
+2013,Nissan,Rogue,S,automatic,Georgia,41595.0,white,black,capital one auto finance,14200.0
+2002,Chrysler,Town and Country,Limited,automatic,Georgia,164358.0,silver,gray,car venue llc,2200.0
+2012,Hyundai,Sonata,GLS,manual,Georgia,43750.0,red,beige,hyundai motor finance,10100.0
+2008,GMC,Acadia,SLT-1,automatic,Georgia,90151.0,gold,gray,davis automotive,13000.0
+2012,Nissan,Murano,SL,automatic,Georgia,21691.0,white,beige,nissan-infiniti lt,22700.0
+2003,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Georgia,54451.0,green,beige,innovative auto llc,9300.0
+2014,Chevrolet,Tahoe,LS,automatic,Georgia,13404.0,black,black,carworks inc,28800.0
+1999,BMW,3 Series,328i,automatic,Georgia,149105.0,blue,tan,asbury automotive group,2100.0
+2001,Acura,MDX,Base,automatic,Georgia,194654.0,black,tan,nalley toyota of roswell,3100.0
+2013,Toyota,Camry,SE,automatic,Georgia,25020.0,black,gray,world omni financial corporation,15800.0
+2013,Lexus,ES 350,Base,automatic,Georgia,25609.0,black,beige,lexus financial services,28100.0
+2015,Ford,Taurus,Limited,automatic,Georgia,23979.0,white,beige,ars/budget rac of atlanta,22600.0
+2006,Mercedes-Benz,CLS-Class,CLS500,automatic,Georgia,38615.0,silver,black,mercedes benz of buckhead,22000.0
+2004,Mercury,Mountaineer,Premier,automatic,Georgia,59179.0,white,beige,meridian remarketing,5600.0
+2009,Honda,Accord,LX-P,automatic,Georgia,81731.0,blue,gray,jpmorgan chase bank n.a.,7400.0
+2005,Toyota,4Runner,SR5,automatic,Georgia,162534.0,silver,gray,innovative auto llc,5600.0
+2011,Audi,A4,2.0T Premium quattro,automatic,Georgia,53937.0,black,black,jack ingram motors inc,18800.0
+2010,Lexus,HS 250h,Base,automatic,Georgia,60123.0,white,gray,germain lexus,17400.0
+1999,Toyota,Camry,CE,automatic,Georgia,142836.0,red,gray,fiat of south atlanta,3200.0
+2011,Nissan,Sentra,2.0 SL,automatic,Georgia,64748.0,blue,gray,cameron motor sports,7500.0
+2008,Chevrolet,Equinox,LS,automatic,Georgia,116592.0,blue,gray,jpmorgan chase bank n.a.,3500.0
+2010,Ford,Taurus,SEL,automatic,Georgia,103350.0,burgundy,black,wells fargo dealer services,8200.0
+2007,Dodge,Caliber,SXT,automatic,Georgia,103455.0,white,gray,wells fargo dealer services,2700.0
+2011,Dodge,Grand Caravan,Express,automatic,Georgia,99398.0,white,tan,ge fleet services for itself/servicer,6700.0
+2006,Ford,F-150,Lariat,automatic,Georgia,117992.0,black,beige,innovative auto llc,9800.0
+2003,Infiniti,I35,Base,automatic,Georgia,172413.0,silver,black,auto funding group,1600.0
+2012,Hyundai,Accent,SE,UNKNOWN,Georgia,43955.0,black,gray,young motors llc,9300.0
+2014,Chevrolet,Camaro,LS,manual,Georgia,41610.0,black,black,carworks inc,16800.0
+2012,MINI,Cooper Roadster,S,manual,Georgia,20042.0,white,black,bmw mini financial services,18000.0
+2011,Toyota,Camry,LE,automatic,Georgia,82190.0,gold,gray,capital one auto finance,10300.0
+2007,Dodge,Charger,Base,automatic,Georgia,162171.0,silver,black,navigator credit union,3700.0
+2011,Nissan,Murano,SL,automatic,Georgia,48613.0,gray,tan,innovative auto llc,17800.0
+2003,Chevrolet,Astro,Base,automatic,Georgia,175349.0,white,gray,nalley toyota stonecrest,2600.0
+2013,Kia,Sportage,Base,automatic,Georgia,23363.0,gray,black,santander consumer,12200.0
+2012,Toyota,Camry,SE,automatic,Georgia,51121.0,silver,black,bmw alphera/alphera financial services,13200.0
+2014,Nissan,Versa,1.6 SV,manual,Georgia,27345.0,black,black,santander consumer,8800.0
+2014,Chrysler,Town and Country,Touring,automatic,Georgia,57335.0,beige,black,the hertz corporation,15200.0
+2010,Volkswagen,Routan,SE,automatic,Georgia,55601.0,blue,gray,jim ellis,9600.0
+2010,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Georgia,106295.0,white,gray,lease plan usa,11400.0
+2011,Chevrolet,Equinox,LTZ,automatic,Georgia,49575.0,beige,brown,gm financial,16700.0
+2005,Chevrolet,Avalanche,1500 LS,automatic,Georgia,117186.0,silver,gray,apex automotive llc,9150.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,manual,Georgia,58415.0,gray,brown,innovative auto llc,31800.0
+2004,Honda,Accord,LX,automatic,Georgia,67162.0,green,—,tdaf remarketing,5400.0
+2008,Toyota,Camry,SE,automatic,Georgia,126847.0,gray,black,cameron motor sports,6900.0
+2008,Ford,Fusion,SE,automatic,Georgia,120315.0,beige,beige,southern auto finance co/ft. lauderdale,3000.0
+2007,Mitsubishi,Galant,GTS V6,automatic,Georgia,120869.0,white,beige,credit acceptance corp/vrs/southfield,3900.0
+2014,Nissan,Altima,2.5 S,automatic,Georgia,41403.0,black,black,avis corporation,14000.0
+2012,Ford,Fiesta,SES,automatic,Georgia,50737.0,red,black,ford motor credit company llc pd,8000.0
+2015,Kia,Optima,LX,automatic,Georgia,15075.0,blue,gray,kia motors america  inc,16000.0
+2014,Ford,Fusion,SE,automatic,Georgia,17311.0,gray,black,avis budget group,17700.0
+2013,Lexus,IS 250 C,Base,UNKNOWN,Georgia,20176.0,gray,brown,toyota motor sales usa inc/buyback/lexus,28100.0
+2013,Hyundai,Elantra,GLS,automatic,Georgia,27378.0,silver,gray,hyundai motor finance,12400.0
+2010,Dodge,Caliber,SXT Fleet,automatic,Georgia,60528.0,white,gray,wells fargo dealer services,5200.0
+2007,Cadillac,Escalade,Base,automatic,Georgia,83004.0,black,black,tdaf remarketing,14800.0
+2010,Honda,Accord Crosstour,EX-L,automatic,Georgia,135324.0,black,black,remktgedge / cars / carfinance capital llc,9900.0
+2011,Toyota,Corolla,LE,automatic,Georgia,83492.0,black,gray,cameron motor sports,7900.0
+2010,MINI,Cooper Clubman,Base,automatic,Georgia,103639.0,red,black,cameron motor sports,8400.0
+2002,Chevrolet,TrailBlazer,LTZ,automatic,Georgia,136660.0,white,gray,us auto sales inc,3700.0
+2009,Mazda,CX-9,Sport,automatic,Georgia,91496.0,burgundy,tan,carworks inc,10600.0
+2009,Ford,Expedition,XLT,automatic,Georgia,107469.0,black,gray,bill hancock motors,11400.0
+2006,Toyota,Camry Solara,SE,automatic,Georgia,174947.0,white,gray,gwinnett place honda,3700.0
+2013,Hyundai,Elantra,GLS,automatic,Georgia,14633.0,silver,black,hyundai motor finance,13600.0
+2008,BMW,3 Series,335i,automatic,Georgia,66191.0,gray,brown,hendrick honda easley,12600.0
+2006,Toyota,Sequoia,Limited,automatic,Georgia,162765.0,black,tan,nica auto broker,6100.0
+2013,BMW,M6,Base,automatic,Georgia,11168.0,blue,white,bank of america,69000.0
+2011,GMC,Terrain,SLE-1,automatic,Georgia,84681.0,black,black,munter motor cars,11900.0
+2014,Chrysler,Town and Country,Touring,automatic,Georgia,34515.0,gray,black,young motors llc,16700.0
+2013,Toyota,Corolla,LE,automatic,Georgia,40889.0,gray,gray,toyota financial services/enterprise,11900.0
+2014,Kia,Sedona,LX,UNKNOWN,Georgia,32153.0,white,gray,kia motors america  inc,14600.0
+2014,Dodge,Charger,R/T,automatic,Georgia,19808.0,orange,black,easy car leasing llc dba brac of birmingham,23100.0
+2013,Dodge,Avenger,SE,UNKNOWN,Georgia,39696.0,UNKNOWN,UNKNOWN,dt credit corporation,2400.0
+2013,Dodge,Dart,SE,manual,Georgia,25252.0,blue,gray,innovative auto llc,10900.0
+2013,Chevrolet,Sonic,LT,automatic,Georgia,52954.0,white,white,avis corporation,8700.0
+2010,Mercury,Mariner,Premier,automatic,Georgia,109465.0,gray,black,santander consumer,7000.0
+2011,Volkswagen,Jetta,SE PZEV,automatic,Georgia,25024.0,black,gray,budget rac of atlanta,9400.0
+2014,Ford,Fusion,SE,automatic,Georgia,33536.0,white,beige,avis budget group,13200.0
+2007,Ford,Edge,SEL Plus,automatic,Georgia,206261.0,gray,black,bellamy strickland chev olds pon,6500.0
+2004,Acura,TSX,Base,manual,Georgia,149335.0,gray,gray,roswell auto brokers inc,5700.0
+2012,Honda,Accord,SE,automatic,Georgia,34235.0,black,black,ahfc/honda lease trust/hvt  inc. eot,13700.0
+2011,Volkswagen,Eos,Lux SULEV,automatic,Georgia,25267.0,black,red,lexus of greenville,18400.0
+2012,Nissan,Altima,2.5,automatic,Georgia,59965.0,black,black,nissan-infiniti lt,12600.0
+2014,Ford,F-150,Lariat,automatic,Georgia,13198.0,black,tan,ars/thrifty car rental/greer,34600.0
+2013,Chevrolet,Cruze,1LT,automatic,Georgia,53243.0,white,black,the hertz corporation,9700.0
+2014,Ford,Fusion,SE,automatic,Georgia,38121.0,gray,black,ars/avis budget group,14200.0
+2006,BMW,X5,3.0i,automatic,Georgia,161476.0,silver,gray,wells fargo dealer services,4500.0
+2009,Buick,Enclave,CXL,automatic,Georgia,88334.0,red,tan,jim ellis,12300.0
+2006,UNKNOWN,UNKNOWN,UNKNOWN,automatic,Georgia,99266.0,black,black,carworks inc,15700.0
+2011,BMW,3 Series,328i,automatic,Georgia,41010.0,black,tan,bmw of columbus,19200.0
+2006,Mercedes-Benz,CLS-Class,CLS500,automatic,Georgia,119685.0,white,burgundy,carworks inc,11700.0
+2012,Toyota,Camry,SE,automatic,Georgia,44004.0,red,black,lagrange toyota inc,17000.0
+2009,Dodge,Challenger,SRT8,automatic,Georgia,69653.0,red,black,santander consumer,19600.0
+2010,Mazda,Mazda6,i Sport,automatic,Georgia,54930.0,white,black,santander consumer,9000.0
+2014,Chevrolet,Cruze,2LT,automatic,Georgia,38764.0,red,black,avis corporation,12800.0
+2014,Kia,Rio,LX,automatic,Georgia,23664.0,black,tan,kia motors finance,9900.0
+2015,Ford,Fiesta,SE,automatic,Georgia,16838.0,red,black,avis budget group,11300.0
+2013,Nissan,Sentra,SL,automatic,Georgia,37888.0,purple,black,nissan motor acceptance corporation,11500.0
+2012,Scion,tC,Base,automatic,Georgia,81872.0,white,black,world omni financial corporation,8200.0
+2007,Chevrolet,TrailBlazer,LS,automatic,Georgia,135809.0,white,gray,wells fargo dealer services,3600.0
+2015,Ford,F-250 Super Duty,XLT,automatic,Georgia,10311.0,white,gray,young motors llc,38700.0
+2007,Nissan,Quest,3.5 S,automatic,Georgia,122645.0,black,beige,onpoint financial corp,2800.0
+2009,Honda,Accord,EX,automatic,Georgia,96136.0,silver,black,capital one auto finance,9000.0
+2011,Jeep,Grand Cherokee,Laredo,automatic,Georgia,88060.0,white,black,chrysler / dodge / jeep / ram of gadsden,15700.0
+2005,Chevrolet,TrailBlazer,LS,automatic,Georgia,120900.0,gray,gray,tag financial services inc,1800.0
+2009,Dodge,Journey,R/T,automatic,Georgia,107867.0,gray,black,onemain rem/garcia trucks auto sales inc,7900.0
+2014,Ford,E-Series Van,E-150,UNKNOWN,Georgia,5043.0,white,gray,ge fleet services for itself/servicer,21200.0
+2008,Ford,Focus,SES,automatic,Georgia,171002.0,silver,black,wells fargo dealer services,2200.0
+2014,Dodge,Charger,SE,automatic,Georgia,10868.0,black,gray,chrysler capital,17800.0
+2012,Ford,Fusion,SE,automatic,Georgia,81293.0,silver,black,t. james motorsports llc,9200.0
+2012,Jeep,Liberty,Sport,automatic,Georgia,83417.0,red,black,ge fleet services for itself/servicer,11100.0
+2006,Chevrolet,Colorado,LT,automatic,Georgia,104350.0,gray,gray,santander consumer,5800.0
+2011,Honda,Accord,EX-L,automatic,Georgia,21722.0,silver,gray,ahfc/honda lease trust/hvt  inc. eot,12700.0
+2009,Ford,Focus,SE,UNKNOWN,Georgia,87180.0,gray,gray,nationwide financial inc,6300.0
+2012,Ford,Mustang,V6,automatic,Georgia,61417.0,blue,black,wells fargo dealer services,13100.0
+2007,Dodge,Nitro,SLT,automatic,Georgia,155391.0,silver,—,wells fargo dealer services,4000.0
+2004,lexus,gx,470,automatic,Georgia,144650.0,beige,beige,r m hollenshead auto sales inc,10100.0
+2005,Ford,Mustang,GT Deluxe,automatic,Georgia,86628.0,blue,black,cameron motor sports,9300.0
+2008,Ford,Taurus X,SEL,automatic,Georgia,104892.0,black,tan,onpoint financial corp,4300.0
+2013,Kia,Rio,EX,automatic,Georgia,17518.0,silver,black,kia motors finance,11000.0
+2013,Ford,F-250 Super Duty,XLT,UNKNOWN,Georgia,33373.0,white,gray,wells fargo dealer services,34000.0
+2012,Nissan,Altima,2.5 S,automatic,Georgia,72751.0,silver,gray,santander consumer,10000.0
+2013,Honda,Civic,EX,automatic,Georgia,28626.0,black,gray,ahfc/honda lease trust/hvt  inc.,14100.0
+2008,Kia,Sorento,LX,automatic,Georgia,76738.0,gray,gray,nissan motor acceptance corporation,7600.0
+2011,Chevrolet,Silverado 1500,Work Truck,automatic,Georgia,35448.0,black,black,gm financial,15900.0
+2011,Honda,Accord,LX-P,automatic,Georgia,52255.0,red,beige,santander consumer,12100.0
+2014,Toyota,Tundra,SR5,automatic,Georgia,14304.0,silver,black,world omni financial corporation,31000.0
+2012,Honda,Accord,LX,automatic,Georgia,53292.0,white,tan,ahfc/honda lease trust/hvt  inc.,12500.0
+2013,Ford,Focus,SE,automatic,Georgia,97702.0,white,gray,enterprise veh exchange/rental,8100.0
+2013,Nissan,Pathfinder,Platinum,automatic,Georgia,20322.0,silver,black,tdaf remarketing,27400.0
+2008,Honda,CR-V,EX,automatic,Georgia,99983.0,blue,gray,nalley bmw,9000.0
+2010,Ford,Mustang,V6,automatic,Georgia,124205.0,red,gray,ford motor credit company llc,5600.0
+2004,Mercedes-Benz,C-Class,C230,automatic,Georgia,184121.0,silver,black,terry cullen southlake chev inc,4100.0
+2010,Chevrolet,Equinox,LT2,automatic,Georgia,162405.0,beige,black,lease plan usa,7100.0
+2013,Dodge,Charger,R/T,automatic,Georgia,15379.0,blue,black,nissan of albertville,23500.0
+2014,Ford,F-150,FX4,automatic,Georgia,18966.0,white,black,ars/thrifty car rental/greer,35000.0
+2014,Ford,Focus,SE,automatic,Georgia,40335.0,gray,black,ars/avis budget group,11500.0
+2010,Toyota,Camry,LE,automatic,Georgia,103962.0,beige,gray,prestige financial services,8500.0
+2007,Nissan,Altima,2.5 S,automatic,Georgia,154217.0,blue,black,gm financial,5000.0
+2007,Acura,RL,Base,automatic,Georgia,39974.0,silver,gray,sossa pre owned,15000.0
+2006,Ford,Econoline Cargo,E-250,automatic,Georgia,179024.0,white,gray,premier luxury motorsports llc,4600.0
+2012,Ford,Focus,SEL,automatic,Georgia,98534.0,red,gray,consolidated asset recovery systems  inc.,7300.0
+2011,Mazda,Mazda3,i Sport,manual,Georgia,94769.0,gray,black,carl black chevrolet buick gmc,6200.0
+2002,Ford,F-150,King Ranch,automatic,Georgia,209500.0,blue,brown,townsend used cars llc,5400.0
+2013,Infiniti,G Sedan,G37 Journey,automatic,Georgia,30486.0,gray,gray,nissan infiniti lt,19600.0
+2010,Chevrolet,Cobalt,LT,automatic,Georgia,55693.0,white,black,remarketing by ge/flagship credit acceptance,6300.0
+2012,Toyota,Prius,Three,automatic,Georgia,49879.0,black,tan,germain toyota of naples/germain scion of naples,13200.0
+2012,Mercedes-Benz,S-Class,S550,automatic,Georgia,47915.0,black,black,cameron motor sports,40000.0
+2013,Nissan,Altima,2.5,automatic,Georgia,13773.0,—,gray,nissan-infiniti lt,16000.0
+2014,Chevrolet,Camaro,LT,automatic,Georgia,25587.0,red,black,superior motors,19600.0
+2012,Porsche,Cayenne,Base,automatic,Georgia,21748.0,green,tan,pye auto sales,41000.0
+1996,Subaru,Legacy,Outback,manual,Georgia,243783.0,blue,gray,by the book auto brokers  inc.,700.0
+2012,Hyundai,Elantra,GLS,automatic,Georgia,24386.0,gray,gray,hyundai motor finance,11000.0
+2008,Chevrolet,Suburban,1500 LS,UNKNOWN,Georgia,140194.0,black,black,cameron motor sports,13800.0
+2013,Toyota,Camry,XLE,automatic,Georgia,31997.0,silver,gray,onesource/savannah toyota scion,19500.0
+2007,GMC,Yukon,SLE,automatic,Georgia,111158.0,blue,black,terry cullen southlake chev inc,14400.0
+2012,Chevrolet,Impala,LS,automatic,Georgia,82072.0,white,gray,ge fleet services for itself/servicer,8100.0
+2010,Jeep,Patriot,Sport,automatic,Georgia,44605.0,red,gray,tdaf remarketing,7700.0
+2014,Dodge,Avenger,SE,automatic,Georgia,37481.0,silver,black,chrysler capital,11000.0
