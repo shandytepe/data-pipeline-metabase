@@ -1,7 +1,7 @@
 # **Project End-to-End Data Pipeline Metabase**
 ---
 
-- Merupakan Repository yang digunakan untuk Thread Twitter Pacmann (soon...)
+- Merupakan Repository yang digunakan untuk [Thread Twitter Pacmann](https://twitter.com/pacmannai/status/1788465705664290902)
 - Tujuan dari repo ini adalah untuk menjadi bahan referensi membuat End-to-End Project Data Engineering
 - Teman - teman bisa mengganti data source dengan kebutuhan masing - masing. Bisa menggunakan data dalam bentuk JSON/API, CSV lain, atau bahkan dalam bentuk Database.
 - Pada case ini, kita akan menggunakan Data Sales Car yang terdiri dari 5 states: `["California", "Florida", "Georgia", "Pennsylvania", "Texas"]`
